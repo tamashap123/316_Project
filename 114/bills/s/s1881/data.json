@@ -1,0 +1,679 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-28", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "169", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2015-07-30", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "consideration CR S6161-6164, S6166-6180", 
+          "type": null
+        }
+      ], 
+      "text": "Motion to proceed to consideration of measure made in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-30", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "consideration CR S6161", 
+          "type": null
+        }, 
+        {
+          "reference": "CR S6161", 
+          "type": "text"
+        }
+      ], 
+      "text": "Cloture motion on the motion to proceed to the measure presented in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-08-03", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S6215-6228", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Motion to proceed to measure considered in Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-08-03", 
+      "action_code": "", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR S6227-6228", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S6227", 
+          "type": "text"
+        }
+      ], 
+      "result": "fail", 
+      "roll": "262", 
+      "status": "PROV_KILL:CLOTUREFAILED", 
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 262.", 
+      "type": "vote-aux", 
+      "vote_type": "cloture", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2015-08-03", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Motion by Senator McConnell to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 262) entered in Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2545-114", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2545"
+    }
+  ], 
+  "bill_id": "s1881-114", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001261", 
+      "district": null, 
+      "name": "Barrasso, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "WY", 
+      "thomas_id": "01881", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000575", 
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001236", 
+      "district": null, 
+      "name": "Boozman, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001135", 
+      "district": null, 
+      "name": "Burr, Richard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "NC", 
+      "thomas_id": "00153", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001075", 
+      "district": null, 
+      "name": "Cassidy, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "LA", 
+      "thomas_id": "01925", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000542", 
+      "district": null, 
+      "name": "Coats, Daniel", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "IN", 
+      "thomas_id": "00209", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000567", 
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001071", 
+      "district": null, 
+      "name": "Corker, Bob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "TN", 
+      "thomas_id": "01825", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001056", 
+      "district": null, 
+      "name": "Cornyn, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "TX", 
+      "thomas_id": "01692", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001095", 
+      "district": null, 
+      "name": "Cotton, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "AR", 
+      "thomas_id": "02098", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000880", 
+      "district": null, 
+      "name": "Crapo, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "ID", 
+      "thomas_id": "00250", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001098", 
+      "district": null, 
+      "name": "Cruz, Ted", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "TX", 
+      "thomas_id": "02175", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000618", 
+      "district": null, 
+      "name": "Daines, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "MT", 
+      "thomas_id": "02138", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000285", 
+      "district": null, 
+      "name": "Enzi, Michael B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000463", 
+      "district": null, 
+      "name": "Fischer, Deb", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "NE", 
+      "thomas_id": "02179", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000444", 
+      "district": null, 
+      "name": "Flake, Jeff", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-08-03", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000562", 
+      "district": null, 
+      "name": "Gardner, Cory", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "CO", 
+      "thomas_id": "01998", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000359", 
+      "district": null, 
+      "name": "Graham, Lindsey", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000338", 
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001061", 
+      "district": null, 
+      "name": "Hoeven, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "ND", 
+      "thomas_id": "02079", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000024", 
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "OK", 
+      "thomas_id": "00583", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000055", 
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000293", 
+      "district": null, 
+      "name": "Johnson, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "WI", 
+      "thomas_id": "02086", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000575", 
+      "district": null, 
+      "name": "Lankford, James", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "OK", 
+      "thomas_id": "02050", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000577", 
+      "district": null, 
+      "name": "Lee, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "UT", 
+      "thomas_id": "02080", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000303", 
+      "district": null, 
+      "name": "McCain, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "AZ", 
+      "thomas_id": "00754", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000355", 
+      "district": null, 
+      "name": "McConnell, Mitch", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "KY", 
+      "thomas_id": "01395", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000934", 
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000603", 
+      "district": null, 
+      "name": "Paul, Rand", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "KY", 
+      "thomas_id": "02082", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000612", 
+      "district": null, 
+      "name": "Perdue, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "GA", 
+      "thomas_id": "02286", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000449", 
+      "district": null, 
+      "name": "Portman, Rob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000584", 
+      "district": null, 
+      "name": "Risch, James E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "ID", 
+      "thomas_id": "01896", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000307", 
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "KS", 
+      "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000605", 
+      "district": null, 
+      "name": "Rounds, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "SD", 
+      "thomas_id": "02288", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000595", 
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001197", 
+      "district": null, 
+      "name": "Sasse, Ben", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "NE", 
+      "thomas_id": "02289", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001184", 
+      "district": null, 
+      "name": "Scott, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "SC", 
+      "thomas_id": "02056", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001141", 
+      "district": null, 
+      "name": "Sessions, Jeff", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "AL", 
+      "thomas_id": "01548", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000320", 
+      "district": null, 
+      "name": "Shelby, Richard C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "AL", 
+      "thomas_id": "01049", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001198", 
+      "district": null, 
+      "name": "Sullivan, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "AK", 
+      "thomas_id": "02290", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000250", 
+      "district": null, 
+      "name": "Thune, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "SD", 
+      "thomas_id": "01534", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000476", 
+      "district": null, 
+      "name": "Tillis, Thom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "NC", 
+      "thomas_id": "02291", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000461", 
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-30", 
+      "state": "PA", 
+      "thomas_id": "02085", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000127", 
+      "district": null, 
+      "name": "Vitter, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "LA", 
+      "thomas_id": "01609", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000437", 
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-07-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_cloture_result": "fail", 
+    "senate_cloture_result_at": "2015-08-03", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-28", 
+  "number": "1881", 
+  "official_title": "A bill to prohibit Federal funding of Planned Parenthood Federation of America.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1861-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3301-114", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "E000295", 
+    "district": null, 
+    "name": "Ernst, Joni", 
+    "state": "IA", 
+    "thomas_id": "02283", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PROV_KILL:CLOTUREFAILED", 
+  "status_at": "2015-08-03", 
+  "subjects": [
+    "Abortion", 
+    "Family planning and birth control", 
+    "Health", 
+    "Health facilities and institutions", 
+    "Health programs administration and funding", 
+    "Sex and reproductive health", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2015-07-28T04:00:00Z", 
+    "text": "This bill prohibits federal funding of Planned Parenthood Federation of America or its affiliates, subsidiaries, successors, or clinics."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prohibit Federal funding of Planned Parenthood Federation of America.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to prohibit Federal funding of Planned Parenthood Federation of America.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:30:50Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/s/BILLSTATUS-114s1881.xml"
+}

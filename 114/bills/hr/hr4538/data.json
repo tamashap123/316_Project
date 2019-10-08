@@ -1,0 +1,385 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 0.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-07-05", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-659.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "510", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 510.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-07-05T19:57:10-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Garrett moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05T19:57:13-04:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H4248-4251", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05T19:57:16-04:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4538.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05T20:11:36-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H4249", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-07-05T20:11:39-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4538-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001292", 
+      "district": "8", 
+      "name": "Beyer, Donald S., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-13", 
+      "state": "VA", 
+      "thomas_id": "02272", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001107", 
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-10", 
+      "state": "FL", 
+      "thomas_id": "02235", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001059", 
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-13", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000210", 
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-22", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001197", 
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-22", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001182", 
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-11", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001191", 
+      "district": "18", 
+      "name": "Murphy, Patrick", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-11", 
+      "state": "FL", 
+      "thomas_id": "02117", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000588", 
+      "district": "2", 
+      "name": "Pearce, Stevan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "NM", 
+      "thomas_id": "01738", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000597", 
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-23", 
+      "state": "ME", 
+      "thomas_id": "01927", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000611", 
+      "district": "2", 
+      "name": "Poliquin, Bruce", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-11", 
+      "state": "ME", 
+      "thomas_id": "02247", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000599", 
+      "district": "8", 
+      "name": "Posey, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-15", 
+      "state": "FL", 
+      "thomas_id": "01915", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000586", 
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-28", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000812", 
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-14", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000797", 
+      "district": "23", 
+      "name": "Wasserman Schultz, Debbie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-05", 
+      "state": "FL", 
+      "thomas_id": "01777", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000066", 
+      "district": "3", 
+      "name": "Young, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-28", 
+      "state": "IA", 
+      "thomas_id": "02242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-06-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-07-05T20:11:36-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-11", 
+  "number": "4538", 
+  "official_title": "To provide immunity from suit for certain individuals who disclose potential examples of financial exploitation of senior citizens, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2216-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Senior$afe Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "S001191", 
+    "district": "9", 
+    "name": "Sinema, Kyrsten", 
+    "state": "AZ", 
+    "thomas_id": "02099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-07-05T20:11:36-04:00", 
+  "subjects": [
+    "Aging", 
+    "Banking and financial institutions regulation", 
+    "Civil actions and liability", 
+    "Employment discrimination and employee rights", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Fraud offenses and financial crimes"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-02-11T05:00:00Z", 
+    "text": "Senior$afe Act of 2016\n\nThis bill provides that: (1) a supervisor, compliance officer, or legal advisor for a covered financial institution who has received training regarding the identification and reporting of the suspected exploitation of a senior citizen (at least 65 years old) shall not be liable for disclosing such exploitation to a covered agency if such individual made the disclosure in good faith and with reasonable care; and (2) a covered financial institution shall not be liable for such a disclosure by such an individual if such individual was employed by the institution at the time of the disclosure and the institution had provided such training.\n\nA \"covered financial institution\" means a bank, a credit union, an investment adviser, or a broker-dealer. A \"covered agency\" means each of the federal financial institutions regulatory agencies or a state financial regulatory agency, law enforcement agency, or adult protective services agency.\n\nA covered financial institution may provide such training to each of its supervisors, compliance officers, or legal advisors who: (1) may come into contact with a senior citizen as a regular part of such employee's duties; or (2) may review or approve the financial documents, records, or transactions of a senior citizen in connection with providing him or her financial services."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Senior$afe Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide immunity from suit for certain individuals who disclose potential examples of financial exploitation of senior citizens, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Senior$afe Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:28:46Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr4538.xml"
+}

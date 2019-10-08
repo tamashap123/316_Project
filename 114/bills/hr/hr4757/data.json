@@ -1,0 +1,142 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-11", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-13", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-11", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4757-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-16", 
+  "number": "4757", 
+  "official_title": "To amend title 38, United States Code, to expand the eligibility for headstones, markers, and medallions furnished by the Secretary of Veterans Affairs for deceased individuals who were awarded the Medal of Honor and are buried in private cemeteries.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M001144", 
+    "district": "1", 
+    "name": "Miller, Jeff", 
+    "state": "FL", 
+    "thomas_id": "01685", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-16", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Cemeteries and funerals", 
+    "Monuments and memorials", 
+    "Veterans' organizations and recognition"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-03-16T04:00:00Z", 
+    "text": "This bill directs the Department of Veterans Affairs (VA) to furnish at a private cemetery, and upon request, a headstone, marker, or medallion that signifies the status of an eligible veteran who served in the Armed Forces on or after April 6, 1917, as a Medal of Honor recipient.\n\nIf the VA furnished a headstone, marker, or medallion for a deceased veteran that does not signify his or her status as a Medal of Honor recipient, the VA shall upon request replace that headstone, marker, or medallion with one that signifies the deceased's status as a Medal of Honor recipient."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to expand the eligibility for headstones, markers, and medallions furnished by the Secretary of Veterans Affairs for deceased individuals who were awarded the Medal of Honor and are buried in private cemeteries.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to expand the eligibility for headstones, markers, and medallions furnished by the Secretary of Veterans Affairs for deceased individuals who were awarded the Medal of Honor and are buried in private cemeteries.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:28:51Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr4757.xml"
+}

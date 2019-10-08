@@ -1,0 +1,526 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-10", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-10", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2912-114", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001261", 
+      "district": null, 
+      "name": "Barrasso, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-09", 
+      "state": "WY", 
+      "thomas_id": "01881", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000575", 
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001236", 
+      "district": null, 
+      "name": "Boozman, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001047", 
+      "district": null, 
+      "name": "Capito, Shelley Moore", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000542", 
+      "district": null, 
+      "name": "Coats, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-09", 
+      "state": "IN", 
+      "thomas_id": "00209", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000567", 
+      "district": null, 
+      "name": "Cochran, Thad", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "MS", 
+      "thomas_id": "00213", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001071", 
+      "district": null, 
+      "name": "Corker, Bob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "TN", 
+      "thomas_id": "01825", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001095", 
+      "district": null, 
+      "name": "Cotton, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "AR", 
+      "thomas_id": "02098", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000880", 
+      "district": null, 
+      "name": "Crapo, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "ID", 
+      "thomas_id": "00250", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001098", 
+      "district": null, 
+      "name": "Cruz, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-16", 
+      "state": "TX", 
+      "thomas_id": "02175", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000618", 
+      "district": null, 
+      "name": "Daines, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-13", 
+      "state": "MT", 
+      "thomas_id": "02138", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000285", 
+      "district": null, 
+      "name": "Enzi, Michael B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000444", 
+      "district": null, 
+      "name": "Flake, Jeff", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "AZ", 
+      "thomas_id": "01633", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000359", 
+      "district": null, 
+      "name": "Graham, Lindsey", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000386", 
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000338", 
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001041", 
+      "district": null, 
+      "name": "Heller, Dean", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "NV", 
+      "thomas_id": "01863", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001061", 
+      "district": null, 
+      "name": "Hoeven, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "ND", 
+      "thomas_id": "02079", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000024", 
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "OK", 
+      "thomas_id": "00583", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000055", 
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000575", 
+      "district": null, 
+      "name": "Lankford, James", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "OK", 
+      "thomas_id": "02050", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001183", 
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "WV", 
+      "thomas_id": "01983", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000303", 
+      "district": null, 
+      "name": "McCain, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "AZ", 
+      "thomas_id": "00754", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000355", 
+      "district": null, 
+      "name": "McConnell, Mitch", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "KY", 
+      "thomas_id": "01395", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000934", 
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001153", 
+      "district": null, 
+      "name": "Murkowski, Lisa", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "AK", 
+      "thomas_id": "01694", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000612", 
+      "district": null, 
+      "name": "Perdue, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "GA", 
+      "thomas_id": "02286", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000584", 
+      "district": null, 
+      "name": "Risch, James E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-23", 
+      "state": "ID", 
+      "thomas_id": "01896", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000307", 
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "KS", 
+      "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000605", 
+      "district": null, 
+      "name": "Rounds, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "SD", 
+      "thomas_id": "02288", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000595", 
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "FL", 
+      "thomas_id": "02084", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001141", 
+      "district": null, 
+      "name": "Sessions, Jeff", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "AL", 
+      "thomas_id": "01548", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000320", 
+      "district": null, 
+      "name": "Shelby, Richard C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "AL", 
+      "thomas_id": "01049", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001198", 
+      "district": null, 
+      "name": "Sullivan, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-14", 
+      "state": "AK", 
+      "thomas_id": "02290", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000476", 
+      "district": null, 
+      "name": "Tillis, Thom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "NC", 
+      "thomas_id": "02291", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000461", 
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-08", 
+      "state": "PA", 
+      "thomas_id": "02085", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000127", 
+      "district": null, 
+      "name": "Vitter, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-08", 
+      "state": "LA", 
+      "thomas_id": "01609", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000437", 
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-07", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-10", 
+  "number": "2912", 
+  "official_title": "A bill to authorize the use of unapproved medical products by patients diagnosed with a terminal illness in accordance with State law, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3012-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Trickett Wendler Right to Try Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "J000293", 
+    "district": null, 
+    "name": "Johnson, Ron", 
+    "state": "WI", 
+    "thomas_id": "02086", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-05-10", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Drug therapy", 
+    "Health", 
+    "Health technology, devices, supplies", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Prescription drugs", 
+    "Product safety and quality"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2016-05-10T04:00:00Z", 
+    "text": "Trickett Wendler Right to Try Act of 2016\n\nThis bill bars the federal government from prohibiting or restricting the production, manufacture, distribution, prescribing, or dispensing of an experimental drug, biological product, or device that is: (1) intended to treat a patient who has been diagnosed with a terminal illness; and (2) authorized by, and in accordance with, state law. The federal government may not restrict the possession or use of such a treatment by a patient certified by a physician as having exhausted all other treatment options.\n\nA producer, manufacturer, distributor, prescriber, dispenser, possessor, or user of such a treatment has no liability regarding the treatment.\n\nThe outcome of production, manufacture, distribution, prescribing, dispensing, possession, or use of such a treatment may not be used by a federal agency to adversely impact review or approval of the treatment.\n\nThe treatment must: (1) have successfully completed a phase 1 (initial, small scale) clinical trial; (2) remain under investigation in a clinical trial approved by the Food and Drug Administration (FDA); and (3) not be approved, licensed, or cleared for sale under the Federal Food, Drug, or Cosmetic Act or the Public Health Service Act.\n\nNot later than 30 days after enactment of this bill, and every 30 days thereafter until implementation is complete, the FDA must report on its progress in implementing a streamlined application process for compassionate use of experimental drugs and biological products."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Trickett Wendler Right to Try Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to authorize the use of unapproved medical products by patients diagnosed with a terminal illness in accordance with State law, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Trickett Wendler Right to Try Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-24T08:49:54Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/s/BILLSTATUS-114s2912.xml"
+}

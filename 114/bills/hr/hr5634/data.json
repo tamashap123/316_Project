@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-06", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "text": "The House Committee on Appropriations reported an original measure, H. Rept. 114-668, by Mr. Carter (TX).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "518", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 518.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5634-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-07-06", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-06", 
+  "number": "5634", 
+  "official_title": "Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2017, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3001-114", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Department of Homeland Security Appropriations Act, 2017", 
+  "sponsor": {
+    "bioguide_id": "C001051", 
+    "district": "31", 
+    "name": "Carter, John R.", 
+    "state": "TX", 
+    "thomas_id": "01752", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-07-06", 
+  "subjects": [
+    "Emergency management"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-07-06T04:00:00Z", 
+    "text": "Department of Homeland Security Appropriations Act, 2017 \n\nProvides FY2017 appropriations to the Department of Homeland Security (DHS).\n\nProvides appropriations for Departmental Management, Operations, Intelligence, and Oversight for:\n\n Departmental Management and Operations, Analysis and Operations, and the Office of Inspector General. Provides appropriations for Security, Enforcement, and Investigations for:\n\n U.S. Customs and Border Protection, U.S. Immigration and Customs Enforcement, the Transportation Security Administration, the U.S. Coast Guard, and the U.S. Secret Service. Provides appropriations for Protection, Preparedness, Response, and Recovery for the National Protection and Programs Directorate and the Federal Emergency Management Agency (FEMA).\n\nProvides appropriations for Research, Development, Training, and Services for:\n\n U.S. Citizenship and Immigration Services; the Federal Law Enforcement Training Center; Science and Technology; and the Chemical, Biological, Radiological, Nuclear, and Explosives Office. Sets forth permissible and prohibited uses for funds provided by this and other appropriations Acts. Rescinds specified amounts previously appropriated to DHS."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Appropriations Act, 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Appropriations Act, 2017", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2017, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Appropriations Act, 2017", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:29:20Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5634.xml"
+}

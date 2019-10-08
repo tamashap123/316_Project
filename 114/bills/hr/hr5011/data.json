@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-20", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-20", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-21", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5011-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000374", 
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-27", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001255", 
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-29", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-20", 
+  "number": "5011", 
+  "official_title": "To designate the Federal building and United States courthouse located at 300 Fannin Street in Shreveport, Louisiana, as the \"Tom Stagg Federal Building and United States Courthouse\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2754-114", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "F000456", 
+    "district": "4", 
+    "name": "Fleming, John", 
+    "state": "LA", 
+    "thomas_id": "01924", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-20", 
+  "subjects": [
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Judges", 
+    "Louisiana"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-04-20T04:00:00Z", 
+    "text": "This bill designates the federal building and U.S. courthouse located at 300 Fannin Street in Shreveport, Louisiana, as the \"Tom Stagg Federal Building and United States Courthouse.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the Federal building and United States courthouse located at 300 Fannin Street in Shreveport, Louisiana, as the \"Tom Stagg Federal Building and United States Courthouse\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To designate the Federal building and United States courthouse located at 300 Fannin Street in Shreveport, Louisiana, as the \"Tom Stagg Federal Building and United States Courthouse\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:29:00Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5011.xml"
+}

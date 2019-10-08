@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4845-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001269", 
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-03-23", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-23", 
+  "number": "4845", 
+  "official_title": "To amend the student loan forgiveness program in the Higher Education Act of 1965 to include a greater number of disabled veterans and to facilitate the automatic transfer to the Secretary of Education of information regarding veterans eligible for student loan forgiveness, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Disabled Veterans Student Loan Protection Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "M001185", 
+    "district": "18", 
+    "name": "Maloney, Sean Patrick", 
+    "state": "NY", 
+    "thomas_id": "02150", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-03-23", 
+  "subjects": [
+    "Disability and paralysis", 
+    "Education", 
+    "Government information and archives", 
+    "Higher education", 
+    "Student aid and college costs", 
+    "Student records", 
+    "Unemployment", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Disabled Veterans Student Loan Protection Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the student loan forgiveness program in the Higher Education Act of 1965 to include a greater number of disabled veterans and to facilitate the automatic transfer to the Secretary of Education of information regarding veterans eligible for student loan forgiveness, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Disabled Veterans Student Loan Protection Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:28:54Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr4845.xml"
+}

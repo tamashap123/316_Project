@@ -1,0 +1,239 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-10", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-10", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s689-114", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000368", 
+      "district": null, 
+      "name": "Ayotte, Kelly", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-29", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001236", 
+      "district": null, 
+      "name": "Boozman, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-07", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001047", 
+      "district": null, 
+      "name": "Capito, Shelley Moore", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-09", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001095", 
+      "district": null, 
+      "name": "Cotton, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-28", 
+      "state": "AR", 
+      "thomas_id": "02098", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000360", 
+      "district": null, 
+      "name": "Kirk, Mark Steven", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-06-23", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000367", 
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-03-10", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001183", 
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-04", 
+      "state": "WV", 
+      "thomas_id": "01983", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000934", 
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-06-02", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000449", 
+      "district": null, 
+      "name": "Portman, Rob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-27", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000605", 
+      "district": null, 
+      "name": "Rounds, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-04", 
+      "state": "SD", 
+      "thomas_id": "02288", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000127", 
+      "district": null, 
+      "name": "Vitter, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "LA", 
+      "thomas_id": "01609", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000437", 
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-22", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-10", 
+  "number": "689", 
+  "official_title": "A bill to provide protections for certain sports medicine professionals who provide certain medical services in a secondary State.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr921-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Sports Medicine Licensure Clarity Act", 
+  "sponsor": {
+    "bioguide_id": "T000250", 
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "thomas_id": "01534", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-10", 
+  "subjects": [
+    "Athletes", 
+    "Civil actions and liability", 
+    "Health", 
+    "Health care quality", 
+    "Health personnel", 
+    "Jurisdiction and venue", 
+    "Professional sports", 
+    "School athletics"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2015-03-10T04:00:00Z", 
+    "text": "Sports Medicine Licensure Clarity Act\n\nProvides that for purposes of medical professional liability insurance or civil and criminal malpractice liability determinations, a physician or athletic trainer (covered sports medicine professional) who is authorized to practice medicine in a state (primary state) and who provides medical services to an athlete or athletic team in a state where such professional is not authorized to practice (secondary state) shall be deemed to have provided such medical services in the primary state, provided that prior to providing the covered medical services such professional has disclosed the nature and extent of such services to the entity that provides such professional with medical professional liability insurance in the primary state."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sports Medicine Licensure Clarity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide protections for certain sports medicine professionals who provide certain medical services in a secondary State.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Sports Medicine Licensure Clarity Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:30:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/s/BILLSTATUS-114s689.xml"
+}

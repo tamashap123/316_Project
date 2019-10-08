@@ -1,0 +1,165 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-13", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5099-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "F000449", 
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "NE", 
+      "thomas_id": "01793", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001172", 
+      "district": "3", 
+      "name": "Smith, Adrian", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "NE", 
+      "thomas_id": "01860", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000799", 
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000066", 
+      "district": "3", 
+      "name": "Young, David", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "IA", 
+      "thomas_id": "02242", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-28", 
+  "number": "5099", 
+  "official_title": "To establish a pilot program on partnership agreements to construct new facilities for the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2958-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "A000373", 
+    "district": "2", 
+    "name": "Ashford, Brad", 
+    "state": "NE", 
+    "thomas_id": "02257", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-28", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Building construction", 
+    "Cemeteries and funerals", 
+    "Department of Veterans Affairs", 
+    "Government buildings, facilities, and property", 
+    "Health facilities and institutions", 
+    "Home and outpatient care", 
+    "Nebraska", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-04-28T04:00:00Z", 
+    "text": "This bill authorizes the Department of Veterans Affairs (VA) to carry out a program under which it may enter into up to five partnership arrangements with a non-federal entity to conduct one or more:\n\n \"super construction projects\" (those for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $100 million); \"major construction projects\" (those for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $10 million, but not including an acquisition by exchange); or major construction projects to construct a new cemetery or to develop additional gravesites or columbarium niches at an existing cemetery. The selected projects may be ones for which:\n\n Congress has appropriated partial funding or the VA has identified a need for the project by listing it on the Major Construction Strategic Capital Investment Planning priority list, and a non-federal entity has entered or is willing to enter into a formal agreement with the VA to independently finance and/or donate acceptable project funds at no additional government cost. One of the non-federal entity partnership agreements shall be a project to design, finance, and construct a new ambulatory care center in Omaha, Nebraska."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a pilot program on partnership agreements to construct new facilities for the Department of Veterans Affairs.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To establish a pilot program on partnership agreements to construct new facilities for the Department of Veterans Affairs.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-05T21:54:08Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5099.xml"
+}
