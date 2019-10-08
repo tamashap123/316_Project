@@ -1,0 +1,607 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5094-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000374", 
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001257", 
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001296", 
+      "district": "13", 
+      "name": "Boyle, Brendan F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "PA", 
+      "thomas_id": "02267", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001248", 
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001090", 
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-25", 
+      "state": "PA", 
+      "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001084", 
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001092", 
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-03", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001059", 
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "CA", 
+      "thomas_id": "01774", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001106", 
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-21", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000617", 
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-25", 
+      "state": "WA", 
+      "thomas_id": "02096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000610", 
+      "district": "21", 
+      "name": "Deutch, Theodore E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "FL", 
+      "thomas_id": "01976", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000451", 
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000372", 
+      "district": "11", 
+      "name": "Frelinghuysen, Rodney P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-25", 
+      "state": "NJ", 
+      "thomas_id": "00414", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001052", 
+      "district": "1", 
+      "name": "Harris, Andy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-23", 
+      "state": "MD", 
+      "thomas_id": "02026", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001038", 
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "NY", 
+      "thomas_id": "01794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000009", 
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000375", 
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000385", 
+      "district": "2", 
+      "name": "Kelly, Robin L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "IL", 
+      "thomas_id": "02190", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000378", 
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000263", 
+      "district": "9", 
+      "name": "Levin, Sander M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "MI", 
+      "thomas_id": "00683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000563", 
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-11", 
+      "state": "IL", 
+      "thomas_id": "01781", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001159", 
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-05", 
+      "state": "WA", 
+      "thomas_id": "01809", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001181", 
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-26", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001151", 
+      "district": "18", 
+      "name": "Murphy, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "PA", 
+      "thomas_id": "01744", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000096", 
+      "district": "9", 
+      "name": "Pascrell, Bill, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-23", 
+      "state": "NJ", 
+      "thomas_id": "01510", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000592", 
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000602", 
+      "district": "4", 
+      "name": "Pompeo, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "KS", 
+      "thomas_id": "02022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Q000023", 
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000587", 
+      "district": "8", 
+      "name": "Ribble, Reid J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "WI", 
+      "thomas_id": "02073", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000344", 
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "CA", 
+      "thomas_id": "01526", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000364", 
+      "district": "15", 
+      "name": "Shimkus, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "IL", 
+      "thomas_id": "01527", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000480", 
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-17", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000522", 
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "NJ", 
+      "thomas_id": "01071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000812", 
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-15", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000814", 
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-07-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-28", 
+  "number": "5094", 
+  "official_title": "To contain, reverse, and deter Russian aggression in Ukraine, to assist Ukraine's democratic transition, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Stability and Democracy for Ukraine Act", 
+  "sponsor": {
+    "bioguide_id": "E000179", 
+    "district": "16", 
+    "name": "Engel, Eliot L.", 
+    "state": "NY", 
+    "thomas_id": "00344", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-07-14", 
+  "subjects": [
+    "Alliances", 
+    "Congressional oversight", 
+    "Europe", 
+    "Foreign aid and international relief", 
+    "Foreign and international banking", 
+    "Foreign language and bilingual programs", 
+    "Foreign property", 
+    "Geography", 
+    "Government information and archives", 
+    "Human rights", 
+    "International affairs", 
+    "International exchange and broadcasting", 
+    "Licensing and registrations", 
+    "Military assistance, sales, and agreements", 
+    "Russia", 
+    "Sanctions", 
+    "Sovereignty, recognition, national governance and status", 
+    "Trade restrictions", 
+    "U.S. and foreign investments", 
+    "Ukraine", 
+    "War and emergency powers"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-04-28T04:00:00Z", 
+    "text": "Stability and Democracy for Ukraine Act or the STAND for Ukraine Act\n\nThis bill provides that no federal agency should take any action or extend any assistance that recognizes Russian sovereignty over Crimea, its airspace, or its territorial waters.\n\nThe Government Publishing Office should not print any document indicating Crimea as part of the Russian Federation (Russia).\n\nU.S. sanctions provided for in Executive Orders 13660, 13661, 13662, (blocking property of persons contributing to the situation in Ukraine) and 13685 (blocking property of persons contributing to the situation in the Crimea region of Ukraine) shall remain in effect until the President certifies to Congress that:\n\n Ukraine's sovereignty over Crimea has been restored, or the status of Crimea has been resolved to the satisfaction of a democratically elected government of Ukraine. The Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014 is amended to authorize the President to block and prohibit a foreign person's transactions of property or property interests that are U.S.-sited or controlled by a U.S. person if the foreign person has knowingly: (1) violated such executive orders, or (2) facilitated deceptive or structured transactions for or on behalf of any person subject to U.S. sanctions against Russia.\n\nCivil and criminal penalties are prescribed for a person subject to sanctions.\n\nThe President shall:\n\n use U.S. influence to seek North Atlantic Treaty Organization (NATO) adoption of a policy that opposes the transfer of defense articles and services to Russia while Russia occupies the territory of Ukraine or of a NATO member, and direct appropriate U.S. agencies to monitor and identify transfers by NATO members of defense articles and services to Russia. A license application or other authorization for the transfer of any defense article or service to or on behalf of a NATO member so identified shall be subject to a presumption of denial.\n\nThe Sergei Magnitsky Rule of Law Accountability Act of 2012 is amended to include in the list of persons responsible for gross violations of human rights persons committing such actions in any territory forcibly occupied or otherwise controlled by Russia.\n\nThe Department of State shall seek to establish an international consortium to increase private investment in Ukraine that shall include the United States.\n\nIt is the sense of Congress that the Broadcasting Board of Governors shall establish Crimean Tatar services (subordinate to the Ukrainian language services) and broadcast Crimean Tatar language content into Crimea."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stability and Democracy for Ukraine Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "STAND for Ukraine Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To contain, reverse, and deter Russian aggression in Ukraine, to assist Ukraine's democratic transition, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "STAND for Ukraine Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-05T19:47:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5094.xml"
+}

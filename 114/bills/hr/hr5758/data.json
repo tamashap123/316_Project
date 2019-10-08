@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-25", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5758-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000598", 
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-13", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-13", 
+  "number": "5758", 
+  "official_title": "To maximize land management efficiencies, promote land conservation, generate education funding, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Advancing Conservation and Education Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "C001076", 
+    "district": "3", 
+    "name": "Chaffetz, Jason", 
+    "state": "UT", 
+    "thomas_id": "01956", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-13", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-07-13T04:00:00Z", 
+    "text": "Advancing Conservation and Education Act of 2016\n\n Alaska, Arizona, California, Colorado, Idaho, Montana, New Mexico, North Dakota, Oregon, South Dakota, Utah, Washington, or Wyoming (western states) may relinquish state land grant parcels wholly or primarily within eligible areas and select, in exchange, public land within the state.\n\nThe bill defines \"eligible areas\" as lands within the outer boundaries of units of the National Park, National Wilderness Preservation, National Wildlife Refuge, or National Landscape Conservation Systems, areas identified by the Bureau of Land Management of the Department of the Interior as having wilderness characteristics, and certain designated lands within the National Forest System.\n\n Interior shall create a process for the relinquishment of such parcels.\n\n A western state may select, and Interior may convey, lands that are mineral in character.\n\n The overall value of the state land grant parcels and the public land to be conveyed shall be equal.\n\nThe bill sets forth requirements regarding hazardous materials on land conveyed, water rights, and grazing permits."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advancing Conservation and Education Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To maximize land management efficiencies, promote land conservation, generate education funding, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Advancing Conservation and Education Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-05T16:21:52Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5758.xml"
+}

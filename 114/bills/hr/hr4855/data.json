@@ -1,0 +1,260 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-03-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-03-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-04-14", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Hearings Held by the Subcommittee on Capital Markets and Government Sponsored Enterprises Prior to Referral.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 57 - 2.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-07-05", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 114-661.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "512", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 512.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2016-07-05T18:07:14-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Garrett moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05T18:07:16-04:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H4236-4240", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05T18:07:17-04:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4855.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05T18:32:52-04:00", 
+      "action_code": "H37220", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05T19:34:18-04:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H4244-4245", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-05T19:41:55-04:00", 
+      "action_code": "H37300", 
+      "how": "roll", 
+      "references": [
+        {
+          "reference": "CR H4237", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "350", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 4 (Roll no. 350).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-07-05T19:41:59-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4855-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA", 
+      "subcommittee": "Subcommittee on Capital Markets and Government Sponsored Enterprises", 
+      "subcommittee_id": "16"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001183", 
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-08", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2016-07-05T19:41:55-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-03-23", 
+  "number": "4855", 
+  "official_title": "To amend provisions in the securities laws relating to regulation crowdfunding to raise the dollar amount limit and to clarify certain requirements and exclusions for funding portals established by such Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fix Crowdfunding Act", 
+  "sponsor": {
+    "bioguide_id": "M001156", 
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "thomas_id": "01792", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2016-07-05T19:41:55-04:00", 
+  "subjects": [
+    "Business investment and capital", 
+    "Finance and financial sector", 
+    "Financial services and investments", 
+    "Securities"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-03-23T04:00:00Z", 
+    "text": "Fix Crowdfunding Act\n\nThis bill amends the Securities Act of 1933 (Act) to increase from $1 million to $5 million the aggregate amount of securities sold to all investors by an issuer that qualify for the crowdfunding exemption from certain prohibitions relating to interstate commerce and the mails.\n\n(Crowdfunding is a method of capital formation where groups of people pool money, typically composed of small individual contributions, and often via Internet platforms, either to invest in a company or to support an effort by others to accomplish a specific goal.)\n\nThe bill amends the Jumpstart Our Business Startups Act (JOBS Act) to declare that a crowdfunding portal shall have a reasonable basis for disqualifying issuers from offering securities through the portal if through a background check it has found that an issuer has made an untrue statement of a material fact, omitted to state a material fact necessary to avoid making misleading statements, or engaged in fraud or deceit. No intermediary (crowdfunding portal) shall be liable for an issuer's material misstatements and omissions unless, in connection with the offer or sale of a security, it knowingly made or omitted such statements or engaged in fraud or deceit.\n\nThe bill amends the Securities Exchange Act of 1934 to exempt crowdfunding securities transactions from its registration requirements.\n\nThe Investment Company Act of 1940 is amended to exempt from the definition of investment company, and so exclude from coverage by that Act, any issuer that, for the purpose of making a crowdfunding offering, holds the securities of not more than one issuer eligible to offer securities (a single-purpose fund).\n\nThe bill allows single-purpose funds to sell and offer for sale securities according to crowdfunding requirements, and considers them venture capital funds.\n\nThe Act is further amended to permit an issuer, before commencing a crowdfunding offering, to solicit non-binding indications of interest from potential investors in the prospective offering if:\n\n no investor funds are accepted by the issuer, and any material change in the information furnished during the actual offering from the information furnished during the solicitation of interest is highlighted to potential investors in the information filed with the Securities and Exchange Commission. No enforcement action may be brought before May 16, 2021, against crowdfunding portals established under the JOBS Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fix Crowdfunding Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend provisions in the securities laws relating to regulation crowdfunding to raise the dollar amount limit and to clarify certain requirements and exclusions for funding portals established by such Act.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Fix Crowdfunding Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:28:54Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr4855.xml"
+}

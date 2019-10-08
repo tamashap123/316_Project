@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-22", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-22", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5559-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001049", 
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-22", 
+      "state": "MO", 
+      "thomas_id": "01654", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-22", 
+  "number": "5559", 
+  "official_title": "To amend section 1206 of the Pathway for SGR Reform Act of 2013 to clarify the application of rules on the calculation of hospital length of stay to certain moratorium-excepted long-term care hospitals (LTCHs).", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001195", 
+    "district": "8", 
+    "name": "Smith, Jason", 
+    "state": "MO", 
+    "thomas_id": "02191", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-06-22", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend section 1206 of the Pathway for SGR Reform Act of 2013 to clarify the application of rules on the calculation of hospital length of stay to certain moratorium-excepted long-term care hospitals (LTCHs).", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend section 1206 of the Pathway for SGR Reform Act of 2013 to clarify the application of rules on the calculation of hospital length of stay to certain moratorium-excepted long-term care hospitals (LTCHs).", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-06-30T15:01:16Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5559.xml"
+}

@@ -1,0 +1,473 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-12-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-12-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4172-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001282", 
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-07", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001287", 
+      "district": "7", 
+      "name": "Bera, Ami", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-21", 
+      "state": "CA", 
+      "thomas_id": "02102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001037", 
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-08", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001083", 
+      "district": null, 
+      "name": "Carney, John C., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "DE", 
+      "thomas_id": "01999", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-25", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000714", 
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-07", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000623", 
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-23", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000613", 
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-11", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000614", 
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "WI", 
+      "thomas_id": "02072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000451", 
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000553", 
+      "district": "9", 
+      "name": "Green, Al", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001047", 
+      "district": "4", 
+      "name": "Himes, James A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "CT", 
+      "thomas_id": "01913", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000636", 
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000032", 
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-28", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000255", 
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000368", 
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-26", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000584", 
+      "district": "4", 
+      "name": "Love, Mia B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "UT", 
+      "thomas_id": "02271", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001166", 
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001137", 
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-23", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001182", 
+      "district": "5", 
+      "name": "Mulvaney, Mick", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "SC", 
+      "thomas_id": "02059", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000188", 
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-10", 
+      "state": "NJ", 
+      "thomas_id": "02202", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-14", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000606", 
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000586", 
+      "district": "16", 
+      "name": "Renacci, James B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "OH", 
+      "thomas_id": "02048", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-16", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001183", 
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "AZ", 
+      "thomas_id": "01994", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001165", 
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-03", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001187", 
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-12-03", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-12-03", 
+  "number": "4172", 
+  "official_title": "To amend the Fair Credit Reporting Act to clarify Federal law with respect to reporting certain positive consumer credit information to consumer reporting agencies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2355-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3035-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Credit Access and Inclusion Act of 2015", 
+  "sponsor": {
+    "bioguide_id": "E000288", 
+    "district": "5", 
+    "name": "Ellison, Keith", 
+    "state": "MN", 
+    "thomas_id": "01857", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-12-03", 
+  "subjects": [
+    "Consumer credit", 
+    "Debt collection", 
+    "Finance and financial sector", 
+    "Low- and moderate-income housing", 
+    "Public utilities and utility rates"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2015-12-03T05:00:00Z", 
+    "text": "Credit Access and Inclusion Act of 2015\n\nThis bill amends the Fair Credit Reporting Act to authorize a person or the Department of Housing and Urban Development (HUD) to furnish to a consumer reporting agency information relating to the performance of a consumer in making payments: (1) under a lease agreement for a dwelling, including a lease in which HUD provides subsidized payments; or (2) pursuant to a contract for a utility or telecommunications service.\n\nInformation about a consumer's usage of any utility or telecommunications services may be furnished to a consumer reporting agency only to the extent that such information relates to payment by the consumer for such services or other terms of the provision of such services, including any deposit, discount, or conditions for interruption or termination of service.\n\nAn energy utility firm may not report payment information to a consumer reporting agency with respect to an outstanding balance of a consumer as late if the firm and the consumer have entered into a payment plan and the consumer is meeting the obligations of such plan.\n\nThe bill amends the Consumer Credit Protection Act to make provisions regarding civil liability to consumers of persons for willful or negligent noncompliance with requirements imposed by such Act on credit reporting agencies inapplicable to any violation of this Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Credit Access and Inclusion Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Fair Credit Reporting Act to clarify Federal law with respect to reporting certain positive consumer credit information to consumer reporting agencies, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Credit Access and Inclusion Act of 2015", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:28:36Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr4172.xml"
+}

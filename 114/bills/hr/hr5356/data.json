@@ -1,0 +1,493 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-12", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-12", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5356-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001291", 
+      "district": "36", 
+      "name": "Babin, Brian", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-03", 
+      "state": "TX", 
+      "thomas_id": "02270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000213", 
+      "district": "6", 
+      "name": "Barton, Joe", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "00062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001248", 
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001051", 
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01752", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001091", 
+      "district": "20", 
+      "name": "Castro, Joaquin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "TX", 
+      "thomas_id": "02163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001062", 
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001063", 
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-31", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001048", 
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-31", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000399", 
+      "district": "35", 
+      "name": "Doggett, Lloyd", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-01", 
+      "state": "TX", 
+      "thomas_id": "00303", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000460", 
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-31", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000461", 
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-09", 
+      "state": "TX", 
+      "thomas_id": "02065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000552", 
+      "district": "1", 
+      "name": "Gohmert, Louie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01801", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000377", 
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000553", 
+      "district": "9", 
+      "name": "Green, Al", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-21", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000410", 
+      "district": "29", 
+      "name": "Green, Gene", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "00462", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001036", 
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000636", 
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001073", 
+      "district": "23", 
+      "name": "Hurd, Will", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "02269", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000032", 
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-03", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000126", 
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000174", 
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001158", 
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001157", 
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01804", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000182", 
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000170", 
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-31", 
+      "state": "TX", 
+      "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000168", 
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000592", 
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-21", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000601", 
+      "district": "4", 
+      "name": "Ratcliffe, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "02268", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000250", 
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000583", 
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000238", 
+      "district": "13", 
+      "name": "Thornberry, Mac", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "01155", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000131", 
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000132", 
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "02167", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000814", 
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-31", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000816", 
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-07-12", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-05-26", 
+  "number": "5356", 
+  "official_title": "To designate the facility of the United States Postal Service located at 14231 TX-150 in Coldspring, Texas, as the \"E. Marie Youngblood Post Office\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B000755", 
+    "district": "8", 
+    "name": "Brady, Kevin", 
+    "state": "TX", 
+    "thomas_id": "01468", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-07-12", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-05-26T04:00:00Z", 
+    "text": "Designates the facility of the United States Postal Service located at 14231 TX-150 in Coldspring, Texas, as the \"E. Marie Youngblood Post Office.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 14231 TX-150 in Coldspring, Texas, as the \"E. Marie Youngblood Post Office\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 14231 TX-150 in Coldspring, Texas, as the \"E. Marie Youngblood Post Office\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:29:10Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5356.xml"
+}

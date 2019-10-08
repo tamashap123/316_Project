@@ -1,0 +1,343 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-17", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5141-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001291", 
+      "district": "36", 
+      "name": "Babin, Brian", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "TX", 
+      "thomas_id": "02270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001269", 
+      "district": "11", 
+      "name": "Barletta, Lou", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "PA", 
+      "thomas_id": "02054", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001273", 
+      "district": "6", 
+      "name": "Black, Diane", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "TN", 
+      "thomas_id": "02063", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001290", 
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001274", 
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000616", 
+      "district": "4", 
+      "name": "DesJarlais, Scott", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "TN", 
+      "thomas_id": "02062", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000615", 
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000552", 
+      "district": "1", 
+      "name": "Gohmert, Louie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "TX", 
+      "thomas_id": "01801", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000576", 
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "WI", 
+      "thomas_id": "02276", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001057", 
+      "district": "1", 
+      "name": "Huelskamp, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "KS", 
+      "thomas_id": "02020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000255", 
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000362", 
+      "district": "4", 
+      "name": "King, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "IA", 
+      "thomas_id": "01724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001158", 
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000689", 
+      "district": "7", 
+      "name": "Mica, John L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "FL", 
+      "thomas_id": "00800", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000601", 
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000575", 
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "AL", 
+      "thomas_id": "01704", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000409", 
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000018", 
+      "district": "5", 
+      "name": "Salmon, Matt", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "AZ", 
+      "thomas_id": "01009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001189", 
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000250", 
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000814", 
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-29", 
+  "number": "5141", 
+  "official_title": "To provide for the termination of the Central American Minors Refugee/Parole Program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Central American Amnesty Termination Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "G000565", 
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "thomas_id": "01992", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-29", 
+  "subjects": [
+    "Immigration"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-04-29T04:00:00Z", 
+    "text": "Central American Amnesty Termination Act of 2016\n\nThis bill prohibits any funds, resources, or fees available to the Department of Homeland Security or any other federal agency, including Immigration Examinations Fee Account deposits, from being used for the Central American Minors Refugee/Parole Program or any successor program."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Central American Amnesty Termination Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the termination of the Central American Minors Refugee/Parole Program.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Central American Amnesty Termination Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:29:04Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5141.xml"
+}

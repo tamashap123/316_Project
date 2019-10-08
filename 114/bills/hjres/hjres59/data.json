@@ -1,0 +1,933 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-07-08", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres59-114", 
+  "bill_type": "hjres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000374", 
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-21", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "A000373", 
+      "district": "2", 
+      "name": "Ashford, Brad", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-17", 
+      "state": "NE", 
+      "thomas_id": "02257", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001291", 
+      "district": "36", 
+      "name": "Babin, Brian", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "TX", 
+      "thomas_id": "02270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001282", 
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001243", 
+      "district": "7", 
+      "name": "Blackburn, Marsha", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "TN", 
+      "thomas_id": "01748", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001294", 
+      "district": "1", 
+      "name": "Blum, Rod", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-07", 
+      "state": "IA", 
+      "thomas_id": "02241", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001290", 
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-23", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001274", 
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-01", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001248", 
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-16", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001103", 
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-11", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001076", 
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-15", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001092", 
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-10", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001062", 
+      "district": "11", 
+      "name": "Conaway, K. Michael", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "TX", 
+      "thomas_id": "01805", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001096", 
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001048", 
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-07", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000619", 
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-07", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000615", 
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000460", 
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000448", 
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000552", 
+      "district": "1", 
+      "name": "Gohmert, Louie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-21", 
+      "state": "TX", 
+      "thomas_id": "01801", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000289", 
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000565", 
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-19", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001055", 
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-20", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001036", 
+      "district": "5", 
+      "name": "Hensarling, Jeb", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-21", 
+      "state": "TX", 
+      "thomas_id": "01749", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001056", 
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-11", 
+      "state": "WA", 
+      "thomas_id": "02071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001071", 
+      "district": "10", 
+      "name": "Hice, Jody B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-28", 
+      "state": "GA", 
+      "thomas_id": "02237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001057", 
+      "district": "1", 
+      "name": "Huelskamp, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-15", 
+      "state": "KS", 
+      "thomas_id": "02020", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001059", 
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000290", 
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000292", 
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-20", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000174", 
+      "district": "3", 
+      "name": "Johnson, Sam", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-23", 
+      "state": "TX", 
+      "thomas_id": "00603", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000255", 
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-15", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000289", 
+      "district": "4", 
+      "name": "Jordan, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-01", 
+      "state": "OH", 
+      "thomas_id": "01868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000388", 
+      "district": "1", 
+      "name": "Kelly, Trent", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-01", 
+      "state": "MS", 
+      "thomas_id": "02294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000573", 
+      "district": "1", 
+      "name": "Labrador, Raul R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-23", 
+      "state": "ID", 
+      "thomas_id": "02011", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000578", 
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "CA", 
+      "thomas_id": "02100", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000566", 
+      "district": "5", 
+      "name": "Latta, Robert E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-01", 
+      "state": "OH", 
+      "thomas_id": "01885", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000491", 
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "OK", 
+      "thomas_id": "00711", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000569", 
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-07", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000571", 
+      "district": null, 
+      "name": "Lummis, Cynthia M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "WY", 
+      "thomas_id": "01960", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001177", 
+      "district": "4", 
+      "name": "McClintock, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "CA", 
+      "thomas_id": "01908", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001180", 
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-15", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001197", 
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001195", 
+      "district": "2", 
+      "name": "Mooney, Alexander X.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-01", 
+      "state": "WV", 
+      "thomas_id": "02277", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000182", 
+      "district": "19", 
+      "name": "Neugebauer, Randy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "TX", 
+      "thomas_id": "01758", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000189", 
+      "district": "4", 
+      "name": "Newhouse, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-07", 
+      "state": "WA", 
+      "thomas_id": "02275", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000601", 
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-28", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000609", 
+      "district": "6", 
+      "name": "Palmer, Gary J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-10", 
+      "state": "AL", 
+      "thomas_id": "02221", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000605", 
+      "district": "4", 
+      "name": "Perry, Scott", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-07", 
+      "state": "PA", 
+      "thomas_id": "02157", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000258", 
+      "district": "7", 
+      "name": "Peterson, Collin C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-29", 
+      "state": "MN", 
+      "thomas_id": "00910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000606", 
+      "district": "9", 
+      "name": "Pittenger, Robert", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "NC", 
+      "thomas_id": "02141", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000597", 
+      "district": "7", 
+      "name": "Rice, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "SC", 
+      "thomas_id": "02160", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000591", 
+      "district": "2", 
+      "name": "Roby, Martha", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-11", 
+      "state": "AL", 
+      "thomas_id": "01986", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000582", 
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000395", 
+      "district": "5", 
+      "name": "Rogers, Harold", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-01", 
+      "state": "KY", 
+      "thomas_id": "00977", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000409", 
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-11", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000603", 
+      "district": "7", 
+      "name": "Rouzer, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-01", 
+      "state": "NC", 
+      "thomas_id": "02256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000018", 
+      "district": "5", 
+      "name": "Salmon, Matt", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-07", 
+      "state": "AZ", 
+      "thomas_id": "01009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001189", 
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001157", 
+      "district": "13", 
+      "name": "Scott, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-10", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001148", 
+      "district": "2", 
+      "name": "Simpson, Michael K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-07", 
+      "state": "ID", 
+      "thomas_id": "01590", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001195", 
+      "district": "8", 
+      "name": "Smith, Jason", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-28", 
+      "state": "MO", 
+      "thomas_id": "02191", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001192", 
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "UT", 
+      "thomas_id": "02168", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001188", 
+      "district": "3", 
+      "name": "Stutzman, Marlin A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "IN", 
+      "thomas_id": "01981", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000470", 
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-01", 
+      "state": "CO", 
+      "thomas_id": "01997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000812", 
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-21", 
+      "state": "MO", 
+      "thomas_id": "02137", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000813", 
+      "district": "2", 
+      "name": "Walorski, Jackie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-01", 
+      "state": "IN", 
+      "thomas_id": "02128", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000814", 
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000821", 
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-28", 
+      "state": "AR", 
+      "thomas_id": "02224", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000796", 
+      "district": "3", 
+      "name": "Westmoreland, Lynn A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-07", 
+      "state": "GA", 
+      "thomas_id": "01779", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000816", 
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000810", 
+      "district": "7", 
+      "name": "Woodall, Rob", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-22", 
+      "state": "GA", 
+      "thomas_id": "02008", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000033", 
+      "district": null, 
+      "name": "Young, Don", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-28", 
+      "state": "AK", 
+      "thomas_id": "01256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Z000018", 
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-15", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-07", 
+  "number": "59", 
+  "official_title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Army Corps of Engineers and the Environmental Protection Agency relating to the definition of \"waters of the United States\" under the Clean Water Act.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sjres22-114", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001172", 
+    "district": "3", 
+    "name": "Smith, Adrian", 
+    "state": "NE", 
+    "thomas_id": "01860", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-07-07", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Army Corps of Engineers", 
+    "Congressional oversight", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental protection", 
+    "Environmental regulatory procedures", 
+    "Water quality"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2015-07-07T04:00:00Z", 
+    "text": "Nullifies the rule submitted by the U.S. Army Corps of Engineers and the Environmental Protection Agency relating to the definition of \"waters of the United States\" under the Clean Water Act and published on June 29, 2015."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Army Corps of Engineers and the Environmental Protection Agency relating to the definition of \"waters of the United States\" under the Clean Water Act.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Army Corps of Engineers and the Environmental Protection Agency relating to the definition of \"waters of the United States\" under the Clean Water Act.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:25:58Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hjres/BILLSTATUS-114hjres59.xml"
+}

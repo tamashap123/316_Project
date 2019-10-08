@@ -1,0 +1,88 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5833-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-14", 
+  "number": "5833", 
+  "official_title": "To amend the Safe Drinking Water Act to address lead contamination in school drinking water, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Get the Lead Out of Schools Act", 
+  "sponsor": {
+    "bioguide_id": "D000622", 
+    "district": "8", 
+    "name": "Duckworth, Tammy", 
+    "state": "IL", 
+    "thomas_id": "02123", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-14", 
+  "subjects": [
+    "Environmental protection"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Get the Lead Out of Schools Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Safe Drinking Water Act to address lead contamination in school drinking water, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Get the Lead Out of Schools Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-05T21:54:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5833.xml"
+}

@@ -1,0 +1,253 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-09", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Federal Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-09", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-09", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Power and Oceans.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-23", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5114-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Federal Lands", 
+      "subcommittee_id": "10"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Power and Oceans", 
+      "subcommittee_id": "13"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indian, Insular and Alaska Native Affairs", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000564", 
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001068", 
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001163", 
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001196", 
+      "district": "6", 
+      "name": "Moulton, Seth", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "MA", 
+      "thomas_id": "02246", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000189", 
+      "district": "4", 
+      "name": "Newhouse, Dan", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-28", 
+      "state": "WA", 
+      "thomas_id": "02275", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000598", 
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Z000018", 
+      "district": null, 
+      "name": "Zinke, Ryan K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-29", 
+      "state": "MT", 
+      "thomas_id": "02254", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-06-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-28", 
+  "number": "5114", 
+  "official_title": "To establish the 21st Century Conservation Service Corps to place youth and veterans in the United States in national service positions to protect, restore, and enhance the great outdoors of the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1993-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "21st Century Conservation Service Corps Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "M001197", 
+    "district": "2", 
+    "name": "McSally, Martha", 
+    "state": "AZ", 
+    "thomas_id": "02225", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-28", 
+  "subjects": [
+    "Disaster relief and insurance", 
+    "Employment and training programs", 
+    "Historical and cultural resources", 
+    "Indian lands and resources rights", 
+    "Land use and conservation", 
+    "National and community service", 
+    "Outdoor recreation", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Social work, volunteer service, charitable organizations", 
+    "Veterans' education, employment, rehabilitation", 
+    "Youth employment and child labor"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "21st Century Conservation Service Corps Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the 21st Century Conservation Service Corps to place youth and veterans in the United States in national service positions to protect, restore, and enhance the great outdoors of the United States, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "21st Century Conservation Service Corps Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:56:55Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5114.xml"
+}

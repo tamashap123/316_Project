@@ -1,0 +1,273 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-13", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres780-114", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001270", 
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-13", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001037", 
+      "district": "7", 
+      "name": "Capuano, Michael E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "MA", 
+      "thomas_id": "01564", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001084", 
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-22", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000179", 
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-13", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000375", 
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-22", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000373", 
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-22", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000583", 
+      "district": "17", 
+      "name": "Rooney, Thomas J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-22", 
+      "state": "FL", 
+      "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000487", 
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-13", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-07-14", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-13", 
+  "number": "780", 
+  "official_title": "Urging respect for the constitution of the Democratic Republic of the Congo in the democratic transition of power in 2016.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S000522", 
+    "district": "4", 
+    "name": "Smith, Christopher H.", 
+    "state": "NJ", 
+    "thomas_id": "01071", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-07-14", 
+  "subjects": [
+    "Africa", 
+    "Democratic Republic of the Congo", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Elections, voting, political campaign regulation", 
+    "Foreign aid and international relief", 
+    "Foreign property", 
+    "Fraud offenses and financial crimes", 
+    "Government ethics and transparency, public corruption", 
+    "Human rights", 
+    "International affairs", 
+    "News media and reporting", 
+    "Sanctions", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-06-13T04:00:00Z", 
+    "text": "The United States should impose sanctions on government officials of the Democratic Republic of the Congo (DRC) who impede progress toward a democratic transition through credible elections that respect the will of the Congolese. Sanctions should target core figures in President Kabila's government for visa denials and asset freezes.\n\nEconomic and security assistance should be reviewed for possible termination, while preserving humanitarian assistance, until the election crisis is resolved.\n\nThe President of the United States should lift sanctions only when: (1) President Kabila has declared that he will not remain in power once his term ends and has made verifiable progress towards holding national elections, or (2) the DRC has held a free and fair presidential election and a new President has been sworn in.\n\nThe United States should: (1) support independent DRC civil society organizations and media, and (2) investigate and target money laundering activities by key figures close to President Kabila and those financial institutions involved in such activities.\n\nThe United States should coordinate efforts with key Western and African partners, including through other financial intelligence units."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Urging respect for the constitution of the Democratic Republic of the Congo in the democratic transition of power in 2016.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Urging respect for the constitution of the Democratic Republic of the Congo in the democratic transition of power in 2016.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-12T18:01:11Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hres/BILLSTATUS-114hres780.xml"
+}

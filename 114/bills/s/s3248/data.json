@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3248-114", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000307", 
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "KS", 
+      "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-14", 
+  "number": "3248", 
+  "official_title": "A bill to amend the Internal Revenue Code of 1986 to make qualified biogas property and qualified manure resource recovery property eligible for the energy credit and to permit new clean renewable energy bonds to finance qualified biogas property, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5489-114", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Agriculture Environmental Stewardship Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "B000944", 
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-14", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Agriculture Environmental Stewardship Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Internal Revenue Code of 1986 to make qualified biogas property and qualified manure resource recovery property eligible for the energy credit and to permit new clean renewable energy bonds to finance qualified biogas property, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Agriculture Environmental Stewardship Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-03T08:54:13Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/s/BILLSTATUS-114s3248.xml"
+}

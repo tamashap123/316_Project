@@ -1,0 +1,415 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-06", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres141-114", 
+  "bill_type": "hconres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000372", 
+      "district": "12", 
+      "name": "Allen, Rick W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "GA", 
+      "thomas_id": "02239", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001281", 
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-13", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001257", 
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-12", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000490", 
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-08", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000755", 
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-12", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001227", 
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-12", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001103", 
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-08", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000714", 
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-12", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001048", 
+      "district": "7", 
+      "name": "Culberson, John Abney", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "01670", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000482", 
+      "district": "14", 
+      "name": "Doyle, Michael F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-25", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000564", 
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-12", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000560", 
+      "district": "14", 
+      "name": "Graves, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "GA", 
+      "thomas_id": "01979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000553", 
+      "district": "9", 
+      "name": "Green, Al", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-12", 
+      "state": "TX", 
+      "thomas_id": "01803", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000568", 
+      "district": "9", 
+      "name": "Griffith, H. Morgan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-13", 
+      "state": "VA", 
+      "thomas_id": "02070", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001071", 
+      "district": "10", 
+      "name": "Hice, Jody B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-13", 
+      "state": "GA", 
+      "thomas_id": "02237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000288", 
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-25", 
+      "state": "GA", 
+      "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000255", 
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-12", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000388", 
+      "district": "1", 
+      "name": "Kelly, Trent", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-08", 
+      "state": "MS", 
+      "thomas_id": "02294", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000287", 
+      "district": "5", 
+      "name": "Lewis, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-08", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000601", 
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-13", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000034", 
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000602", 
+      "district": "4", 
+      "name": "Pompeo, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-25", 
+      "state": "KS", 
+      "thomas_id": "02022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000591", 
+      "district": "6", 
+      "name": "Price, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-13", 
+      "state": "GA", 
+      "thomas_id": "01778", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-06", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001189", 
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001157", 
+      "district": "13", 
+      "name": "Scott, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-08", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000250", 
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-08", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-08", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000131", 
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-06", 
+  "number": "141", 
+  "official_title": "Providing official recognition of the massacre of 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who had been captured in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M001180", 
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "thomas_id": "02074", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-06", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Belgium", 
+    "Conflicts and wars", 
+    "Congressional tributes", 
+    "Europe", 
+    "Germany", 
+    "Government information and archives", 
+    "Military history", 
+    "Military personnel and dependents", 
+    "War crimes, genocide, crimes against humanity"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-07-06T04:00:00Z", 
+    "text": "Recognizes on behalf of the United States the dedicated service and ultimate sacrifice of the 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who were massacred in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.\n\nCalls on the Senate Armed Services Committee to correct the omission in the 1949 report of its subcommittee and appropriately recognize the Wereth 11."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing official recognition of the massacre of 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who had been captured in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Providing official recognition of the massacre of 11 African-American soldiers of the 333rd Field Artillery Battalion of the United States Army who had been captured in Wereth, Belgium, during the Battle of the Bulge on December 17, 1944.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:25:28Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hconres/BILLSTATUS-114hconres141.xml"
+}

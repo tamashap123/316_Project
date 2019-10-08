@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "B00100", 
+      "references": [
+        {
+          "reference": "CR E1133", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5858-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001251", 
+      "district": "1", 
+      "name": "Butterfield, G. K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "NC", 
+      "thomas_id": "01761", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000614", 
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "WI", 
+      "thomas_id": "02072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000128", 
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-14", 
+  "number": "5858", 
+  "official_title": "To amend the Federal Food, Drug, and Cosmetic Act to establish a program to provide additional incentives for the development of new drugs to treat pediatric cancers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3239-114", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "RACE for Children Act", 
+  "sponsor": {
+    "bioguide_id": "M001157", 
+    "district": "10", 
+    "name": "McCaul, Michael T.", 
+    "state": "TX", 
+    "thomas_id": "01804", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-14", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RACE for Children Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Research to Accelerate Cures and Equity for Children Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Food, Drug, and Cosmetic Act to establish a program to provide additional incentives for the development of new drugs to treat pediatric cancers, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "RACE for Children Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-02T21:01:30Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5858.xml"
+}

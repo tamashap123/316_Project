@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-12", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-12", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [
+        {
+          "reference": "CR S5004", 
+          "type": "Sponsor introductory remarks on measure"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3162-114", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001041", 
+      "district": null, 
+      "name": "Heller, Dean", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-12", 
+      "state": "NV", 
+      "thomas_id": "01863", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-12", 
+  "number": "3162", 
+  "official_title": "A bill to provide for the consideration of energy storage systems by electric utilities as part of a supply side resource process, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "S.T.O.R.A.G.E. Act", 
+  "sponsor": {
+    "bioguide_id": "R000122", 
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-12", 
+  "subjects": [
+    "Energy"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "S.T.O.R.A.G.E. Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Storage Technology for Operational Readiness and Generating Energy Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for the consideration of energy storage systems by electric utilities as part of a supply side resource process, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "S.T.O.R.A.G.E. Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:31:34Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/s/BILLSTATUS-114s3162.xml"
+}

@@ -1,0 +1,574 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-02-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-02-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-03-16", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr864-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001292", 
+      "district": "8", 
+      "name": "Beyer, Donald S., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-21", 
+      "state": "VA", 
+      "thomas_id": "02272", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-12", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001285", 
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-24", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-12", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001077", 
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-03", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000620", 
+      "district": "6", 
+      "name": "Delaney, John K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-12", 
+      "state": "MD", 
+      "thomas_id": "02133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000623", 
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-27", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000625", 
+      "district": "11", 
+      "name": "Donovan, Daniel M., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-11", 
+      "state": "NY", 
+      "thomas_id": "02293", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000622", 
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000564", 
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-25", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-24", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001051", 
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-07", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001055", 
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-11", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001038", 
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-24", 
+      "state": "NY", 
+      "thomas_id": "01794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001034", 
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-12", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000386", 
+      "district": "24", 
+      "name": "Katko, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-07", 
+      "state": "NY", 
+      "thomas_id": "02264", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000382", 
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-24", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000551", 
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-24", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000582", 
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-13", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-24", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000087", 
+      "district": "12", 
+      "name": "Maloney, Carolyn B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-28", 
+      "state": "NY", 
+      "thomas_id": "00729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000404", 
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-29", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001181", 
+      "district": "7", 
+      "name": "Meehan, Patrick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-10", 
+      "state": "PA", 
+      "thomas_id": "02052", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001188", 
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-28", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000002", 
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000188", 
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-17", 
+      "state": "NJ", 
+      "thomas_id": "02202", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-12", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-12", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-02-11", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Q000023", 
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-06-02", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000053", 
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-24", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000435", 
+      "district": "27", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-07", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-05", 
+      "state": "IL", 
+      "thomas_id": "01003", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-24", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001175", 
+      "district": "14", 
+      "name": "Speier, Jackie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-12", 
+      "state": "CA", 
+      "thomas_id": "01890", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001196", 
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "NY", 
+      "thomas_id": "02263", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001193", 
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-12", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-25", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000128", 
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-02-12", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000808", 
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-13", 
+      "state": "FL", 
+      "thomas_id": "02004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Z000017", 
+      "district": "1", 
+      "name": "Zeldin, Lee M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-23", 
+      "state": "NY", 
+      "thomas_id": "02261", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-02-11", 
+  "number": "864", 
+  "official_title": "To amend title 28, United States Code, to prohibit the exclusion of individuals from service on a Federal jury on account of sexual orientation or gender identity.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s447-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Juror Non-Discrimination Act of 2015", 
+  "sponsor": {
+    "bioguide_id": "D000598", 
+    "district": "53", 
+    "name": "Davis, Susan A.", 
+    "state": "CA", 
+    "thomas_id": "01641", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-02-11", 
+  "subjects": [
+    "Federal district courts", 
+    "Judicial procedure and administration", 
+    "Law", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Specialized courts"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2015-02-11T05:00:00Z", 
+    "text": "Juror Non-Discrimination Act of 2015\n\nAmends the federal judicial code to prohibit the exclusion of citizens from service as a grand or petit juror in U.S. district courts or the Court of International Trade on account of sexual orientation or gender identity (thereby expanding the current prohibition on exclusion on account of race, color, religion, sex, national origin, or economic status)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Juror Non-Discrimination Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 28, United States Code, to prohibit the exclusion of individuals from service on a Federal jury on account of sexual orientation or gender identity.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Juror Non-Discrimination Act of 2015", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:26:34Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr864.xml"
+}

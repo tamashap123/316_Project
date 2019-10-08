@@ -1,0 +1,137 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-07", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-07", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-15", 
+      "action_code": "", 
+      "committee": "Committee on Energy and Natural Resources Senate Subcommittee on National Parks", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2016-07-13", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3027-114", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on National Parks", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001035", 
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-13", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-06-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-07", 
+  "number": "3027", 
+  "official_title": "A bill to clarify the boundary of Acadia National Park, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Acadia National Park Boundary Clarification Act", 
+  "sponsor": {
+    "bioguide_id": "K000383", 
+    "district": null, 
+    "name": "King, Angus S., Jr.", 
+    "state": "ME", 
+    "thomas_id": "02185", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-07-13", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2016-06-07T04:00:00Z", 
+    "text": "Acadia National Park Boundary Clarification Act\n\nThis bill modifies the boundary of Acadia National Park in Maine to include approximately 1,441 acres of land and interests in the Schoodic Peninsula.\n\nThe Department of the Interior may only acquire land or interests in land within the boundaries of the Park in accordance with specified law.\n\nNo land or interest in land outside the Park's boundaries may be acquired except as already allowed by that law.\n\nInterior shall reestablish and appoint members to the Acadia National Park Advisory Commission.\n\nCertain land in the Park, known as NPS Tract 06-126, that was conveyed by the National Park Service to the town of Tremont, Maine, shall no longer be required to be used exclusively and perpetually for school purposes so long as it is being used for public purposes."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Acadia National Park Boundary Clarification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to clarify the boundary of Acadia National Park, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Acadia National Park Boundary Clarification Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:31:30Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/s/BILLSTATUS-114s3027.xml"
+}

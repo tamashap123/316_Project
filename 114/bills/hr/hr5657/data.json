@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-07", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to House Education and the Workforce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-08-11", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5657-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000409", 
+      "district": "48", 
+      "name": "Rohrabacher, Dana", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-07", 
+      "state": "CA", 
+      "thomas_id": "00979", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-07", 
+  "number": "5657", 
+  "official_title": "To amend the Immigration and Nationality Act to reform and reduce fraud and abuse in certain visa programs for aliens working temporarily in the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2266-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "H-1B and L-1 Visa Reform Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "P000096", 
+    "district": "9", 
+    "name": "Pascrell, Bill, Jr.", 
+    "state": "NJ", 
+    "thomas_id": "01510", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-07", 
+  "subjects": [
+    "Immigration"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "H-1B and L-1 Visa Reform Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Immigration and Nationality Act to reform and reduce fraud and abuse in certain visa programs for aliens working temporarily in the United States, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "H-1B and L-1 Visa Reform Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-12T08:51:48Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5657.xml"
+}

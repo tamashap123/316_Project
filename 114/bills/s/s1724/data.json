@@ -1,0 +1,181 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-09", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-09", 
+      "action_code": "", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Environment and Public Works.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-20", 
+      "action_code": "", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-05-18", 
+      "action_code": "", 
+      "committee": "Environment and Public Works", 
+      "committees": [
+        "SSEV"
+      ], 
+      "references": [], 
+      "text": "Committee on Environment and Public Works. Reported by Senator Inhofe with an amendment. With written report No. 114-256.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2016-05-18", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "470", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 470.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1724-114", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Environment and Public Works", 
+      "committee_id": "SSEV"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000711", 
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-09", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000062", 
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-09", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000146", 
+      "district": null, 
+      "name": "Reid, Harry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-09", 
+      "state": "NV", 
+      "thomas_id": "00952", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-05-18", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-09", 
+  "number": "1724", 
+  "official_title": "A bill to provide for environmental restoration activities and forest management activities in the Lake Tahoe Basin, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3692-114", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2848-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Lake Tahoe Restoration Act of 2015", 
+  "sponsor": {
+    "bioguide_id": "H001041", 
+    "district": null, 
+    "name": "Heller, Dean", 
+    "state": "NV", 
+    "thomas_id": "01863", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-01-20", 
+  "subjects": [
+    "California", 
+    "Environmental protection", 
+    "Lakes and rivers", 
+    "Land transfers", 
+    "Nevada", 
+    "Water quality"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Lake Tahoe Restoration Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Lake Tahoe Restoration Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for environmental restoration activities and forest management activities in the Lake Tahoe Basin, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Lake Tahoe Restoration Act of 2015", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:30:45Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/s/BILLSTATUS-114s1724.xml"
+}

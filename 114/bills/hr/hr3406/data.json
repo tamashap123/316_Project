@@ -1,0 +1,1076 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-28", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-01-08", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-12", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-12", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3406-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001270", 
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-08", 
+      "state": "CA", 
+      "thomas_id": "01996", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001281", 
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000490", 
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "GA", 
+      "thomas_id": "00091", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-29", 
+      "state": "OR", 
+      "thomas_id": "00099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001227", 
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-21", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001285", 
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-01", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001097", 
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-28", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001072", 
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-12", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000266", 
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "OH", 
+      "thomas_id": "00186", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-11", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001084", 
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-12", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001067", 
+      "district": "9", 
+      "name": "Clarke, Yvette D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "NY", 
+      "thomas_id": "01864", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000537", 
+      "district": "6", 
+      "name": "Clyburn, James E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "SC", 
+      "thomas_id": "00208", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001093", 
+      "district": "9", 
+      "name": "Collins, Doug", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "GA", 
+      "thomas_id": "02121", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000714", 
+      "district": "13", 
+      "name": "Conyers, John, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "MI", 
+      "thomas_id": "00229", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001045", 
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-16", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000984", 
+      "district": "7", 
+      "name": "Cummings, Elijah E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "MD", 
+      "thomas_id": "00256", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001107", 
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-08", 
+      "state": "FL", 
+      "thomas_id": "02235", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000096", 
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "IL", 
+      "thomas_id": "01477", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000619", 
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-17", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000620", 
+      "district": "6", 
+      "name": "Delaney, John K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-05", 
+      "state": "MD", 
+      "thomas_id": "02133", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000617", 
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-10", 
+      "state": "WA", 
+      "thomas_id": "02096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000482", 
+      "district": "14", 
+      "name": "Doyle, Michael F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-08", 
+      "state": "PA", 
+      "thomas_id": "00316", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000290", 
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000043", 
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000445", 
+      "district": "4", 
+      "name": "Forbes, J. Randy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "VA", 
+      "thomas_id": "01683", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000455", 
+      "district": "11", 
+      "name": "Fudge, Marcia L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-25", 
+      "state": "OH", 
+      "thomas_id": "01895", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000564", 
+      "district": "19", 
+      "name": "Gibson, Christopher P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "NY", 
+      "thomas_id": "02043", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000289", 
+      "district": "6", 
+      "name": "Goodlatte, Bob", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "VA", 
+      "thomas_id": "00446", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000577", 
+      "district": "6", 
+      "name": "Graves, Garret", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-28", 
+      "state": "LA", 
+      "thomas_id": "02245", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000570", 
+      "district": "1", 
+      "name": "Guinta, Frank C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "NH", 
+      "thomas_id": "02038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000535", 
+      "district": "4", 
+      "name": "Gutierrez, Luis V.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-28", 
+      "state": "IL", 
+      "thomas_id": "00478", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001070", 
+      "district": "4", 
+      "name": "Hardy, Cresent", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "NV", 
+      "thomas_id": "02260", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000636", 
+      "district": "15", 
+      "name": "Hinojosa, Ruben", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-30", 
+      "state": "TX", 
+      "thomas_id": "01490", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000032", 
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000294", 
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-12", 
+      "state": "NY", 
+      "thomas_id": "02149", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000292", 
+      "district": "6", 
+      "name": "Johnson, Bill", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "OH", 
+      "thomas_id": "02046", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000126", 
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-10", 
+      "state": "TX", 
+      "thomas_id": "00599", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000288", 
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "GA", 
+      "thomas_id": "01843", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000009", 
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-10", 
+      "state": "OH", 
+      "thomas_id": "00616", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000188", 
+      "district": "3", 
+      "name": "Kind, Ron", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-29", 
+      "state": "WI", 
+      "thomas_id": "01498", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000368", 
+      "district": "1", 
+      "name": "Kirkpatrick, Ann", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-15", 
+      "state": "AZ", 
+      "thomas_id": "01907", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000581", 
+      "district": "14", 
+      "name": "Lawrence, Brenda L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-11", 
+      "state": "MI", 
+      "thomas_id": "02252", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000551", 
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-02", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000287", 
+      "district": "5", 
+      "name": "Lewis, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-11", 
+      "state": "GA", 
+      "thomas_id": "00688", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000582", 
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-21", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000397", 
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-08", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000584", 
+      "district": "4", 
+      "name": "Love, Mia B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-07", 
+      "state": "UT", 
+      "thomas_id": "02271", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-01", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001185", 
+      "district": "18", 
+      "name": "Maloney, Sean Patrick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-01", 
+      "state": "NY", 
+      "thomas_id": "02150", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001179", 
+      "district": "10", 
+      "name": "Marino, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "PA", 
+      "thomas_id": "02053", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001143", 
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-01", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000404", 
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-21", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-28", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001137", 
+      "district": "5", 
+      "name": "Meeks, Gregory W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-10", 
+      "state": "NY", 
+      "thomas_id": "01506", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000002", 
+      "district": "10", 
+      "name": "Nadler, Jerrold", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-21", 
+      "state": "NY", 
+      "thomas_id": "00850", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000170", 
+      "district": "16", 
+      "name": "O'Rourke, Beto", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-22", 
+      "state": "TX", 
+      "thomas_id": "02162", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000604", 
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-21", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-05", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000598", 
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-02", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000588", 
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "LA", 
+      "thomas_id": "02023", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000583", 
+      "district": "17", 
+      "name": "Rooney, Thomas J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "FL", 
+      "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001168", 
+      "district": "3", 
+      "name": "Sarbanes, John P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-20", 
+      "state": "MD", 
+      "thomas_id": "01854", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001150", 
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001157", 
+      "district": "13", 
+      "name": "Scott, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-30", 
+      "state": "GA", 
+      "thomas_id": "01722", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000185", 
+      "district": "3", 
+      "name": "Scott, Robert C. \"Bobby\"", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "VA", 
+      "thomas_id": "01037", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001165", 
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-14", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000480", 
+      "district": "25", 
+      "name": "Slaughter, Louise McIntosh", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-15", 
+      "state": "NY", 
+      "thomas_id": "01069", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000510", 
+      "district": "9", 
+      "name": "Smith, Adam", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-22", 
+      "state": "WA", 
+      "thomas_id": "01528", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001187", 
+      "district": "15", 
+      "name": "Stivers, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "OH", 
+      "thomas_id": "02047", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-27", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000462", 
+      "district": "12", 
+      "name": "Tiberi, Patrick J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-17", 
+      "state": "OH", 
+      "thomas_id": "01664", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000463", 
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-07", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000128", 
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000130", 
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-07", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000131", 
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-12", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000819", 
+      "district": "6", 
+      "name": "Walker, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-29", 
+      "state": "NC", 
+      "thomas_id": "02255", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000800", 
+      "district": null, 
+      "name": "Welch, Peter", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-07", 
+      "state": "VT", 
+      "thomas_id": "01879", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-01-08", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-29", 
+  "number": "3406", 
+  "official_title": "To reauthorize the Second Chance Act of 2007.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1513-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Second Chance Reauthorization Act of 2015", 
+  "sponsor": {
+    "bioguide_id": "S000244", 
+    "district": "5", 
+    "name": "Sensenbrenner, F. James, Jr.", 
+    "state": "WI", 
+    "thomas_id": "01041", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-01-12", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Administrative law and regulatory procedures", 
+    "Adult education and literacy", 
+    "Congressional oversight", 
+    "Correctional facilities and imprisonment", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Crime victims", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal procedure and sentencing", 
+    "Department of Justice", 
+    "Drug therapy", 
+    "Drug, alcohol, tobacco use", 
+    "Elementary and secondary education", 
+    "Emergency medical services and trauma care", 
+    "Employment and training programs", 
+    "Executive agency funding and structure", 
+    "Family services", 
+    "Fraud offenses and financial crimes", 
+    "Government studies and investigations", 
+    "Health care coverage and access", 
+    "Homelessness and emergency shelter", 
+    "Indian social and development programs", 
+    "Juvenile crime and gang violence", 
+    "Law enforcement administration and funding", 
+    "Low- and moderate-income housing", 
+    "Mental health", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "Research administration and funding", 
+    "Social work, volunteer service, charitable organizations", 
+    "State and local courts", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' loans, housing, homeless programs", 
+    "Veterans' medical care", 
+    "Veterans' pensions and compensation", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Second Chance Reauthorization Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reauthorize the Second Chance Act of 2007.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Second Chance Reauthorization Act of 2015", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:28:11Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr3406.xml"
+}

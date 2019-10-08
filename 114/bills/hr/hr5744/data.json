@@ -1,0 +1,100 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5744-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000574", 
+      "district": "7", 
+      "name": "Gallego, Ruben", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-12", 
+      "state": "AZ", 
+      "thomas_id": "02226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-12", 
+  "number": "5744", 
+  "official_title": "To amend the FAA Modernization and Reform Act of 2012 with respect to categorical exclusions granted for next generation flight procedures, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "NextGen Flight Path Review and Notification Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "S001183", 
+    "district": "6", 
+    "name": "Schweikert, David", 
+    "state": "AZ", 
+    "thomas_id": "01994", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-12", 
+  "subjects": [
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "NextGen Flight Path Review and Notification Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the FAA Modernization and Reform Act of 2012 with respect to categorical exclusions granted for next generation flight procedures, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "NextGen Flight Path Review and Notification Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:29:23Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5744.xml"
+}

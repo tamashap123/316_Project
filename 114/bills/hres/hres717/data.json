@@ -1,0 +1,360 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-04-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-05-06", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres717-114", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001271", 
+      "district": "1", 
+      "name": "Benishek, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-12", 
+      "state": "MI", 
+      "thomas_id": "02027", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001103", 
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-09", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001061", 
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-04-29", 
+      "state": "MO", 
+      "thomas_id": "01790", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-26", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001092", 
+      "district": "27", 
+      "name": "Collins, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-26", 
+      "state": "NY", 
+      "thomas_id": "02151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001096", 
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-17", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000623", 
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-17", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000624", 
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "MI", 
+      "thomas_id": "02251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000451", 
+      "district": "8", 
+      "name": "Fitzpatrick, Michael G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-12", 
+      "state": "PA", 
+      "thomas_id": "01797", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000570", 
+      "district": "1", 
+      "name": "Guinta, Frank C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-17", 
+      "state": "NH", 
+      "thomas_id": "02038", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001051", 
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-17", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001064", 
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001038", 
+      "district": "26", 
+      "name": "Higgins, Brian", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-12", 
+      "state": "NY", 
+      "thomas_id": "01794", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000604", 
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-12", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-12", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000373", 
+      "district": "16", 
+      "name": "Pitts, Joseph R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-17", 
+      "state": "PA", 
+      "thomas_id": "01514", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000592", 
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-24", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001193", 
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-12", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000470", 
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-31", 
+      "state": "CO", 
+      "thomas_id": "01997", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-25", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000128", 
+      "district": "8", 
+      "name": "Van Hollen, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-24", 
+      "state": "MD", 
+      "thomas_id": "01729", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-04-29", 
+  "number": "717", 
+  "official_title": "Recognizing the importance of cancer research and the contributions of scientists, clinicians, cancer survivors and other patient advocates across the United States who are dedicated to finding a cure for cancer, and supporting the designation of May 2016 as \"National Cancer Research Month\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres459-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "Y000063", 
+    "district": "3", 
+    "name": "Yoder, Kevin", 
+    "state": "KS", 
+    "thomas_id": "02021", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-04-29", 
+  "subjects": [
+    "Cancer", 
+    "Commemorative events and holidays", 
+    "Health", 
+    "Health personnel", 
+    "Medical research", 
+    "World health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-04-29T04:00:00Z", 
+    "text": "Expresses support for the designation of National Cancer Research Month."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recognizing the importance of cancer research and the contributions of scientists, clinicians, cancer survivors and other patient advocates across the United States who are dedicated to finding a cure for cancer, and supporting the designation of May 2016 as \"National Cancer Research Month\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Recognizing the importance of cancer research and the contributions of scientists, clinicians, cancer survivors and other patient advocates across the United States who are dedicated to finding a cure for cancer, and supporting the designation of May 2016 as \"National Cancer Research Month\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-11T19:01:06Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hres/BILLSTATUS-114hres717.xml"
+}

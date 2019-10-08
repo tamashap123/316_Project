@@ -1,0 +1,742 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-09-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-09-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-09-25", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-17", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-04-29", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-18", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-18", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3471-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000369", 
+      "district": "2", 
+      "name": "Amodei, Mark E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-18", 
+      "state": "NV", 
+      "thomas_id": "02090", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001282", 
+      "district": "6", 
+      "name": "Barr, Andy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-09-10", 
+      "state": "KY", 
+      "thomas_id": "02131", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000287", 
+      "district": "34", 
+      "name": "Becerra, Xavier", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-29", 
+      "state": "CA", 
+      "thomas_id": "00070", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001287", 
+      "district": "7", 
+      "name": "Bera, Ami", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "CA", 
+      "thomas_id": "02102", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001284", 
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-02", 
+      "state": "IN", 
+      "thomas_id": "02129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001285", 
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-09-10", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001275", 
+      "district": "8", 
+      "name": "Bucshon, Larry", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-10", 
+      "state": "IN", 
+      "thomas_id": "02018", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001248", 
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-18", 
+      "state": "TX", 
+      "thomas_id": "01751", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001036", 
+      "district": "24", 
+      "name": "Capps, Lois", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-20", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001072", 
+      "district": "7", 
+      "name": "Carson, Andre", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-06", 
+      "state": "IN", 
+      "thomas_id": "01889", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001091", 
+      "district": "20", 
+      "name": "Castro, Joaquin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "02163", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-08", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001077", 
+      "district": "6", 
+      "name": "Coffman, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "CO", 
+      "thomas_id": "01912", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001053", 
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-09", 
+      "state": "OK", 
+      "thomas_id": "01742", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001094", 
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-21", 
+      "state": "CA", 
+      "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001106", 
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-06", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001096", 
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001107", 
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-09-10", 
+      "state": "FL", 
+      "thomas_id": "02235", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000614", 
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "WI", 
+      "thomas_id": "02072", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000533", 
+      "district": "2", 
+      "name": "Duncan, John J., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-09-10", 
+      "state": "TN", 
+      "thomas_id": "00322", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000179", 
+      "district": "16", 
+      "name": "Engel, Eliot L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-21", 
+      "state": "NY", 
+      "thomas_id": "00344", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000462", 
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001053", 
+      "district": "4", 
+      "name": "Hartzler, Vicky", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-07", 
+      "state": "MO", 
+      "thomas_id": "02032", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001071", 
+      "district": "10", 
+      "name": "Hice, Jody B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-20", 
+      "state": "GA", 
+      "thomas_id": "02237", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001034", 
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-11", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001073", 
+      "district": "23", 
+      "name": "Hurd, Will", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "TX", 
+      "thomas_id": "02269", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000294", 
+      "district": "8", 
+      "name": "Jeffries, Hakeem S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "NY", 
+      "thomas_id": "02149", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000290", 
+      "district": "2", 
+      "name": "Jenkins, Lynn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-20", 
+      "state": "KS", 
+      "thomas_id": "01921", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000382", 
+      "district": "2", 
+      "name": "Kuster, Ann M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-28", 
+      "state": "NH", 
+      "thomas_id": "02145", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000564", 
+      "district": "5", 
+      "name": "Lamborn, Doug", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-06", 
+      "state": "CO", 
+      "thomas_id": "01834", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-07", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000569", 
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-27", 
+      "state": "MO", 
+      "thomas_id": "01931", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000580", 
+      "district": "1", 
+      "name": "Lujan Grisham, Michelle", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-22", 
+      "state": "NM", 
+      "thomas_id": "02146", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001158", 
+      "district": "24", 
+      "name": "Marchant, Kenny", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-17", 
+      "state": "TX", 
+      "thomas_id": "01806", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000404", 
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-22", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001197", 
+      "district": "2", 
+      "name": "McSally, Martha", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-28", 
+      "state": "AZ", 
+      "thomas_id": "02225", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000592", 
+      "district": "2", 
+      "name": "Poe, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-05", 
+      "state": "TX", 
+      "thomas_id": "01802", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000598", 
+      "district": "2", 
+      "name": "Polis, Jared", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "CO", 
+      "thomas_id": "01910", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000600", 
+      "district": null, 
+      "name": "Radewagen, Aumua Amata Coleman", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-02", 
+      "state": "AS", 
+      "thomas_id": "02222", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000580", 
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-11-02", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000599", 
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-09-10", 
+      "state": "CA", 
+      "thomas_id": "02109", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000577", 
+      "district": "13", 
+      "name": "Ryan, Tim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-20", 
+      "state": "OH", 
+      "thomas_id": "01756", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000244", 
+      "district": "5", 
+      "name": "Sensenbrenner, F. James, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-16", 
+      "state": "WI", 
+      "thomas_id": "01041", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001154", 
+      "district": "9", 
+      "name": "Shuster, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-06", 
+      "state": "PA", 
+      "thomas_id": "01681", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001191", 
+      "district": "9", 
+      "name": "Sinema, Kyrsten", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-20", 
+      "state": "AZ", 
+      "thomas_id": "02099", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000467", 
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-28", 
+      "state": "PA", 
+      "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-21", 
+      "state": "NV", 
+      "thomas_id": "01940", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000130", 
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000132", 
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "02167", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000062", 
+      "district": "3", 
+      "name": "Yarmuth, John A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "KY", 
+      "thomas_id": "01853", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2015-11-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-09-10", 
+  "number": "3471", 
+  "official_title": "To amend title 38, United States Code, to make certain improvements in the provision of automobiles and adaptive equipment by the Department of Veterans Affairs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans Mobility Safety Act of 2015", 
+  "sponsor": {
+    "bioguide_id": "W000813", 
+    "district": "2", 
+    "name": "Walorski, Jackie", 
+    "state": "IN", 
+    "thomas_id": "02128", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-05-18", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Disability and paralysis", 
+    "Motor vehicles", 
+    "Transportation safety and security", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2015-09-10T04:00:00Z", 
+    "text": "Veterans Mobility Safety Act of 2015\n\nThis bill directs the Department of Veterans Affairs to ensure that an eligible disabled veteran provided an automobile or other conveyance is given the opportunity to make personal selections relating to the automobile or other conveyance.\n\n Minimum standards of safety and quality for adaptive equipment shall include that:\n\n the provider of any adaptive equipment modification services be certified by a certification organization or the manufacturer of the adaptive equipment; any individual performing such modification services on an automobile be certified by a certification organization, the manufacturer, or the state; and the provider of the automobile or adaptive equipment or the provider of the modification services adhere to specified requirements under the Americans with Disabilities Act of 1990 and the National Highway Traffic Safety Administration Federal Motor Vehicle Safety Standards."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Mobility Safety Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to make certain improvements in the provision of automobiles and adaptive equipment by the Department of Veterans Affairs.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Veterans Mobility Safety Act of 2015", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-03T14:20:20Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr3471.xml"
+}

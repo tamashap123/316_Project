@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5479-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-14", 
+  "number": "5479", 
+  "official_title": "To provide for programs under the Department of Health and Human Services to improve newborn screening, evaluation, and intervention for critical congenital heart defect.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Screening Hearts in Newborns for Early Detection of Congenital Heart Defect Act", 
+  "sponsor": {
+    "bioguide_id": "M001143", 
+    "district": "4", 
+    "name": "McCollum, Betty", 
+    "state": "MN", 
+    "thomas_id": "01653", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-06-14", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Screening Hearts in Newborns for Early Detection of Congenital Heart Defect Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SHINE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for programs under the Department of Health and Human Services to improve newborn screening, evaluation, and intervention for critical congenital heart defect.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "SHINE Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:29:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5479.xml"
+}

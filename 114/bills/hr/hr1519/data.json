@@ -1,0 +1,600 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-03-19", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-03-19", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-11-16", 
+      "action_code": "", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1519-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED", 
+      "subcommittee": "Subcommittee on Early Childhood, Elementary, and Secondary Education", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001281", 
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-26", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001285", 
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-19", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001036", 
+      "district": "24", 
+      "name": "Capps, Lois", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-23", 
+      "state": "CA", 
+      "thomas_id": "01471", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-03-23", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-28", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001078", 
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-03-19", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000598", 
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "CA", 
+      "thomas_id": "01641", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000191", 
+      "district": "4", 
+      "name": "DeFazio, Peter A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-01", 
+      "state": "OR", 
+      "thomas_id": "00279", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000617", 
+      "district": "1", 
+      "name": "DelBene, Suzan K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-14", 
+      "state": "WA", 
+      "thomas_id": "02096", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000623", 
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-16", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000622", 
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-17", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000215", 
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-06-16", 
+      "state": "CA", 
+      "thomas_id": "00355", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000454", 
+      "district": "11", 
+      "name": "Foster, Bill", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-13", 
+      "state": "IL", 
+      "thomas_id": "01888", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001064", 
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-05", 
+      "state": "WA", 
+      "thomas_id": "02170", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001056", 
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-30", 
+      "state": "WA", 
+      "thomas_id": "02071", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001034", 
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-13", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001068", 
+      "district": "2", 
+      "name": "Huffman, Jared", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-06-01", 
+      "state": "CA", 
+      "thomas_id": "02101", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000375", 
+      "district": "9", 
+      "name": "Keating, William R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-03-19", 
+      "state": "MA", 
+      "thomas_id": "02025", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000381", 
+      "district": "6", 
+      "name": "Kilmer, Derek", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-13", 
+      "state": "WA", 
+      "thomas_id": "02169", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000560", 
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-30", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000551", 
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-06", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000582", 
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-06-01", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000565", 
+      "district": "2", 
+      "name": "Loebsack, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-03-23", 
+      "state": "IA", 
+      "thomas_id": "01846", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000397", 
+      "district": "19", 
+      "name": "Lofgren, Zoe", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-28", 
+      "state": "CA", 
+      "thomas_id": "00701", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000579", 
+      "district": "47", 
+      "name": "Lowenthal, Alan S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-03-19", 
+      "state": "CA", 
+      "thomas_id": "02111", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001163", 
+      "district": "6", 
+      "name": "Matsui, Doris O.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-06-01", 
+      "state": "CA", 
+      "thomas_id": "01814", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001143", 
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-13", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000404", 
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-03-19", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-14", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001159", 
+      "district": "5", 
+      "name": "McMorris Rodgers, Cathy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-19", 
+      "state": "WA", 
+      "thomas_id": "01809", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001166", 
+      "district": "9", 
+      "name": "McNerney, Jerry", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-16", 
+      "state": "CA", 
+      "thomas_id": "01832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000127", 
+      "district": "8", 
+      "name": "Nolan, Richard M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-19", 
+      "state": "MN", 
+      "thomas_id": "00867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-03-19", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-06-01", 
+      "state": "CA", 
+      "thomas_id": "02113", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-03-19", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000578", 
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-05-01", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001150", 
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-28", 
+      "state": "CA", 
+      "thomas_id": "01635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000510", 
+      "district": "9", 
+      "name": "Smith, Adam", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-12", 
+      "state": "WA", 
+      "thomas_id": "01528", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001193", 
+      "district": "15", 
+      "name": "Swalwell, Eric", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-04-30", 
+      "state": "CA", 
+      "thomas_id": "02104", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000472", 
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-03-19", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000130", 
+      "district": "51", 
+      "name": "Vargas, Juan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-11", 
+      "state": "CA", 
+      "thomas_id": "02112", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000799", 
+      "district": "1", 
+      "name": "Walz, Timothy J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-05-10", 
+      "state": "MN", 
+      "thomas_id": "01856", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000808", 
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-03-19", 
+      "state": "FL", 
+      "thomas_id": "02004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-03-19", 
+  "number": "1519", 
+  "official_title": "To direct the Secretary of Education to establish an award program recognizing excellence exhibited by public school system employees providing services to students in prekindergarten through higher education.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2653-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Recognizing Achievement in Classified School Employees Act", 
+  "sponsor": {
+    "bioguide_id": "T000468", 
+    "district": "1", 
+    "name": "Titus, Dina", 
+    "state": "NV", 
+    "thomas_id": "01940", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-03-19", 
+  "subjects": [
+    "Child safety and welfare", 
+    "Education", 
+    "Educational facilities and institutions", 
+    "Elementary and secondary education", 
+    "Government employee pay, benefits, personnel management", 
+    "Higher education", 
+    "Preschool education", 
+    "School administration", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2015-03-19T04:00:00Z", 
+    "text": "Recognizing Achievement in Classified School Employees Act\n\nDirects the Secretary of Education to award National Classified School Employee of the Year Awards to classified public school employees within certain occupational specialties who provide exemplary service to students in prekindergarten through higher education.\n\nRequires the Secretary to choose an awardee each year, out of nominations received from each state, from one of the following occupational specialties: (1) paraprofessional services, (2) clerical and administrative services, (3) transportation services, (4) food and nutrition services, (5) custodial and maintenance services, (6) security services, (7) health and student services, (8) technical services, and (9) skilled trades."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recognizing Achievement in Classified School Employees Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Education to establish an award program recognizing excellence exhibited by public school system employees providing services to students in prekindergarten through higher education.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Recognizing Achievement in Classified School Employees Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:26:58Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr1519.xml"
+}

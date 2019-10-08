@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-25", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-25", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2590-114", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001267", 
+      "district": null, 
+      "name": "Bennet, Michael F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-29", 
+      "state": "CO", 
+      "thomas_id": "01965", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000555", 
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-13", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000595", 
+      "district": null, 
+      "name": "Peters, Gary C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-25", 
+      "state": "MI", 
+      "thomas_id": "01929", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-25", 
+  "number": "2590", 
+  "official_title": "A bill to amend title XXI of the Social Security Act to improve access to, and the delivery of, children's health services through school-based health centers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4621-114", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Hallways to Health Act", 
+  "sponsor": {
+    "bioguide_id": "S000770", 
+    "district": null, 
+    "name": "Stabenow, Debbie", 
+    "state": "MI", 
+    "thomas_id": "01531", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-25", 
+  "subjects": [
+    "Child health", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health care quality", 
+    "Health facilities and institutions", 
+    "Health programs administration and funding", 
+    "Medicaid", 
+    "Poverty and welfare assistance"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hallways to Health Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title XXI of the Social Security Act to improve access to, and the delivery of, children's health services through school-based health centers, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Hallways to Health Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:31:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/s/BILLSTATUS-114s2590.xml"
+}

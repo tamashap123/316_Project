@@ -1,0 +1,533 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-05-15", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-15", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to House Energy and Commerce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2015-05-22", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres265-114", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001281", 
+      "district": "3", 
+      "name": "Beatty, Joyce", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-08", 
+      "state": "OH", 
+      "thomas_id": "02153", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001274", 
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "AL", 
+      "thomas_id": "01987", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001285", 
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-28", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-03", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001084", 
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-20", 
+      "state": "RI", 
+      "thomas_id": "02055", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-26", 
+      "state": "TN", 
+      "thomas_id": "01878", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001106", 
+      "district": "6", 
+      "name": "Costello, Ryan A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-08", 
+      "state": "PA", 
+      "thomas_id": "02266", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001045", 
+      "district": "4", 
+      "name": "Crenshaw, Ander", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-28", 
+      "state": "FL", 
+      "thomas_id": "01643", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001107", 
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "FL", 
+      "thomas_id": "02235", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000619", 
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-07-28", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000600", 
+      "district": "25", 
+      "name": "Diaz-Balart, Mario", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "FL", 
+      "thomas_id": "01717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000624", 
+      "district": "12", 
+      "name": "Dingell, Debbie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-08", 
+      "state": "MI", 
+      "thomas_id": "02251", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000613", 
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000290", 
+      "district": "4", 
+      "name": "Edwards, Donna F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-02", 
+      "state": "MD", 
+      "thomas_id": "01894", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000462", 
+      "district": "22", 
+      "name": "Frankel, Lois", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-01-06", 
+      "state": "FL", 
+      "thomas_id": "02119", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000448", 
+      "district": "8", 
+      "name": "Franks, Trent", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "AZ", 
+      "thomas_id": "01707", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000574", 
+      "district": "7", 
+      "name": "Gallego, Ruben", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-15", 
+      "state": "AZ", 
+      "thomas_id": "02226", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-02", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001051", 
+      "district": "22", 
+      "name": "Hanna, Richard L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-02-01", 
+      "state": "NY", 
+      "thomas_id": "02044", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-02", 
+      "state": "FL", 
+      "thomas_id": "00511", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000378", 
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-09", 
+      "state": "IL", 
+      "thomas_id": "02014", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000557", 
+      "district": "1", 
+      "name": "Larson, John B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-16", 
+      "state": "CT", 
+      "thomas_id": "01583", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001143", 
+      "district": "4", 
+      "name": "McCollum, Betty", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "MN", 
+      "thomas_id": "01653", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000404", 
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-16", 
+      "state": "MA", 
+      "thomas_id": "01504", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001180", 
+      "district": "1", 
+      "name": "McKinley, David B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-13", 
+      "state": "WV", 
+      "thomas_id": "02074", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001188", 
+      "district": "6", 
+      "name": "Meng, Grace", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-28", 
+      "state": "NY", 
+      "thomas_id": "02148", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-02", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000604", 
+      "district": "10", 
+      "name": "Payne, Donald M., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-08", 
+      "state": "NJ", 
+      "thomas_id": "02097", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-08", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Q000023", 
+      "district": "5", 
+      "name": "Quigley, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "IL", 
+      "thomas_id": "01967", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000578", 
+      "district": "8", 
+      "name": "Reichert, David G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "WA", 
+      "thomas_id": "01810", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000435", 
+      "district": "27", 
+      "name": "Ros-Lehtinen, Ileana", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "FL", 
+      "thomas_id": "00985", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000248", 
+      "district": "15", 
+      "name": "Serrano, Jose E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-10-16", 
+      "state": "NY", 
+      "thomas_id": "01042", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000187", 
+      "district": "43", 
+      "name": "Waters, Maxine", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-05-15", 
+      "state": "CA", 
+      "thomas_id": "01205", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000808", 
+      "district": "24", 
+      "name": "Wilson, Frederica S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-12-16", 
+      "state": "FL", 
+      "thomas_id": "02004", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-05-15", 
+  "number": "265", 
+  "official_title": "Recognizing the importance of a continued commitment to ending pediatric AIDS worldwide.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "L000551", 
+    "district": "13", 
+    "name": "Lee, Barbara", 
+    "state": "CA", 
+    "thomas_id": "01501", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2015-05-15", 
+  "subjects": [
+    "Child health", 
+    "HIV/AIDS", 
+    "Health care coverage and access", 
+    "Health promotion and preventive care", 
+    "International affairs", 
+    "Medical tests and diagnostic methods", 
+    "Women's health", 
+    "World health"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2015-05-15T04:00:00Z", 
+    "text": "Recognizes that prevention of mother-to-child transmission of HIV is critical to stopping the spread of HIV worldwide and that the fight to eliminate pediatric HIV worldwide has been a priority for more than 13 years.\n\nSupports providing women with HIV counseling and testing services and dramatically scaling up pediatric treatment of HIV."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recognizing the importance of a continued commitment to ending pediatric AIDS worldwide.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Recognizing the importance of a continued commitment to ending pediatric AIDS worldwide.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:25:37Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hres/BILLSTATUS-114hres265.xml"
+}

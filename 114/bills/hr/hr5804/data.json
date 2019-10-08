@@ -1,0 +1,161 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-08-11", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Border Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5804-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Border Security", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000755", 
+      "district": "8", 
+      "name": "Brady, Kevin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "01468", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000460", 
+      "district": "27", 
+      "name": "Farenthold, Blake", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "02067", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000250", 
+      "district": "32", 
+      "name": "Sessions, Pete", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "01525", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000583", 
+      "district": "21", 
+      "name": "Smith, Lamar", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "01075", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000814", 
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-14", 
+  "number": "5804", 
+  "official_title": "To amend section 412(a)(2) of the Immigration and Nationality Act to require the Director of the Office of Refugee Resettlement to obtain the approval of the Governor of a State before placing or resettling a refugee with the State, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "No Resettlement Without Consent Act", 
+  "sponsor": {
+    "bioguide_id": "C001048", 
+    "district": "7", 
+    "name": "Culberson, John Abney", 
+    "state": "TX", 
+    "thomas_id": "01670", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-14", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "No Resettlement Without Consent Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend section 412(a)(2) of the Immigration and Nationality Act to require the Director of the Office of Refugee Resettlement to obtain the approval of the Governor of a State before placing or resettling a refugee with the State, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "No Resettlement Without Consent Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-12T08:51:49Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5804.xml"
+}

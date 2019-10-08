@@ -1,0 +1,182 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-07-28", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-07-28", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-03-09", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2016-04-05", 
+      "action_code": "", 
+      "committee": "Health, Education, Labor, and Pensions", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2016-04-05", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "415", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 415.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1878-114", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000944", 
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-08", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000055", 
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2015-07-28", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000360", 
+      "district": null, 
+      "name": "Kirk, Mark Steven", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2015-09-24", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-04-05", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2015-07-28", 
+  "number": "1878", 
+  "official_title": "A bill to extend the pediatric priority review voucher program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1537-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Advancing Hope Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "C001070", 
+    "district": null, 
+    "name": "Casey, Robert P., Jr.", 
+    "state": "PA", 
+    "thomas_id": "01828", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-03-09", 
+  "subjects": [
+    "Blood and blood diseases", 
+    "Cancer", 
+    "Child health", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Drug therapy", 
+    "Health", 
+    "Hereditary and development disorders", 
+    "Infectious and parasitic diseases", 
+    "World health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2015-07-28T04:00:00Z", 
+    "text": "Advancing Hope Act of 2015\n\nThis bill amends the Federal Food, Drug, and Cosmetic Act to expand the priority review voucher program for rare pediatric diseases to include treatments for sickle cell disease and pediatric cancers.\n\nThe voucher program is extended by removing the provision terminating the program one year after the Food and Drug Administration's (FDA's) issuance of three rare pediatric disease vouchers.\n\nA voucher may not be issued for a rare pediatric disease product if a voucher was issued for the product as a tropical disease product.\n\nA drug sponsor that intends to request a voucher for a rare pediatric disease drug must notify the FDA of that intent upon submission of the new drug application."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advancing Hope Act of 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Advancing Hope Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to extend the pediatric priority review voucher program.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Advancing Hope Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:30:49Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/s/BILLSTATUS-114s1878.xml"
+}

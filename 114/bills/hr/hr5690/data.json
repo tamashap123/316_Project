@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-12", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-12", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5690-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000622", 
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-08", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2016-07-12", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-08", 
+  "number": "5690", 
+  "official_title": "To ensure the Government Accountability Office has adequate access to information.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3011-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2849-114", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "GAO Access and Oversight Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "C001103", 
+    "district": "1", 
+    "name": "Carter, Earl L. \"Buddy\"", 
+    "state": "GA", 
+    "thomas_id": "02236", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2016-07-12", 
+  "subjects": [
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2016-07-08T04:00:00Z", 
+    "text": "GAO Access and Oversight Act of 2016\n\nThis bill authorizes the Government Accountability Office (GAO) to obtain federal agency records required to discharge the GAO's duties (including audit, evaluation, and investigative duties), including through bringing civil actions to require an agency to produce a record.\n\nNo provision of the Social Security Act shall\u00a0be construed to limit, amend, or supersede the GAO's authority to: (1) obtain information or inspect records about an agency's duties, powers, activities, organization, or financial transactions; or (2) obtain other agency records that the GAO requires to discharge its duties.\n\nAgency statements on actions taken or planned in response to GAO recommendations must be submitted to: (1) the congressional committees with jurisdiction over the pertinent agency program or activity, and (2) the GAO."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "GAO Access and Oversight Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure the Government Accountability Office has adequate access to information.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "GAO Access and Oversight Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-25T18:31:14Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5690.xml"
+}

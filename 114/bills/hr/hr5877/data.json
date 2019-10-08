@@ -1,0 +1,143 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Homeland Security", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-08-03", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5877-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies", 
+      "subcommittee_id": "08"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000559", 
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-14", 
+      "state": "RI", 
+      "thomas_id": "01668", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-14", 
+  "number": "5877", 
+  "official_title": "To amend the Homeland Security Act of 2002 and the United States-Israel Strategic Partnership Act of 2014 to promote cooperative homeland security research and antiterrorism programs relating to cybersecurity, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "United States-Israel Advanced Research Partnership Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "R000601", 
+    "district": "4", 
+    "name": "Ratcliffe, John", 
+    "state": "TX", 
+    "thomas_id": "02268", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-14", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "United States-Israel Advanced Research Partnership Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 and the United States-Israel Strategic Partnership Act of 2014 to promote cooperative homeland security research and antiterrorism programs relating to cybersecurity, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "United States-Israel Advanced Research Partnership Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-05T16:21:52Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5877.xml"
+}

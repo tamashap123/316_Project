@@ -1,0 +1,256 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-11", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Foreign Affairs", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-07-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Referred to House Financial Services", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5708-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001257", 
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-18", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001296", 
+      "district": "13", 
+      "name": "Boyle, Brendan F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-11", 
+      "state": "PA", 
+      "thomas_id": "02267", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001097", 
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-11", 
+      "state": "CA", 
+      "thomas_id": "02107", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001063", 
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-11", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001107", 
+      "district": "26", 
+      "name": "Curbelo, Carlos", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-11", 
+      "state": "FL", 
+      "thomas_id": "02235", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000600", 
+      "district": "25", 
+      "name": "Diaz-Balart, Mario", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-11", 
+      "state": "FL", 
+      "thomas_id": "01717", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000625", 
+      "district": "11", 
+      "name": "Donovan, Daniel M., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "NY", 
+      "thomas_id": "02293", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000615", 
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-11", 
+      "state": "SC", 
+      "thomas_id": "02057", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000188", 
+      "district": "1", 
+      "name": "Norcross, Donald", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-11", 
+      "state": "NJ", 
+      "thomas_id": "02202", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000583", 
+      "district": "17", 
+      "name": "Rooney, Thomas J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-18", 
+      "state": "FL", 
+      "thomas_id": "01916", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001165", 
+      "district": "8", 
+      "name": "Sires, Albio", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-11", 
+      "state": "NJ", 
+      "thomas_id": "01818", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000814", 
+      "district": "14", 
+      "name": "Weber, Randy K., Sr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-14", 
+      "state": "TX", 
+      "thomas_id": "02161", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000065", 
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-07-11", 
+      "state": "FL", 
+      "thomas_id": "02115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-07-11", 
+  "number": "5708", 
+  "official_title": "To oppose loans at international financial institutions for the Government of Nicaragua unless the Government of Nicaragua is taking effective steps to hold free, fair, and transparent elections, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Nicaraguan Investment Conditionality Act (NICA) of 2016", 
+  "sponsor": {
+    "bioguide_id": "R000435", 
+    "district": "27", 
+    "name": "Ros-Lehtinen, Ileana", 
+    "state": "FL", 
+    "thomas_id": "00985", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-07-11", 
+  "subjects": [
+    "International affairs"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Nicaraguan Investment Conditionality Act (NICA) of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To oppose loans at international financial institutions for the Government of Nicaragua unless the Government of Nicaragua is taking effective steps to hold free, fair, and transparent elections, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Nicaraguan Investment Conditionality Act (NICA) of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-03T19:31:29Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5708.xml"
+}

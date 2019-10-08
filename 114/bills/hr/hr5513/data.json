@@ -1,0 +1,385 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-06-21", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5513-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000374", 
+      "district": "5", 
+      "name": "Abraham, Ralph Lee", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "LA", 
+      "thomas_id": "02244", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001291", 
+      "district": "36", 
+      "name": "Babin, Brian", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "TX", 
+      "thomas_id": "02270", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001293", 
+      "district": "8", 
+      "name": "Bishop, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "MI", 
+      "thomas_id": "02249", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001255", 
+      "district": "3", 
+      "name": "Boustany, Charles W., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "LA", 
+      "thomas_id": "01787", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001290", 
+      "district": "7", 
+      "name": "Brat, Dave", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-07", 
+      "state": "VA", 
+      "thomas_id": "02203", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001103", 
+      "district": "1", 
+      "name": "Carter, Earl L. \"Buddy\"", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-06", 
+      "state": "GA", 
+      "thomas_id": "02236", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001096", 
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "ND", 
+      "thomas_id": "02144", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001063", 
+      "district": "28", 
+      "name": "Cuellar, Henry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "TX", 
+      "thomas_id": "01807", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000613", 
+      "district": "10", 
+      "name": "Dold, Robert J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "IL", 
+      "thomas_id": "02013", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000294", 
+      "district": "6", 
+      "name": "Emmer, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-05", 
+      "state": "MN", 
+      "thomas_id": "02253", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000552", 
+      "district": "1", 
+      "name": "Gohmert, Louie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "TX", 
+      "thomas_id": "01801", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001059", 
+      "district": "14", 
+      "name": "Hultgren, Randy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "IL", 
+      "thomas_id": "02015", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001048", 
+      "district": "50", 
+      "name": "Hunter, Duncan D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-21", 
+      "state": "CA", 
+      "thomas_id": "01909", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000386", 
+      "district": "24", 
+      "name": "Katko, John", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-07", 
+      "state": "NY", 
+      "thomas_id": "02264", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000362", 
+      "district": "4", 
+      "name": "King, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "IA", 
+      "thomas_id": "01724", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000583", 
+      "district": "11", 
+      "name": "Loudermilk, Barry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "GA", 
+      "thomas_id": "02238", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000189", 
+      "district": "4", 
+      "name": "Newhouse, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-05", 
+      "state": "WA", 
+      "thomas_id": "02275", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000168", 
+      "district": "22", 
+      "name": "Olson, Pete", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-22", 
+      "state": "TX", 
+      "thomas_id": "01955", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000601", 
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-07-05", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000592", 
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001189", 
+      "district": "8", 
+      "name": "Scott, Austin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "GA", 
+      "thomas_id": "02009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001195", 
+      "district": "8", 
+      "name": "Smith, Jason", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "MO", 
+      "thomas_id": "02191", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000816", 
+      "district": "25", 
+      "name": "Williams, Roger", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-06-22", 
+      "state": "TX", 
+      "thomas_id": "02165", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000065", 
+      "district": "3", 
+      "name": "Yoho, Ted S.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-06-16", 
+      "state": "FL", 
+      "thomas_id": "02115", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-06-16", 
+  "number": "5513", 
+  "official_title": "To provide for Federal agency accountability and improve the effectiveness of major rules in accomplishing their regulatory objectives by requiring retrospective review and report, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1817-114", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "PROVE IT Act of 2016", 
+  "sponsor": {
+    "bioguide_id": "G000577", 
+    "district": "6", 
+    "name": "Graves, Garret", 
+    "state": "LA", 
+    "thomas_id": "02245", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-06-16", 
+  "subjects": [
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PROVE IT Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing Retrospective Observations Validating Economics and Increasing Transparency Act of 2016", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for Federal agency accountability and improve the effectiveness of major rules in accomplishing their regulatory objectives by requiring retrospective review and report, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "PROVE IT Act of 2016", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:29:15Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr5513.xml"
+}

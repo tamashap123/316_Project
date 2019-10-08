@@ -1,0 +1,335 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-29", 
+      "action_code": "H11100-A", 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Referred to House Education and the Workforce", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2016-02-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to House Ways and Means", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4652-114", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "114", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001296", 
+      "district": "13", 
+      "name": "Boyle, Brendan F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "PA", 
+      "thomas_id": "02267", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001227", 
+      "district": "1", 
+      "name": "Brady, Robert A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "PA", 
+      "thomas_id": "01469", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001080", 
+      "district": "27", 
+      "name": "Chu, Judy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "CA", 
+      "thomas_id": "01970", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001067", 
+      "district": "9", 
+      "name": "Clarke, Yvette D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "NY", 
+      "thomas_id": "01864", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000623", 
+      "district": "11", 
+      "name": "DeSaulnier, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-04-13", 
+      "state": "CA", 
+      "thomas_id": "02227", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-01", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001034", 
+      "district": "17", 
+      "name": "Honda, Michael M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "CA", 
+      "thomas_id": "01634", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000032", 
+      "district": "18", 
+      "name": "Jackson Lee, Sheila", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "TX", 
+      "thomas_id": "00588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000560", 
+      "district": "2", 
+      "name": "Larsen, Rick", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-07", 
+      "state": "WA", 
+      "thomas_id": "01675", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000551", 
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "CA", 
+      "thomas_id": "01501", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000582", 
+      "district": "33", 
+      "name": "Lieu, Ted", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "CA", 
+      "thomas_id": "02230", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "WI", 
+      "thomas_id": "01811", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000127", 
+      "district": "8", 
+      "name": "Nolan, Richard M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "MN", 
+      "thomas_id": "00867", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000147", 
+      "district": null, 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "DC", 
+      "thomas_id": "00868", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000034", 
+      "district": "6", 
+      "name": "Pallone, Frank, Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "NJ", 
+      "thomas_id": "00887", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000053", 
+      "district": "13", 
+      "name": "Rangel, Charles B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "NY", 
+      "thomas_id": "00944", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001145", 
+      "district": "9", 
+      "name": "Schakowsky, Janice D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "IL", 
+      "thomas_id": "01588", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000472", 
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2016-03-01", 
+      "state": "CA", 
+      "thomas_id": "02110", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000822", 
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2016-02-29", 
+      "state": "NJ", 
+      "thomas_id": "02259", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2016-02-29", 
+  "number": "4652", 
+  "official_title": "To amend the Higher Education Act of 1965 to codify the Revised Pay As You Earn Repayment plan, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Clarity in Lending for Education and Repayment Act", 
+  "sponsor": {
+    "bioguide_id": "T000473", 
+    "district": "1", 
+    "name": "Takai, Mark", 
+    "state": "HI", 
+    "thomas_id": "02240", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2016-02-29", 
+  "subjects": [
+    "Disability and paralysis", 
+    "Education", 
+    "Government lending and loan guarantees", 
+    "Higher education", 
+    "Income tax exclusion", 
+    "Interest, dividends, interest rates", 
+    "Student aid and college costs", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clarity in Lending for Education and Repayment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "CLEAR Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965 to codify the Revised Pay As You Earn Repayment plan, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "CLEAR Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2016-08-01T13:28:49Z", 
+  "url": "https://www.gpo.gov/fdsys/bulkdata/BILLSTATUS/114/hr/BILLSTATUS-114hr4652.xml"
+}
