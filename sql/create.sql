@@ -39,5 +39,10 @@ CREATE TABLE RegisteredUser
 
 CREATE TABLE RepresentedBy
 (email VARCHAR(256) NOT NULL REFERENCES RegisteredUser(email),
- rep_id INTEGER NOT NULL REFERENCES Congressman(id));
+ rep_id INTEGER NOT NULL REFERENCES Congressman(id),
+ PRIMARY KEY(email, rep_id));
 
+-- TODO: 
+-- - constraints on attributes
+-- - trigger on RegisteredUser that updates RepresentedBy?
+-- - trigger on Bill that updates SponsoredBy?
