@@ -50,22 +50,39 @@ CREATE TABLE RepresentedBy
 
 CREATE FUNCTION F_Get_Representatives() RETURNS TRIGGER AS $$
 BEGIN
- IF (TG_OP = 'INSERT') THEN
- 	INSERT INTO RepresentedBy(email, rep_id) (
- 		SELECT NEW.email, Congressman.id
- 		FROM Congressman
- 		WHERE (Congressman.house_or_senate = 'S' AND Congressman.state = NEW.state) 
- 			OR (Congressman.house_or_senate = 'H' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
- 	);
- END IF;
- IF (TG_OP = 'UPDATE') THEN
-
- END IF;
- RETURN NEW;
+	INSERT INTO RepresentedBy(email, rep_id) (
+		SELECT NEW.email, Congressman.id
+		FROM Congressman
+		WHERE (Congressman.house_or_senate = 'S' AND Congressman.state = NEW.state) 
+			OR (Congressman.house_or_senate = 'H' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
+	);
+	RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;
 
 CREATE TRIGGER T_Get_Representatives
- AFTER INSERT OR UPDATE ON RegisteredUser
+ AFTER INSERT ON RegisteredUser
  FOR EACH ROW
  EXECUTE PROCEDURE F_Get_Representatives();
+
+CREATE FUNCTION F_Update_Representatives() RETURNS TRIGGER AS $$
+BEGIN
+	DELETE FROM RepresentedBy
+	WHERE email = OLD.email;
+	IF (TG_OP = 'UPDATE') THEN
+		INSERT INTO RepresentedBy(email, rep_id) (
+			SELECT NEW.email, Congressman.id
+			FROM Congressman
+			WHERE (Congressman.house_or_senate = 'S' AND Congressman.state = NEW.state) 
+				OR (Congressman.house_or_senate = 'H' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
+		);
+		RETURN NEW;
+	END IF;
+	RETURN OLD;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER T_Update_Representatives
+ BEFORE UPDATE OR DELETE ON RegisteredUser
+ FOR EACH ROW
+ EXECUTE PROCEDURE F_Update_Representatives();
