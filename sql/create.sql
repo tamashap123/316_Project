@@ -9,7 +9,7 @@ CREATE TABLE Congressman
  CHECK(party in ('D', 'R', 'I')));
 
 CREATE TABLE Bill
-(type VARCHAR(5) NOT NULL,
+(type CHAR(1) NOT NULL,
  num INTEGER NOT NULL,
  cong_year INTEGER NOT NULL,
  enacted BOOLEAN NOT NULL,
@@ -17,6 +17,7 @@ CREATE TABLE Bill
  category VARCHAR(256) NOT NULL,
  introduction_date DATE NOT NULL,
  PRIMARY KEY(type, num),
+ CHECK(type in ('H','S')),
  CHECK(cong_year < 116));
 
 CREATE TABLE SponsoredBy
