@@ -1,10 +1,12 @@
 CREATE TABLE Congressman
 (id INTEGER NOT NULL PRIMARY KEY,
  name VARCHAR(256) NOT NULL,
- house_or_senate VARCHAR(10) NOT NULL,
+ house_or_senate CHAR(1) NOT NULL,
  state VARCHAR(2) NOT NULL,
  district INTEGER NOT NULL,
- party VARCHAR(50) NOT NULL);
+ party CHAR(1) NOT NULL,
+ CHECK(house_or_senate in ('H', 'S')),
+ CHECK(party in ('D', 'R', 'I')));
 
 CREATE TABLE Bill
 (type VARCHAR(5) NOT NULL,
@@ -14,7 +16,8 @@ CREATE TABLE Bill
  summary VARCHAR(1000) NOT NULL,
  category VARCHAR(256) NOT NULL,
  introduction_date DATE NOT NULL,
- PRIMARY KEY(type, num));
+ PRIMARY KEY(type, num),
+ CHECK(cong_year < 116));
 
 CREATE TABLE SponsoredBy
 (bill_type VARCHAR(5) NOT NULL,
@@ -29,7 +32,8 @@ CREATE TABLE Vote
  bill_num INTEGER NOT NULL,
  decision VARCHAR(10) NOT NULL,
  PRIMARY KEY(rep_id, bill_type, bill_num),
- FOREIGN KEY(bill_type, bill_num) REFERENCES Bill(type, num));
+ FOREIGN KEY(bill_type, bill_num) REFERENCES Bill(type, num),
+ CHECK(decision in ('Aye', 'Nay', 'Abstain')));
 
 CREATE TABLE RegisteredUser
 (email VARCHAR(256) NOT NULL PRIMARY KEY,
@@ -43,6 +47,5 @@ CREATE TABLE RepresentedBy
  PRIMARY KEY(email, rep_id));
 
 -- TODO: 
--- - constraints on attributes
 -- - trigger on RegisteredUser that updates RepresentedBy?
 -- - trigger on Bill that updates SponsoredBy?
