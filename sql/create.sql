@@ -48,19 +48,15 @@ CREATE TABLE RepresentedBy
  rep_id INTEGER NOT NULL REFERENCES Congressman(id),
  PRIMARY KEY(email, rep_id));
 
--- TODO: 
--- - trigger on RegisteredUser that updates RepresentedBy?
-
 CREATE FUNCTION F_Get_Representatives() RETURNS TRIGGER AS $$
 BEGIN
  IF (TG_OP = 'INSERT') THEN
- 	-- INSERT INTO RepresentedBy (
- 	-- 	SELECT RegisteredUser.email, Congressman.id
- 	-- 	FROM Congressman, RegisteredUser
- 	-- 	WHERE RegisteredUser.email = NEW.email 
- 	-- 	AND ((Congressman.house_or_senate = 'S' AND Congressman.state = RegisteredUser.state) 
- 	-- 		OR (Congressman.house_or_senate = 'H' AND Congressman.state = RegisteredUser.state AND Congressman.district = RegisteredUser.district))
- 	-- );
+ 	INSERT INTO RepresentedBy(email, rep_id) (
+ 		SELECT NEW.email, Congressman.id
+ 		FROM Congressman
+ 		WHERE (Congressman.house_or_senate = 'S' AND Congressman.state = NEW.state) 
+ 			OR (Congressman.house_or_senate = 'H' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
+ 	);
  END IF;
  IF (TG_OP = 'UPDATE') THEN
 
@@ -71,4 +67,5 @@ $$ LANGUAGE plpgsql;
 
 CREATE TRIGGER T_Get_Representatives
  AFTER INSERT OR UPDATE ON RegisteredUser
+ FOR EACH ROW
  EXECUTE PROCEDURE F_Get_Representatives();
