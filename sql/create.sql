@@ -17,25 +17,27 @@ CREATE TABLE Bill
  PRIMARY KEY(type, num));
 
 CREATE TABLE SponsoredBy
-(bill_type VARCHAR(5) NOT NULL REFERENCES Bill(type),
- bill_num INTEGER NOT NULL REFERENCES Bill(num),
+(bill_type VARCHAR(5) NOT NULL,
+ bill_num INTEGER NOT NULL,
  rep_id INTEGER NOT NULL REFERENCES Congressman(id),
- PRIMARY KEY(bill_type, bill_num, rep_id));
+ PRIMARY KEY(bill_type, bill_num, rep_id),
+ FOREIGN KEY(bill_type, bill_num) REFERENCES Bill(type, num));
 
 CREATE TABLE Vote
 (rep_id INTEGER NOT NULL REFERENCES Congressman(id),
- bill_type VARCHAR(5) NOT NULL REFERENCES Bill(type),
- bill_num INTEGER NOT NULL REFERENCES Bill(num),
+ bill_type VARCHAR(5) NOT NULL,
+ bill_num INTEGER NOT NULL,
  decision VARCHAR(10) NOT NULL,
- PRIMARY KEY(rep_id, bill_type, bill_num));
+ PRIMARY KEY(rep_id, bill_type, bill_num),
+ FOREIGN KEY(bill_type, bill_num) REFERENCES Bill(type, num));
 
-CREATE TABLE User
+CREATE TABLE RegisteredUser
 (email VARCHAR(256) NOT NULL PRIMARY KEY,
  name VARCHAR(256) NOT NULL,
  state VARCHAR(2) NOT NULL,
  district INTEGER NOT NULL);
 
 CREATE TABLE RepresentedBy
-(email VARCHAR(256) NOT NULL REFERENCES User(email),
+(email VARCHAR(256) NOT NULL REFERENCES RegisteredUser(email),
  rep_id INTEGER NOT NULL REFERENCES Congressman(id));
 
