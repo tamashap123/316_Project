@@ -9,5 +9,9 @@ INSERT INTO Bill VALUES('S', 2218, 115, TRUE, 'A third act...', 'Economics', '20
 INSERT INTO SponsoredBy VALUES('H', 2217, 2);
 INSERT INTO SponsoredBy VALUES('H', 2218, 3);
 INSERT INTO Vote VALUES(1, 'H', 2217, 'Nay');
+INSERT INTO Vote VALUES(3, 'H', 2217, 'Aye');
 INSERT INTO Vote VALUES(2, 'H', 2217, 'Aye');
+INSERT INTO Vote VALUES(3, 'H', 2218, 'Aye');
+INSERT INTO Vote VALUES(2, 'H', 2218, 'Nay');
+INSERT INTO Vote VALUES(2, 'S', 2218, 'Aye');
 INSERT INTO RegisteredUser VALUES('johndoe@gmail.com', 'John Doe', 'NC', 1);
