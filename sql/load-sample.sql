@@ -9,9 +9,9 @@ INSERT INTO Bill VALUES('s', 2218, 115, TRUE, 'A third act...', 'Economics', '20
 INSERT INTO SponsoredBy VALUES('hr', 2217, 113, 'B001251');
 INSERT INTO SponsoredBy VALUES('hr', 2218, 113, 'H001075');
 INSERT INTO Vote VALUES('B001135', 'hr', 2217, 113, 'Nay');
-INSERT INTO Vote VALUES('H001075', 'hr', 2217, 113, 'Aye');
-INSERT INTO Vote VALUES('B001251', 'hr', 2217, 113, 'Aye');
-INSERT INTO Vote VALUES('H001075', 'hr', 2218, 113, 'Aye');
+INSERT INTO Vote VALUES('H001075', 'hr', 2217, 113, 'Yea');
+INSERT INTO Vote VALUES('B001251', 'hr', 2217, 113, 'Yea');
+INSERT INTO Vote VALUES('H001075', 'hr', 2218, 113, 'Yea');
 INSERT INTO Vote VALUES('B001251', 'hr', 2218, 113, 'Nay');
-INSERT INTO Vote VALUES('B001251', 's', 2218, 115, 'Aye');
+INSERT INTO Vote VALUES('B001251', 's', 2218, 115, 'Yea');
 INSERT INTO RegisteredUser VALUES('johndoe@gmail.com', 'John Doe', 'NC', 1);
