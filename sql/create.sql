@@ -17,7 +17,7 @@ CREATE TABLE Bill
  num INTEGER NOT NULL,
  cong_year INTEGER NOT NULL,
  enacted BOOLEAN NOT NULL,
- summary VARCHAR(10000) NOT NULL,
+ summary VARCHAR(100000) NOT NULL,
  category VARCHAR(256) NOT NULL,
  introduction_date DATE NOT NULL,
  PRIMARY KEY(type, num, cong_year),
@@ -40,7 +40,7 @@ CREATE TABLE Vote
  decision VARCHAR(10) NOT NULL,
  PRIMARY KEY(rep_id, bill_type, bill_num, cong_year),
  FOREIGN KEY(bill_type, bill_num, cong_year) REFERENCES Bill(type, num, cong_year),
- CHECK(decision in ('Aye', 'Nay', 'Abstain')));
+ CHECK(decision in ('Yea', 'Nay', 'Abstain')));
 
 CREATE TABLE RegisteredUser
 (email VARCHAR(256) NOT NULL PRIMARY KEY,
