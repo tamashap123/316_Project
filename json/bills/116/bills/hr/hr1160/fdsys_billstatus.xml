@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>116</congress>
+    <updateDate>2019-07-30T13:18:44Z</updateDate>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <state>OR</state>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <firstName>EARL</firstName>
+        <lastName>BLUMENAUER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>OR</state>
+        <district>4</district>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <firstName>PETER</firstName>
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <bioguideId>D000191</bioguideId>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>OR</state>
+        <district>1</district>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <firstName>Suzanne</firstName>
+        <lastName>Bonamici</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001278</bioguideId>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <latestAction>
+      <actionDate>2019-02-13</actionDate>
+      <text>Referred to the House Committee on Natural Resources.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-02-13</introducedDate>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <number>47</number>
+        <latestAction>
+          <actionDate>2019-03-12</actionDate>
+          <text>Became Public Law No: 116-9.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>John D. Dingell, Jr. Conservation, Management, and Recreation Act</latestTitle>
+      </item>
+      <item>
+        <number>86</number>
+        <latestAction>
+          <actionDate>2019-01-10</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Oregon Wildlands Act</latestTitle>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-13T15:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1160ih/xml/BILLS-116hr1160ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+    <notes />
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-13</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-02-13</actionDate>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-02-13</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Wild and Scenic Rivers Act to designate segments of the Molalla River in the State of Oregon as components of the National Wild and Scenic Rivers System, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Molalla River Wild and Scenic Rivers Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Molalla River Wild and Scenic Rivers Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Molalla River Wild and Scenic Rivers Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <state>OR</state>
+        <district>5</district>
+        <identifiers>
+          <gpoId>8118</gpoId>
+          <lisID>1950</lisID>
+          <bioguideId>S001180</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Kurt</firstName>
+        <lastName>Schrader</lastName>
+        <middleName />
+        <bioguideId>S001180</bioguideId>
+      </item>
+    </sponsors>
+    <title>Molalla River Wild and Scenic Rivers Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-02-13T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-06-05T20:31:31Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Molalla River Wild and Scenic Rivers Act</b></p> <p>This bill designates specified segments of the Molalla River in Oregon as components of the National Wild and Scenic Rivers System. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-02-13</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHRADER:H.R. 1160.Congress has the power to enact this legislation pursuantto the following:Congress has the authority to act under Article I, Section8, clause 3--the Commerce Clause.[Page H1584]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-02-14T08:10:16Z</createDate>
+    <billNumber>1160</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Lakes and rivers</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

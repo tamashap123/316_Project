@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-23", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-23", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "links": [
+        {
+          "name": "S6096", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S6096"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S6096", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sconres28-116", 
+  "bill_type": "sconres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001176", 
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-23", 
+      "state": "OR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-23", 
+  "number": "28", 
+  "official_title": "A concurrent resolution congratulating the Portland Trail Blazers on the 50th anniversary of their inaugural season.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hconres69-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "W000779", 
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-23", 
+  "subjects": [
+    "Athletes", 
+    "Commemorative events and holidays", 
+    "Congressional tributes", 
+    "Oregon", 
+    "Professional sports"
+  ], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A concurrent resolution congratulating the Portland Trail Blazers on the 50th anniversary of their inaugural season.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A concurrent resolution congratulating the Portland Trail Blazers on the 50th anniversary of their inaugural season.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-02T04:57:50Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/sconres/BILLSTATUS-116sconres28.xml"
+}

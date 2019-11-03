@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <notes />
+    <congress>116</congress>
+    <introducedDate>2019-07-18</introducedDate>
+    <cosponsors />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-18T18:16:26Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-07-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2019-07-18T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-07-18</actionDate>
+          <text><![CDATA[<p><b>Small Business Surcharge Relief Act</b></p> <p>This bill partially exempts small businesses and nonprofit organizations from the Homeowner Flood Insurance Affordability Act (HFIAA) surcharge. The bill limits application of the HFIAA surcharge to two buildings on the same property, exempting additional buildings. The business or organization must certify that the savings will be used for flood mitigation on the property.</p>]]></text>
+          <lastSummaryUpdateDate>2019-10-02T22:05:58Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <laws />
+    <billNumber>2172</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>MS</state>
+        <bioguideId>W000437</bioguideId>
+        <lastName>WICKER</lastName>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Small Business Surcharge Relief Act</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2172is/xml/BILLS-116s2172is.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-18T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-10-05T16:57:33Z</updateDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the National Flood Insurance Act of 1968 to provide relief from surcharges to small businesses and nonprofit organizations.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Small Business Surcharge Relief Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Small Business Surcharge Relief Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Small Business Surcharge Relief Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-07-18</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <relatedBills />
+    <amendments />
+    <createDate>2019-07-19T04:42:20Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

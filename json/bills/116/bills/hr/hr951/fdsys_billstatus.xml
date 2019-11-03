@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <notes />
+    <introducedDate>2019-02-04</introducedDate>
+    <cosponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <bioguideId>M001157</bioguideId>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2019-02-04</sponsorshipDate>
+        <district>10</district>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+        </identifiers>
+        <lastName>McCaul</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Vicente</firstName>
+        <bioguideId>G000581</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <district>15</district>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <party>D</party>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2349</lisID>
+          <gpoId />
+          <bioguideId>G000581</bioguideId>
+        </identifiers>
+        <lastName>Gonzalez</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>BRAD</firstName>
+        <bioguideId>S000344</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <district>30</district>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <lastName>SHERMAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Colin</firstName>
+        <bioguideId>A000376</bioguideId>
+        <middleName>Z.</middleName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <district>32</district>
+        <fullName>Rep. Allred, Colin Z. [D-TX-32]</fullName>
+        <party>D</party>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>A000376</bioguideId>
+          <gpoId />
+          <lisID>2451</lisID>
+        </identifiers>
+        <lastName>Allred</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Van</firstName>
+        <bioguideId>T000479</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <district>3</district>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+          <lisID>2444</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Taylor</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <date>2019-06-11T16:09:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssfr00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa07</systemCode>
+              <name>Western Hemisphere, Civilian Security and Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-03-14T20:21:44Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2019-04-09T21:28:43Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-02-04T16:32:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2019-06-11</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionTime>19:57:03</actionTime>
+        <actionDate>2019-06-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionTime>19:57:01</actionTime>
+        <actionDate>2019-06-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4381-4382)</text>
+        <actionCode>H37300</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionTime>19:57:01</actionTime>
+        <actionDate>2019-06-10</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4381-4382)</text>
+        <actionCode>8000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionTime>19:44:19</actionTime>
+        <actionDate>2019-06-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 951.</text>
+        <actionCode>H8D000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionTime>19:44:17</actionTime>
+        <actionDate>2019-06-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered under suspension of the rules. (consideration: CR H4381-4383)</text>
+        <actionCode>H30000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionTime>19:43:45</actionTime>
+        <actionDate>2019-06-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Mr. Engel moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-04-09</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-09</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Agreed to Seek Consideration Under Suspension of the Rules.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-09</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <name>Western Hemisphere, Civilian Security and Trade Subcommittee</name>
+          <systemCode>hsfa07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Western Hemisphere, Civilian Security and Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2019-02-04</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-02-04</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-02-04</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <orderedToBeReported>1</orderedToBeReported>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <billReferrals>1</billReferrals>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-09-26T16:02:08Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2019-02-04</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>United States-Mexico Tourism Improvement Act of 2019</b></p> <p>This bill directs the Department of State to develop and report to Congress a strategy to improve bilateral tourism between the United States and Mexico and third-party tourism to the two countries. The strategy shall involve dialogue and cooperation between the two governments. It shall prioritize sectors including hospitality, retail, medical and dental care, and cultural education. <br> </p>]]></text>
+          <updateDate>2019-02-04T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2019-09-30T15:32:58Z</lastSummaryUpdateDate>
+          <name>Passed House</name>
+          <actionDate>2019-06-10</actionDate>
+          <versionCode>53</versionCode>
+          <text><![CDATA[<p><b>United States-Mexico Tourism Improvement Act of 2019</b></p> <p>This bill directs the Department of State to develop and report to Congress a strategy to improve bilateral tourism between the United States and Mexico and third-party tourism to the two countries. The strategy shall involve dialogue and cooperation between the two governments. It shall prioritize sectors including hospitality, retail, and cultural education. <br> </p>]]></text>
+          <updateDate>2019-06-10T13:35:30Z</updateDate>
+          <actionDesc>Passed House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Dental care</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Multilateral development programs</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <laws />
+    <recordedVotes />
+    <billNumber>951</billNumber>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>TX</state>
+        <bioguideId>C001063</bioguideId>
+        <lastName>Cuellar</lastName>
+        <firstName>Henry</firstName>
+        <middleName />
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <district>28</district>
+        <identifiers>
+          <bioguideId>C001063</bioguideId>
+          <lisID>1807</lisID>
+          <gpoId>8184</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>United States-Mexico Tourism Improvement Act of 2019</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <date>2019-06-11T04:00:00Z</date>
+        <type>Referred in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr951rfs/xml/BILLS-116hr951rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-06-10T04:00:00Z</date>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr951eh/xml/BILLS-116hr951eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-02-04T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr951ih/xml/BILLS-116hr951ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CUELLAR:H.R. 951.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18``To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.''[Page H1350]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <updateDate>2019-10-03T04:27:34Z</updateDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>To promote bilateral tourism through cooperation between the United States and Mexico.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>United States-Mexico Tourism Improvement Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>United States-Mexico Tourism Improvement Act of 2019</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>United States-Mexico Tourism Improvement Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>United States-Mexico Tourism Improvement Act of 2019</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>United States-Mexico Tourism Improvement Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-06-11</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <congress>116</congress>
+    <amendments />
+    <createDate>2019-02-05T08:10:15Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

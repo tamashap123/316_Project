@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HJRES</billType>
+    <notes />
+    <introducedDate>2019-06-26</introducedDate>
+    <cosponsors />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+              <systemCode>hsju05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-07-30T19:55:52Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-07-30T19:55:26Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-26T14:02:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <committee>
+          <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+          <systemCode>hsju05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2019-06-26</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-06-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-06-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <laws />
+    <recordedVotes />
+    <billNumber>71</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>PA</state>
+        <bioguideId>P000605</bioguideId>
+        <lastName>Perry</lastName>
+        <firstName>Scott</firstName>
+        <middleName />
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <district>10</district>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Proposing an amendment to the Constitution of the United States to require legislative approval for certain regulations.</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hjres71ih/xml/BILLS-116hjres71ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-06-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 108 (Wednesday, June 26, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. PERRY:H.J. Res. 71.Congress has the power to enact this legislation pursuantto the following:Article V[Page H5202]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <updateDate>2019-10-01T18:30:21Z</updateDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>Proposing an amendment to the Constitution of the United States to require legislative approval for certain regulations.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Proposing an amendment to the Constitution of the United States to require legislative approval for certain regulations.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-07-30</actionDate>
+      <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <congress>116</congress>
+    <amendments />
+    <createDate>2019-06-27T07:12:06Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,622 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "H1271", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H1271"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H1271", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-29", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-25", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-10-15", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Crime, Terrorism, and Homeland Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-10-22", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSJU"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-251", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/251"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Judiciary. H. Rept. 116-251, Part I.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-22", 
+      "action_code": "H12300", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Commerce discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-22", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "200", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 200.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2019-10-22T15:42:16-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Ms. Jackson Lee moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-22T15:42:26-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H8339-8345", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H8339-8345"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8339-8345", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-22T15:42:27-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 835", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/835"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 835.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-22T16:03:22-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H8340", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H8340"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8340", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-10-22T16:03:23-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-23", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr835-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-251"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001270", 
+      "district": "37", 
+      "name": "Bass, Karen", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000490", 
+      "district": "2", 
+      "name": "Bishop, Sanford D., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001248", 
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001067", 
+      "district": "9", 
+      "name": "Clarke, Yvette D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000537", 
+      "district": "6", 
+      "name": "Clyburn, James E.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000096", 
+      "district": "7", 
+      "name": "Davis, Danny K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000197", 
+      "district": "1", 
+      "name": "DeGette, Diana", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-27", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000455", 
+      "district": "11", 
+      "name": "Fudge, Marcia L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H000324", 
+      "district": "20", 
+      "name": "Hastings, Alcee L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001067", 
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000126", 
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000288", 
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000289", 
+      "district": "4", 
+      "name": "Jordan, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000210", 
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000551", 
+      "district": "13", 
+      "name": "Lee, Barbara", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000576", 
+      "district": "7", 
+      "name": "Long, Billy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001208", 
+      "district": "6", 
+      "name": "McBath, Lucy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-15", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001160", 
+      "district": "4", 
+      "name": "Moore, Gwen", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000588", 
+      "district": "2", 
+      "name": "Richmond, Cedric L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "LA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000616", 
+      "district": "48", 
+      "name": "Rouda, Harley", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-17", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000522", 
+      "district": "4", 
+      "name": "Smith, Christopher H.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-08-30", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000469", 
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-29", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000131", 
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000822", 
+      "district": "12", 
+      "name": "Watson Coleman, Bonnie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-05", 
+      "state": "NJ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-10-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-10-22T16:03:22-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-29", 
+  "number": "835", 
+  "official_title": "To impose criminal sanctions on certain persons involved in international doping fraud conspiracies, to provide restitution for victims of such conspiracies, and to require sharing of information with the United States Anti-Doping Agency to assist its fight against doping, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Rodchenkov Anti-Doping Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "J000032", 
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2019-10-22T16:03:22-04:00", 
+  "subjects": [
+    "Athletes", 
+    "Crime and law enforcement", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Drug, alcohol, tobacco use", 
+    "Fraud offenses and financial crimes", 
+    "International law and treaties", 
+    "Jurisdiction and venue", 
+    "Olympic games"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To impose criminal sanctions on certain persons involved in international doping fraud conspiracies, to provide restitution for victims of such conspiracies, and to require sharing of information with the United States Anti-Doping Agency to assist its fight against doping, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Rodchenkov Anti-Doping Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Rodchenkov Anti-Doping Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Rodchenkov Anti-Doping Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Rodchenkov Anti-Doping Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rodchenkov Anti-Doping Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rodchenkov Anti-Doping Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Rodchenkov Anti-Doping Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-01T20:12:36Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr835.xml"
+}

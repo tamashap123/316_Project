@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-12T18:34:03-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.270", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/270"
+        }, 
+        {
+          "name": "Roll no. 252", 
+          "url": "http://clerk.house.gov/evs/2019/roll252.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "roll": 252, 
+      "text": "On agreeing to the Shalala amendment (A004) Agreed to by recorded vote: 243 - 179 (Roll no. 252).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-12T16:04:15-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.270", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/270"
+        }, 
+        {
+          "name": "H4532", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4532"
+        }, 
+        {
+          "name": "H4532-4533", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4532-4533"
+        }, 
+        {
+          "name": "H4550-4551", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4550-4551"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4532-4533, H4550-4551", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4532", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Shalala.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T18:34:03-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.270", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/270"
+        }, 
+        {
+          "name": "Roll no. 252", 
+          "url": "http://clerk.house.gov/evs/2019/roll252.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T18:34:03-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.270", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/270"
+        }, 
+        {
+          "name": "Roll no. 252", 
+          "url": "http://clerk.house.gov/evs/2019/roll252.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T18:34:03-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.270", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/270"
+        }, 
+        {
+          "name": "Roll no. 252", 
+          "url": "http://clerk.house.gov/evs/2019/roll252.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Shalala amendment (A004) Agreed to by recorded vote: 243 - 179 (Roll no. 252).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T16:04:15-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.270", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/270"
+        }, 
+        {
+          "name": "H4532", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4532"
+        }, 
+        {
+          "name": "H4532-4533", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4532-4533"
+        }, 
+        {
+          "name": "H4550-4551", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4550-4551"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A004) offered by Ms. Shalala.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt270-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2740-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 2740
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment increases funding for refugee and entrant assistance by $10 million.", 
+  "introduced_at": "2019-06-12", 
+  "number": 270, 
+  "purpose": "An amendment numbered 4 printed in Part B of House Report 116-109 to increase funding for refugee and entrant assistance by $10 million.", 
+  "sponsor": {
+    "bioguide_id": "S001206", 
+    "district": "27", 
+    "name": "Shalala, Donna E.", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-06-12T18:34:03-04:00", 
+  "updated_at": "2019-11-01T04:57:46Z"
+}

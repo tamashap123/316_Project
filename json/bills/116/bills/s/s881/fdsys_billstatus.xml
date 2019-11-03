@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <notes />
+    <congress>116</congress>
+    <introducedDate>2019-03-26</introducedDate>
+    <cosponsors>
+      <item>
+        <state>CO</state>
+        <bioguideId>G000562</bioguideId>
+        <middleName />
+        <party>R</party>
+        <firstName>Cory</firstName>
+        <lastName>Gardner</lastName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2019-04-03T13:30:08Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-26T21:56:07Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-26</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-03-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2019-03-26T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-03-26</actionDate>
+          <text><![CDATA[<p><b>Space Weather Research and Forecasting Act</b> </p> <p>This bill sets forth provisions concerning improving the ability of the United States to forecast space weather events and mitigate the effects of space weather. </p> <p>The bill provides statutory authority for the National Science and Technology Council's Space Weather Operations, Research, and Mitigation Working Group, which coordinates executive branch efforts to understand, prepare, coordinate, and plan for space weather.</p> <p>The bill directs the Office of Science and Technology Policy, National Oceanic and Atmospheric Administration, National Science Foundation, Air Force, Navy, National Aeronautics and Space Administration (NASA), National Security Council, and Federal Aviation Administration to carry out specified space weather activities. </p>]]></text>
+          <lastSummaryUpdateDate>2019-09-26T19:58:07Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <laws />
+    <billNumber>881</billNumber>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>MI</state>
+        <bioguideId>P000595</bioguideId>
+        <lastName>Peters</lastName>
+        <firstName>Gary</firstName>
+        <middleName>C.</middleName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Space Weather Research and Forecasting Act</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s881is/xml/BILLS-116s881is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Atmospheric science and weather</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Spacecraft and satellites</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-10-01T04:30:48Z</updateDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to improve understanding and forecasting of space weather events, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Space Weather Research and Forecasting Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Space Weather Research and Forecasting Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Space Weather Research and Forecasting Act</title>
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-04-03</actionDate>
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates>
+      <item>
+        <title>S. 881, Space Weather Research and Forecasting Act</title>
+        <pubDate>2019-05-31T20:09:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/55322</url>
+      </item>
+    </cboCostEstimates>
+    <relatedBills />
+    <amendments />
+    <createDate>2019-03-27T04:42:08Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

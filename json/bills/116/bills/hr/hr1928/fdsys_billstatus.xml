@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>116</congress>
+    <updateDate>2019-07-30T13:27:47Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>Matt</firstName>
+        <middleName />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <identifiers>
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <state>FL</state>
+        <bioguideId>G000578</bioguideId>
+        <lastName>Gaetz</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>W.</firstName>
+        <middleName>Gregory</middleName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001214</bioguideId>
+          <lisID>2389</lisID>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <state>FL</state>
+        <bioguideId>S001214</bioguideId>
+        <lastName>Steube</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Ben</firstName>
+        <middleName />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <identifiers>
+          <lisID>2455</lisID>
+          <bioguideId>C001118</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
+        <state>VA</state>
+        <bioguideId>C001118</bioguideId>
+        <lastName>Cline</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Ron</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2446</lisID>
+          <bioguideId>W000827</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <state>TX</state>
+        <bioguideId>W000827</bioguideId>
+        <lastName>Wright</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <latestAction>
+      <actionDate>2019-05-03</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-03-27</introducedDate>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+          <actionDate>2019-02-25</actionDate>
+        </latestAction>
+        <number>574</number>
+        <latestTitle>Equal Protection of Unaccompanied Minors Act</latestTitle>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-03T17:50:11Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-03-27T14:05:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1928ih/xml/BILLS-116hr1928ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+    <notes />
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-03</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <actionDate>2019-03-27</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <actionDate>2019-03-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <actionDate>2019-03-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 to impose penalties for State noncompliance with enforcement of immigration law, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>No Sanctuary for Criminals Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>No Sanctuary for Criminals Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>No Sanctuary for Criminals Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <state>PA</state>
+        <district>14</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2436</lisID>
+          <bioguideId>R000610</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Guy</firstName>
+        <lastName>Reschenthaler</lastName>
+        <middleName />
+        <bioguideId>R000610</bioguideId>
+      </item>
+    </sponsors>
+    <title>No Sanctuary for Criminals Act of 2019</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RESCHENTHALER:H.R. 1928.Congress has the power to enact this legislation pursuantto the following:Clause 4 of Section 8 of Article I--The Congress shall havethe Power to establish a uniform Rule of Naturalization, anduniform Laws on the subject of Bankruptcies throughout theUnited States.[Page H2886]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-03-28T07:12:08Z</createDate>
+    <billNumber>1928</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Citizenship and naturalization</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

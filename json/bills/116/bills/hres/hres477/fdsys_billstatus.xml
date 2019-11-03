@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <title>Requiring that the House authorize any judicial proceeding on behalf of any committee.</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Requiring that the House authorize any judicial proceeding on behalf of any committee.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Requiring that the House authorize any judicial proceeding on behalf of any committee.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <laws />
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <recordedVotes />
+    <updateDate>2019-07-30T13:03:18Z</updateDate>
+    <latestAction>
+      <actionDate>2019-07-09</actionDate>
+      <text>Referred to the House Committee on Rules.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-09T18:01:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <textVersions>
+      <item>
+        <date>2019-07-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres477ih/xml/BILLS-116hres477ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <notes />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>B000755</bioguideId>
+        <firstName>KEVIN</firstName>
+        <lastName>BRADY</lastName>
+        <district>8</district>
+        <middleName />
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B000755</bioguideId>
+          <gpoId>8164</gpoId>
+          <lisID>1468</lisID>
+        </identifiers>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Rules.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Rules Committee</name>
+          <systemCode>hsru00</systemCode>
+        </committee>
+        <actionDate>2019-07-09</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <congress>116</congress>
+    <createDate>2019-07-10T07:12:08Z</createDate>
+    <policyArea />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-07-09</introducedDate>
+    <committeeReports />
+    <version>1.0.0</version>
+    <relatedBills />
+    <billNumber>477</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

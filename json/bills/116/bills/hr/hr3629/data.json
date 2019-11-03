@@ -1,0 +1,143 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-16", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-16", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 25.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3629-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001061", 
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-17", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-09", 
+  "number": "3629", 
+  "official_title": "To amend the Fair Credit Reporting Act to establish clear Federal oversight of the development of credit scoring models by the Bureau of Consumer Financial Protection, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Clarity in Credit Score Formation Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000562", 
+    "district": "8", 
+    "name": "Lynch, Stephen F.", 
+    "state": "MA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-07-16", 
+  "subjects": [
+    "Banking and financial institutions regulation", 
+    "Business records", 
+    "Congressional oversight", 
+    "Consumer credit", 
+    "Credit and credit markets", 
+    "Finance and financial sector", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Immigration status and procedures", 
+    "Low- and moderate-income housing", 
+    "Racial and ethnic relations", 
+    "Refugees, asylum, displaced persons", 
+    "Rural conditions and development", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Urban and suburban affairs and development", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Fair Credit Reporting Act to establish clear Federal oversight of the development of credit scoring models by the Bureau of Consumer Financial Protection, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clarity in Credit Score Formation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Clarity in Credit Score Formation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Clarity in Credit Score Formation Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-07T19:42:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3629.xml"
+}

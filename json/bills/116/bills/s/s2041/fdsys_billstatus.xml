@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cboCostEstimates />
+    <updateDate>2019-08-02T07:43:40Z</updateDate>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <billType>S</billType>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-07-29</actionDate>
+          <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HR</type>
+        <number>3681</number>
+        <latestTitle>Green Spaces, Green Vehicles Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-27T21:29:21Z</date>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>2041</billNumber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+      <actionDate>2019-06-27</actionDate>
+    </latestAction>
+    <textVersions>
+      <item>
+        <date>2019-06-27T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2041is/xml/BILLS-116s2041is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>Green Spaces, Green Vehicles Act of 2019</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <party>D</party>
+        <lastName>STABENOW</lastName>
+        <firstName>DEBORAH</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <middleName>ANN</middleName>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <party>D</party>
+        <lastName>Smith</lastName>
+        <firstName>Tina</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <middleName />
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <party>D</party>
+        <lastName>WYDEN</lastName>
+        <firstName>RON</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <middleName />
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <party>D</party>
+        <lastName>Gillibrand</lastName>
+        <firstName>Kirsten</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <middleName>E.</middleName>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <party>D</party>
+        <lastName>Hirono</lastName>
+        <firstName>Mazie</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <middleName>K.</middleName>
+        <bioguideId>H001042</bioguideId>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <party>D</party>
+        <lastName>Heinrich</lastName>
+        <firstName>Martin</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <middleName />
+        <bioguideId>H001046</bioguideId>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <party>D</party>
+        <lastName>Rosen</lastName>
+        <firstName>Jacklyn</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <middleName />
+        <bioguideId>R000608</bioguideId>
+        <sponsorshipDate>2019-08-01</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish the Green Spaces, Green Vehicles Initiative to facilitate the installation of zero-emissions vehicle infrastructure on National Forest System land, National Park System land, and certain related land, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Green Spaces, Green Vehicles Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Green Spaces, Green Vehicles Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Green Spaces, Green Vehicles Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <state>NV</state>
+        <party>D</party>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+          <lisID>2299</lisID>
+        </identifiers>
+        <lastName>Cortez Masto</lastName>
+        <bioguideId>C001113</bioguideId>
+        <firstName>Catherine</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-06-28T04:42:16Z</createDate>
+    <introducedDate>2019-06-27</introducedDate>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

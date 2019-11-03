@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-31", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-31", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres669-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000559", 
+      "district": "2", 
+      "name": "Langevin, James R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-31", 
+      "state": "RI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000479", 
+      "district": "3", 
+      "name": "Taylor, Van", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-31", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000468", 
+      "district": "1", 
+      "name": "Titus, Dina", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-31", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-31", 
+  "number": "669", 
+  "official_title": "Expressing support for designation of the week of November 3 through 9, 2019, as National Family Service Learning Week.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "Y000062", 
+    "district": "3", 
+    "name": "Yarmuth, John A.", 
+    "state": "KY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-31", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing support for designation of the week of November 3 through 9, 2019, as National Family Service Learning Week.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expressing support for designation of the week of November 3 through 9, 2019, as National Family Service Learning Week.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-01T14:48:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres669.xml"
+}

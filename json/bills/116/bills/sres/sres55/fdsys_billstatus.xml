@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <introducedDate>2019-02-07</introducedDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <recordedVotes />
+    <amendments />
+    <updateDate>2019-04-11T15:42:27Z</updateDate>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2019-02-07T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Veterans' Affairs for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-04-04T20:06:15Z</lastSummaryUpdateDate>
+          <actionDate>2019-02-07</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate</actionDesc>
+          <name>Reported to Senate</name>
+          <updateDate>2019-02-07T19:45:59Z</updateDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Veterans' Affairs for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-04-04T20:06:04Z</lastSummaryUpdateDate>
+          <actionDate>2019-02-07</actionDate>
+          <versionCode>25</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S1139</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1139</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S1139)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Original measure reported to Senate by Senator Isakson. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Veterans' Affairs. Original measure reported to Senate by Senator Isakson. Without written report.</text>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>14000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-07</actionDate>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+      </actionTypeCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres55is/xml/BILLS-116sres55is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <lastName>Isakson</lastName>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Johnny</firstName>
+        <state>GA</state>
+        <identifiers>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <cosponsors />
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Veterans' Affairs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+    <laws />
+    <calendarNumbers />
+    <congress>116</congress>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S1139)</text>
+      <links />
+      <actionDate>2019-02-07</actionDate>
+    </latestAction>
+    <createDate>2019-02-08T05:55:23Z</createDate>
+    <billNumber>55</billNumber>
+    <billType>SRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Rules and Administration Committee</name>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T19:46:40Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2019-02-07T19:45:59Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

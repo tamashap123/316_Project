@@ -1,0 +1,220 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation and Maritime Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Transportation and Maritime Security Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-08-30", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSHM"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-195", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/195"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-195.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-08-30", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "153", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 153.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3318-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-195"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation and Maritime Security", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001088", 
+      "district": "1", 
+      "name": "Hagedorn, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-25", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000575", 
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-18", 
+  "number": "3318", 
+  "official_title": "To require the Transportation Security Administration to establish a task force to conduct an analysis of emerging and potential future threats to transportation security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Emerging Transportation Security Threats Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "J000302", 
+    "district": "13", 
+    "name": "Joyce, John", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-07-17", 
+  "subjects": [
+    "Aviation and airports", 
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Hazardous wastes and toxic substances", 
+    "Homeland security", 
+    "Intergovernmental relations", 
+    "Terrorism", 
+    "Transportation and public works", 
+    "Transportation safety and security", 
+    "Worker safety and health"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Transportation Security Administration to establish a task force to conduct an analysis of emerging and potential future threats to transportation security, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Emerging Transportation Security Threats Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Emerging Transportation Security Threats Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emerging Transportation Security Threats Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emerging Transportation Security Threats Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Emerging Transportation Security Threats Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-17T22:00:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3318.xml"
+}

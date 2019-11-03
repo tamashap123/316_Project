@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <notes />
+    <committeeReports />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <billNumber>2032</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-10-23</actionDate>
+        <committee>
+          <systemCode>scnc00</systemCode>
+          <name>Senate Narcotics Caucus Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on United States Senate Caucus on International Narcotics Control. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4633-4634</url>
+            <name>S4633-4634</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S4633-4634)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-06-27</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>A bill to expand research on the cannabidiol and marihuana.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Cannabidiol and Marihuana Research Expansion Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Cannabidiol and Marihuana Research Expansion Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Cannabidiol and Marihuana Research Expansion Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2019-10-23</actionDate>
+      <text>Committee on United States Senate Caucus on International Narcotics Control. Hearings held.</text>
+    </latestAction>
+    <laws />
+    <introducedDate>2019-06-27</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+          <lisID>1332</lisID>
+        </identifiers>
+        <bioguideId>F000062</bioguideId>
+        <firstName>DIANNE</firstName>
+        <party>D</party>
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <title>Cannabidiol and Marihuana Research Expansion Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-10-24T04:57:52Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <date>2019-06-27T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2032is/xml/BILLS-116s2032is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <bioguideId>G000386</bioguideId>
+        <middleName>ERNEST</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>CHARLES</firstName>
+        <party>R</party>
+        <lastName>GRASSLEY</lastName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <state>IA</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <party>D</party>
+        <lastName>Schatz</lastName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <state>HI</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <bioguideId>D000563</bioguideId>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <state>IL</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <bioguideId>K000367</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <lastName>Klobuchar</lastName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <state>MN</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <bioguideId>T000476</bioguideId>
+        <middleName>Roland</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+          <lisID>2291</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <party>R</party>
+        <lastName>Tillis</lastName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <state>NC</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <bioguideId>K000384</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+          <lisID>2176</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Timothy</firstName>
+        <party>D</party>
+        <lastName>Kaine</lastName>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <state>VA</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <bioguideId>E000295</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+          <lisID>2283</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joni</firstName>
+        <party>R</party>
+        <lastName>Ernst</lastName>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <state>IA</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kevin</firstName>
+        <party>R</party>
+        <lastName>Cramer</lastName>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <state>ND</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-08</sponsorshipDate>
+        <bioguideId>A000360</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>A000360</bioguideId>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Lamar</firstName>
+        <party>R</party>
+        <lastName>Alexander</lastName>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <state>TN</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-30</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jon</firstName>
+        <party>D</party>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <state>MT</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-10-15</sponsorshipDate>
+        <bioguideId>M001153</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Lisa</firstName>
+        <party>R</party>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <state>AK</state>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <calendarNumbers />
+    <relatedBills />
+    <createDate>2019-06-28T04:42:15Z</createDate>
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Other</type>
+          <subcommittees />
+          <systemCode>scnc00</systemCode>
+          <name>Senate Narcotics Caucus Committee</name>
+          <activities>
+            <item>
+              <date>2019-10-23T18:30:34Z</date>
+              <name>Hearings by</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2019-06-27T19:48:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

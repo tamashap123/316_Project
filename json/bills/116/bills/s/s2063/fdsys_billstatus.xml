@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <calendarNumbers />
+    <committeeReports />
+    <recordedVotes />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <lastName>Bennet</lastName>
+        <bioguideId>B001267</bioguideId>
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-07-09</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2019-07-10T04:42:16Z</createDate>
+    <version>1.0.0</version>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-07-09T19:23:55Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <titles>
+      <item>
+        <title>A bill to amend title XI of the Social Security Act with respect to organ procurement organizations.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Organ Procurement Optimization Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Organ Procurement Optimization Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Organ Procurement Optimization Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <middleName />
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <lastName>Young</lastName>
+        <byRequestType />
+        <party>R</party>
+        <bioguideId>Y000064</bioguideId>
+        <state>IN</state>
+      </item>
+    </sponsors>
+    <title>Organ Procurement Optimization Act of 2019</title>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <updateDate>2019-08-01T07:44:48Z</updateDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-07-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2063is/xml/BILLS-116s2063is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billNumber>2063</billNumber>
+    <latestAction>
+      <links />
+      <actionDate>2019-07-09</actionDate>
+      <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S4732)</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2019-07-09</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4732</url>
+            <name>S4732</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S4732)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-07-09</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

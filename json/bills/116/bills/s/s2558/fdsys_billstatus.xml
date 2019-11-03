@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <laws />
+    <updateDate>2019-10-16T13:58:57Z</updateDate>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-09-26T17:10:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>ssva00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2558is/xml/BILLS-116s2558is.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-26T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <introducedDate>2019-09-26</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to make certain grants to assist nursing homes for veterans located on tribal lands.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Nursing Home Care for Native American Veterans Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Nursing Home Care for Native American Veterans Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Nursing Home Care for Native American Veterans Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>2558</billNumber>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2019-09-26</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <congress>116</congress>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <identifiers>
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <byRequestType />
+        <state>AZ</state>
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <bioguideId>S001191</bioguideId>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>4532</number>
+        <type>HR</type>
+        <latestTitle>Nursing Home Care for Native American Veterans Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Veterans' Affairs.</text>
+          <actionDate>2019-09-26</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <title>Nursing Home Care for Native American Veterans Act</title>
+    <createDate>2019-09-27T04:42:31Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-09-26</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2019-09-26</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cramer</lastName>
+        <bioguideId>C001096</bioguideId>
+        <firstName>Kevin</firstName>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <state>ND</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+          <lisID>2144</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

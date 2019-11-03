@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2019-01-28</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-28</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-28</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-03-14T19:51:43Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p> <p><b>Officer Sean Collier Campus Police Recognition Act of 2019</b></p> <p>This bill includes a campus police officer within the definition of &quot;public safety officer&quot; for purposes of death, disability, and education benefits under the Public Safety Officers' Benefits Program. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-01-28</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-28T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-25T14:56:57Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-28T17:03:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-29T08:10:18Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>816</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <district>6</district>
+        <identifiers>
+          <lisID>2246</lisID>
+          <bioguideId>M001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>Seth</firstName>
+        <lastName>Moulton</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>M001196</bioguideId>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <district>1</district>
+        <identifiers>
+          <gpoId>7967</gpoId>
+          <bioguideId>N000015</bioguideId>
+          <lisID>854</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>RICHARD</firstName>
+        <lastName>NEAL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <bioguideId>N000015</bioguideId>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>Stephen</firstName>
+        <lastName>Lynch</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <bioguideId>L000562</bioguideId>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>NE</state>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>Don</firstName>
+        <lastName>Bacon</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001298</bioguideId>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>IL</state>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>K000391</bioguideId>
+          <lisID>2325</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>Raja</firstName>
+        <lastName>Krishnamoorthi</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>K000391</bioguideId>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <district>9</district>
+        <identifiers>
+          <lisID>2025</lisID>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>William</firstName>
+        <lastName>Keating</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <bioguideId>K000375</bioguideId>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <gpoId />
+          <lisID>2172</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>Joseph</firstName>
+        <lastName>Kennedy</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <bioguideId>K000379</bioguideId>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <district>5</district>
+        <identifiers>
+          <lisID>2196</lisID>
+          <gpoId />
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>Katherine</firstName>
+        <lastName>Clark</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <bioguideId>C001101</bioguideId>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>TN</state>
+        <district>9</district>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>OK</state>
+        <district>4</district>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <lastName>Cole</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <district>2</district>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <district>3</district>
+        <identifiers>
+          <lisID>2404</lisID>
+          <bioguideId>T000482</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <firstName>Lori</firstName>
+        <lastName>Trahan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>T000482</bioguideId>
+        <fullName>Rep. Trahan, Lori [D-MA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>WI</state>
+        <district>2</district>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <lastName>Pocan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>P000607</bioguideId>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MD</state>
+        <district>8</district>
+        <identifiers>
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <firstName>Jamie</firstName>
+        <lastName>Raskin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>R000606</bioguideId>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>IL</state>
+        <district>5</district>
+        <identifiers>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <lastName>Quigley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>Q000023</bioguideId>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MA</state>
+        <district>7</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000617</bioguideId>
+          <lisID>2405</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <firstName>Ayanna</firstName>
+        <lastName>Pressley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>P000617</bioguideId>
+        <fullName>Rep. Pressley, Ayanna [D-MA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>IN</state>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+          <lisID>2128</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <firstName>Jackie</firstName>
+        <lastName>Walorski</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>W000813</bioguideId>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>TN</state>
+        <district>5</district>
+        <identifiers>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <firstName>JAMES</firstName>
+        <lastName>COOPER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>H.</middleName>
+        <bioguideId>C000754</bioguideId>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>IL</state>
+        <district>13</district>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <firstName>Rodney</firstName>
+        <lastName>Davis</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>D000619</bioguideId>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>IL</state>
+        <district>18</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000585</bioguideId>
+          <lisID>2295</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <firstName>Darin</firstName>
+        <lastName>LaHood</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>L000585</bioguideId>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-03-25</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-28</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr816ih/xml/BILLS-116hr816ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-28T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:14:08Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Officer Sean Collier Campus Police Recognition Act of 2019</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of New York:H.R. 816.Congress has the power to enact this legislation pursuantto the following:The Congress enacts this bill pursuant to Article I,Section 8, Clause I; and Article I, Section 8, Clause 3 ofthe United States Constitution.[Page H1243]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide death benefits for campus police officers.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Officer Sean Collier Campus Police Recognition Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Officer Sean Collier Campus Police Recognition Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Officer Sean Collier Campus Police Recognition Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>PETER</firstName>
+        <middleName>T.</middleName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <state>NY</state>
+        <identifiers>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <district>2</district>
+        <bioguideId>K000210</bioguideId>
+        <lastName>KING</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

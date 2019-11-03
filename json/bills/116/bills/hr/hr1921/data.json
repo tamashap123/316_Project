@@ -1,0 +1,374 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-27", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-05T09:40:04-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-05T09:40:31-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H4327-4329", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4327-4329"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4327-4329", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-05T09:40:38-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 1921", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/1921"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1921.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-05T09:44:00-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 1921", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/1921"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House continued debate on H.R. 1921.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-05T09:51:18-04:00", 
+      "action_code": "H37220", 
+      "references": [], 
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-05T10:03:30-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H4331-4331", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4331-4331"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4331-4331", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-05T10:33:04-04:00", 
+      "action_code": "H37300", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H4327", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4327"
+        }, 
+        {
+          "name": "Roll no. 241", 
+          "url": "http://clerk.house.gov/evs/2019/roll241.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4327", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "241", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": true, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 22 (Roll no. 241).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-05T10:33:06-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-10", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1921-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Environment", 
+      "subcommittee_id": "18"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001278", 
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-27", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001111", 
+      "district": "13", 
+      "name": "Crist, Charlie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-09", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-01", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000582", 
+      "district": "0", 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001056", 
+      "district": "3", 
+      "name": "Herrera Beutler, Jaime", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-27", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000126", 
+      "district": "30", 
+      "name": "Johnson, Eddie Bernice", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-22", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000823", 
+      "district": "6", 
+      "name": "Waltz, Michael", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-02", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "Y000033", 
+      "district": "0", 
+      "name": "Young, Don", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-27", 
+      "state": "AK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-04-09", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-06-05T10:33:04-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-27", 
+  "number": "1921", 
+  "official_title": "To authorize Federal agencies to establish prize competitions for innovation or adaptation management development relating to ocean acidification.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ocean Acidification Innovation Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "K000381", 
+    "district": "6", 
+    "name": "Kilmer, Derek", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2019-06-05T10:33:04-04:00", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Air quality", 
+    "Climate change and greenhouse gases", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental protection", 
+    "Food industry and services", 
+    "Marine and coastal resources, fisheries", 
+    "Marine pollution", 
+    "Public contracts and procurement", 
+    "Research administration and funding", 
+    "Seafood"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-03-27T04:00:00Z", 
+    "text": "Ocean Acidification Innovation Act of 2019\n\nThis bill reauthorizes through FY2024 and revises the Federal Ocean Acidification Research and Monitoring Act of 2009. The bill authorizes a federal agency with a representative serving on the Interagency Working Group on Ocean Acidification to carry out a program that awards prizes competitively for innovative efforts to research or respond to ocean acidification. Priority must be given to establishing programs that address communities, environments, or industries that are in distress due to the impacts of ocean acidification."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize Federal agencies to establish prize competitions for innovation or adaptation management development relating to ocean acidification.", 
+      "type": "official"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Ocean Acidification Innovation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Ocean Acidification Innovation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ocean Acidification Innovation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ocean Acidification Innovation Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Ocean Acidification Innovation Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-30T13:27:44Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1921.xml"
+}

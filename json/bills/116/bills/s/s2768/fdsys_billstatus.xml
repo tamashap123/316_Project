@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-10-31T19:47:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend title 49, United States Code, to prohibit smoking on Amtrak trains.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend title 49, United States Code, to prohibit smoking on Amtrak trains.</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea />
+    <billType>S</billType>
+    <actions>
+      <item>
+        <actionDate>2019-10-31</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-10-31</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <title>A bill to amend title 49, United States Code, to prohibit smoking on Amtrak trains.</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-10-31</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2019-10-31</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <party>D</party>
+        <firstName>THOMAS</firstName>
+        <bioguideId>C000174</bioguideId>
+        <byRequestType />
+        <state>DE</state>
+        <lastName>CARPER</lastName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>2768</billNumber>
+    <relatedBills />
+    <notes />
+    <updateDate>2019-11-01T14:48:39Z</updateDate>
+    <createDate>2019-11-01T04:57:39Z</createDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,201 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-15", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Highways and Transit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3739-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Highways and Transit", 
+      "subcommittee_id": "12"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001302", 
+      "district": "5", 
+      "name": "Biggs, Andy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001274", 
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-17", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000615", 
+      "district": "3", 
+      "name": "Duncan, Jeff", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-17", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000565", 
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-23", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000362", 
+      "district": "4", 
+      "name": "King, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-17", 
+      "state": "IA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000589", 
+      "district": "8", 
+      "name": "Lesko, Debbie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000190", 
+      "district": "5", 
+      "name": "Norman, Ralph", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-09", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000827", 
+      "district": "6", 
+      "name": "Wright, Ron", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-17", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-12", 
+  "number": "3739", 
+  "official_title": "To withhold Federal highway funds from States that provide driver's licenses or identification cards to aliens who are unlawfully present in the United States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Red Light Act", 
+  "sponsor": {
+    "bioguide_id": "C001092", 
+    "district": "27", 
+    "name": "Collins, Chris", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-12", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Government information and archives", 
+    "Immigration status and procedures", 
+    "Licensing and registrations", 
+    "Motor vehicles", 
+    "Roads and highways", 
+    "Transportation and public works", 
+    "Transportation programs funding"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To withhold Federal highway funds from States that provide driver's licenses or identification cards to aliens who are unlawfully present in the United States, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Red Light Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Red Light Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Red Light Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-19T07:28:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3739.xml"
+}

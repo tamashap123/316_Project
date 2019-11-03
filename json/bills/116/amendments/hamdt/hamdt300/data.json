@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-13T00:15:19-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.300", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/300"
+        }, 
+        {
+          "name": "Roll no. 283", 
+          "url": "http://clerk.house.gov/evs/2019/roll283.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "roll": 283, 
+      "text": "On agreeing to the Castor (FL) amendment (A034) Agreed to by recorded vote: 236 - 188 (Roll no. 283).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-12T20:56:28-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.300", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/300"
+        }, 
+        {
+          "name": "H4569", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4569"
+        }, 
+        {
+          "name": "H4569-4570", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4569-4570"
+        }, 
+        {
+          "name": "H4596-4597", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4596-4597"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4569-4570, H4596-4597", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4569", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A034) offered by Ms. Castor (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-13T00:15:19-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.300", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/300"
+        }, 
+        {
+          "name": "Roll no. 283", 
+          "url": "http://clerk.house.gov/evs/2019/roll283.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-13T00:15:19-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.300", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/300"
+        }, 
+        {
+          "name": "Roll no. 283", 
+          "url": "http://clerk.house.gov/evs/2019/roll283.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T20:56:28-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.300", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/300"
+        }, 
+        {
+          "name": "H4569", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4569"
+        }, 
+        {
+          "name": "H4569-4570", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4569-4570"
+        }, 
+        {
+          "name": "H4596-4597", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4596-4597"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A034) offered by Ms. Castor (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-13T00:15:19-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.300", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/300"
+        }, 
+        {
+          "name": "Roll no. 283", 
+          "url": "http://clerk.house.gov/evs/2019/roll283.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Castor (FL) amendment (A034) Agreed to by recorded vote: 236 - 188 (Roll no. 283).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt300-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2740-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 2740
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "At the end of division A (before the short title), insert the following:    SEC. __. None of the funds made available by this Act may be used to implement, administer, or enforce the rule entitled \"Short-Term, Limited Duration Insurance\" published by the Department of the Treasury, the Department of Labor, and the Department of Health and Human Services in the Federal Register on August 3, 2018 (83 Fed. Reg. 38212).", 
+  "introduced_at": "2019-06-12", 
+  "number": 300, 
+  "purpose": "An amendment numbered 36 printed in Part B of House Report 116-109 to prohibit the use of funds to be used to implement, administer or enforce the Trump administration's short-term, limited duration insurance rule.", 
+  "sponsor": {
+    "bioguide_id": "C001066", 
+    "district": "14", 
+    "name": "Castor, Kathy", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-06-13T00:15:19-04:00", 
+  "updated_at": "2019-11-01T04:57:45Z"
+}

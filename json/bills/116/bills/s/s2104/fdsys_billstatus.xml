@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <updateDate>2019-07-26T09:28:29Z</updateDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2104is/xml/BILLS-116s2104is.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-11T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <introducedDate>2019-07-11</introducedDate>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-07-11T19:08:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Industrial facilities</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>2104</billNumber>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <cosponsors />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Clean Air Act to exclude energy efficiency projects, pollution control projects, and reliability projects from the definition of a modification.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Clean Air Act to exclude energy efficiency projects, pollution control projects, and reliability projects from the definition of a modification.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <title>A bill to amend the Clean Air Act to exclude energy efficiency projects, pollution control projects, and reliability projects from the definition of a modification.</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-07-11</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-07-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <congress>116</congress>
+    <committeeReports />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-07-11</actionDate>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <relatedBills />
+    <createDate>2019-07-12T04:42:10Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>P000603</bioguideId>
+        <middleName />
+        <state>KY</state>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <party>R</party>
+        <lastName>Paul</lastName>
+        <identifiers>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Rand</firstName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

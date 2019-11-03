@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-25</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2019-01-03</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-06-27T15:56:28Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Health and Human Services Hiree Clarification Act</b></p> <p>This bill alters provisions relating to personnel of the Public Health Service. Specifically, the bill states that provisions authorizing the appointment of special consultants or authorizing individual scientists to receive fellowships for the Public Health Service do not authorize the designation, appointment, or employment of any special consultant, fellow, or other employee by an agency outside of the Department of Health and Human Services. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-01-03</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T16:06:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-25T18:01:07Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-04T13:32:52Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>106</billNumber>
+    <relatedBills />
+    <cosponsors />
+    <latestAction>
+      <actionDate>2019-01-25</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-03</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr106ih/xml/BILLS-116hr106ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:05:33Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Health and Human Services Hiree Clarification Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BURGESS:H.R. 106.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 9, clause 7:No Money shall be drawn from the Treasury, but inConsequence of Appropriations made by Law; and a regularStatement and Account of the Receipts and Expenditures of allpublic Money shall be published from time to time.[Page H214]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <title>To make clear that an agency outside of the Department of Health and Human Services may not designate, appoint, or employ special consultants, fellows, or other employees under subsection (f) or (g) of section 207 of the Public Health Service Act.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Health and Human Services Hiree Clarification Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Health and Human Services Hiree Clarification Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Health and Human Services Hiree Clarification Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <middleName>C.</middleName>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <bioguideId>B001248</bioguideId>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

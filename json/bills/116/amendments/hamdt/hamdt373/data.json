@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-18T23:01:19-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.373", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/373"
+        }, 
+        {
+          "name": "Roll no. 351", 
+          "url": "http://clerk.house.gov/evs/2019/roll351.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 351, 
+      "text": "On agreeing to the Gallagher amendment (A108) Failed by recorded vote: 192 - 236 (Roll no. 351).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-18T16:47:44-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.373", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/373"
+        }, 
+        {
+          "name": "H4725", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4725"
+        }, 
+        {
+          "name": "H4725-4726", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4725-4726"
+        }, 
+        {
+          "name": "H4763-4764", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4763-4764"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4725-4726, H4763-4764", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4725", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A108) offered by Mr. Gallagher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18T23:01:19-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.373", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/373"
+        }, 
+        {
+          "name": "Roll no. 351", 
+          "url": "http://clerk.house.gov/evs/2019/roll351.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18T23:01:19-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.373", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/373"
+        }, 
+        {
+          "name": "Roll no. 351", 
+          "url": "http://clerk.house.gov/evs/2019/roll351.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18T23:01:19-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.373", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/373"
+        }, 
+        {
+          "name": "Roll no. 351", 
+          "url": "http://clerk.house.gov/evs/2019/roll351.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Gallagher amendment (A108) Failed by recorded vote: 192 - 236 (Roll no. 351).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18T16:47:44-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.373", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/373"
+        }, 
+        {
+          "name": "H4725", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4725"
+        }, 
+        {
+          "name": "H4725-4726", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4725-4726"
+        }, 
+        {
+          "name": "H4763-4764", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4763-4764"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A108) offered by Mr. Gallagher.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt373-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2740-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 2740
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment sought to increase funding for the Weapons Procurement, Navy account by $19.6 million.", 
+  "introduced_at": "2019-06-18", 
+  "number": 373, 
+  "purpose": "An amendment numbered 47 printed in Part A of House Report 116-111 to increase funding for the Weapons Procurement, Navy account by $19.6 million.", 
+  "sponsor": {
+    "bioguide_id": "G000579", 
+    "district": "8", 
+    "name": "Gallagher, Mike", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2019-06-18T23:01:19-04:00", 
+  "updated_at": "2019-10-29T15:40:43Z"
+}

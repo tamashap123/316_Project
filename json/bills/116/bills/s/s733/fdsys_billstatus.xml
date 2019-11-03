@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2019-03-11</actionDate>
+    </latestAction>
+    <notes />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s733is/xml/BILLS-116s733is.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-11T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-09-25</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <number>4492</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Consumer Financial Choice and Capital Markets Protection Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-11</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-03-11</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-11T23:18:24Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-10-03T15:15:22Z</updateDate>
+    <amendments />
+    <billNumber>733</billNumber>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-03-11T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2019-03-11</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>Consumer Financial Choice and Capital Markets Protection Act of 2019</strong></p> <p>This bill allows a money market fund, under specified conditions, to elect to operate using a different method of valuation than&nbsp;is otherwise required. A money market fund that elects to do so shall not be subject to specified&nbsp;requirements related to the imposition of liquidity fees.</p> <p>Certain&nbsp;federal assistance may not be provided directly to any money market fund. This limitation on federal assistance must be disclosed in a money market's&nbsp;advertising&nbsp;and sales literature.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-04-04T15:54:44Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <party>D</party>
+        <state>NJ</state>
+        <middleName />
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Menendez</lastName>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <party>R</party>
+        <state>SD</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+          <lisID>2288</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rounds</lastName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <party>D</party>
+        <state>MI</state>
+        <middleName>C.</middleName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>Peters</lastName>
+        <firstName>Gary</firstName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Financial crises and stabilization</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>A bill to protect the investment choices of investors in the United States, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Consumer Financial Choice and Capital Markets Protection Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Consumer Financial Choice and Capital Markets Protection Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Consumer Financial Choice and Capital Markets Protection Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <firstName>Pat</firstName>
+        <bioguideId>T000461</bioguideId>
+        <middleName />
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <lisID>1594</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <lastName>Toomey</lastName>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <calendarNumbers />
+    <title>Consumer Financial Choice and Capital Markets Protection Act of 2019</title>
+    <introducedDate>2019-03-11</introducedDate>
+    <createDate>2019-03-12T04:27:07Z</createDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

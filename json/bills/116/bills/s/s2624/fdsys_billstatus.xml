@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <introducedDate>2019-10-17</introducedDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <byRequestType />
+        <bioguideId>P000603</bioguideId>
+        <firstName>Rand</firstName>
+        <identifiers>
+          <gpoId>8308</gpoId>
+          <bioguideId>P000603</bioguideId>
+          <lisID>2082</lisID>
+        </identifiers>
+        <lastName>Paul</lastName>
+        <state>KY</state>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-10-17</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-10-17</actionDate>
+      </item>
+    </actions>
+    <amendments />
+    <notes />
+    <updateDate>2019-11-02T04:57:51Z</updateDate>
+    <billNumber>2624</billNumber>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <committeeReports />
+    <createDate>2019-10-18T04:42:32Z</createDate>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to prohibit arms sales to Turkey.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to prohibit arms sales to Turkey.</title>
+      </item>
+    </titles>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>A bill to prohibit arms sales to Turkey.</title>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-10-17T18:04:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <state>IN</state>
+        <sponsorshipDate>2019-10-17</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2462</lisID>
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <lastName>Braun</lastName>
+        <bioguideId>B001310</bioguideId>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <state>UT</state>
+        <sponsorshipDate>2019-10-21</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <lastName>Lee</lastName>
+        <bioguideId>L000577</bioguideId>
+      </item>
+    </cosponsors>
+    <relatedBills />
+    <textVersions>
+      <item>
+        <date>2019-10-17T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2624is/xml/BILLS-116s2624is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>116</congress>
+    <latestAction>
+      <actionDate>2019-10-17</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <generalDebate>1</generalDebate>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>12:25:49</actionTime>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionDate>2019-02-06</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:25:44</actionTime>
+        <type>Floor</type>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1368-1369)</text>
+        <actionCode>H37300</actionCode>
+        <actionDate>2019-02-06</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1368-1369</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1368-1369</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:25:44</actionTime>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1368-1369)</text>
+        <actionCode>8000</actionCode>
+        <actionDate>2019-02-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1368-1369</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1368-1369</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:18:53</actionTime>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 876.</text>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2019-02-06</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 876</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/876</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:18:50</actionTime>
+        <type>Floor</type>
+        <text>Considered under suspension of the rules. (consideration: CR H1368-1370)</text>
+        <actionCode>H30000</actionCode>
+        <actionDate>2019-02-06</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H1368-1370</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1368-1370</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionTime>12:18:33</actionTime>
+        <type>Floor</type>
+        <text>Mr. DeFazio moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <actionDate>2019-02-06</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-30</actionDate>
+        <links />
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-30</actionDate>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-30</actionDate>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Pacific Northwest Earthquake Preparedness Act of 2019</strong></p> <p>This bill requires the Federal Emergency Management Agency (FEMA) to develop a plan for the purchase and installation of an earthquake early warning system for the Cascadia Subduction Zone. The term &quot;Cascadia Subduction Zone&quot; means the landward-dipping fault that is approximately 684 miles long, separates the Juan De Fuca and North America plates, and stretches along a portion of the western coast of the United States beginning off Cape Mendocino, California, along the states of Oregon and Washington, to Northern Vancouver Island, British Columbia, Canada.</p> <p>The President shall establish an Earthquake and Tsunami Task Force to develop a comprehensive strategy and recommendations on how the nation should prepare and plan for, mitigate against, respond to, recover from, and more successfully adapt to an earthquake, tsunami, or combined earthquake and tsunami event in the Cascadia Subduction Zone</p> <p>The task force shall enter into an agreement with the National Academy of Sciences for developing recommendations for a federal research strategy to advance scientific understanding of a Cascadia Subduction Zone earthquake and resulting tsunami preparedness.</p> <p>FEMA shall be responsible for the nation's efforts to reduce the loss of life and property, and to protect the nation, from an earthquake, tsunami, or combined earthquake and tsunami event.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-30</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-02-05T20:18:02Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-30T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <text><![CDATA[<p><strong>Pacific Northwest Earthquake Preparedness Act of 2019</strong></p> <p>This bill requires the Federal Emergency Management Agency (FEMA) to develop a plan for the purchase and installation of an earthquake early warning system for the Cascadia Subduction Zone. The term &quot;Cascadia Subduction Zone&quot; means the landward-dipping fault that is approximately 684 miles long, separates the Juan De Fuca and North America plates, and stretches along a portion of the western coast of the United States beginning off Cape Mendocino, California, along the states of Oregon and Washington, to Northern Vancouver Island, British Columbia, Canada.</p> <p>The President shall establish an Earthquake and Tsunami Task Force to develop a comprehensive strategy and recommendations on how the nation should prepare and plan for, mitigate against, respond to, recover from, and more successfully adapt to an earthquake, tsunami, or combined earthquake and tsunami event in the Cascadia Subduction Zone. FEMA shall report to Congress on the comprehensive strategy and task force recommendations.</p> <p>The task force shall enter into an agreement with the National Academy of Sciences for developing recommendations for a federal research strategy to advance scientific understanding of a Cascadia Subduction Zone earthquake and resulting tsunami preparedness.</p>]]></text>
+          <versionCode>53</versionCode>
+          <actionDate>2019-02-06</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2019-03-13T15:55:35Z</lastSummaryUpdateDate>
+          <updateDate>2019-02-06T14:46:10Z</updateDate>
+          <name>Passed House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-02-07T18:25:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-30T14:03:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-31T08:10:17Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>876</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <state>OR</state>
+        <bioguideId>B001278</bioguideId>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <lastName>Bonamici</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <firstName>Suzanne</firstName>
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <bioguideId>R000616</bioguideId>
+        <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+        <lastName>Rouda</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000616</bioguideId>
+          <gpoId />
+          <lisID>2382</lisID>
+        </identifiers>
+        <firstName>Harley</firstName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <middleName />
+        <district>48</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-02-07</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-30</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2019-02-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr876rfs/xml/BILLS-116hr876rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-02-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr876eh/xml/BILLS-116hr876eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr876ih/xml/BILLS-116hr876ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:14:49Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Canada</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Natural disasters</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Washington State</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Pacific Northwest Earthquake Preparedness Act of 2019</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeFAZIO:H.R. 876.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1, Clause 3, and Clause 18 ofthe Constitution.[Page H1337]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <title>To direct the Administrator of the Federal Emergency Management Agency to carry out a plan for the purchase and installation of an earthquake early warning system for the Cascadia Subduction Zone, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Pacific Northwest Earthquake Preparedness Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Pacific Northwest Earthquake Preparedness Act of 2019</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Pacific Northwest Earthquake Preparedness Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Pacific Northwest Earthquake Preparedness Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Pacific Northwest Earthquake Preparedness Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>PETER</firstName>
+        <middleName>A.</middleName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <district>4</district>
+        <bioguideId>D000191</bioguideId>
+        <lastName>DEFAZIO</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

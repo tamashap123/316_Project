@@ -1,0 +1,163 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3895-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000598", 
+      "district": "53", 
+      "name": "Davis, Susan A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-23", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000593", 
+      "district": "49", 
+      "name": "Levin, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-23", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000608", 
+      "district": "52", 
+      "name": "Peters, Scott H.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-23", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-23", 
+  "number": "3895", 
+  "official_title": "To provide for a general capital increase for the North American Development Bank, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s267-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr132-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "North American Development Bank's Pollution Solution Act", 
+  "sponsor": {
+    "bioguide_id": "V000130", 
+    "district": "51", 
+    "name": "Vargas, Juan", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-23", 
+  "subjects": [
+    "Congressional oversight", 
+    "Environmental health", 
+    "Foreign loans and debt", 
+    "Government trust funds", 
+    "Infrastructure development", 
+    "International affairs", 
+    "Latin America", 
+    "Mexico", 
+    "Multilateral development programs", 
+    "North America", 
+    "Performance measurement", 
+    "Solid waste and recycling", 
+    "Water quality", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for a general capital increase for the North American Development Bank, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "North American Development Bank's Pollution Solution Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "North American Development Bank\u2019s Pollution Solution Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "U.S.-Mexico Border Public Health Trust Fund Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "U.S.-Mexico Border Public Health Trust Fund Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "North American Development Bank's Pollution Solution Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-08-16T10:29:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3895.xml"
+}

@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-03-06</actionDate>
+        <committee>
+          <systemCode>hsag15</systemCode>
+          <name>Conservation and Forestry Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committee>
+          <systemCode>hspw02</systemCode>
+          <name>Water Resources and Environment Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <updateDate>2019-10-15T14:38:23Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>1184</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <state>CO</state>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Tipton</lastName>
+        <bioguideId>T000470</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <state>IL</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Quigley</lastName>
+        <bioguideId>Q000023</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <state>NY</state>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Stefanik</lastName>
+        <bioguideId>S001196</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Elise</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Lynch</lastName>
+        <bioguideId>L000562</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <firstName>Stephen</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <state>LA</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Graves</lastName>
+        <bioguideId>G000577</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000577</bioguideId>
+          <gpoId />
+          <lisID>2245</lisID>
+        </identifiers>
+        <firstName>Garret</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <state>PA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Cartwright</lastName>
+        <bioguideId>C001090</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2159</lisID>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <firstName>Matt</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Chu</lastName>
+        <bioguideId>C001080</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <firstName>Judy</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>34</district>
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Gomez</lastName>
+        <bioguideId>G000585</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000585</bioguideId>
+          <gpoId />
+          <lisID>2362</lisID>
+        </identifiers>
+        <firstName>Jimmy</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <state>WA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Kilmer</lastName>
+        <bioguideId>K000381</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2169</lisID>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <firstName>Derek</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>LEE</lastName>
+        <bioguideId>L000551</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <firstName>BARBARA</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>47</district>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Lowenthal</lastName>
+        <bioguideId>L000579</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Alan</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <state>NY</state>
+        <party>D</party>
+        <middleName>Patrick</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Maloney</lastName>
+        <bioguideId>M001185</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001185</bioguideId>
+          <lisID>2150</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Sean</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <state>ME</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Pingree</lastName>
+        <bioguideId>P000597</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <firstName>Chellie</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <state>WI</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Pocan</lastName>
+        <bioguideId>P000607</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <state>MD</state>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Sarbanes</lastName>
+        <bioguideId>S001168</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1854</lisID>
+          <bioguideId>S001168</bioguideId>
+          <gpoId>7978</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>THOMPSON</lastName>
+        <bioguideId>T000460</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <firstName>MIKE</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <state>VT</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Welch</lastName>
+        <bioguideId>W000800</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <firstName>Peter</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <state>KY</state>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Yarmuth</lastName>
+        <bioguideId>Y000062</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+          <bioguideId>Y000062</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>28</district>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>SCHIFF</lastName>
+        <bioguideId>S001150</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1635</lisID>
+          <gpoId>7834</gpoId>
+          <bioguideId>S001150</bioguideId>
+        </identifiers>
+        <firstName>ADAM</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <state>PA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Dean</lastName>
+        <bioguideId>D000631</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2432</lisID>
+          <gpoId />
+          <bioguideId>D000631</bioguideId>
+        </identifiers>
+        <firstName>Madeleine</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <state>WA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>SMITH</lastName>
+        <bioguideId>S000510</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <firstName>ADAM</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <fullName>Rep. Torres Small, Xochitl [D-NM-2]</fullName>
+        <state>NM</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Torres Small</lastName>
+        <bioguideId>T000484</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000484</bioguideId>
+          <lisID>2424</lisID>
+        </identifiers>
+        <firstName>Xochitl</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Garamendi</lastName>
+        <bioguideId>G000559</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <lastName>MCGOVERN</lastName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>30</district>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <state>TX</state>
+        <party>D</party>
+        <middleName>BERNICE</middleName>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>JOHNSON</lastName>
+        <bioguideId>J000126</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>599</lisID>
+          <gpoId>8186</gpoId>
+          <bioguideId>J000126</bioguideId>
+        </identifiers>
+        <firstName>EDDIE</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <state>HI</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <lastName>Gabbard</lastName>
+        <bioguideId>G000571</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Tulsi</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <state>FL</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <lastName>Castor</lastName>
+        <bioguideId>C001066</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7883</gpoId>
+          <bioguideId>C001066</bioguideId>
+          <lisID>1839</lisID>
+        </identifiers>
+        <firstName>Kathy</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <lastName>Huffman</lastName>
+        <bioguideId>H001068</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+          <lisID>2101</lisID>
+        </identifiers>
+        <firstName>Jared</firstName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1184ih/xml/BILLS-116hr1184ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-13T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DeGETTE:H.R. 1184.Congress has the power to enact this legislation pursuantto the following:clause 18 of section 8 of article I of the Constitution[Page H1584]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-02-14T08:10:17Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>DEGETTE</lastName>
+        <bioguideId>D000197</bioguideId>
+        <district>1</district>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <state>CO</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+          <gpoId>7859</gpoId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>DIANA</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+      <actionDate>2019-03-06</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Outdoor recreation</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To establish an Every Kid Outdoors program, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Every Kid Outdoors Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Every Kid Outdoors Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Every Kid Outdoors Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>47</number>
+        <type>S</type>
+        <latestTitle>John D. Dingell, Jr. Conservation, Management, and Recreation Act</latestTitle>
+        <latestAction>
+          <text>Became Public Law No: 116-9.</text>
+          <actionDate>2019-03-12</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-06T18:44:25Z</date>
+                </item>
+              </activities>
+              <name>Conservation and Forestry Subcommittee</name>
+              <systemCode>hsag15</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-13T15:05:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-14T16:54:55Z</date>
+                </item>
+              </activities>
+              <name>Water Resources and Environment Subcommittee</name>
+              <systemCode>hspw02</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-13T15:05:10Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Natural Resources Committee</name>
+          <subcommittees />
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-13T15:05:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-02-13</introducedDate>
+    <calendarNumbers />
+    <title>Every Kid Outdoors Act</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

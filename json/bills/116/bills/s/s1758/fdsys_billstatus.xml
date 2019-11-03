@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-26</actionDate>
+        <committee>
+          <systemCode>sseg07</systemCode>
+          <name>Water and Power Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-10</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-06-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1758is/xml/BILLS-116s1758is.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-10T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <relatedBills />
+    <cosponsors />
+    <updateDate>2019-06-27T04:51:51Z</updateDate>
+    <createDate>2019-06-11T04:42:11Z</createDate>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+      <links />
+      <actionDate>2019-06-26</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Water and Power Subcommittee</name>
+              <systemCode>sseg07</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-06-26T14:00:36Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-10T20:12:35Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-06-10</introducedDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+    <congress>116</congress>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <title>A bill to extend a repayment contract relating to the Purgatoire River Water Conservancy District and to authorize the District to develop an excess capacity contract to offset repayment costs, and for other purposes.</title>
+    <sponsors>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <party>R</party>
+        <lastName>Gardner</lastName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <byRequestType />
+        <firstName>Cory</firstName>
+        <identifiers>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <state>CO</state>
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>1758</billNumber>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to extend a repayment contract relating to the Purgatoire River Water Conservancy District and to authorize the District to develop an excess capacity contract to offset repayment costs, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to extend a repayment contract relating to the Purgatoire River Water Conservancy District and to authorize the District to develop an excess capacity contract to offset repayment costs, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

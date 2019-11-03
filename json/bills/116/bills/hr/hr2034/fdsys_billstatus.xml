@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <notes />
+    <introducedDate>2019-04-02</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bass</lastName>
+        <district>37</district>
+        <bioguideId>B001270</bioguideId>
+        <identifiers>
+          <gpoId>7838</gpoId>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Karen</firstName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-15T18:48:31Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-02T14:02:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-02</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-04-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-04-02</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-04-02</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Dignity for Incarcerated Women Act of 2019 or the Dignity Act</b></p> <p>This bill establishes requirements for the treatment of prisoners.</p> <p>The Bureau of Prisons (BOP) must provide adequate health care, provide videoconferencing free of charge, train employees to identify trauma-related health needs, and make specified health products (e.g., tampons) available free of charge.</p> <p>Additionally, with respect to prisoners who are primary caretaker parents, the BOP must provide parenting classes, allow visitation from family members, and establish a pilot program to allow overnight visits from family members.</p> <p>Finally, the bill allows a prisoner who is pregnant or a primary caretaker parent to participate in a residential substance abuse treatment program, even if the individual failed to disclose a substance abuse problem.</p>]]></text>
+          <updateDate>2019-04-02T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-10-04T10:49:21Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Sex and reproductive health</name>
+          </item>
+          <item>
+            <name>Telecommunication rates and fees</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <laws />
+    <recordedVotes />
+    <billNumber>2034</billNumber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>WA</state>
+        <bioguideId>J000298</bioguideId>
+        <lastName>Jayapal</lastName>
+        <firstName>Pramila</firstName>
+        <middleName />
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <district>7</district>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+          <lisID>2354</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Dignity Act</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-04-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2034ih/xml/BILLS-116hr2034ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JAYAPAL:H.R. 2034.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I of the United States Constitutionand its subsequent amendments, and further clarified andinterpreted by the Supreme Court of the United States.[Page H2987]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestTitle>Dignity Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>992</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2019-04-02</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <updateDate>2019-10-04T11:00:25Z</updateDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Dignity for Incarcerated Women Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Dignity Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To improve the treatment of Federal prisoners who are primary caretaker parents, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Dignity for Incarcerated Women Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Dignity Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Dignity Act</title>
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-05-15</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <congress>116</congress>
+    <amendments />
+    <createDate>2019-04-03T07:12:09Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

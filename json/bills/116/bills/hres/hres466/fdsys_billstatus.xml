@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-06-28T07:12:09Z</createDate>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>H00034</calendar>
+      </item>
+    </calendarNumbers>
+    <latestAction>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>16:11:02</actionTime>
+      <actionDate>2019-06-27</actionDate>
+    </latestAction>
+    <updateDate>2019-07-19T16:16:19Z</updateDate>
+    <billType>HRES</billType>
+    <recordedVotes>
+      <recordedVote>
+        <congress>116</congress>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2019/roll426.xml</url>
+        <rollNumber>426</rollNumber>
+        <date>2019-06-27T20:10:59Z</date>
+      </recordedVote>
+      <recordedVote>
+        <congress>116</congress>
+        <fullActionName>Free Form Motions Results</fullActionName>
+        <sessionNumber>1</sessionNumber>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2019/roll425.xml</url>
+        <rollNumber>425</rollNumber>
+        <date>2019-06-27T15:30:06Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <title>Providing for consideration of the Senate amendment to the bill (H.R. 3401) making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes.</title>
+    <version>1.0.0</version>
+    <billNumber>466</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-06-27T13:06:32Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-06-27</introducedDate>
+    <relatedBills>
+      <item>
+        <number>3401</number>
+        <latestTitle>Emergency Supplemental Appropriations for Humanitarian Assistance and Security at the Southern Border Act, 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-07-01</actionDate>
+          <text>Became Public Law No: 116-26.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <freeFormMotionsResults>1</freeFormMotionsResults>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <provisionsOfARule>1</provisionsOfARule>
+        <reportedToHouse>1</reportedToHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <generalDebate>7</generalDebate>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <introducedInHouse>1</introducedInHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>16:11:02</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>16:10:59</actionTime>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll426.xml</url>
+            <name>Roll no. 426</name>
+          </link>
+        </links>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 322 - 85 (Roll no. 426).</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>16:10:59</actionTime>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll426.xml</url>
+            <name>Roll no. 426</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 322 - 85 (Roll no. 426).</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>15:32:05</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/466</url>
+            <name>H. Res. 466</name>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 466.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>15:31:12</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/466</url>
+            <name>H. Res. 466</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H5223</url>
+            <name>H5223</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H5223-5243</url>
+            <name>H5223-5243</name>
+          </link>
+        </links>
+        <text>By the direction of the Committee on Rules, Mr. McGovern called up H. Res. 466 and asked for its immediate consideration. (consideration: CR H5223-5243; text: CR H5223)</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>13:22:00</actionTime>
+        <links />
+        <text>WITHDRAWAL OF RESOLUTION - Mr. McGovern withdrew the resolution from consideration.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>11:38:54</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/466</url>
+            <name>H.Res. 466</name>
+          </link>
+        </links>
+        <text>DEBATE - The House resumed with debate on H.Res. 466.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>11:31:07</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/466</url>
+            <name>H. Res. 466</name>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 466.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>11:30:06</actionTime>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll425.xml</url>
+            <name>Roll no. 425</name>
+          </link>
+        </links>
+        <text>On consideration of the resolution Agreed to by the Yeas and Nays: 226 - 188 (Roll no. 425).</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H36610</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>10:39:00</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/466</url>
+            <name>H.Res. 466</name>
+          </link>
+        </links>
+        <text>POINT OF ORDER - Mr. Cole raised a point of order against the provisions of H.Res. 466 because it violates the Congressional Budget Act. The Chair announced the disposition of the point of order would be resolved by the question of consideration of H.Res. 466. The House proceeded with 20 minutes of debate on the point of order at at the end of which the Chair will put the question on consideration.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>10:36:16</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/466</url>
+            <name>H.Res. 466</name>
+          </link>
+        </links>
+        <text>By direction of the Committee on Rules, Mr. McGovern called up H.Res. 466 and asked for its immediate consideration.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 34.</text>
+        <type>Calendars</type>
+        <committee />
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <actionTime>09:06:33</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/3401</url>
+            <name>H.R. 3401</name>
+          </link>
+        </links>
+        <text>Rule provides for consideration of Senate amendment to H.R. 3401.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H12700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/130</url>
+            <name>H. Rept. 116-130</name>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 116-130, by Mr. McGovern.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/130</url>
+            <name>H. Rept. 116-130</name>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 116-130, by Mr. McGovern.</text>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <titles>
+      <item>
+        <title>Providing for consideration of the Senate amendment to the bill (H.R. 3401) making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Providing for consideration of the Senate amendment to the bill (H.R. 3401) making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-130</citation>
+      </committeeReport>
+    </committeeReports>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-06-27</actionDate>
+          <lastSummaryUpdateDate>2019-06-28T08:01:56Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-06-27T04:00:00Z</updateDate>
+          <text><![CDATA[Sets forth the rule for consideration of the Senate amendment to the bill (H.R. 3401) making emergency supplemental appropriations for the fiscal year ending September 30, 2019.]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-06-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres466eh/xml/BILLS-116hres466eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2019-06-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres466rh/xml/BILLS-116hres466rh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <amendments>
+      <amendment>
+        <chamber>House of Representatives</chamber>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <type>HAMDT</type>
+        <congress>116</congress>
+        <titles />
+        <actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actionTypeCounts>
+            <agreeingToTheAmendmentResults>1</agreeingToTheAmendmentResults>
+            <motionForThePreviousQuestionOffered>1</motionForThePreviousQuestionOffered>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToByHouse>1</amendmentAgreedToByHouse>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2019-06-27</actionDate>
+              <actionTime>15:36:58</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/505</url>
+                  <name>H.Amdt.505</name>
+                </link>
+              </links>
+              <text>On agreeing to the McGovern amendment (A001) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <committee />
+              <actionCode>H34111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2019-06-27</actionDate>
+              <actionTime>15:36:46</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/505</url>
+                  <name>H.Amdt.505</name>
+                </link>
+              </links>
+              <text>The previous question was ordered on the amendment (A001) and the resolution without objection.</text>
+              <type>Floor</type>
+              <committee />
+              <actionCode>H34180</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2019-06-27</actionDate>
+              <actionTime>15:35:40</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/505</url>
+                  <name>H.Amdt.505</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H5242</url>
+                  <name>H5242</name>
+                </link>
+              </links>
+              <text>Amendment (A001) offered by Mr. McGovern. (consideration: CR H5242; text: CR H5242)</text>
+              <type>Floor</type>
+              <committee />
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2019-06-27</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-06-27</actionDate>
+              <actionTime>15:35:40</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/505</url>
+                  <name>H.Amdt.505</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H5242</url>
+                  <name>H5242</name>
+                </link>
+              </links>
+              <text>House amendment offered/reported by: Amendment (A001) offered by Mr. McGovern.</text>
+              <type>NotUsed</type>
+              <committee />
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2019-06-27</actionDate>
+              <actionTime>15:36:58</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/505</url>
+                  <name>H.Amdt.505</name>
+                </link>
+              </links>
+              <text>Amendment agreed to by House: On agreeing to the McGovern amendment (A001) Agreed to by voice vote.</text>
+              <type>NotUsed</type>
+              <committee />
+              <actionCode>79000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2019-06-27</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <committee />
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2019-06-27</actionDate>
+              <actionTime>15:36:58</actionTime>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/505</url>
+                  <name>H.Amdt.505</name>
+                </link>
+              </links>
+              <text>House amendment agreed to: On agreeing to the McGovern amendment (A001) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <committee />
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+          <count>8</count>
+        </actions>
+        <amendedAmendment />
+        <sponsors>
+          <item>
+            <identifiers>
+              <lisID>1504</lisID>
+              <bioguideId>M000312</bioguideId>
+              <gpoId>7968</gpoId>
+            </identifiers>
+            <middleName>P.</middleName>
+            <firstName>JAMES</firstName>
+            <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+            <bioguideId>M000312</bioguideId>
+            <state>MA</state>
+            <district>2</district>
+            <lastName>MCGOVERN</lastName>
+            <party>D</party>
+          </item>
+        </sponsors>
+        <number>505</number>
+        <updateDate>2019-07-19T16:16:18Z</updateDate>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <amendedBill>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+          <type>HRES</type>
+          <congress>116</congress>
+          <number>466</number>
+          <title>Providing for consideration of the Senate amendment to the bill (H.R. 3401) making emergency supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes.</title>
+        </amendedBill>
+        <description />
+        <notes />
+        <links />
+        <version>1.0.0</version>
+        <purpose>An amendment to strike all after the resolving clause and insert complete new text.</purpose>
+        <submittedDate>2019-06-27T04:00:00Z</submittedDate>
+        <createDate>2019-06-28T07:16:19Z</createDate>
+        <proposedDate />
+        <type>HAMDT</type>
+        <description />
+        <congress>116</congress>
+        <purpose>An amendment to strike all after the resolving clause and insert complete new text.</purpose>
+        <number>505</number>
+        <latestAction>
+          <actionDate>2019-06-27</actionDate>
+          <text>On agreeing to the McGovern amendment (A001) Agreed to by voice vote.</text>
+          <actionTime>15:36:58</actionTime>
+        </latestAction>
+      </amendment>
+    </amendments>
+    <laws />
+    <sponsors>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <party>D</party>
+        <district>2</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

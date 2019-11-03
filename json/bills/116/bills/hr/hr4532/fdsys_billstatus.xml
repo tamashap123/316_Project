@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2019-10-17T07:13:35Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>O000171</bioguideId>
+        <lastName>O'Halleran</lastName>
+        <byRequestType />
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+          <lisID>2306</lisID>
+        </identifiers>
+        <district>1</district>
+        <firstName>Tom</firstName>
+        <state>AZ</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-10-08T13:18:10Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-26T14:00:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Cole</lastName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>C001053</bioguideId>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OK</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Gallego</lastName>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>G000574</bioguideId>
+        <firstName>Ruben</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <district>7</district>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <laws />
+    <title>Nursing Home Care for Native American Veterans Act</title>
+    <latestAction>
+      <links />
+      <actionDate>2019-10-08</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4532ih/xml/BILLS-116hr4532ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-10-08</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-09-26</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-09-26</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-09-26</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <congress>116</congress>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to make certain grants to assist nursing homes for veterans located on tribal lands.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Nursing Home Care for Native American Veterans Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Nursing Home Care for Native American Veterans Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Nursing Home Care for Native American Veterans Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <createDate>2019-09-27T07:12:27Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 156 (Thursday, September 26, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. O'HALLERAN:H.R. 4532.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H8055]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-09-26</introducedDate>
+    <committeeReports />
+    <billNumber>4532</billNumber>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>2558</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-09-26</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <latestTitle>Nursing Home Care for Native American Veterans Act</latestTitle>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

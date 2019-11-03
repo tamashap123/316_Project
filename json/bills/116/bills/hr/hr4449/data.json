@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-20", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-20", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4449-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "O000171", 
+      "district": "1", 
+      "name": "O'Halleran, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-09-20", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-20", 
+  "number": "4449", 
+  "official_title": "To amend the Communications Act of 1934 to add access to telecommunications and information services in Indian country and areas with high populations of Indian people to the universal service principle relating to access to such services in rural, insular, and high cost areas.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Tribal Internet Expansion Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "R000599", 
+    "district": "36", 
+    "name": "Ruiz, Raul", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-20", 
+  "subjects": [
+    "Indian social and development programs", 
+    "Internet and video services", 
+    "Rural conditions and development", 
+    "Science, technology, communications", 
+    "Telecommunication rates and fees"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to add access to telecommunications and information services in Indian country and areas with high populations of Indian people to the universal service principle relating to access to such services in rural, insular, and high cost areas.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tribal Internet Expansion Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tribal Internet Expansion Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Tribal Internet Expansion Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-09T13:30:23Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4449.xml"
+}

@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1808-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M000133", 
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-12", 
+      "state": "MA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-12", 
+  "number": "1808", 
+  "official_title": "A bill to require the Secretary of State to design and establish a Vulnerability Disclosure Process to improve the Department of State cybersecurity and a bug bounty program to identify and report vulnerabilities of Internet-facing information technology of the Department of State, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr328-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Hack Your State Department Act", 
+  "sponsor": {
+    "bioguide_id": "G000562", 
+    "district": null, 
+    "name": "Gardner, Cory", 
+    "state": "CO", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-12", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Department of State", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Intergovernmental relations", 
+    "Internet and video services", 
+    "Public contracts and procurement", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Secretary of State to design and establish a Vulnerability Disclosure Process to improve the Department of State cybersecurity and a bug bounty program to identify and report vulnerabilities of Internet-facing information technology of the Department of State, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hack Your State Department Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hack Your State Department Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Hack Your State Department Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-09T16:30:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1808.xml"
+}

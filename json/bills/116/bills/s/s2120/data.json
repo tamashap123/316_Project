@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-15", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-15", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2120-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001095", 
+      "district": null, 
+      "name": "Cotton, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-15", 
+      "state": "AR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000461", 
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-15", 
+      "state": "PA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-15", 
+  "number": "2120", 
+  "official_title": "A bill to prohibit the provision of Federal funds to State and local governments for payment of obligations, to prohibit the Federal Reserve Banks, the Department of the Treasury, and other Federal agencies from financially assisting State and local governments that have defaulted on their obligations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4572-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Government Bailout Prevention Act", 
+  "sponsor": {
+    "bioguide_id": "Y000064", 
+    "district": null, 
+    "name": "Young, Todd", 
+    "state": "IN", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-15", 
+  "subjects": [
+    "Economics and public finance"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prohibit the provision of Federal funds to State and local governments for payment of obligations, to prohibit the Federal Reserve Banks, the Department of the Treasury, and other Federal agencies from financially assisting State and local governments that have defaulted on their obligations, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Government Bailout Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Government Bailout Prevention Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Government Bailout Prevention Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-08T15:00:22Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2120.xml"
+}

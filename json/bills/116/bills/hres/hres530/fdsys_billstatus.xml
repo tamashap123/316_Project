@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <cboCostEstimates />
+    <billNumber>530</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <bioguideId>S001183</bioguideId>
+        <sponsorshipDate>2019-07-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <district>6</district>
+        <identifiers>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+          <lisID>1994</lisID>
+        </identifiers>
+        <lastName>Schweikert</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <firstName>David</firstName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-07-30T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres530ih/xml/BILLS-116hres530ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Protection of officials</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-07-30T15:33:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <bioguideId>G000553</bioguideId>
+        <party>D</party>
+        <district>9</district>
+        <lastName>Green</lastName>
+        <byRequestType />
+        <firstName>Al</firstName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1803</lisID>
+          <bioguideId>G000553</bioguideId>
+          <gpoId>8165</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <congress>116</congress>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2019-07-30</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText />
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <notes />
+    <billType>HRES</billType>
+    <version>1.0.0</version>
+    <updateDate>2019-08-16T10:22:55Z</updateDate>
+    <introducedDate>2019-07-30</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Expressing the sense of the House of Representatives that the amount of the Members' Representational Allowance should be increased in response to increasing threats against Members of the House.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Expressing the sense of the House of Representatives that the amount of the Members' Representational Allowance should be increased in response to increasing threats against Members of the House.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2019-07-31T07:12:26Z</createDate>
+    <recordedVotes />
+    <title>Expressing the sense of the House of Representatives that the amount of the Members' Representational Allowance should be increased in response to increasing threats against Members of the House.</title>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

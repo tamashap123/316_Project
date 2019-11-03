@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>116</congress>
+    <updateDate>2019-07-30T13:30:53Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <bioguideId>L000480</bioguideId>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <lastName>LOWEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000480</bioguideId>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+        </identifiers>
+        <firstName>NITA</firstName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>17</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>S001201</bioguideId>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <lastName>Suozzi</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <latestAction>
+      <actionDate>2019-04-10</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-04-10</introducedDate>
+    <committeeReports />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-04-10T13:13:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-04-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2272ih/xml/BILLS-116hr2272ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+    <notes />
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to provide for adjustments in the individual income tax rates to reflect regional differences in the cost-of-living.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Tax Equity Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Tax Equity Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Tax Equity Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <state>NY</state>
+        <district>10</district>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>JERROLD</firstName>
+        <lastName>NADLER</lastName>
+        <middleName />
+        <bioguideId>N000002</bioguideId>
+      </item>
+    </sponsors>
+    <title>Tax Equity Act of 2019</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Tax Equity Act of 201</strong><b>9</b></p> <p>This bill provides for regional cost-of-living adjustments in individual income tax rates. The bill also directs the Department of Labor to determine and publish a cost-of-living index for each statistical area for 2019 and each calendar year thereafter. A "statistical area" is (1) any metropolitan statistical area as defined by the Department of Commerce, and (2) the portion of any state not within a metropolitan statistical area.</p> <p> <p>]]></text>
+          <updateDate>2019-04-10T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-04-10</actionDate>
+          <lastSummaryUpdateDate>2019-07-01T13:14:41Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NADLER:H.R. 2272.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1[Page H3259]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-04-11T07:12:10Z</createDate>
+    <billNumber>2272</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

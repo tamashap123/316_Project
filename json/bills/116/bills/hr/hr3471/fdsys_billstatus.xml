@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <date>2019-07-10T15:55:53Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-06-25T14:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>A bill to make available the continued use of Pick-Sloan Missouri Basin Program project use power by the Kinsey Irrigation Company and the Sidney Water Users Irrigation District, and for other purposes.</latestTitle>
+        <type>S</type>
+        <number>1882</number>
+        <latestAction>
+          <actionDate>2019-06-26</actionDate>
+          <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <titles>
+      <item>
+        <title>To make available the continued use of Pick-Sloan Missouri Basin Program project use power by the Kinsey Irrigation Company and the Sidney Water Users Irrigation District, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To make available the continued use of Pick-Sloan Missouri Basin Program project use power by the Kinsey Irrigation Company and the Sidney Water Users Irrigation District, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>3471</billNumber>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-09-18T21:02:04Z</lastSummaryUpdateDate>
+          <updateDate>2019-06-25T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill&nbsp;provides for the continued use of power from the Pick-Sloan Missouri Basin Program by the Kinsey Irrigation Company and the Sidney Water Users Irrigation District in Montana. </p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2019-06-25</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>To make available the continued use of Pick-Sloan Missouri Basin Program project use power by the Kinsey Irrigation Company and the Sidney Water Users Irrigation District, and for other purposes.</title>
+    <latestAction>
+      <actionDate>2019-07-10</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+    </latestAction>
+    <createDate>2019-06-26T07:12:09Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Gianforte</lastName>
+        <firstName>Greg</firstName>
+        <state>MT</state>
+        <bioguideId>G000584</bioguideId>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <district>0</district>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000584</bioguideId>
+          <lisID>2359</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <notes />
+    <introducedDate>2019-06-25</introducedDate>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-10</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-06-25</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-25</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-25</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <cosponsors />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3471ih/xml/BILLS-116hr3471ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-25T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 107 (Tuesday, June 25, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. GIANFORTE:H.R. 3471.Congress has the power to enact this legislation pursuantto the following:Article, Section 8, Clause 18[Page H5167]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2019-09-18T21:15:17Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

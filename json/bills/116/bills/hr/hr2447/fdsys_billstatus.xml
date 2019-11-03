@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-01T14:03:30Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-01T14:03:25Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <updateDate>2019-08-07T08:16:09Z</updateDate>
+    <createDate>2019-05-02T07:12:11Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-01</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-01</actionDate>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-01</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-01</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>B001308</bioguideId>
+        <lastName>Brindisi</lastName>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <firstName>Anthony</firstName>
+        <middleName />
+        <state>NY</state>
+        <district>22</district>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B001308</bioguideId>
+          <lisID>2429</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestTitle>Jobs and Premium Protection Act</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-01-10</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>80</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRINDISI:H.R. 2447.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates.[Page H3405]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001158</bioguideId>
+          <lisID>1806</lisID>
+          <gpoId>8766</gpoId>
+        </identifiers>
+        <firstName>Kenny</firstName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <district>24</district>
+        <bioguideId>M001158</bioguideId>
+        <lastName>Marchant</lastName>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <middleName />
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jefferson</firstName>
+        <sponsorshipDate>2019-05-10</sponsorshipDate>
+        <district>2</district>
+        <bioguideId>V000133</bioguideId>
+        <lastName>Van Drew</lastName>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <middleName />
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2395</lisID>
+          <bioguideId>A000378</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Cynthia</firstName>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>A000378</bioguideId>
+        <lastName>Axne</lastName>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <middleName />
+        <state>IA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2019-05-28</sponsorshipDate>
+        <district>23</district>
+        <bioguideId>R000585</bioguideId>
+        <lastName>Reed</lastName>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <middleName />
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <district>26</district>
+        <bioguideId>B001248</bioguideId>
+        <lastName>Burgess</lastName>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <middleName>C.</middleName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001083</bioguideId>
+          <lisID>2431</lisID>
+        </identifiers>
+        <firstName>Kendra</firstName>
+        <sponsorshipDate>2019-08-06</sponsorshipDate>
+        <district>5</district>
+        <bioguideId>H001083</bioguideId>
+        <lastName>Horn</lastName>
+        <fullName>Rep. Horn, Kendra S. [D-OK-5]</fullName>
+        <middleName>S.</middleName>
+        <state>OK</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2447ih/xml/BILLS-116hr2447ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-05-01T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>Jobs and Premium Protection Act</title>
+    <introducedDate>2019-05-01</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>2447</billNumber>
+    <committeeReports />
+    <amendments />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To repeal the annual fee on health insurance providers enacted by the Patient Protection and Affordable Care Act.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Jobs and Premium Protection Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Jobs and Premium Protection Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Jobs and Premium Protection Act</title>
+      </item>
+    </titles>
+    <latestAction>
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+      <actionDate>2019-05-01</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

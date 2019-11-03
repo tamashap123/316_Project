@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>116</congress>
+    <updateDate>2019-07-30T11:51:36Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>Bill</firstName>
+        <middleName />
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <bioguideId>C001075</bioguideId>
+        <party>R</party>
+        <lastName>Cassidy</lastName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <latestAction>
+      <actionDate>2019-05-02</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-05-02</introducedDate>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestTitle>Coast Guard Authorization Act of 2019</latestTitle>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2019-07-25</actionDate>
+        </latestAction>
+        <number>3409</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <latestAction>
+          <actionTime>12:08:39</actionTime>
+          <text>Held at the desk.</text>
+          <actionDate>2019-07-02</actionDate>
+        </latestAction>
+        <number>1790</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>Maritime Administration Authorization and Enhancement Act of 2019</latestTitle>
+        <latestAction>
+          <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.</text>
+          <actionDate>2019-05-15</actionDate>
+        </latestAction>
+        <number>1439</number>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sscm00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-05-02T16:24:04Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1287is/xml/BILLS-116s1287is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-02T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-05-02</actionDate>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to ensure small shipyard grant projects are carried out using materials produced in the United States.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Strengthening Buy America for Small Shipyard Grants Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Strengthening Buy America for Small Shipyard Grants Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Strengthening Buy America for Small Shipyard Grants Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Tammy</firstName>
+        <lastName>Baldwin</lastName>
+        <middleName />
+        <bioguideId>B001230</bioguideId>
+      </item>
+    </sponsors>
+    <title>Strengthening Buy America for Small Shipyard Grants Act</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-05-03T04:42:11Z</createDate>
+    <billNumber>1287</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Buy American requirements</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

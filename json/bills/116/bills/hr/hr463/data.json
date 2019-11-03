@@ -1,0 +1,154 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-24", 
+      "action_code": "", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-09-20T11:08:16-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 463", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/463"
+        }
+      ], 
+      "references": [], 
+      "text": "ASSUMING FIRST SPONSORSHIP - Mr. Garamendi asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 463, a bill originally introduced by Representative Jones, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XIII. Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr463-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001303", 
+      "district": "0", 
+      "name": "Blunt Rochester, Lisa", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-23", 
+      "state": "DE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000576", 
+      "district": "6", 
+      "name": "Grothman, Glenn", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-30", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-09-20T11:08:16-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-10", 
+  "number": "463", 
+  "official_title": "To amend title 10, United States Code, to provide for forgiveness of certain overpayments of retired pay paid to deceased retired members of the Armed Forces.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Military Retiree Survivor Comfort Act", 
+  "sponsor": {
+    "bioguide_id": "J000255", 
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-10", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Military personnel and dependents", 
+    "Veterans' pensions and compensation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-10T05:00:00Z", 
+    "text": "Military Retiree Survivor Comfort Act \n\nThis bill requires the United States to forgive any overpayment of military retired or retainer pay for any period after the death of the recipient through the last day of the month in which such death occurs, if such payment is electronically deposited to a joint account bearing the name of the decedent and the decedent's designated beneficiary.\n\nThe bill provides a special effective date for the first annuity payment to a survivor under the Survivor Benefit Plan when an overpayment is so forgiven."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 10, United States Code, to provide for forgiveness of certain overpayments of retired pay paid to deceased retired members of the Armed Forces.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Military Retiree Survivor Comfort Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Military Retiree Survivor Comfort Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Military Retiree Survivor Comfort Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-31T07:15:47Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr463.xml"
+}

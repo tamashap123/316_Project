@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>South Dakota</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-01-10T20:43:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <title>A bill to direct the Secretary of Agriculture to transfer certain National Forest System land to Custer County, South Dakota.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Custer County Airport Conveyance Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Custer County Airport Conveyance Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Custer County Airport Conveyance Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <state>SD</state>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <party>R</party>
+        <lastName>THUNE</lastName>
+        <firstName>JOHN</firstName>
+        <byRequestType />
+        <middleName>R.</middleName>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <congress>116</congress>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Custer County Airport Conveyance Act</b></p> <p>This bill directs the Forest Service, if Custer County in South Dakota offers to acquire approximately 65.7 acres of National Forest System land in the county for market value, to convey such land to the county. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2019-01-10T05:00:00Z</updateDate>
+          <actionDate>2019-01-10</actionDate>
+          <lastSummaryUpdateDate>2019-06-04T14:13:26Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <cboCostEstimates />
+    <billType>S</billType>
+    <billNumber>100</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-10</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-01-10</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <title>Custer County Airport Conveyance Act</title>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>382</number>
+        <latestTitle>To provide for the conveyance of the Custer County Airport, and for other purposes.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-02-05</actionDate>
+          <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>47</number>
+        <latestTitle>John D. Dingell, Jr. Conservation, Management, and Recreation Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-03-12</actionDate>
+          <text>Became Public Law No: 116-9.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <createDate>2019-01-11T05:40:18Z</createDate>
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <laws />
+    <calendarNumbers />
+    <updateDate>2019-06-06T05:00:03Z</updateDate>
+    <textVersions>
+      <item>
+        <date>2019-01-10T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s100is/xml/BILLS-116s100is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-01-10</introducedDate>
+    <latestAction>
+      <actionDate>2019-01-10</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>SD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <lastName>Rounds</lastName>
+        <bioguideId>R000605</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-01-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2288</lisID>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

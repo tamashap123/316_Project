@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-06-20</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-06-20</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-06-20</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <updateDate>2019-10-17T07:15:34Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>452</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <state>FL</state>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <lastName>Bilirakis</lastName>
+        <bioguideId>B001257</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1838</lisID>
+          <bioguideId>B001257</bioguideId>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <firstName>Gus</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <lastName>Speier</lastName>
+        <bioguideId>S001175</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <state>NY</state>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <lastName>KING</lastName>
+        <bioguideId>K000210</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>28</district>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <lastName>SCHIFF</lastName>
+        <bioguideId>S001150</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <firstName>ADAM</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>32</district>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <lastName>NAPOLITANO</lastName>
+        <bioguideId>N000179</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <firstName>GRACE</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <lastName>MCGOVERN</lastName>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>30</district>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <lastName>SHERMAN</lastName>
+        <bioguideId>S000344</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <firstName>BRAD</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <state>NE</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <lastName>Fortenberry</lastName>
+        <bioguideId>F000449</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1793</lisID>
+          <gpoId>8038</gpoId>
+          <bioguideId>F000449</bioguideId>
+        </identifiers>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>16</district>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <lastName>Costa</lastName>
+        <bioguideId>C001059</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1774</lisID>
+          <bioguideId>C001059</bioguideId>
+          <gpoId>7825</gpoId>
+        </identifiers>
+        <firstName>Jim</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <lastName>Chu</lastName>
+        <bioguideId>C001080</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <firstName>Judy</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>38</district>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <lastName>SANCHEZ</lastName>
+        <bioguideId>S001156</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <firstName>LINDA</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>39</district>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>Ray</middleName>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <lastName>Cisneros</lastName>
+        <bioguideId>C001123</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001123</bioguideId>
+          <lisID>2380</lisID>
+        </identifiers>
+        <firstName>Gilbert</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-07-24</sponsorshipDate>
+        <lastName>Garamendi</lastName>
+        <bioguideId>G000559</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1973</lisID>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2019-07-24</sponsorshipDate>
+        <lastName>ESHOO</lastName>
+        <bioguideId>E000215</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+        </identifiers>
+        <firstName>ANNA</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <state>NJ</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <lastName>Sires</lastName>
+        <bioguideId>S001165</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <firstName>Albio</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <state>IL</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-08-23</sponsorshipDate>
+        <lastName>Krishnamoorthi</lastName>
+        <bioguideId>K000391</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000391</bioguideId>
+          <lisID>2325</lisID>
+        </identifiers>
+        <firstName>Raja</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <state>NJ</state>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2019-08-27</sponsorshipDate>
+        <lastName>PASCRELL</lastName>
+        <bioguideId>P000096</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+        </identifiers>
+        <firstName>WILLIAM</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <state>MD</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <lastName>Raskin</lastName>
+        <bioguideId>R000606</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jamie</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>41</district>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <lastName>Takano</lastName>
+        <bioguideId>T000472</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <state>MI</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+        <lastName>Tlaib</lastName>
+        <bioguideId>T000481</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2410</lisID>
+          <bioguideId>T000481</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Rashida</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>35</district>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2019-10-16</sponsorshipDate>
+        <lastName>Torres</lastName>
+        <bioguideId>T000474</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000474</bioguideId>
+          <lisID>2231</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Norma</firstName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres452ih/xml/BILLS-116hres452ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-20T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText />
+    <createDate>2019-06-21T07:12:07Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>PALLONE</lastName>
+        <bioguideId>P000034</bioguideId>
+        <district>6</district>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <state>NJ</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>FRANK</firstName>
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2019-06-20</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Armenia</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Cultural exchanges and relations</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>News media and reporting</name>
+          </item>
+          <item>
+            <name>Political parties and affiliation</name>
+          </item>
+          <item>
+            <name>Rule of law and government transparency</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Expressing the sense of the House of Representatives regarding the recent free and fair parliamentary elections and transfer of power in Armenia, reaffirming the critical importance of the United States-Armenia partnership, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Expressing the sense of the House of Representatives regarding the recent free and fair parliamentary elections and transfer of power in Armenia, reaffirming the critical importance of the United States-Armenia partnership, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-06-20T13:02:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-06-20</introducedDate>
+    <calendarNumbers />
+    <title>Expressing the sense of the House of Representatives regarding the recent free and fair parliamentary elections and transfer of power in Armenia, reaffirming the critical importance of the United States-Armenia partnership, and for other purposes.</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

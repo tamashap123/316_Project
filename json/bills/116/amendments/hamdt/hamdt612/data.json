@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-11T17:05:28-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.612", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/612"
+        }, 
+        {
+          "name": "Roll no. 523", 
+          "url": "http://clerk.house.gov/evs/2019/roll523.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 523, 
+      "text": "On agreeing to the Gosar amendment (A007) Failed by recorded vote: 179 - 252 (Roll no. 523).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-09-11T14:26:12-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.612", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/612"
+        }, 
+        {
+          "name": "H7621", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7621"
+        }, 
+        {
+          "name": "H7621-7622", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7621-7622"
+        }, 
+        {
+          "name": "H7635-7636", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7635-7636"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7621-7622, H7635-7636", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H7621", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-11", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-11T17:05:28-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.612", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/612"
+        }, 
+        {
+          "name": "Roll no. 523", 
+          "url": "http://clerk.house.gov/evs/2019/roll523.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-11T17:05:28-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.612", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/612"
+        }, 
+        {
+          "name": "Roll no. 523", 
+          "url": "http://clerk.house.gov/evs/2019/roll523.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-11T17:05:28-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.612", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/612"
+        }, 
+        {
+          "name": "Roll no. 523", 
+          "url": "http://clerk.house.gov/evs/2019/roll523.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Gosar amendment (A007) Failed by recorded vote: 179 - 252 (Roll no. 523).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-11T14:26:12-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.612", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/612"
+        }, 
+        {
+          "name": "H7621", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7621"
+        }, 
+        {
+          "name": "H7621-7622", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7621-7622"
+        }, 
+        {
+          "name": "H7635-7636", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7635-7636"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A007) offered by Mr. Gosar.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-11", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt612-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1941-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 1941
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment sought to postpone the bill from going into effect until the DOI, in consultation with DOL, certifies that the offshore energy moratorium in the bill would not eliminate a substantial number of minority and women jobs.", 
+  "introduced_at": "2019-09-11", 
+  "number": 612, 
+  "purpose": "An amendment numbered 7 printed in Part F of House Report 116-200 to allow the bill to go into effect when DOI, in consultation with DOL, certifies that the offshore energy moratorium in the bill will not eliminate a substantial number of minority and women jobs.", 
+  "sponsor": {
+    "bioguide_id": "G000565", 
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2019-09-11T17:05:28-04:00", 
+  "updated_at": "2019-09-20T07:16:20Z"
+}

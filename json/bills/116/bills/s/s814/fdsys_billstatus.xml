@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <notes />
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <billNumber>814</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend title XVIII of the Social Security Act to improve access to diabetes outpatient self-management training services, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Expanding Access to Diabetes Self-Management Training Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Expanding Access to Diabetes Self-Management Training Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Expanding Access to Diabetes Self-Management Training Act of 2019</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2019-03-14</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <laws />
+    <introducedDate>2019-03-14</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <bioguideId>S001181</bioguideId>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <lastName>Shaheen</lastName>
+        <middleName />
+        <state>NH</state>
+      </item>
+    </sponsors>
+    <title>Expanding Access to Diabetes Self-Management Training Act of 2019</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-10-25T10:02:09Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <date>2019-03-14T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s814is/xml/BILLS-116s814is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <party>R</party>
+        <state>ME</state>
+        <firstName>SUSAN</firstName>
+        <lastName>COLLINS</lastName>
+        <middleName>MARGARET</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <party>R</party>
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+        <lastName>Murkowski</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+          <lisID>2185</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <party>I</party>
+        <state>ME</state>
+        <firstName>Angus</firstName>
+        <lastName>King</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+          <lisID>2099</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <party>D</party>
+        <state>AZ</state>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <party>D</party>
+        <state>MI</state>
+        <firstName>DEBORAH</firstName>
+        <lastName>STABENOW</lastName>
+        <middleName>ANN</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000300</bioguideId>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <party>D</party>
+        <state>AL</state>
+        <firstName>Doug</firstName>
+        <lastName>Jones</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <party>D</party>
+        <state>DE</state>
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <party>D</party>
+        <state>OH</state>
+        <firstName>Sherrod</firstName>
+        <lastName>Brown</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <party>D</party>
+        <state>MT</state>
+        <firstName>Jon</firstName>
+        <lastName>Tester</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <party>R</party>
+        <state>MS</state>
+        <firstName>ROGER</firstName>
+        <lastName>WICKER</lastName>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+          <lisID>2144</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+        <party>R</party>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+          <lisID>2365</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-10-24</sponsorshipDate>
+        <party>D</party>
+        <state>MN</state>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <calendarNumbers />
+    <relatedBills />
+    <createDate>2019-03-15T04:42:08Z</createDate>
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-14T16:36:17Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

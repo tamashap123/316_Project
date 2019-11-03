@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>230</billNumber>
+    <congress>116</congress>
+    <createDate>2019-06-05T04:42:06Z</createDate>
+    <committees>
+      <billCommittees />
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3220-3221</url>
+            <name>S3220-3221</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3221</url>
+            <name>S3221</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S3221; text: CR S3220-3221)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-06-04</actionDate>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.(consideration: CR S3221; text: CR S3220-3221)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3220-3221</url>
+            <name>S3220-3221</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3221</url>
+            <name>S3221</name>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-06-04</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <updateDate>2019-06-14T04:57:39Z</updateDate>
+    <introducedDate>2019-06-04</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <state>RI</state>
+        <middleName />
+        <bioguideId>W000802</bioguideId>
+      </item>
+    </sponsors>
+    <latestAction>
+      <actionDate>2019-06-04</actionDate>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S3221; text: CR S3220-3221)</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A resolution recognizing the significant milestone of Senior Corps volunteers serving 50,000,000 hours in 2018.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>A resolution recognizing the significant milestone of Senior Corps volunteers serving 50,000,000 hours in 2018.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Corporation for National and Community Service</name>
+          </item>
+          <item>
+            <name>National and community service</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres230ats/xml/BILLS-116sres230ats.xml</url>
+          </item>
+        </formats>
+        <type>Agreed to Senate</type>
+        <date>2019-06-04T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <type>HRES</type>
+        <latestTitle>Recognizing the significant milestone of Senior Corps volunteers serving 50,000,000 hours in 2018.</latestTitle>
+        <congress>116</congress>
+        <number>402</number>
+        <latestAction>
+          <text>Referred to the House Committee on Education and Labor.</text>
+          <actionDate>2019-05-23</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>SRES</billType>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <bioguideId>C001075</bioguideId>
+        <state>LA</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cassidy</lastName>
+        <identifiers>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DURBIN</lastName>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <bioguideId>R000122</bioguideId>
+        <state>RI</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>REED</lastName>
+        <identifiers>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MARKEY</lastName>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jacklyn</firstName>
+        <bioguideId>R000608</bioguideId>
+        <state>NV</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rosen</lastName>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mazie</firstName>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hirono</lastName>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Sherrod</firstName>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Brown</lastName>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tammy</firstName>
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Baldwin</lastName>
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Doug</firstName>
+        <bioguideId>J000300</bioguideId>
+        <state>AL</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Jones</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tina</firstName>
+        <bioguideId>S001203</bioguideId>
+        <state>MN</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Smith</lastName>
+        <identifiers>
+          <lisID>2365</lisID>
+          <gpoId />
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHELLEY</firstName>
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CAPITO</lastName>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <middleName>MOORE</middleName>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Angus</firstName>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <party>I</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>King</lastName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>DIANNE</firstName>
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>FEINSTEIN</lastName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <bioguideId>M001183</bioguideId>
+        <state>WV</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Manchin</lastName>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chris</firstName>
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Van Hollen</lastName>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tammy</firstName>
+        <bioguideId>D000622</bioguideId>
+        <state>IL</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Duckworth</lastName>
+        <identifiers>
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SUSAN</firstName>
+        <bioguideId>C001035</bioguideId>
+        <state>ME</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>COLLINS</lastName>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <middleName>MARGARET</middleName>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Martha</firstName>
+        <bioguideId>M001197</bioguideId>
+        <state>AZ</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>McSally</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <title>A resolution recognizing the significant milestone of Senior Corps volunteers serving 50,000,000 hours in 2018.</title>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-06-11T17:55:14Z</lastSummaryUpdateDate>
+          <updateDate>2019-06-04T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>This resolution acknowledges the contributions that Senior Corps volunteers make to the communities in which they live and serve and to the United States. </p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2019-06-04</actionDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2019-06-11T14:45:50Z</lastSummaryUpdateDate>
+          <updateDate>2019-06-04T18:43:59Z</updateDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <text><![CDATA[<p>This resolution acknowledges the contributions that Senior Corps volunteers make to the communities in which they live and serve and to the United States.</p>]]></text>
+          <name>Passed Senate</name>
+          <versionCode>55</versionCode>
+          <actionDate>2019-06-04</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

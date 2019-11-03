@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-08-28</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-25</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-07-25</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionDate>2019-07-25</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <updateDate>2019-10-19T07:16:34Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>3980</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>Bost</lastName>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <bioguideId>B001295</bioguideId>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <district>12</district>
+      </item>
+      <item>
+        <lastName>Thompson</lastName>
+        <fullName>Rep. Thompson, Glenn [R-PA-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <bioguideId>T000467</bioguideId>
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <district>15</district>
+      </item>
+      <item>
+        <lastName>Meuser</lastName>
+        <fullName>Rep. Meuser, Daniel [R-PA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001204</bioguideId>
+          <lisID>2434</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-08-06</sponsorshipDate>
+        <bioguideId>M001204</bioguideId>
+        <firstName>Daniel</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <district>9</district>
+      </item>
+      <item>
+        <lastName>Reschenthaler</lastName>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2436</lisID>
+          <bioguideId>R000610</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-10-18</sponsorshipDate>
+        <bioguideId>R000610</bioguideId>
+        <firstName>Guy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <district>14</district>
+      </item>
+      <item>
+        <lastName>Tipton</lastName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+          <lisID>1997</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-10-18</sponsorshipDate>
+        <bioguideId>T000470</bioguideId>
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CO</state>
+        <district>3</district>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3980ih/xml/BILLS-116hr3980ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-25T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 126 (Thursday, July 25, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. KELLER:H.R. 3980.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the U.S. Constitution inthat the legislation exercises legislative powers granted toCongress by that clause ``to make all Laws which shall benecessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Office thereof.''[Page H7468]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-07-26T07:12:16Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Keller</lastName>
+        <bioguideId>K000395</bioguideId>
+        <district>12</district>
+        <fullName>Rep. Keller, Fred [R-PA-12]</fullName>
+        <state>PA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2471</lisID>
+          <bioguideId>K000395</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>Fred</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <actionDate>2019-08-28</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend title 18, United States Code, to require the impaneling of a new jury if a jury fails to recommend by unanimous vote a sentence for conviction of a crime punishable by death.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Eric's Law</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Eric's Law</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Eric’s Law</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-07-25</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>Eric's Law</latestTitle>
+        <number>2264</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-08-28T19:47:01Z</date>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-25T14:13:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-07-25</introducedDate>
+    <calendarNumbers />
+    <title>Eric's Law</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

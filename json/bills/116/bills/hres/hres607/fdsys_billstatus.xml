@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-09-27</actionDate>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>E1221</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E1221</url>
+          </link>
+        </links>
+        <actionDate>2019-09-27</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR E1221)</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-09-27</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-09-27</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <updateDate>2019-10-12T07:15:51Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>607</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <bioguideId>M000312</bioguideId>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DC</state>
+        <district>0</district>
+      </item>
+      <item>
+        <lastName>Dingell</lastName>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2251</lisID>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <bioguideId>D000624</bioguideId>
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <district>12</district>
+      </item>
+      <item>
+        <lastName>Chu</lastName>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+        <bioguideId>C001080</bioguideId>
+        <firstName>Judy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>27</district>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres607ih/xml/BILLS-116hres607ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-27T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText />
+    <createDate>2019-09-28T07:12:20Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Meng</lastName>
+        <bioguideId>M001188</bioguideId>
+        <district>6</district>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <state>NY</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>Grace</firstName>
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+      <actionDate>2019-09-27</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Political movements and philosophies</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Supporting the goals and ideals of the International Day of Non-Violence.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Supporting the goals and ideals of the International Day of Non-Violence.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-27T13:03:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-09-27</introducedDate>
+    <calendarNumbers />
+    <title>Supporting the goals and ideals of the International Day of Non-Violence.</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,144 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-17", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-17", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-09-18", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4358-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001122", 
+      "district": "1", 
+      "name": "Cunningham, Joe", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-09-17", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000597", 
+      "district": "7", 
+      "name": "Rice, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-18", 
+      "state": "SC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001177", 
+      "district": "0", 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-04", 
+      "state": "MP", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-17", 
+  "number": "4358", 
+  "official_title": "To direct the Administrator of the Federal Emergency Management Agency to submit to Congress a report on preliminary damage assessment and to establish damage assessment teams in the Federal Emergency Management Agency, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Preliminary Damage Assessment Improvement Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "K000386", 
+    "district": "24", 
+    "name": "Katko, John", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-17", 
+  "subjects": [
+    "Emergency management"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preliminary Damage Assessment Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preliminary Damage Assessment Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Administrator of the Federal Emergency Management Agency to submit to Congress a report on preliminary damage assessment and to establish damage assessment teams in the Federal Emergency Management Agency, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Preliminary Damage Assessment Improvement Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-05T07:16:56Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4358.xml"
+}

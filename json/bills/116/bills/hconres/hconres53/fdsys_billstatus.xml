@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Message on Senate action sent to the House.</text>
+      <links />
+      <actionDate>2019-07-31</actionDate>
+    </latestAction>
+    <notes />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres53enr/xml/BILLS-116hconres53enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Received in Senate</type>
+        <date>2019-07-29T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres53rds/xml/BILLS-116hconres53rds.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-07-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres53eh/xml/BILLS-116hconres53eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-07-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres53ih/xml/BILLS-116hconres53ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Message on Senate action sent to the House.</text>
+          <actionDate>2019-09-10</actionDate>
+        </latestAction>
+        <type>HCONRES</type>
+        <congress>116</congress>
+        <latestTitle>Authorizing the use of Emancipation Hall for an event to commemorate the 400th anniversary of the arrival of the first African slaves to the territory that would become the United States.</latestTitle>
+        <number>57</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-07-31</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-07-31</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5217</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5217</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S5217)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>S5217</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5217</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2019-07-31</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S5217)</text>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-07-29</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionTime>18:04:01</actionTime>
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H7443</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7443</url>
+          </link>
+        </links>
+        <actionTime>18:03:50</actionTime>
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H7443)</text>
+        <actionCode>H37100</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H7443</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7443</url>
+          </link>
+        </links>
+        <actionTime>18:03:50</actionTime>
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7443)</text>
+        <actionCode>8000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H7443</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7443</url>
+          </link>
+        </links>
+        <actionTime>18:03:48</actionTime>
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Considered by unanimous consent. (consideration: CR H7443)</text>
+        <actionCode>H30000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Discharge</type>
+        <text>Committee on House Administration discharged.</text>
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <text>Committee on House Administration discharged.</text>
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionTime>18:03:05</actionTime>
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Ms. Lofgren asked unanimous consent to discharge from committee and consider.</text>
+        <actionCode>H30200</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2019-07-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-07-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-07-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <introducedInHouse>1</introducedInHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <billReferrals>1</billReferrals>
+        <sentToHouse>1</sentToHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2019-07-25T22:03:46Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2019-07-12T13:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-10-03T19:45:20Z</updateDate>
+    <amendments />
+    <billNumber>53</billNumber>
+    <billType>HCONRES</billType>
+    <cboCostEstimates />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-07-12</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This concurrent resolution authorizes the use of Emancipation Hall in the Capitol Visitor Center for an event on September 9, 2019, to commemorate the 400th anniversary of the arrival of the first African slaves to the territory that would become the United States.</p>]]></text>
+          <updateDate>2019-07-12T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-10-03T16:46:44Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <actionDate>2019-07-25</actionDate>
+          <versionCode>53</versionCode>
+          <actionDesc>Passed House</actionDesc>
+          <text><![CDATA[<p>This concurrent resolution authorizes the use of Emancipation Hall in the Capitol Visitor Center for an event on September 9, 2019, to commemorate the 400th anniversary of the arrival of the first African slaves to the territory that would become the United States.</p>]]></text>
+          <updateDate>2019-07-25T13:10:33Z</updateDate>
+          <lastSummaryUpdateDate>2019-10-03T16:46:39Z</lastSummaryUpdateDate>
+          <name>Passed House</name>
+        </item>
+        <item>
+          <actionDate>2019-07-31</actionDate>
+          <versionCode>55</versionCode>
+          <actionDesc>Passed Senate</actionDesc>
+          <text><![CDATA[<p>This concurrent resolution authorizes the use of Emancipation Hall in the Capitol Visitor Center for an event on September 9, 2019, to commemorate the 400th anniversary of the arrival of the first African slaves to the territory that would become the United States.</p>]]></text>
+          <updateDate>2019-07-31T12:22:42Z</updateDate>
+          <lastSummaryUpdateDate>2019-10-03T19:40:25Z</lastSummaryUpdateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>U.S. Capitol</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Authorizing the use of Emancipation Hall for an event to commemorate the 400th anniversary of the arrival of the first African slaves to the territory that would become the United States.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Authorizing the use of Emancipation Hall for an event to commemorate the 400th anniversary of the arrival of the first African slaves to the territory that would become the United States.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <firstName>Bonnie</firstName>
+        <bioguideId>W000822</bioguideId>
+        <middleName />
+        <state>NJ</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2259</lisID>
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <district>12</district>
+        <lastName>Watson Coleman</lastName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <calendarNumbers />
+    <title>Authorizing the use of Emancipation Hall for an event to commemorate the 400th anniversary of the arrival of the first African slaves to the territory that would become the United States.</title>
+    <introducedDate>2019-07-12</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <createDate>2019-07-13T07:12:07Z</createDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

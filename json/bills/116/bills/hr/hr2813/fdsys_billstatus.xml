@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-16T14:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2019-06-26T19:35:02Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To permit aliens seeking asylum to be eligible for employment in the United States and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Asylum Seeker Work Authorization Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Asylum Seeker Work Authorization Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Asylum Seeker Work Authorization Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-26</actionDate>
+        <committee>
+          <name>Immigration and Citizenship Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2019-05-16</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-05-16</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-05-16</actionDate>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <title>Asylum Seeker Work Authorization Act of 2019</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-05-16</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <actionDate>2019-06-26</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <party>D</party>
+        <firstName>Chellie</firstName>
+        <bioguideId>P000597</bioguideId>
+        <district>1</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <lastName>Pingree</lastName>
+        <middleName />
+        <state>ME</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <district>7</district>
+        <middleName />
+        <lastName>Jayapal</lastName>
+        <identifiers>
+          <lisID>2354</lisID>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <bioguideId>J000298</bioguideId>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <firstName>Pramila</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>5</district>
+        <middleName />
+        <lastName>Omar</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000173</bioguideId>
+          <lisID>2414</lisID>
+        </identifiers>
+        <bioguideId>O000173</bioguideId>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <firstName>Ilhan</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>14</district>
+        <middleName />
+        <lastName>Ocasio-Cortez</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2427</lisID>
+          <bioguideId>O000172</bioguideId>
+        </identifiers>
+        <bioguideId>O000172</bioguideId>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <firstName>Alexandria</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>9</district>
+        <middleName>D.</middleName>
+        <lastName>SCHAKOWSKY</lastName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <bioguideId>S001145</bioguideId>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>16</district>
+        <middleName />
+        <lastName>Escobar</lastName>
+        <identifiers>
+          <lisID>2448</lisID>
+          <bioguideId>E000299</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>E000299</bioguideId>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Escobar, Veronica [D-TX-16]</fullName>
+        <firstName>Veronica</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>4</district>
+        <middleName>G.</middleName>
+        <lastName>Garcia</lastName>
+        <identifiers>
+          <lisID>2397</lisID>
+          <gpoId />
+          <bioguideId>G000586</bioguideId>
+        </identifiers>
+        <bioguideId>G000586</bioguideId>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Garcia, Jesus G. "Chuy" [D-IL-4]</fullName>
+        <firstName>Jesus</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <middleName />
+        <lastName>Pocan</lastName>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>7</district>
+        <middleName />
+        <lastName>Pressley</lastName>
+        <identifiers>
+          <lisID>2405</lisID>
+          <bioguideId>P000617</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>P000617</bioguideId>
+        <sponsorshipDate>2019-08-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Pressley, Ayanna [D-MA-7]</fullName>
+        <firstName>Ayanna</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>17</district>
+        <middleName />
+        <lastName>Khanna</lastName>
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipDate>2019-08-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <firstName>Ro</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>18</district>
+        <middleName />
+        <lastName>JACKSON LEE</lastName>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipDate>2019-08-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>12</district>
+        <middleName />
+        <lastName>Watson Coleman</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2259</lisID>
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <bioguideId>W000822</bioguideId>
+        <sponsorshipDate>2019-09-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <firstName>Bonnie</firstName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2813ih/xml/BILLS-116hr2813ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-05-16T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2019-05-16</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Asylum Seeker Work Authorization Act of 2019</b></p> <p>This bill directs the Department of Homeland Security to provide employment authorization for eligible asylum applicants. Currently, such individuals are not entitled to employment authorization but may be granted such by the Department of Justice.</p> <p>Such employment authorization shall last for one year and be renewable for one-year terms during the period necessary to adjudicate the applicant's asylum claim.</p> <p>The bill also shortens the waiting period for receiving employment authorization to 30 days from the filing of the asylum application.</p>]]></text>
+          <lastSummaryUpdateDate>2019-11-01T15:29:15Z</lastSummaryUpdateDate>
+          <updateDate>2019-05-16T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2813</billNumber>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. PINGREE:H.R. 2813.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 4 provides Congress with thepower to establish a ``uniform rule of Naturalization.''[Page H3925]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-05-17T07:12:09Z</createDate>
+    <updateDate>2019-11-01T15:30:36Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

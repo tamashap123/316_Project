@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-10-08</actionDate>
+        <committee>
+          <name>Economic Opportunity Subcommittee</name>
+          <systemCode>hsvr10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2019-10-17T07:13:34Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>4503</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Wilson</lastName>
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <identifiers>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <firstName>Joe</firstName>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>W000795</bioguideId>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-09-26T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4503ih/xml/BILLS-116hr4503ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 156 (Thursday, September 26, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. DUNN:H.R. 4503.Congress has the power to enact this legislation pursuantto the following:``The Congress shall have Power . . . To make all Lawswhich shall be necessary and proper for carrying intoExecution the foregoing Powers, and all other Powers vestedby this Constitution in the Government of the United States,or in any Department or Officer thereof.'' Article I, Section8, U.S. Constitution.[Page H8055]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-09-27T07:12:27Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Dunn</lastName>
+        <bioguideId>D000628</bioguideId>
+        <district>2</district>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <state>FL</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2315</lisID>
+          <bioguideId>D000628</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>P.</middleName>
+        <byRequestType />
+        <firstName>Neal</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <actionDate>2019-10-08</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prohibit the Secretary of Veterans Affairs from entering into a collective bargaining agreement with a labor union that offers financial incentives to prospective members.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>VA Workplace Integrity Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>VA Workplace Integrity Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>VA Workplace Integrity Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-10-08T13:17:15Z</date>
+                </item>
+              </activities>
+              <name>Economic Opportunity Subcommittee</name>
+              <systemCode>hsvr10</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-26T14:05:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-09-26</introducedDate>
+    <calendarNumbers />
+    <title>VA Workplace Integrity Act</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

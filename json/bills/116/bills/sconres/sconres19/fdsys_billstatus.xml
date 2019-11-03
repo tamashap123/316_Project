@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2019-07-22</actionDate>
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-22T20:35:11Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2019-07-18T21:09:57Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-05T20:59:44Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-06-05</introducedDate>
+    <notes />
+    <congress>116</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <updateDate>2019-06-05T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This concurrent resolution celebrates the 50th anniversary of the Apollo 11 Moon landing.</p> <p>The resolution also </p> <ul> <li>honors the bravery and skill of the crew of Apollo 11, Neil Armstrong, Edwin E. &quot;Buzz&quot; Aldrin, and Michael Collins; and </li> <li>commends the efforts of all individuals of the United States who contributed to the achievement of the Apollo 11 Moon landing. </li> </ul>]]></text>
+          <lastSummaryUpdateDate>2019-06-14T16:29:44Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-06-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+        <actionDate>2019-07-22</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <text>Received in the House.</text>
+        <actionTime>16:02:02</actionTime>
+        <committee />
+        <actionDate>2019-07-22</actionDate>
+        <actionCode>H14000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-07-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3265</url>
+            <name>CR 6/5/2019 S3265</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 6/5/2019 S3265-3266)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3265</url>
+            <name>CR 6/5/2019 S3265</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 6/5/2019 S3265-3266)</text>
+        <committee />
+        <actionDate>2019-07-18</actionDate>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4955</url>
+            <name>S4955</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S4955)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4955</url>
+            <name>S4955</name>
+          </link>
+        </links>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S4955)</text>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <actionDate>2019-07-18</actionDate>
+        <actionCode>14500</actionCode>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-05</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2019-06-05</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <agreedToInSenate>1</agreedToInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeDischarged>1</committeeDischarged>
+        <sentToHouse>1</sentToHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>7</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Sherrod</firstName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+        <bioguideId>B000944</bioguideId>
+        <lastName>Brown</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>OH</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Marco</firstName>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <bioguideId>R000595</bioguideId>
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Scott, Rick  [R-FL]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Rick</firstName>
+        <identifiers>
+          <bioguideId>S001217</bioguideId>
+          <gpoId />
+          <lisID>2470</lisID>
+        </identifiers>
+        <bioguideId>S001217</bioguideId>
+        <lastName>Scott</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <bioguideId>C001075</bioguideId>
+        <lastName>Cassidy</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>LA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Johnny</firstName>
+        <identifiers>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <bioguideId>I000055</bioguideId>
+        <lastName>Isakson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>GA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Kevin</firstName>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001096</bioguideId>
+        <lastName>Cramer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>ND</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHELLEY</firstName>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <bioguideId>C001047</bioguideId>
+        <lastName>CAPITO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>WV</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Cory</firstName>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <bioguideId>G000562</bioguideId>
+        <lastName>Gardner</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>CO</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>PAT</firstName>
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+        </identifiers>
+        <bioguideId>R000307</bioguideId>
+        <lastName>ROBERTS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>KS</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2462</lisID>
+          <gpoId />
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <bioguideId>B001310</bioguideId>
+        <lastName>Braun</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>IN</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jerry</firstName>
+        <identifiers>
+          <gpoId>8307</gpoId>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <bioguideId>M000934</bioguideId>
+        <lastName>Moran</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>KS</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <bioguideId>H001061</bioguideId>
+        <lastName>Hoeven</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>ND</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Hawley, Josh  [R-MO]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Josh</firstName>
+        <identifiers>
+          <bioguideId>H001089</bioguideId>
+          <gpoId />
+          <lisID>2464</lisID>
+        </identifiers>
+        <bioguideId>H001089</bioguideId>
+        <lastName>Hawley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>MO</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Shelby, Richard C. [R-AL]</fullName>
+        <middleName>CRAIG</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <bioguideId>S000320</bioguideId>
+          <gpoId>8277</gpoId>
+          <lisID>1049</lisID>
+        </identifiers>
+        <bioguideId>S000320</bioguideId>
+        <lastName>SHELBY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>AL</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gary</firstName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <bioguideId>P000595</bioguideId>
+        <lastName>Peters</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>MI</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <bioguideId>M000133</bioguideId>
+        <lastName>MARKEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Timothy</firstName>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+          <lisID>2176</lisID>
+        </identifiers>
+        <bioguideId>K000384</bioguideId>
+        <lastName>Kaine</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>VA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <bioguideId>D000563</bioguideId>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>IL</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <bioguideId>B001277</bioguideId>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>CT</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Doug</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2364</lisID>
+          <bioguideId>J000300</bioguideId>
+        </identifiers>
+        <bioguideId>J000300</bioguideId>
+        <lastName>Jones</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>AL</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Kyrsten</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <bioguideId>S001191</bioguideId>
+        <lastName>Sinema</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>AZ</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <middleName>Wood</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Margaret</firstName>
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001076</bioguideId>
+        <lastName>Hassan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <state>NH</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jacklyn</firstName>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+          <lisID>2339</lisID>
+        </identifiers>
+        <bioguideId>R000608</bioguideId>
+        <lastName>Rosen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <state>NV</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Deb</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <bioguideId>F000463</bioguideId>
+        <lastName>Fischer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <state>NE</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <bioguideId>R000122</bioguideId>
+        <lastName>REED</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <state>RI</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <bioguideId>C001098</bioguideId>
+        <lastName>Cruz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <state>TX</state>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <middleName>ERNEST</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <gpoId>8316</gpoId>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <bioguideId>G000386</bioguideId>
+        <lastName>GRASSLEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <state>IA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <state>MA</state>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>MARIA</firstName>
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <bioguideId>C000127</bioguideId>
+        <lastName>CANTWELL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <state>WA</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <updateDate>2019-08-03T07:56:08Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>National Aeronautics and Space Administration</name>
+          </item>
+          <item>
+            <name>Space flight and exploration</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres19rfh/xml/BILLS-116sconres19rfh.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-22T04:00:00Z</date>
+        <type>Referred in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres19es/xml/BILLS-116sconres19es.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-18T04:00:00Z</date>
+        <type>Engrossed in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres19is/xml/BILLS-116sconres19is.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-05T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <title>A concurrent resolution celebrating the 50th anniversary of the Apollo 11 Moon landing.</title>
+    <recordedVotes />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <calendarNumbers />
+    <amendments />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+        <middleName />
+        <lastName>Cornyn</lastName>
+        <byRequestType />
+        <firstName>John</firstName>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-06-06</actionDate>
+          <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HCONRES</type>
+        <number>47</number>
+        <latestTitle>Celebrating the 50th anniversary of the Apollo 11 Moon landing.</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <billType>SCONRES</billType>
+    <version>1.0.0</version>
+    <createDate>2019-06-06T04:57:10Z</createDate>
+    <billNumber>19</billNumber>
+    <titles>
+      <item>
+        <title>A concurrent resolution celebrating the 50th anniversary of the Apollo 11 Moon landing.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>A concurrent resolution celebrating the 50th anniversary of the Apollo 11 Moon landing.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-04</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2274-2278</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2274-2278</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S2274-2278)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>2500</number>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-07-12</actionDate>
+          <text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2500.</text>
+          <actionTime>13:38:44</actionTime>
+        </latestAction>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <number>1790</number>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-07-02</actionDate>
+          <text>Held at the desk.</text>
+          <actionTime>12:08:39</actionTime>
+        </latestAction>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <number>2483</number>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-05-31</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <latestTitle>Fentanyl Sanctions Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <number>2226</number>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-05-15</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        </latestAction>
+        <latestTitle>Fentanyl Sanctions Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billNumber>1044</billNumber>
+    <cosponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <bioguideId>C001095</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cotton</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Sherrod</firstName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Brown</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rubio</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Robert</firstName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <bioguideId>M000639</bioguideId>
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Menendez</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jeanne</firstName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <bioguideId>S001181</bioguideId>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Shaheen</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Pat</firstName>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <bioguideId>T000461</bioguideId>
+        <identifiers>
+          <lisID>1594</lisID>
+          <gpoId />
+          <bioguideId>T000461</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Toomey</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>EDWARD</firstName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <bioguideId>M000133</bioguideId>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MARKEY</lastName>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cornyn</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>SHELLEY</firstName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <bioguideId>C001047</bioguideId>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CAPITO</lastName>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Gary</firstName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <bioguideId>P000595</bioguideId>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>DIANNE</firstName>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <bioguideId>F000062</bioguideId>
+        <identifiers>
+          <gpoId>8338</gpoId>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1044is/xml/BILLS-116s1044is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-04T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Foreign loans and debt</name>
+          </item>
+          <item>
+            <name>Foreign property</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>International monetary system and foreign exchange</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-04-05T04:42:09Z</createDate>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2019-06-04T14:00:00Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2019-04-04T18:16:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <middleName>E.</middleName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <bioguideId>S000148</bioguideId>
+        <party>D</party>
+        <lastName>SCHUMER</lastName>
+        <byRequestType />
+        <firstName>CHARLES</firstName>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1036</lisID>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <congress>116</congress>
+    <latestAction>
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+      <links />
+      <actionDate>2019-06-04</actionDate>
+    </latestAction>
+    <title>Fentanyl Sanctions Act</title>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-04-04T04:00:00Z</updateDate>
+          <actionDate>2019-04-04</actionDate>
+          <lastSummaryUpdateDate>2019-07-31T17:58:43Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Fentanyl Sanctions Act </b></p> <p>This bill establishes programs to address illicit opioid trafficking and imposes sanctions on foreign individuals and entities involved in such activities.</p> <p>The President shall impose sanctions on foreign individuals and entities identified as opioid traffickers or those that own, control, or supply opioid precursors. The sanctions include bans on (1) receiving loans, (2) foreign exchange transactions, (3) property transactions, and (4) certain investments that fall under U.S. jurisdiction. The President may waive sanctions on certain parties for national security and humanitarian concerns.</p> <p>The President shall report to Congress about the implementation of such sanctions and also on cooperative efforts with Mexico and China to combat illicit opioid trafficking. </p> <p>The bill establishes the Commission on Synthetic Opioid Trafficking, which shall develop a strategy to combat the flow of synthetic opioids into the United States. The commission shall report on various topics, including the scope of illicit trafficking in other countries and the deficiencies in other countries' regulation of pharmaceutical and chemical production.</p> <p>The Office of the Director of National Intelligence (ODNI) shall establish a program to assist in enforcement efforts and sanctions against illicit opioid traffickers, with a focus on illicit finance. ODNI shall periodically report to Congress about the intelligence community's counter-narcotics efforts. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-08-16T10:41:48Z</updateDate>
+    <introducedDate>2019-04-04</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to impose sanctions with respect to foreign traffickers of illicit opioids, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fentanyl Sanctions Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fentanyl Sanctions Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Fentanyl Sanctions Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <recordedVotes />
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

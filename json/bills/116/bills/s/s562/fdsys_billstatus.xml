@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-26T19:55:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-26T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s562is/xml/BILLS-116s562is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <laws />
+    <latestAction>
+      <links />
+      <actionDate>2019-02-26</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-26</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Surgery and anesthesia</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <introducedDate>2019-02-26</introducedDate>
+    <congress>116</congress>
+    <createDate>2019-02-27T05:25:07Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>D000622</bioguideId>
+        <lastName>Duckworth</lastName>
+        <firstName>Tammy</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <amendments />
+    <title>Breast Cancer Patient Equity Act</title>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Breast Cancer Patient Equity Act</latestTitle>
+        <number>1370</number>
+        <congress>116</congress>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-02-26</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2019-06-04T09:17:45Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-02-26T05:00:00Z</updateDate>
+          <actionDate>2019-02-26</actionDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Breast Cancer Patient Equity Act</b></p> <p>This bill provides for Medicare coverage of custom fabricated breast prostheses following the surgical removal of the breast (i.e., a mastectomy), including replacements of such prostheses. Currently, Medicare covers surgically implanted breast prostheses, as well as some external breast prostheses (e.g., post-surgical bras).</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-04-02T21:28:51Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <billNumber>562</billNumber>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Breast Cancer Patient Equity Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend title XVIII of the Social Security Act to provide coverage for custom fabricated breast prostheses following a mastectomy.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Breast Cancer Patient Equity Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Breast Cancer Patient Equity Act</title>
+      </item>
+    </titles>
+    <notes />
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>Sherrod</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

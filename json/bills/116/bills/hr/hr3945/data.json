@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3945-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Budget", 
+      "committee_id": "HSBU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-24", 
+  "number": "3945", 
+  "official_title": "Making supplemental appropriations for the Army Corps of Engineers for flood control projects and storm damage reduction projects in areas affected by flooding in the city of Jacksonville, Florida, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Flood Water Relief Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000586", 
+    "district": "5", 
+    "name": "Lawson, Al, Jr.", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-24", 
+  "subjects": [
+    "Appropriations", 
+    "Disaster relief and insurance", 
+    "Floods and storm protection", 
+    "Florida", 
+    "Water resources development", 
+    "Water resources funding"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Making supplemental appropriations for the Army Corps of Engineers for flood control projects and storm damage reduction projects in areas affected by flooding in the city of Jacksonville, Florida, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Flood Water Relief Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Flood Water Relief Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Flood Water Relief Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-27T00:41:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3945.xml"
+}

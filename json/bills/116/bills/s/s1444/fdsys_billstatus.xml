@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-14</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-05-14</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2019-05-14T16:24:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <updateDate>2019-06-14T05:16:17Z</updateDate>
+    <recordedVotes />
+    <introducedDate>2019-05-14</introducedDate>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Rick</firstName>
+        <bioguideId>S001217</bioguideId>
+        <state>FL</state>
+        <party>R</party>
+        <fullName>Sen. Scott, Rick  [R-FL]</fullName>
+        <lastName>Scott</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001217</bioguideId>
+          <lisID>2470</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <title>A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <laws />
+    <createDate>2019-05-15T04:42:16Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2019-05-14</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to repeal the provision of law that provides automatic pay adjustments for Members of Congress.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <amendments />
+    <billNumber>1444</billNumber>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <lastName>Braun</lastName>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+          <lisID>2462</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001310</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <firstName>Josh</firstName>
+        <lastName>Hawley</lastName>
+        <fullName>Sen. Hawley, Josh  [R-MO]</fullName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2464</lisID>
+          <bioguideId>H001089</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>H001089</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>S001191</bioguideId>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1444is/xml/BILLS-116s1444is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-05-14T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

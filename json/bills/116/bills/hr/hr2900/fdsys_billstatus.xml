@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+      <actionDate>2019-05-22</actionDate>
+    </latestAction>
+    <notes />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-05-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2900ih/xml/BILLS-116hr2900ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-22</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-22</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-22</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-22T14:07:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-10-05T07:16:35Z</updateDate>
+    <amendments />
+    <billNumber>2900</billNumber>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <district>23</district>
+        <state>NY</state>
+        <bioguideId>R000585</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Reed</lastName>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <district>1</district>
+        <state>RI</state>
+        <bioguideId>C001084</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <middleName>N.</middleName>
+        <lastName>Cicilline</lastName>
+        <firstName>David</firstName>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>8</district>
+        <state>PA</state>
+        <bioguideId>C001090</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Cartwright</lastName>
+        <firstName>Matt</firstName>
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>15</district>
+        <state>CA</state>
+        <bioguideId>S001193</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <lastName>Swalwell</lastName>
+        <firstName>Eric</firstName>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>32</district>
+        <state>CA</state>
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <lastName>NAPOLITANO</lastName>
+        <firstName>GRACE</firstName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>9</district>
+        <state>OH</state>
+        <bioguideId>K000009</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+          <lisID>616</lisID>
+        </identifiers>
+        <middleName />
+        <lastName>KAPTUR</lastName>
+        <firstName>MARCY</firstName>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>3</district>
+        <state>IL</state>
+        <bioguideId>L000563</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7923</gpoId>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+        </identifiers>
+        <middleName>William</middleName>
+        <lastName>Lipinski</lastName>
+        <firstName>Daniel</firstName>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>9</district>
+        <state>NJ</state>
+        <bioguideId>P000096</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <middleName>J.</middleName>
+        <lastName>PASCRELL</lastName>
+        <firstName>WILLIAM</firstName>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>2</district>
+        <state>MA</state>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>11</district>
+        <state>MI</state>
+        <bioguideId>S001215</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2409</lisID>
+          <gpoId />
+          <bioguideId>S001215</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <lastName>Stevens</lastName>
+        <firstName>Haley</firstName>
+        <fullName>Rep. Stevens, Haley M. [D-MI-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>17</district>
+        <state>CA</state>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <district>12</district>
+        <state>OH</state>
+        <bioguideId>B001306</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2370</lisID>
+          <gpoId />
+          <bioguideId>B001306</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Balderson</lastName>
+        <firstName>Troy</firstName>
+        <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <district>1</district>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>K.</middleName>
+        <lastName>Fitzpatrick</lastName>
+        <firstName>Brian</firstName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <district>41</district>
+        <state>CA</state>
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Takano</lastName>
+        <firstName>Mark</firstName>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-10-04</sponsorshipDate>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Executive Office of the President</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Technology assessment</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To establish the United States Chief Manufacturing Officer in the Executive Office of the President with the responsibility of developing a National Manufacturing Strategy to revitalize the manufacturing sector, spur economic growth, and expand United States competitiveness, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Chief Manufacturing Officer Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Chief Manufacturing Officer Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Chief Manufacturing Officer Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <firstName>TIM</firstName>
+        <bioguideId>R000577</bioguideId>
+        <middleName />
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <district>13</district>
+        <lastName>RYAN</lastName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <calendarNumbers />
+    <title>Chief Manufacturing Officer Act</title>
+    <introducedDate>2019-05-22</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RYAN:H.R. 2900.Congress has the power to enact this legislation pursuantto the following:``The Congress enacts this bill pursuant to Section 8 ofArticle I of the United States Constitution.''[Page H4120]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-05-23T07:12:08Z</createDate>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

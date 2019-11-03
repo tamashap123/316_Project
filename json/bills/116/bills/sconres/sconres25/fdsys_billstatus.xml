@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-09-17T04:27:13Z</createDate>
+    <relatedBills>
+      <item>
+        <number>60</number>
+        <congress>116</congress>
+        <type>HCONRES</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>Referred to the House Committee on Oversight and Reform.</text>
+        </latestAction>
+        <latestTitle>Recognizing September 11, 2019, as a "National Day of Service and Remembrance".</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <bioguideId>C001088</bioguideId>
+        <byRequestType />
+        <party>D</party>
+        <lastName>Coons</lastName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <state>DE</state>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <notes />
+    <congress>116</congress>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <type>Referred in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres25rfh/xml/BILLS-116sconres25rfh.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-17T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres25es/xml/BILLS-116sconres25es.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-16T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Agreed to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres25ats/xml/BILLS-116sconres25ats.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-16T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2019-09-17</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+      </item>
+      <item>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-09-17</actionDate>
+        <type>Floor</type>
+        <links />
+        <actionTime>14:05:35</actionTime>
+        <text>Received in the House.</text>
+      </item>
+      <item>
+        <actionDate>2019-09-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-09-16</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5495</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5495</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5495; text: CR S5495)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-09-16</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S5495</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5495</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5495; text: CR S5495)</text>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-09-16</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <sentToHouse>1</sentToHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National and community service</name>
+          </item>
+          <item>
+            <name>National symbols</name>
+          </item>
+          <item>
+            <name>New York City</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Virginia</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <state>LA</state>
+        <bioguideId>C001075</bioguideId>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <lastName>Cassidy</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>G000555</bioguideId>
+        <firstName>Kirsten</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>S000148</bioguideId>
+        <firstName>CHARLES</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <lastName>SCHUMER</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NJ</state>
+        <bioguideId>B001288</bioguideId>
+        <firstName>Cory</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <lastName>Booker</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NJ</state>
+        <bioguideId>M000639</bioguideId>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <lastName>Menendez</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <bioguideId>T000461</bioguideId>
+        <firstName>Pat</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <lisID>1594</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <lastName>Toomey</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <firstName>Sherrod</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>Brown</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <bioguideId>H001075</bioguideId>
+        <firstName>Kamala</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001075</bioguideId>
+          <lisID>2301</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <lastName>Harris</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NH</state>
+        <bioguideId>S001181</bioguideId>
+        <firstName>Jeanne</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>AL</state>
+        <bioguideId>J000300</bioguideId>
+        <firstName>Doug</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000300</bioguideId>
+          <lisID>2364</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <lastName>Jones</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CT</state>
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>RI</state>
+        <bioguideId>R000122</bioguideId>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <lastName>REED</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>VA</state>
+        <bioguideId>K000384</bioguideId>
+        <firstName>Timothy</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <lastName>Kaine</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <bioguideId>M000133</bioguideId>
+        <firstName>EDWARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <lastName>MARKEY</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CT</state>
+        <bioguideId>M001169</bioguideId>
+        <firstName>Christopher</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <lastName>Murphy</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <bioguideId>K000367</bioguideId>
+        <firstName>Amy</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>WA</state>
+        <bioguideId>M001111</bioguideId>
+        <firstName>PATTY</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <lastName>MURRAY</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>RI</state>
+        <bioguideId>W000802</bioguideId>
+        <firstName>Sheldon</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>DE</state>
+        <bioguideId>C000174</bioguideId>
+        <firstName>THOMAS</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <lastName>CARPER</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NH</state>
+        <bioguideId>H001076</bioguideId>
+        <firstName>Margaret</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Wood</middleName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <lastName>Hassan</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>WV</state>
+        <bioguideId>M001183</bioguideId>
+        <firstName>Joe</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <lastName>Manchin</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>ND</state>
+        <bioguideId>C001096</bioguideId>
+        <firstName>Kevin</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <lastName>Cramer</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>ME</state>
+        <bioguideId>C001035</bioguideId>
+        <firstName>SUSAN</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MARGARET</middleName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <lastName>COLLINS</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MD</state>
+        <bioguideId>C000141</bioguideId>
+        <firstName>BENJAMIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>ME</state>
+        <bioguideId>K000383</bioguideId>
+        <firstName>Angus</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+          <lisID>2185</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>I</party>
+      </item>
+      <item>
+        <state>HI</state>
+        <bioguideId>H001042</bioguideId>
+        <firstName>Mazie</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <lastName>Hirono</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>IL</state>
+        <bioguideId>D000622</bioguideId>
+        <firstName>Tammy</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2123</lisID>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <lastName>Duckworth</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MD</state>
+        <bioguideId>V000128</bioguideId>
+        <firstName>Chris</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <lastName>Van Hollen</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NV</state>
+        <bioguideId>C001113</bioguideId>
+        <firstName>Catherine</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+          <lisID>2299</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <lastName>Cortez Masto</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NV</state>
+        <bioguideId>R000608</bioguideId>
+        <firstName>Jacklyn</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <lastName>Rosen</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>IL</state>
+        <bioguideId>D000563</bioguideId>
+        <firstName>RICHARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <lastName>DURBIN</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>VT</state>
+        <bioguideId>S000033</bioguideId>
+        <firstName>Bernard</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <lastName>Sanders</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>I</party>
+      </item>
+      <item>
+        <state>MO</state>
+        <bioguideId>H001089</bioguideId>
+        <firstName>Josh</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001089</bioguideId>
+          <lisID>2464</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Hawley, Josh  [R-MO]</fullName>
+        <lastName>Hawley</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <state>CO</state>
+        <bioguideId>B001267</bioguideId>
+        <firstName>Michael</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <lastName>Bennet</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>KS</state>
+        <bioguideId>R000307</bioguideId>
+        <firstName>PAT</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <lastName>ROBERTS</lastName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-09-20T04:31:55Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-09-17T23:57:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Oversight and Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2019-09-17</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A concurrent resolution recognizing September 11, 2019, as a "National Day of Service and Remembrance".</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A concurrent resolution recognizing September 11, 2019, as a "National Day of Service and Remembrance".</title>
+      </item>
+    </titles>
+    <billType>SCONRES</billType>
+    <introducedDate>2019-09-16</introducedDate>
+    <amendments />
+    <billNumber>25</billNumber>
+    <title>A concurrent resolution recognizing September 11, 2019, as a "National Day of Service and Remembrance".</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

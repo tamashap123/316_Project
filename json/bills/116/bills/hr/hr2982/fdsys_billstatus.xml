@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-09-11T18:15:20Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2019-06-13T13:22:57Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-05-23T13:08:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To direct the Secretary of Veterans Affairs to conduct a study of the barriers for women veterans to health care from the Department of Veterans Affairs.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Women Veterans Health Care Accountability Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Women Veterans Health Care Accountability Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Women Veterans Health Care Accountability Act</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <prayer>1</prayer>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-13</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disability and health-based discrimination</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <title>Women Veterans Health Care Accountability Act</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-05-23</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <actionDate>2019-09-11</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Cunningham, Joe [D-SC-1]</fullName>
+        <party>D</party>
+        <firstName>Joe</firstName>
+        <bioguideId>C001122</bioguideId>
+        <district>1</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>2437</lisID>
+          <bioguideId>C001122</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Cunningham</lastName>
+        <middleName />
+        <state>SC</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001202</bioguideId>
+        <district>7</district>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <firstName>Stephanie</firstName>
+        <lastName>Murphy</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <identifiers>
+          <lisID>2318</lisID>
+          <gpoId />
+          <bioguideId>M001202</bioguideId>
+        </identifiers>
+        <middleName>N.</middleName>
+      </item>
+      <item>
+        <bioguideId>S001207</bioguideId>
+        <district>11</district>
+        <sponsorshipDate>2019-05-24</sponsorshipDate>
+        <firstName>Mikie</firstName>
+        <lastName>Sherrill</lastName>
+        <state>NJ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Sherrill, Mikie [D-NJ-11]</fullName>
+        <identifiers>
+          <lisID>2422</lisID>
+          <bioguideId>S001207</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>S001165</bioguideId>
+        <district>8</district>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <firstName>Albio</firstName>
+        <lastName>Sires</lastName>
+        <state>NJ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <identifiers>
+          <lisID>1818</lisID>
+          <bioguideId>S001165</bioguideId>
+          <gpoId>8055</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>L000590</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <firstName>Susie</firstName>
+        <lastName>Lee</lastName>
+        <state>NV</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <identifiers>
+          <lisID>2425</lisID>
+          <bioguideId>L000590</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>P000616</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2019-09-25</sponsorshipDate>
+        <firstName>Dean</firstName>
+        <lastName>Phillips</lastName>
+        <state>MN</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <identifiers>
+          <lisID>2413</lisID>
+          <bioguideId>P000616</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>H001081</bioguideId>
+        <district>5</district>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <firstName>Jahana</firstName>
+        <lastName>Hayes</lastName>
+        <state>CT</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Hayes, Jahana [D-CT-5]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001081</bioguideId>
+          <lisID>2386</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>P000614</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+        <firstName>Chris</firstName>
+        <lastName>Pappas</lastName>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000614</bioguideId>
+          <lisID>2418</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M001206</bioguideId>
+        <district>25</district>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+        <firstName>Joseph</firstName>
+        <lastName>Morelle</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001206</bioguideId>
+          <lisID>2371</lisID>
+        </identifiers>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <bioguideId>B001306</bioguideId>
+        <district>12</district>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+        <firstName>Troy</firstName>
+        <lastName>Balderson</lastName>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001306</bioguideId>
+          <lisID>2370</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M001196</bioguideId>
+        <district>6</district>
+        <sponsorshipDate>2019-10-21</sponsorshipDate>
+        <firstName>Seth</firstName>
+        <lastName>Moulton</lastName>
+        <state>MA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M001199</bioguideId>
+        <district>18</district>
+        <sponsorshipDate>2019-10-21</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <lastName>Mast</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <identifiers>
+          <lisID>2322</lisID>
+          <gpoId />
+          <bioguideId>M001199</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <bioguideId>C001055</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2019-10-21</sponsorshipDate>
+        <firstName>Ed</firstName>
+        <lastName>Case</lastName>
+        <state>HI</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <identifiers>
+          <lisID>1693</lisID>
+          <bioguideId>C001055</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <district>6</district>
+        <sponsorshipDate>2019-10-21</sponsorshipDate>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <state>WA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <identifiers>
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>L000397</bioguideId>
+        <district>19</district>
+        <sponsorshipDate>2019-10-28</sponsorshipDate>
+        <firstName>ZOE</firstName>
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M001203</bioguideId>
+        <district>7</district>
+        <sponsorshipDate>2019-10-28</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <lastName>Malinowski</lastName>
+        <state>NJ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <identifiers>
+          <lisID>2421</lisID>
+          <gpoId />
+          <bioguideId>M001203</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>A000371</bioguideId>
+        <district>31</district>
+        <sponsorshipDate>2019-10-28</sponsorshipDate>
+        <firstName>Pete</firstName>
+        <lastName>Aguilar</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000371</bioguideId>
+          <lisID>2229</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>A000378</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2019-10-30</sponsorshipDate>
+        <firstName>Cynthia</firstName>
+        <lastName>Axne</lastName>
+        <state>IA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2395</lisID>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date>2019-05-23T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2982ih/xml/BILLS-116hr2982ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>2982</billNumber>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CUNNINGHAM:H.R. 2982.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1: ``The Congress shall havethe power to . . . provide for the common defense and generalwelfare of the United States''Article 1, Section 8, Clause 18: ``To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers . . .''[Page H4166]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-05-24T07:12:16Z</createDate>
+    <updateDate>2019-10-31T07:16:04Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

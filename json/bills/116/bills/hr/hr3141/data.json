@@ -1,0 +1,129 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 25.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3141-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-06-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-05", 
+  "number": "3141", 
+  "official_title": "To limit the collection of annual premiums under the FHA program for mortgage insurance for single family housing, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2572-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "FHA Loan Affordability Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "P000616", 
+    "district": "3", 
+    "name": "Phillips, Dean", 
+    "state": "MN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-06-11", 
+  "subjects": [
+    "Housing and community development", 
+    "Housing finance and home ownership"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-06-05T04:00:00Z", 
+    "text": "FHA Loan Affordability Act of 2019 \n\nThis bill requires Federal Housing Administration mortgage borrowers to pay mortgage insurance premiums only when their remaining principal balance exceeds\u00a078% or more of the home value or sales price."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To limit the collection of annual premiums under the FHA program for mortgage insurance for single family housing, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FHA Loan Affordability Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FHA Loan Affordability Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "FHA Loan Affordability Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-10T21:45:22Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3141.xml"
+}

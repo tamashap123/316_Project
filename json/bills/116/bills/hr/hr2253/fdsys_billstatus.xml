@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <name>Readiness Subcommittee</name>
+          <systemCode>hsas03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-10</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <links />
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-10</actionDate>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-10</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-04-10</actionDate>
+          <updateDate>2019-04-10T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-08-05T21:13:13Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill prohibits the Department of Defense and the Department of Homeland Security (regarding the Coast Guard) from discouraging the inspection of military-owned, government-controlled, and privately leased family housing for lead-based paint or sources of lead.</p> <p>Testing may be authorized when it is not otherwise required by law.</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Residential rehabilitation and home repair</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>S001175</bioguideId>
+        <state>CA</state>
+        <district>14</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Speier</lastName>
+        <identifiers>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <firstName>Jackie</firstName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>C001123</bioguideId>
+        <state>CA</state>
+        <district>39</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <middleName>Ray</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cisneros</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001123</bioguideId>
+          <lisID>2380</lisID>
+        </identifiers>
+        <firstName>Gilbert</firstName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>H001080</bioguideId>
+        <state>NM</state>
+        <district>1</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Haaland</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001080</bioguideId>
+          <lisID>2423</lisID>
+        </identifiers>
+        <firstName>Debra</firstName>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>C001055</bioguideId>
+        <state>HI</state>
+        <district>1</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Case</lastName>
+        <identifiers>
+          <bioguideId>C001055</bioguideId>
+          <lisID>1693</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Ed</firstName>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Readiness Subcommittee</name>
+              <systemCode>hsas03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-11T19:34:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-10T13:12:30Z</date>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-04-11T07:12:10Z</createDate>
+    <relatedBills />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To prohibit the Secretary concerned from discouraging the inspection of military housing for lead-based paint or other sources of lead, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To prohibit the Secretary concerned from discouraging the inspection of military housing for lead-based paint or other sources of lead, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <introducedDate>2019-04-10</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <committeeReports />
+    <updateDate>2019-08-16T10:41:36Z</updateDate>
+    <billNumber>2253</billNumber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2253ih/xml/BILLS-116hr2253ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-10T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <latestAction>
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <actionDate>2019-04-11</actionDate>
+      <links />
+    </latestAction>
+    <amendments />
+    <title>To prohibit the Secretary concerned from discouraging the inspection of military housing for lead-based paint or other sources of lead, and for other purposes.</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KILDEE:H.R. 2253.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H3258]</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <bioguideId>K000380</bioguideId>
+        <state>MI</state>
+        <middleName>T.</middleName>
+        <party>D</party>
+        <lastName>Kildee</lastName>
+        <district>5</district>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <firstName>Daniel</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2290</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-09-23</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>16:53:16</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2019-09-19</actionDate>
+        <links />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>16:53:14</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7805-7806)</text>
+        <actionDate>2019-09-19</actionDate>
+        <links>
+          <link>
+            <name>H7805-7806</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7805-7806</url>
+          </link>
+        </links>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>16:53:14</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7805-7806)</text>
+        <actionDate>2019-09-19</actionDate>
+        <links>
+          <link>
+            <name>H7805-7806</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7805-7806</url>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>16:39:24</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2290.</text>
+        <actionDate>2019-09-19</actionDate>
+        <links>
+          <link>
+            <name>H.R. 2290</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/2290</url>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>16:39:20</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H7805-7807)</text>
+        <actionDate>2019-09-19</actionDate>
+        <links>
+          <link>
+            <name>H7805-7807</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7805-7807</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>16:38:49</actionTime>
+        <text>Ms. Waters moved to suspend the rules and pass the bill, as amended.</text>
+        <actionDate>2019-09-19</actionDate>
+        <links />
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>1</considerationByHouse>
+        <billReferrals>1</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <generalDebate>1</generalDebate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <introducedDate>2019-04-10</introducedDate>
+    <recordedVotes />
+    <title>Shutdown Guidance for Financial Institutions Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Credit and credit markets</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Wexton, Jennifer [D-VA-10]</fullName>
+        <lastName>Wexton</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2457</lisID>
+          <bioguideId>W000825</bioguideId>
+        </identifiers>
+        <bioguideId>W000825</bioguideId>
+        <district>10</district>
+        <state>VA</state>
+        <party>D</party>
+        <firstName>Jennifer</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <updateDate>2019-09-25T04:27:44Z</updateDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cosponsors />
+    <version>1.0.0</version>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates>
+      <item>
+        <title>Statutory Pay-As-You-Go Effects of H.R. 2290, the Shutdown Guidance for Financial Institutions Act</title>
+        <url>https://www.cbo.gov/publication/55639</url>
+        <pubDate>2019-09-18T19:25:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-23T19:59:48Z</date>
+            </item>
+          </activities>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-10T13:03:35Z</date>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2019-04-11T07:12:11Z</createDate>
+    <relatedBills />
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To require the Federal financial regulators to issue guidance encouraging financial institutions to work with consumers and businesses affected by a Federal Government shutdown, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Shutdown Guidance for Financial Institutions Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Shutdown Guidance for Financial Institutions Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Shutdown Guidance for Financial Institutions Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Shutdown Guidance for Financial Institutions Act</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Shutdown Guidance for Financial Institutions Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2019-09-23</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. WEXTON:H.R. 2290.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H3259]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2290rfs/xml/BILLS-116hr2290rfs.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-23T04:00:00Z</date>
+        <type>Referred in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2290eh/xml/BILLS-116hr2290eh.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-19T04:00:00Z</date>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2290ih/xml/BILLS-116hr2290ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-10T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

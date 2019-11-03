@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>123</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-09-20</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 22.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-09-20</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-09-19</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-09-18</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <text>Referred to the House Committee on Financial Services.</text>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeConsiderationMarkUp>3</committeeConsiderationMarkUp>
+        <orderedToBeReported>1</orderedToBeReported>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <introducedDate>2019-01-03</introducedDate>
+    <recordedVotes />
+    <title>FHA Additional Credit Pilot Program Reauthorization Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <lastName>Green</lastName>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <bioguideId>G000553</bioguideId>
+        <district>9</district>
+        <state>TX</state>
+        <party>D</party>
+        <firstName>Al</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <updateDate>2019-09-28T09:00:49Z</updateDate>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>BRAD</firstName>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <lastName>SHERMAN</lastName>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <middleName />
+        <district>30</district>
+      </item>
+      <item>
+        <bioguideId>C001061</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Emanuel</firstName>
+        <state>MO</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001061</bioguideId>
+          <gpoId>8013</gpoId>
+          <lisID>1790</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <lastName>Cleaver</lastName>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <middleName />
+        <district>5</district>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2019-09-20T17:33:41Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T16:27:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2019-01-04T13:32:53Z</createDate>
+    <relatedBills />
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To authorize a pilot program under section 258 of the National Housing Act to establish an automated process for providing additional credit rating information for mortgagors and prospective mortgagors under certain mortgages.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>FHA Additional Credit Pilot Program Reauthorization Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>FHA Additional Credit Pilot Program Reauthorization Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>FHA Additional Credit Pilot Program Reauthorization Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <latestAction>
+      <links />
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 22.</text>
+      <actionDate>2019-09-20</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GREEN of Texas:H.R. 123.Congress has the power to enact this legislation pursuantto the following:Naturalization Clause (Art. 1, Sec. 8, Cl. 4)[Page H214]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr123ih/xml/BILLS-116hr123ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

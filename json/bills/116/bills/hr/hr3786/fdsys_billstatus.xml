@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <cboCostEstimates />
+    <billNumber>3786</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <bioguideId>C001053</bioguideId>
+        <sponsorshipDate>2019-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <district>4</district>
+        <identifiers>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+        </identifiers>
+        <lastName>Cole</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <firstName>Tom</firstName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-07-16T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3786ih/xml/BILLS-116hr3786ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-16T14:03:45Z</date>
+            </item>
+          </activities>
+          <name>Education and Labor</name>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <bioguideId>P000605</bioguideId>
+        <party>R</party>
+        <district>10</district>
+        <lastName>Perry</lastName>
+        <byRequestType />
+        <firstName>Scott</firstName>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <congress>116</congress>
+    <latestAction>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+      <actionDate>2019-07-16</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 119 (Tuesday, July 16, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. PERRY:H.R. 3786.Congress has the power to enact this legislation pursuantto the following:Article I Section 8 Clause 1[Page H5912]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <notes />
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <updateDate>2019-08-16T10:27:23Z</updateDate>
+    <introducedDate>2019-07-16</introducedDate>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend the Higher Education Act of 1965 to direct the Secretary of Education to carry out a program under which an institution of higher education may elect to cosign Federal student loans made to students attending the institution, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Student Loan Reform Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Student Loan Reform Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Student Loan Reform Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2019-07-17T07:12:08Z</createDate>
+    <recordedVotes />
+    <title>Student Loan Reform Act</title>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

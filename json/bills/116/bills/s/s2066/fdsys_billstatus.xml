@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-07-10T04:42:16Z</createDate>
+    <relatedBills />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <firstName>James</firstName>
+        <middleName>E.</middleName>
+        <bioguideId>R000584</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Risch</lastName>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <state>ID</state>
+        <identifiers>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <notes />
+    <congress>116</congress>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2066is/xml/BILLS-116s2066is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-07-09T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea />
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-07-09</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2019-07-09</actionDate>
+      </item>
+    </actions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <state>NH</state>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>S001181</bioguideId>
+        <lastName>Shaheen</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeanne</firstName>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <state>FL</state>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>R000595</bioguideId>
+        <lastName>Rubio</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marco</firstName>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <state>DE</state>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+        <lastName>Coons</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <state>WY</state>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <bioguideId>B001261</bioguideId>
+        <lastName>Barrasso</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <state>CO</state>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <bioguideId>G000562</bioguideId>
+        <lastName>Gardner</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cory</firstName>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <state>GA</state>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <bioguideId>I000055</bioguideId>
+        <lastName>Isakson</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Johnny</firstName>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-09-19T10:26:16Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-07-09T22:49:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Relations Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2019-07-09</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to review United States Saudi Arabia Policy, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>SADRA</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Saudi Arabia Diplomatic Review Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Saudi Arabia Diplomatic Review Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Saudi Arabia Diplomatic Review Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>SADRA</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <introducedDate>2019-07-09</introducedDate>
+    <amendments />
+    <billNumber>2066</billNumber>
+    <title>Saudi Arabia Diplomatic Review Act of 2019</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

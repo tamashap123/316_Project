@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-08</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-08</actionDate>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-08</actionDate>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <amendments />
+    <committeeReports />
+    <congress>116</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <middleName>F.</middleName>
+        <state>PA</state>
+        <party>D</party>
+        <bioguideId>B001296</bioguideId>
+        <firstName>Brendan</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <byRequestType />
+        <lastName>Boyle</lastName>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <title>Expressing the sense of the House that more should be done to instill Holocaust education in school curricula around the country.</title>
+    <laws />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and Labor</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-08T17:09:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>27</billNumber>
+    <recordedVotes />
+    <updateDate>2019-07-30T12:58:39Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Germany</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+          <item>
+            <name>World history</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <latestAction>
+      <actionDate>2019-01-08</actionDate>
+      <links />
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </latestAction>
+    <introducedDate>2019-01-08</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres27ih/xml/BILLS-116hres27ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <createDate>2019-01-09T08:10:15Z</createDate>
+    <cosponsors>
+      <item>
+        <firstName>Gus</firstName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <lisID>1838</lisID>
+          <bioguideId>B001257</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <state>FL</state>
+        <bioguideId>B001257</bioguideId>
+        <lastName>Bilirakis</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Suzanne</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <state>OR</state>
+        <bioguideId>B001278</bioguideId>
+        <lastName>Bonamici</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>MIKE</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>8132</gpoId>
+          <lisID>316</lisID>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Doyle, Michael F. [D-PA-18]</fullName>
+        <state>PA</state>
+        <bioguideId>D000482</bioguideId>
+        <lastName>DOYLE</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Debbie</firstName>
+        <middleName />
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <identifiers>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <district>23</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <state>FL</state>
+        <bioguideId>W000797</bioguideId>
+        <lastName>Wasserman Schultz</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Scott</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <identifiers>
+          <lisID>2157</lisID>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <state>PA</state>
+        <bioguideId>P000605</bioguideId>
+        <lastName>Perry</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>ALCEE</firstName>
+        <middleName>L.</middleName>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <district>20</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <lastName>HASTINGS</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>Expressing the sense of the House that more should be done to instill Holocaust education in school curricula around the country.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Expressing the sense of the House that more should be done to instill Holocaust education in school curricula around the country.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-01-08</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-08T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-01-16T18:56:36Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution expresses the sense of the House of Representatives with respect to Holocaust education.</p> <p>Specifically, it (1) commends Holocaust education activists on their efforts to include Holocaust education in states' public school curricula, (2) urges more states and school districts to include Holocaust education in their curricula, and (3) expresses the sense of the House that more should be done to instill in the nation's schools the promise that we will never forget the horrors of the Holocaust and must always work to prevent such atrocities from occurring in the future. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

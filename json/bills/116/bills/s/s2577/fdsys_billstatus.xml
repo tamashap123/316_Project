@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-09-27T04:42:32Z</createDate>
+    <cosponsors>
+      <item>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <lastName>Blumenthal</lastName>
+      </item>
+      <item>
+        <firstName>Tina</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+          <gpoId />
+        </identifiers>
+        <state>MN</state>
+        <lastName>Smith</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <committeeReports />
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <laws />
+    <title>Data Broker Accountability and Transparency Act of 2019</title>
+    <policyArea />
+    <relatedBills />
+    <textVersions>
+      <item>
+        <date>2019-09-26T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2577is/xml/BILLS-116s2577is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-10-11T04:27:37Z</updateDate>
+    <billNumber>2577</billNumber>
+    <congress>116</congress>
+    <latestAction>
+      <actionDate>2019-09-26</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+        </identifiers>
+        <firstName>EDWARD</firstName>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <lastName>MARKEY</lastName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>A bill to require data brokers to establish procedures to ensure the accuracy of collected personal information, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Data Broker Accountability and Transparency Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Data Broker Accountability and Transparency Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Data Broker Accountability and Transparency Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2019-09-26</introducedDate>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-09-26</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-09-26</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-26T20:11:36Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

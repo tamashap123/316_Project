@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-09T17:51:16-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.203", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/203"
+        }, 
+        {
+          "name": "Roll no. 192", 
+          "url": "http://clerk.house.gov/evs/2019/roll192.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 192, 
+      "text": "On agreeing to the Holding amendment (A006) Failed by recorded vote: 184 - 237 (Roll no. 192).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-05-09T16:12:02-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.203", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/203"
+        }, 
+        {
+          "name": "H3537", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3537"
+        }, 
+        {
+          "name": "H3537-3538", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3537-3538"
+        }, 
+        {
+          "name": "H3545-3546", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3545-3546"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3537-3538, H3545-3546", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3537", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Holding.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09T17:51:16-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.203", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/203"
+        }, 
+        {
+          "name": "Roll no. 192", 
+          "url": "http://clerk.house.gov/evs/2019/roll192.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Holding amendment (A006) Failed by recorded vote: 184 - 237 (Roll no. 192).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09T17:51:16-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.203", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/203"
+        }, 
+        {
+          "name": "Roll no. 192", 
+          "url": "http://clerk.house.gov/evs/2019/roll192.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09T17:51:16-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.203", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/203"
+        }, 
+        {
+          "name": "Roll no. 192", 
+          "url": "http://clerk.house.gov/evs/2019/roll192.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09T16:12:02-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.203", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/203"
+        }, 
+        {
+          "name": "H3537", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3537"
+        }, 
+        {
+          "name": "H3537-3538", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3537-3538"
+        }, 
+        {
+          "name": "H3545-3546", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3545-3546"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A006) offered by Mr. Holding.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt203-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr986-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 986
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Page 3, beginning on line 4, strike \"Protecting Americans with Preexisting Conditions Act of 2019\" and insert \"Insert Politically Punchy Title That Doesn't Reflect the Bill Substance Act\".", 
+  "introduced_at": "2019-05-09", 
+  "number": 203, 
+  "purpose": "An amendment numbered 7 printed in Part A of House Report 116-51 to change the title of bill to \"Insert Politically Punchy Title That Doesn't Reflect the Bill Substance Act.", 
+  "sponsor": {
+    "bioguide_id": "H001065", 
+    "district": "2", 
+    "name": "Holding, George", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2019-05-09T17:51:16-04:00", 
+  "updated_at": "2019-06-29T07:12:38Z"
+}

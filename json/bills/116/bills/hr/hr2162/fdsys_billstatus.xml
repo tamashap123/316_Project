@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-10T15:26:14Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2019-06-11T13:46:37Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-09T14:00:52Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-08-06T15:32:04Z</pubDate>
+        <title>H.R. 2162, Housing Financial Literacy Act of 2019</title>
+        <url>https://www.cbo.gov/publication/55525</url>
+      </item>
+    </cboCostEstimates>
+    <updateDate>2019-08-06T16:42:15Z</updateDate>
+    <createDate>2019-04-10T07:12:09Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-07-10</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionTime>17:28:41</actionTime>
+        <actionCode>H38310</actionCode>
+        <actionDate>2019-07-09</actionDate>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionTime>17:28:39</actionTime>
+        <actionCode>H37300</actionCode>
+        <actionDate>2019-07-09</actionDate>
+        <links>
+          <link>
+            <name>H5278</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H5278</url>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5278)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionTime>17:28:39</actionTime>
+        <actionCode>8000</actionCode>
+        <actionDate>2019-07-09</actionDate>
+        <links>
+          <link>
+            <name>H5278</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H5278</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5278)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionTime>17:12:52</actionTime>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2019-07-09</actionDate>
+        <links>
+          <link>
+            <name>H.R. 2162</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/2162</url>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2162.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionTime>17:12:51</actionTime>
+        <actionCode>H30000</actionCode>
+        <actionDate>2019-07-09</actionDate>
+        <links>
+          <link>
+            <name>H5278-5280</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H5278-5280</url>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H5278-5280)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <actionTime>17:12:40</actionTime>
+        <actionCode>H30300</actionCode>
+        <actionDate>2019-07-09</actionDate>
+        <links />
+        <text>Ms. Waters moved to suspend the rules and pass the bill, as amended.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-06-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 6.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-09</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-04-09</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-04-09</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>B001281</bioguideId>
+        <lastName>Beatty</lastName>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <firstName>Joyce</firstName>
+        <middleName />
+        <state>OH</state>
+        <district>3</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Housing Financial Literacy Act of 2019 </b></p> <p>This bill&nbsp;modifies the&nbsp;discount&nbsp;given by&nbsp;the Federal Housing Administration (FHA) on single-family mortgage-insurance premium payments for first-time homebuyers who complete a financial-management counseling program. Under current law, the maximum premium amount for such homebuyers is 2.75% of the original insured principal obligation of the mortgage (compared to 3% for other homebuyers). The bill instead&nbsp;requires that the premium amount for such homebuyers be 25 basis points (0.25% of the original insured principal obligation of mortgage) lower than the amount otherwise established by the FHA.</p>]]></text>
+          <lastSummaryUpdateDate>2019-07-09T14:24:54Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-04-09T04:00:00Z</updateDate>
+          <actionDate>2019-04-09</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>Housing Financial Literacy Act of 2019 </b></p> <p>This bill&nbsp;modifies the&nbsp;discount&nbsp;given by&nbsp;the Federal Housing Administration (FHA) on single-family mortgage-insurance premium payments for first-time homebuyers who complete a financial-management counseling program. Under current law, the maximum premium amount for such homebuyers is 2.75% of the original insured principal obligation of the mortgage (compared to 3% for other homebuyers). The bill instead&nbsp;requires that the premium amount for such homebuyers be 25 basis points (0.25% of the original insured principal obligation of mortgage) lower than the amount otherwise established by the FHA. The bill also specifies that first-time homebuyers must complete the financial-management counseling program prior to applying for a mortgage or entering into a sales agreement.</p>]]></text>
+          <lastSummaryUpdateDate>2019-07-25T14:08:06Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House</actionDesc>
+          <updateDate>2019-07-09T12:58:28Z</updateDate>
+          <actionDate>2019-07-09</actionDate>
+          <versionCode>53</versionCode>
+          <name>Passed House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BEATTY:H.R. 2162.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution which grants Congress the power to regulateCommerce with foreign Nations, and among the several States,and with the Indian Tribes.[Page H3218]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <middleName />
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>OH</state>
+        <firstName>Steve</firstName>
+        <lastName>Stivers</lastName>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <district>15</district>
+        <bioguideId>S001187</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <identifiers>
+          <gpoId>7910</gpoId>
+          <lisID>1722</lisID>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>GA</state>
+        <firstName>David</firstName>
+        <lastName>Scott</lastName>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <district>13</district>
+        <bioguideId>S001157</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-07-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2162rfs/xml/BILLS-116hr2162rfs.xml</url>
+          </item>
+        </formats>
+        <type>Referred in Senate</type>
+      </item>
+      <item>
+        <date>2019-07-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2162eh/xml/BILLS-116hr2162eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <date>2019-04-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2162ih/xml/BILLS-116hr2162ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <title>Housing Financial Literacy Act of 2019</title>
+    <introducedDate>2019-04-09</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Financial literacy</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>2162</billNumber>
+    <committeeReports />
+    <amendments />
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To require the Secretary of Housing and Urban Development to discount FHA single-family mortgage insurance premium payments for first-time homebuyers who complete a financial literacy housing counseling program.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Housing Financial Literacy Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Housing Financial Literacy Act of 2019</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Housing Financial Literacy Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Housing Financial Literacy Act of 2019</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Housing Financial Literacy Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2019-07-10</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

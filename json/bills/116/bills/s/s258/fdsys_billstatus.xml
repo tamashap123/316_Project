@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-08-16T10:41:47Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-29T19:37:47Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-05-14T18:30:40Z</date>
+                </item>
+              </activities>
+              <systemCode>sseg03</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2019-05-14</actionDate>
+      <links />
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </latestAction>
+    <title>Ruby Mountains Protection Act</title>
+    <notes />
+    <createDate>2019-01-30T05:40:17Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <cboCostEstimates />
+    <amendments />
+    <relatedBills />
+    <laws />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <recordedVotes />
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-01-29T05:00:00Z</updateDate>
+          <actionDate>2019-01-29</actionDate>
+          <lastSummaryUpdateDate>2019-07-31T19:08:21Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Ruby Mountains Protection Act</b></p> <p>This bill prohibits the Department of the Interior from issuing an oil and gas lease in the Ruby Mountains Ranger District of the Humboldt-Toiyabe National Forest located in Elko and White Pine Counties, Nevada.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to prohibit oil and gas leasing on the National Forest System land in the Ruby Mountains Ranger District located in the Humboldt-Toiyabe National Forest, Elko and White Pine Counties, Nevada, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Ruby Mountains Protection Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Ruby Mountains Protection Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Ruby Mountains Protection Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <state>NV</state>
+        <middleName />
+        <byRequestType />
+        <bioguideId>C001113</bioguideId>
+        <firstName>Catherine</firstName>
+        <party>D</party>
+        <lastName>Cortez Masto</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001113</bioguideId>
+          <lisID>2299</lisID>
+        </identifiers>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <date>2019-01-29T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s258is/xml/BILLS-116s258is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <introducedDate>2019-01-29</introducedDate>
+    <billNumber>258</billNumber>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-14</actionDate>
+        <committee>
+          <systemCode>sseg03</systemCode>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000608</bioguideId>
+        <party>D</party>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <state>NV</state>
+        <lastName>Rosen</lastName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

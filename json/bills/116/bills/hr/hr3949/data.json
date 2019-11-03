@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-24", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E974", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E974"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E974", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3949-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-24", 
+  "number": "3949", 
+  "official_title": "To amend the Safe Drinking Water Act to provide for drinking water fountain replacement in playgrounds and parks, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Safe Drinking Water in Playgrounds and Parks Act", 
+  "sponsor": {
+    "bioguide_id": "M001188", 
+    "district": "6", 
+    "name": "Meng, Grace", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-24", 
+  "subjects": [
+    "Child health", 
+    "Educational facilities and institutions", 
+    "Elementary and secondary education", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental protection", 
+    "Hazardous wastes and toxic substances", 
+    "Outdoor recreation", 
+    "Parks, recreation areas, trails", 
+    "Poverty and welfare assistance", 
+    "Water quality", 
+    "Water use and supply"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Safe Drinking Water Act to provide for drinking water fountain replacement in playgrounds and parks, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Drinking Water in Playgrounds and Parks Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Drinking Water in Playgrounds and Parks Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Safe Drinking Water in Playgrounds and Parks Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-04T21:30:17Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3949.xml"
+}

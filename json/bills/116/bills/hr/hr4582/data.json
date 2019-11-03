@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-10-10", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee for Indigenous Peoples of the United States.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4582-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Indigenous Peoples of the United States", 
+      "subcommittee_id": "24"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-27", 
+  "number": "4582", 
+  "official_title": "To amend the Alaska Native Claims Settlement Act to provide that Alexander Creek, Alaska, is and shall be recognized as an eligible Native village under that Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "Y000033", 
+    "district": "0", 
+    "name": "Young, Don", 
+    "state": "AK", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-27", 
+  "subjects": [
+    "Alaska", 
+    "Alaska Natives and Hawaiians", 
+    "Federal-Indian relations", 
+    "Indian claims", 
+    "Indian lands and resources rights", 
+    "Native Americans", 
+    "Public lands and natural resources", 
+    "Small towns"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Alaska Native Claims Settlement Act to provide that Alexander Creek, Alaska, is and shall be recognized as an eligible Native village under that Act, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Alaska Native Claims Settlement Act to provide that Alexander Creek, Alaska, is and shall be recognized as an eligible Native village under that Act, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-30T07:13:25Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4582.xml"
+}

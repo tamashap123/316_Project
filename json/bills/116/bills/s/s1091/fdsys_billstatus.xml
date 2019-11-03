@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-09</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-04-09</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1091is/xml/BILLS-116s1091is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-04-09T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <relatedBills>
+      <item>
+        <latestTitle>Small Business Reorganization Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HR</type>
+        <number>3311</number>
+        <latestAction>
+          <text>Referred to the House Committee on the Judiciary.</text>
+          <actionDate>2019-06-18</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000802</bioguideId>
+        <lastName>Whitehouse</lastName>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000476</bioguideId>
+        <lastName>Tillis</lastName>
+        <identifiers>
+          <lisID>2291</lisID>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <middleName>Roland</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000295</bioguideId>
+        <lastName>Ernst</lastName>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <firstName>Joni</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2019-05-13</sponsorshipDate>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001243</bioguideId>
+        <lastName>Blackburn</lastName>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+          <lisID>1748</lisID>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+      </item>
+    </cosponsors>
+    <updateDate>2019-06-25T09:23:42Z</updateDate>
+    <createDate>2019-04-10T04:42:11Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2019-04-09</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-04-09T20:18:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-04-09</introducedDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+    <congress>116</congress>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <title>Small Business Reorganization Act of 2019</title>
+    <sponsors>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <party>R</party>
+        <lastName>GRASSLEY</lastName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <byRequestType />
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <state>IA</state>
+        <middleName>ERNEST</middleName>
+      </item>
+    </sponsors>
+    <billNumber>1091</billNumber>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend chapter 11 of title 11, United States Code, to address reorganization of small businesses, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Small Business Reorganization Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Small Business Reorganization Act of 2019</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Small Business Reorganization Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

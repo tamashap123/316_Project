@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-07-24T04:57:17Z</createDate>
+    <relatedBills />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <bioguideId>T000476</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Tillis</lastName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <notes />
+    <congress>116</congress>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <date>2019-07-23T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2206is/xml/BILLS-116s2206is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-23</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-07-23</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <lastName>DURBIN</lastName>
+        <state>IL</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <middleName>J.</middleName>
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <bioguideId>D000563</bioguideId>
+      </item>
+      <item>
+        <lastName>Cotton</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <middleName />
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-09-10</sponsorshipDate>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+      </item>
+      <item>
+        <lastName>Blunt</lastName>
+        <state>MO</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <middleName />
+        <firstName>Roy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-09-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <bioguideId>B000575</bioguideId>
+      </item>
+      <item>
+        <lastName>Boozman</lastName>
+        <state>AR</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <middleName />
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <bioguideId>B001236</bioguideId>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-09-18T05:19:09Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-23T15:19:16Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2019-07-23</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to express the sense of Congress regarding restoration and maintenance of the Mardasson Memorial in Bastogne, Belgium.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to express the sense of Congress regarding restoration and maintenance of the Mardasson Memorial in Bastogne, Belgium.</title>
+      </item>
+    </titles>
+    <billType>S</billType>
+    <introducedDate>2019-07-23</introducedDate>
+    <amendments />
+    <billNumber>2206</billNumber>
+    <title>A bill to express the sense of Congress regarding restoration and maintenance of the Mardasson Memorial in Bastogne, Belgium.</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

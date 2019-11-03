@@ -1,0 +1,248 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-11", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-11", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:26:04-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Ms. Waters moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:26:12-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H7803-7805", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7803-7805"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7803-7805", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:26:13-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 3619", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/3619"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3619.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:38:37-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H7804", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7804"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7804", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:38:39-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-23", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3619-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }, 
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001061", 
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-15", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000614", 
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-15", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000479", 
+      "district": "3", 
+      "name": "Taylor, Van", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-17", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-09-19T16:38:37-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-05", 
+  "number": "3619", 
+  "official_title": "To amend the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 to provide the Appraisal Subcommittee with the authority to modify annual registry fees for appraisal management companies, to maintain a registry of trainees and charge a lower trainee registry fee, and to allow grants to States to assist appraiser and potential appraiser compliance with the Real Property Appraiser Qualification Criteria, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Appraisal Reform Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001049", 
+    "district": "1", 
+    "name": "Clay, Wm. Lacy", 
+    "state": "MO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2019-09-19T16:38:37-04:00", 
+  "subjects": [
+    "Housing and community development"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 to provide the Appraisal Subcommittee with the authority to modify annual registry fees for appraisal management companies, to maintain a registry of trainees and charge a lower trainee registry fee, and to allow grants to States to assist appraiser and potential appraiser compliance with the Real Property Appraiser Qualification Criteria, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Appraisal Fee Transparency Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Appraisal Fee Transparency Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Appraisal Reform Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Appraisal Reform Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Appraisal Fee Transparency Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-31T16:27:37Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3619.xml"
+}

@@ -1,0 +1,82 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3939-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-24", 
+  "number": "3939", 
+  "official_title": "To require the Board of Governors of the Federal Reserve System to carry out a quantitative impact study of any proposed real-time payment system under the Faster Payments Initiative before implementing such system.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001305", 
+    "district": "13", 
+    "name": "Budd, Ted", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-24", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Board of Governors of the Federal Reserve System to carry out a quantitative impact study of any proposed real-time payment system under the Faster Payments Initiative before implementing such system.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To require the Board of Governors of the Federal Reserve System to carry out a quantitative impact study of any proposed real-time payment system under the Faster Payments Initiative before implementing such system.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-05T21:47:53Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3939.xml"
+}

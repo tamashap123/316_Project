@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <actionDate>2019-01-16</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-16T15:00:47Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-17T08:10:12Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>609</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <firstName>Bill</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <state>FL</state>
+        <bioguideId>P000599</bioguideId>
+        <lastName>Posey</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <state>NY</state>
+        <bioguideId>H001038</bioguideId>
+        <lastName>Higgins</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <state>FL</state>
+        <bioguideId>R000609</bioguideId>
+        <lastName>Rutherford</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <middleName />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <state>NC</state>
+        <bioguideId>B001305</bioguideId>
+        <lastName>Budd</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>CAROLYN</firstName>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <state>NY</state>
+        <bioguideId>M000087</bioguideId>
+        <lastName>MALONEY</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-01-16</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-16</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <date>2019-01-16T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr609ih/xml/BILLS-116hr609ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:11:34Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2019</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HUIZENGA:H.R. 609.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clauses I (``The Congress shall havePower To lay and collect Taxes, Duties, Imposts and Excises,to pay the Debts and provide for the common Defense andgeneral Welfare of the United States; but all Duties, Impostsand Excises shall be uniform throughout the United States''),3 (``To regulate Commerce with foreign Nations, and among theseveral States, and with the Indian Tribes''), and 18 (``Tomake all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof).[Page H677]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <title>To amend the Securities Exchange Act of 1934 to exempt from registration brokers performing services in connection with the transfer of ownership of smaller privately held companies.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Bill</firstName>
+        <middleName />
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2028</lisID>
+          <bioguideId>H001058</bioguideId>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <district>2</district>
+        <bioguideId>H001058</bioguideId>
+        <lastName>Huizenga</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-19T14:24:06-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.381", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/381"
+        }, 
+        {
+          "name": "Roll no. 360", 
+          "url": "http://clerk.house.gov/evs/2019/roll360.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "roll": 360, 
+      "text": "On agreeing to the Kaptur amendments (A116) Agreed to by recorded vote: 233 - 200 (Roll no. 360).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-18T20:08:36-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "CR 6/19/2019 H4790", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4790"
+        }, 
+        {
+          "name": "H.Amdt.381", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/381"
+        }, 
+        {
+          "name": "H4741", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4741"
+        }, 
+        {
+          "name": "H4741-4743", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4741-4743"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4741-4743, CR 6/19/2019 H4790-4791", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4741", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendments en bloc (A116) offered by Ms. Kaptur.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-19T14:24:06-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.381", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/381"
+        }, 
+        {
+          "name": "Roll no. 360", 
+          "url": "http://clerk.house.gov/evs/2019/roll360.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-19T14:24:06-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.381", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/381"
+        }, 
+        {
+          "name": "Roll no. 360", 
+          "url": "http://clerk.house.gov/evs/2019/roll360.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-19T14:24:06-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.381", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/381"
+        }, 
+        {
+          "name": "Roll no. 360", 
+          "url": "http://clerk.house.gov/evs/2019/roll360.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Kaptur amendments (A116) Agreed to by recorded vote: 233 - 200 (Roll no. 360).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18T20:08:36-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "CR 6/19/2019 H4790", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4790"
+        }, 
+        {
+          "name": "H.Amdt.381", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/381"
+        }, 
+        {
+          "name": "H4741", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4741"
+        }, 
+        {
+          "name": "H4741-4743", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4741-4743"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4741-4743", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4741", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendments en bloc (A116) offered by Ms. Kaptur.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt381-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2740-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 2740
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendments comprised of the following amendments printed in Part A of House Report 116-111 as en bloc No. 3: 65, 71, 73, 83, 88, 94, 105, 106, and 108.", 
+  "introduced_at": "2019-06-18", 
+  "number": 381, 
+  "purpose": "Amendments en bloc comprised of the following amendments printed in Part A of House Report 116-111 as en bloc No. 3: 65, 71, 73, 83, 88, 94, 105, 106, and 108.", 
+  "sponsor": {
+    "bioguide_id": "K000009", 
+    "district": "9", 
+    "name": "Kaptur, Marcy", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-06-19T14:24:06-04:00", 
+  "updated_at": "2019-10-29T15:40:43Z"
+}

@@ -1,0 +1,183 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-14", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-18", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on National Parks, Forests, and Public Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-18", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-18", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-10-11", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-232", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/232"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-232.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-11", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "184", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 184.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2490-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-232"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-05-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-02", 
+  "number": "2490", 
+  "official_title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Chief Standing Bear National Historic Trail, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "F000449", 
+    "district": "1", 
+    "name": "Fortenberry, Jeff", 
+    "state": "NE", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-09-18", 
+  "subjects": [
+    "Federal-Indian relations", 
+    "Government studies and investigations", 
+    "Historic sites and heritage areas", 
+    "Kansas", 
+    "Nebraska", 
+    "Oklahoma", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "U.S. history"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Chief Standing Bear National Historic Trail, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Chief Standing Bear National Historic Trail, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-17T11:26:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2490.xml"
+}

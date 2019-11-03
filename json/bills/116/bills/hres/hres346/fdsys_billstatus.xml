@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <systemCode>hsfa05</systemCode>
+          <name>Asia and the Pacific Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Asia, the Pacific and Nonproliferation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2019-05-01</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-01</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-01</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-01T14:05:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Asia and the Pacific Subcommittee</name>
+              <systemCode>hsfa05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-01T20:59:16Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-05-02T07:12:07Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>346</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000179</bioguideId>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <lastName>ENGEL</lastName>
+        <identifiers>
+          <lisID>344</lisID>
+          <bioguideId>E000179</bioguideId>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELIOT</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001157</bioguideId>
+        <middleName>T.</middleName>
+        <party>R</party>
+        <lastName>McCaul</lastName>
+        <identifiers>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate>2019-05-07</sponsorshipWithdrawnDate>
+        <bioguideId>K000391</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Krishnamoorthi</lastName>
+        <identifiers>
+          <bioguideId>K000391</bioguideId>
+          <lisID>2325</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Raja</firstName>
+        <state>IL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000055</bioguideId>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <lastName>ADERHOLT</lastName>
+        <identifiers>
+          <lisID>1460</lisID>
+          <bioguideId>A000055</bioguideId>
+          <gpoId>7789</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROBERT</firstName>
+        <state>AL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>O000173</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Omar</lastName>
+        <identifiers>
+          <bioguideId>O000173</bioguideId>
+          <gpoId />
+          <lisID>2414</lisID>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ilhan</firstName>
+        <state>MN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000292</bioguideId>
+        <middleName />
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <identifiers>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bill</firstName>
+        <state>OH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000344</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>SHERMAN</lastName>
+        <identifiers>
+          <lisID>1526</lisID>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BRAD</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Y000065</bioguideId>
+        <middleName>S.</middleName>
+        <party>R</party>
+        <lastName>Yoho</lastName>
+        <identifiers>
+          <lisID>2115</lisID>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ted</firstName>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000266</bioguideId>
+        <middleName />
+        <party>R</party>
+        <lastName>CHABOT</lastName>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>STEVE</firstName>
+        <state>OH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000523</bioguideId>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <lastName>PRICE</lastName>
+        <identifiers>
+          <gpoId>8027</gpoId>
+          <bioguideId>P000523</bioguideId>
+          <lisID>930</lisID>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>DAVID</firstName>
+        <state>NC</state>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-05-01</actionDate>
+      <text>Referred to the Subcommittee on Asia, the Pacific and Nonproliferation.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-05-01</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-05-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres346ih/xml/BILLS-116hres346ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:01:36Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Reconstruction and stabilization</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Sri Lanka</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Recognizing the devastating April 21, 2019, terrorist bombings in Sri Lanka and observing 10 years since the end of Sri Lanka's decades-long civil war, which ended on May 18, 2009.</title>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Recognizing the devastating April 21, 2019, terrorist bombings in Sri Lanka and observing 10 years since the end of Sri Lanka's decades-long civil war, which ended on May 18, 2009.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Recognizing the devastating April 21, 2019, terrorist bombings in Sri Lanka and observing 10 years since the end of Sri Lanka's decades-long civil war, which ended on May 18, 2009.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Dina</firstName>
+        <middleName />
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <state>NV</state>
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+        </identifiers>
+        <district>1</district>
+        <bioguideId>T000468</bioguideId>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

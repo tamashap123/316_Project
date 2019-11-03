@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-20T11:13:45-04:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H.Amdt.416", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/416"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Neguse amendment (A030) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-20T11:11:17-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.416", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/416"
+        }, 
+        {
+          "name": "H4935", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4935"
+        }, 
+        {
+          "name": "H4935-4936", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4935-4936"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4935-4936", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4935", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Neguse.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20T11:13:45-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.416", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/416"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20T11:13:45-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.416", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/416"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Neguse amendment (A030) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20T11:11:17-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.416", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/416"
+        }, 
+        {
+          "name": "H4935", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4935"
+        }, 
+        {
+          "name": "H4935-4936", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4935-4936"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A030) offered by Mr. Neguse.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt416-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3055-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 3055
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": null, 
+  "introduced_at": "2019-06-20", 
+  "number": 416, 
+  "purpose": "An amendment numbered 76 printed in Part B of House Report 116-119 to increase and decrease funding for the National Instant Criminal Background Check System (NICS) by $5 million in order to encourage states to continue to improve their criminal and mental records for the National Instant Criminal Background Check System.", 
+  "sponsor": {
+    "bioguide_id": "N000191", 
+    "district": "2", 
+    "name": "Neguse, Joe", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-06-20T11:13:45-04:00", 
+  "updated_at": "2019-11-01T04:58:56Z"
+}

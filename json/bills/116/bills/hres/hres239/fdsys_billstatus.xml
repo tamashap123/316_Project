@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Rules.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <amendments />
+    <committeeReports />
+    <congress>116</congress>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <middleName>L.</middleName>
+        <state>LA</state>
+        <party>D</party>
+        <bioguideId>R000588</bioguideId>
+        <firstName>Cedric</firstName>
+        <identifiers>
+          <lisID>2023</lisID>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+        </identifiers>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <byRequestType />
+        <lastName>Richmond</lastName>
+        <district>2</district>
+      </item>
+    </sponsors>
+    <title>Amending the Rules of the House of Representatives to remove the motion to recommit.</title>
+    <laws />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsru00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-14T13:06:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>239</billNumber>
+    <recordedVotes />
+    <updateDate>2019-07-30T13:00:32Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <latestAction>
+      <actionDate>2019-03-14</actionDate>
+      <links />
+      <text>Referred to the House Committee on Rules.</text>
+    </latestAction>
+    <introducedDate>2019-03-14</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres239ih/xml/BILLS-116hres239ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-14T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2019-03-15T07:12:06Z</createDate>
+    <cosponsors />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Amending the Rules of the House of Representatives to remove the motion to recommit.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Amending the Rules of the House of Representatives to remove the motion to recommit.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

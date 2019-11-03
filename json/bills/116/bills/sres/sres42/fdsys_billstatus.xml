@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <cboCostEstimates />
+    <updateDate>2019-08-03T07:56:11Z</updateDate>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>1</reportedToSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S870</url>
+            <name>S870</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S870)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Armed Services. Original measure reported to Senate by Senator Inhofe. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+        <text>Committee on Armed Services. Original measure reported to Senate by Senator Inhofe. Without written report.</text>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-02-05</actionDate>
+        <committee />
+      </item>
+    </actions>
+    <billType>SRES</billType>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-05T19:40:38Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2019-02-05T19:39:37Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>42</billNumber>
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S870)</text>
+      <links />
+      <actionDate>2019-02-05</actionDate>
+    </latestAction>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres42is/xml/BILLS-116sres42is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-05T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <title>An original resolution authorizing expenditures by the Committee on Armed Services.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-05</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-02-15T23:16:16Z</lastSummaryUpdateDate>
+          <updateDate>2019-02-05T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Armed Services for the 116th Congress.</p>]]></text>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-02-05</actionDate>
+          <name>Reported to Senate</name>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-02-15T23:16:08Z</lastSummaryUpdateDate>
+          <updateDate>2019-02-05T13:40:25Z</updateDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Armed Services for the 116th Congress.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <cosponsors />
+    <amendments />
+    <titles>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Armed Services.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Armed Services.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Armed Services</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <state>OK</state>
+        <party>R</party>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <lastName>INHOFE</lastName>
+        <bioguideId>I000024</bioguideId>
+        <firstName>JIM</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-02-06T06:10:14Z</createDate>
+    <introducedDate>2019-02-05</introducedDate>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

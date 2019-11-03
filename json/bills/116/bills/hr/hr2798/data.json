@@ -1,0 +1,192 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-09-11", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2798-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001097", 
+      "district": "29", 
+      "name": "Cardenas, Tony", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-08-16", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001081", 
+      "district": "5", 
+      "name": "Hayes, Jahana", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-27", 
+      "state": "CT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000590", 
+      "district": "3", 
+      "name": "Lee, Susie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-20", 
+      "state": "NV", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000616", 
+      "district": "3", 
+      "name": "Phillips, Dean", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-24", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-09-11", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-16", 
+  "number": "2798", 
+  "official_title": "To amend title 38, United States Code, to make permanent the pilot program on counseling in retreat settings for women veterans newly separated from service in the Armed Forces.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Building Supportive Networks for Women Veterans Act", 
+  "sponsor": {
+    "bioguide_id": "B001285", 
+    "district": "26", 
+    "name": "Brownley, Julia", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-16", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Financial literacy", 
+    "Mental health", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' medical care", 
+    "Women's employment", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to make permanent the pilot program on counseling in retreat settings for women veterans newly separated from service in the Armed Forces.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Building Supportive Networks for Women Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Building Supportive Networks for Women Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Building Supportive Networks for Women Veterans Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-28T07:16:21Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2798.xml"
+}

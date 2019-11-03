@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+      <actionDate>2019-05-16</actionDate>
+    </latestAction>
+    <notes />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2785ih/xml/BILLS-116hr2785ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-05-16T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <relatedBills />
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-05-16</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-16</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-16</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-16T14:01:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-10-05T07:16:33Z</updateDate>
+    <amendments />
+    <billNumber>2785</billNumber>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <firstName>Ro</firstName>
+        <bioguideId>K000389</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <district>17</district>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Khanna</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>MIKE</firstName>
+        <bioguideId>T000460</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <district>5</district>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <lastName>THOMPSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Chellie</firstName>
+        <bioguideId>P000597</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <party>D</party>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <lastName>Pingree</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <bioguideId>P000607</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <party>D</party>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+          <lisID>2171</lisID>
+        </identifiers>
+        <lastName>Pocan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2019-09-10</sponsorshipDate>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>RICHARD</firstName>
+        <bioguideId>N000015</bioguideId>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <district>1</district>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <party>D</party>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000015</bioguideId>
+          <gpoId>7967</gpoId>
+          <lisID>854</lisID>
+        </identifiers>
+        <lastName>NEAL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2019-10-04</sponsorshipDate>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>To amend the Telecommunications Act of 1996 to preserve and protect the ability of State and local governments and public-private partnerships to provide broadband services.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Community Broadband Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Community Broadband Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Community Broadband Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <firstName>ANNA</firstName>
+        <bioguideId>E000215</bioguideId>
+        <middleName>G.</middleName>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <district>18</district>
+        <lastName>ESHOO</lastName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <calendarNumbers />
+    <title>Community Broadband Act of 2019</title>
+    <introducedDate>2019-05-16</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H3924-H3925]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ESHOO:H.R. 2785.Congress has the power to enact this legislation pursuantto the following:[[Page H3925]]Article I, Section 8, Clause 3</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-05-17T07:12:09Z</createDate>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

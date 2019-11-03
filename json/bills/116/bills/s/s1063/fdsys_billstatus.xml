@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>HALOS Act</latestTitle>
+        <type>HR</type>
+        <number>1909</number>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-03-27</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-08</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <actionDate>2019-04-08</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <amendments />
+    <committeeReports />
+    <congress>116</congress>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>CT</state>
+        <party>D</party>
+        <bioguideId>M001169</bioguideId>
+        <firstName>Christopher</firstName>
+        <identifiers>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <byRequestType />
+        <lastName>Murphy</lastName>
+      </item>
+    </sponsors>
+    <title>Helping Angels Lead Our Startups Act of 2019</title>
+    <laws />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssbk00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-08T21:47:11Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1063</billNumber>
+    <recordedVotes />
+    <updateDate>2019-07-31T07:34:38Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Securities and Exchange Commission (SEC)</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <latestAction>
+      <actionDate>2019-04-08</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <introducedDate>2019-04-08</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-04-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1063is/xml/BILLS-116s1063is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <createDate>2019-04-09T04:27:07Z</createDate>
+    <cosponsors>
+      <item>
+        <firstName>Pat</firstName>
+        <middleName />
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+        </identifiers>
+        <bioguideId>T000461</bioguideId>
+        <party>R</party>
+        <lastName>Toomey</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <middleName />
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <state>HI</state>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <bioguideId>S001194</bioguideId>
+        <party>D</party>
+        <lastName>Schatz</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2291</lisID>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <bioguideId>T000476</bioguideId>
+        <party>R</party>
+        <lastName>Tillis</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001191</bioguideId>
+        <party>D</party>
+        <lastName>Sinema</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <middleName>R.</middleName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <state>SD</state>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+        </identifiers>
+        <bioguideId>T000250</bioguideId>
+        <party>R</party>
+        <lastName>THUNE</lastName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to require the Securities and Exchange Commission to revise the rules of the Commission relating to general solicitation or general advertising, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>HALOS Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Helping Angels Lead Our Startups Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Helping Angels Lead Our Startups Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Helping Angels Lead Our Startups Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>HALOS Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-04-08T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-04-08</actionDate>
+          <text><![CDATA[<p><b>Helping Angels Lead Our Startups Act of 2019 or the HALOS Act of 2019</b></p> <p>This bill directs the Securities and Exchange Commission (SEC) to revise Regulation D, which exempts certain offerings from SEC registration requirements but prohibits general solicitation or general advertising with respect to such offerings. Specifically, this prohibition shall not apply to events with specified kinds of sponsors&#8212;including "angel investor groups" unconnected to broker-dealers or investment advisers&#8212;where presentations or communications are made by or on behalf of an issuer, if</p> <ul> <li>the advertising does not refer to any specific offering of securities by the issuer; </li> <li>the sponsor does not provide investment recommendation or advice to attendees, engage in investment negotiations with attendees, charge certain fees, or receive certain compensation; and </li> <li>no specific information regarding a securities offering is communicated beyond&nbsp;the type and amount of securities being offered, the amount of securities already subscribed for, and the intended use of proceeds from the offering.</li></ul>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-07-23T21:27:14Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

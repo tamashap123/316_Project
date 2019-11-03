@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4753-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001190", 
+      "district": "2", 
+      "name": "Mullin, Markwayne", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-29", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000575", 
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-18", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000479", 
+      "district": "3", 
+      "name": "Taylor, Van", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-23", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000484", 
+      "district": "2", 
+      "name": "Torres Small, Xochitl", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-18", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-18", 
+  "number": "4753", 
+  "official_title": "To prohibit the Secretary of Homeland Security from operating or procuring foreign-made unmanned aircraft systems, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s229-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Drone Origin Security Enhancement Act", 
+  "sponsor": {
+    "bioguide_id": "C001120", 
+    "district": "2", 
+    "name": "Crenshaw, Dan", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-18", 
+  "subjects": [
+    "Aviation and airports", 
+    "Contracts and agency", 
+    "Department of Homeland Security", 
+    "Intelligence activities, surveillance, classified information", 
+    "Public contracts and procurement", 
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the Secretary of Homeland Security from operating or procuring foreign-made unmanned aircraft systems, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Drone Origin Security Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Drone Origin Security Enhancement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Drone Origin Security Enhancement Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-30T07:16:52Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4753.xml"
+}

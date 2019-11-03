@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-10-03T20:31:26Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-09-26T14:06:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To provide grants for projects to acquire land and water for parks and other outdoor recreation purposes and to develop new or renovate existing outdoor recreation facilities.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Outdoors for All Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Outdoors for All Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Outdoors for All Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-10-03</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2019-09-26</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-09-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-09-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <title>Outdoors for All Act</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-09-26</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+      <actionDate>2019-10-03</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <party>D</party>
+        <firstName>Nanette</firstName>
+        <bioguideId>B001300</bioguideId>
+        <district>44</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>2311</lisID>
+          <gpoId />
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <lastName>Barragan</lastName>
+        <middleName>Diaz</middleName>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <district>10</district>
+        <middleName>R.</middleName>
+        <lastName>Turner</lastName>
+        <identifiers>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+        </identifiers>
+        <bioguideId>T000463</bioguideId>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>2</district>
+        <middleName />
+        <lastName>Bacon</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+        </identifiers>
+        <bioguideId>B001298</bioguideId>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <firstName>Don</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>16</district>
+        <middleName />
+        <lastName>Kinzinger</lastName>
+        <identifiers>
+          <gpoId>7931</gpoId>
+          <lisID>2014</lisID>
+          <bioguideId>K000378</bioguideId>
+        </identifiers>
+        <bioguideId>K000378</bioguideId>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <firstName>Adam</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>13</district>
+        <middleName />
+        <lastName>LEE</lastName>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>32</district>
+        <middleName>F.</middleName>
+        <lastName>NAPOLITANO</lastName>
+        <identifiers>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <firstName>GRACE</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>18</district>
+        <middleName>Patrick</middleName>
+        <lastName>Maloney</lastName>
+        <identifiers>
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001185</bioguideId>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <firstName>Sean</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>26</district>
+        <middleName />
+        <lastName>Brownley</lastName>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001285</bioguideId>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <firstName>Julia</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>20</district>
+        <middleName />
+        <lastName>Panetta</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000613</bioguideId>
+          <lisID>2309</lisID>
+        </identifiers>
+        <bioguideId>P000613</bioguideId>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <firstName>Jimmy</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <middleName />
+        <lastName>Van Drew</lastName>
+        <identifiers>
+          <lisID>2419</lisID>
+          <bioguideId>V000133</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>V000133</bioguideId>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <firstName>Jefferson</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>3</district>
+        <middleName />
+        <lastName>BLUMENAUER</lastName>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipDate>2019-10-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <firstName>EARL</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>1</district>
+        <middleName>B.</middleName>
+        <lastName>LARSON</lastName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <bioguideId>L000557</bioguideId>
+        <sponsorshipDate>2019-10-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>5</district>
+        <middleName>H.</middleName>
+        <lastName>COOPER</lastName>
+        <identifiers>
+          <gpoId>8152</gpoId>
+          <lisID>231</lisID>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <bioguideId>C000754</bioguideId>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <firstName>JAMES</firstName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-09-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4512ih/xml/BILLS-116hr4512ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>4512</billNumber>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 156 (Thursday, September 26, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Ms. BARRAGAN:H.R. 4512.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H8055]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-09-27T07:12:27Z</createDate>
+    <updateDate>2019-10-30T07:13:24Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

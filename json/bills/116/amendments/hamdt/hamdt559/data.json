@@ -1,0 +1,191 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-12T12:47:54-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.559", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/559"
+        }, 
+        {
+          "name": "H5757", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5757"
+        }, 
+        {
+          "name": "Roll no. 468", 
+          "url": "http://clerk.house.gov/evs/2019/roll468.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5757", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "fail", 
+      "roll": 468, 
+      "text": "On agreeing to the Ocasio-Cortez amendment (A053) Failed by recorded vote: 173 - 245 (Roll no. 468).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-07-11T22:05:07-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.559", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/559"
+        }, 
+        {
+          "name": "H5723", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5723"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5723", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5723", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A053) offered by Ms. Ocasio-Cortez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-11", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-12T12:47:54-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.559", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/559"
+        }, 
+        {
+          "name": "H5757", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5757"
+        }, 
+        {
+          "name": "Roll no. 468", 
+          "url": "http://clerk.house.gov/evs/2019/roll468.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-12T12:47:54-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.559", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/559"
+        }, 
+        {
+          "name": "H5757", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5757"
+        }, 
+        {
+          "name": "Roll no. 468", 
+          "url": "http://clerk.house.gov/evs/2019/roll468.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-11T22:05:07-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.559", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/559"
+        }, 
+        {
+          "name": "H5723", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5723"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5723", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5723", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A053) offered by Ms. Ocasio-Cortez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-12T12:47:54-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.559", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/559"
+        }, 
+        {
+          "name": "H5757", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5757"
+        }, 
+        {
+          "name": "Roll no. 468", 
+          "url": "http://clerk.house.gov/evs/2019/roll468.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Ocasio-Cortez amendment (A053) Failed by recorded vote: 173 - 245 (Roll no. 468).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-11", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt559-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2500-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 2500
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Add at the end of subtitle E of title 10 the following:    SEC. __. LIMITATION ON USE OF FUNDS FOR PROVIDING HOUSING FOR UNDOCUMENTED ALIENS.    None of the funds authorized to be appropriated by this Act or otherwise made available for the Department of Defense may be used for the purpose of providing housing in any Department of Defense facility for any detained alien who has no lawful immigration status in the United States.", 
+  "introduced_at": "2019-07-11", 
+  "number": 559, 
+  "purpose": "An amendment numbered 430 printed in Part B of House Report 116-413 to prohibit the President from using the authorized funds to detain undocumented immigrants in Department of Defense facilities.", 
+  "sponsor": {
+    "bioguide_id": "O000172", 
+    "district": "14", 
+    "name": "Ocasio-Cortez, Alexandria", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2019-07-12T12:47:54-04:00", 
+  "updated_at": "2019-10-24T02:25:30Z"
+}

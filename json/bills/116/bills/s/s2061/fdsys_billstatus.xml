@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <introducedDate>2019-07-09</introducedDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <byRequestType />
+        <bioguideId>T000464</bioguideId>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <lastName>Tester</lastName>
+        <state>MT</state>
+      </item>
+    </sponsors>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-09</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-07-09</actionDate>
+      </item>
+    </actions>
+    <amendments />
+    <notes />
+    <updateDate>2019-10-30T16:41:32Z</updateDate>
+    <billNumber>2061</billNumber>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <committeeReports />
+    <createDate>2019-07-10T04:42:16Z</createDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the United States Housing Act of 1937 and title 38, United States Code, to expand eligibility for the HUD-VASH program, to direct the Secretary of Veterans Affairs to submit annual reports to the Committees on Veterans' Affairs of the Senate and House of Representatives regarding homeless veterans, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veteran Housing Opportunities and Unemployment Support Extension Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veteran Housing Opportunities and Unemployment Support Extension Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veteran Housing Opportunities and Unemployment Support Extension Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Veteran Housing Opportunities and Unemployment Support Extension Act of 2019</title>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-09T16:37:03Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <middleName />
+        <party>R</party>
+        <lastName>Young</lastName>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>Y000064</bioguideId>
+        <firstName>Todd</firstName>
+        <identifiers>
+          <gpoId>7948</gpoId>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IN</state>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <lastName>Murphy</lastName>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>M001169</bioguideId>
+        <firstName>Christopher</firstName>
+        <identifiers>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CT</state>
+      </item>
+      <item>
+        <middleName>ANN</middleName>
+        <party>D</party>
+        <lastName>STABENOW</lastName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipDate>2019-07-31</sponsorshipDate>
+        <bioguideId>S000770</bioguideId>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OR</state>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CT</state>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Committee on Financial Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-04-30</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To amend the United States Housing Act of 1937 and title 38, United States Code, to expand eligibility for the HUD-VASH program, to direct the Secretary of Veterans Affairs to submit annual reports to the Committees on Veterans' Affairs of the Senate and House of Representatives regarding homeless veterans, and for other purposes.</latestTitle>
+        <number>2398</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <date>2019-07-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2061is/xml/BILLS-116s2061is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <congress>116</congress>
+    <latestAction>
+      <actionDate>2019-07-09</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

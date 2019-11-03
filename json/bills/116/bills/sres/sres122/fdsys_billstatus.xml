@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-27T18:41:28Z</date>
+            </item>
+          </activities>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-03-27</introducedDate>
+    <createDate>2019-03-28T04:42:07Z</createDate>
+    <textVersions>
+      <item>
+        <date>2019-03-27T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres122is/xml/BILLS-116sres122is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution observing the 25th Anniversary of the genocide in Rwanda.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A resolution observing the 25th Anniversary of the genocide in Rwanda.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <title>A resolution observing the 25th Anniversary of the genocide in Rwanda.</title>
+    <billNumber>122</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2054</url>
+            <name>S2054</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text: CR S2054)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-03-27</actionDate>
+      </item>
+    </actions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>Johnny</firstName>
+        <state>GA</state>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <middleName />
+        <lastName>Isakson</lastName>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <bioguideId>I000055</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Marco</firstName>
+        <state>FL</state>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Timothy</firstName>
+        <state>VA</state>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <middleName />
+        <lastName>Kaine</lastName>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <lisID>2176</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>BENJAMIN</firstName>
+        <state>MD</state>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <middleName>L.</middleName>
+        <lastName>CARDIN</lastName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <state>DE</state>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <state>OR</state>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <state>NJ</state>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <middleName />
+        <firstName>Robert</firstName>
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <lastName>Menendez</lastName>
+        <byRequestType />
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>Civics education</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Rwanda</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <updateDate>2019-04-04T14:15:19Z</updateDate>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Foreign Relations. (text: CR S2054)</text>
+      <actionDate>2019-03-27</actionDate>
+    </latestAction>
+    <amendments />
+    <billType>SRES</billType>
+    <notes />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

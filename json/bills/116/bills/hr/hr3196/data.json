@@ -1,0 +1,347 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E748", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E748"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E748", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSSY"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-132", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/132"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Science, Space, and Technology. H. Rept. 116-132.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "96", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 96.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2019-07-23T14:59:24-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-23T14:59:34-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H7176-7177", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7176-7177"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7176-7177", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-23T14:59:36-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 3196", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/3196"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3196.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-23T15:06:36-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H7176", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7176"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7176", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-07-23T15:06:37-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-23T15:06:39-04:00", 
+      "action_code": "H38800", 
+      "references": [], 
+      "text": "The title of the measure was amended. Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-24", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3196-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-132"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001117", 
+      "district": "6", 
+      "name": "Casten, Sean", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-19", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-19", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000582", 
+      "district": "0", 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-11", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001083", 
+      "district": "5", 
+      "name": "Horn, Kendra S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-19", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000563", 
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-19", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-06-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-07-23T15:06:36-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-11", 
+  "number": "3196", 
+  "official_title": "To designate the Large Synoptic Survey Telescope as the \"Vera Rubin Survey Telescope\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Vera Rubin Survey Telescope Designation Act", 
+  "sponsor": {
+    "bioguide_id": "J000126", 
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2019-07-23T15:06:36-04:00", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Astronomy", 
+    "Congressional tributes", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": {
+    "as": "Reported to House", 
+    "date": "2019-06-27T15:24:29Z", 
+    "text": "Vera Rubin Survey Telescope Designation Act\n\nThis bill designates the Large Synoptic Survey Telescope as the Vera Rubin Survey Telescope."
+  }, 
+  "titles": [
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "To designate the Large Synoptic Survey Telescope as the \"Vera C. Rubin Observatory\".", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the Large Synoptic Survey Telescope as the \"Vera Rubin Survey Telescope\".", 
+      "type": "official"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Vera C. Rubin Observatory Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Vera C. Rubin Observatory Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Vera Rubin Survey Telescope Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Vera Rubin Survey Telescope Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Vera Rubin Survey Telescope Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Vera Rubin Survey Telescope Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Vera C. Rubin Observatory Designation Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-08-04T07:56:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3196.xml"
+}

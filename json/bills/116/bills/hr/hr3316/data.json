@@ -1,0 +1,149 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3316-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000009", 
+      "district": "9", 
+      "name": "Kaptur, Marcy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-26", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000376", 
+      "district": "16", 
+      "name": "Kelly, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000380", 
+      "district": "5", 
+      "name": "Kildee, Daniel T.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-26", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000585", 
+      "district": "18", 
+      "name": "LaHood, Darin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-26", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "U000031", 
+      "district": "6", 
+      "name": "Upton, Fred", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-26", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-18", 
+  "number": "3316", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to allow a credit against tax for neighborhood revitalization, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Neighborhood Homes Investment Act", 
+  "sponsor": {
+    "bioguide_id": "H001038", 
+    "district": "26", 
+    "name": "Higgins, Brian", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-18", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-06-18T04:00:00Z", 
+    "text": "Neighborhood Homes Investment Act\n\nThis bill establishes a new business-related tax credit to finance home building and rehabilitation in neighborhoods that meet certain eligibility criteria relating to poverty rates, income, and home values. The credit is limited to 35% of the lesser of the qualified development cost (i.e., the cost of construction, substantial rehabilitation, demolition, and environmental remediation of residential properties) or 80% of the national median sale price for new homes. The credit applies to single family homes containing four or fewer residential units, condominiums, or houses or apartments owned by cooperative housing corporations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to allow a credit against tax for neighborhood revitalization, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Neighborhood Homes Investment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Neighborhood Homes Investment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Neighborhood Homes Investment Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-08T17:00:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3316.xml"
+}

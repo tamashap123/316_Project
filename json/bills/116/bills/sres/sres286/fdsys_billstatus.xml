@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cboCostEstimates />
+    <updateDate>2019-08-07T14:39:50Z</updateDate>
+    <createDate>2019-07-26T04:57:19Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2019-07-25</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5113</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5113</url>
+          </link>
+          <link>
+            <name>S5118</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5118</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5118; text: CR S5113)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <committee />
+        <actionDate>2019-07-25</actionDate>
+        <type>Floor</type>
+        <links />
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5118; text: CR S5113)</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2019-07-25</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>W000805</bioguideId>
+        <lastName>Warner</lastName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <middleName>R.</middleName>
+        <state>VA</state>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <billType>SRES</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <bioguideId>B001135</bioguideId>
+        <lastName>BURR</lastName>
+        <middleName />
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>DIANNE</firstName>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <bioguideId>F000062</bioguideId>
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <bioguideId>R000584</bioguideId>
+        <lastName>Risch</lastName>
+        <middleName>E.</middleName>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>ID</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <bioguideId>W000779</bioguideId>
+        <lastName>WYDEN</lastName>
+        <middleName />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <bioguideId>R000595</bioguideId>
+        <lastName>Rubio</lastName>
+        <middleName />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Martin</firstName>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <bioguideId>H001046</bioguideId>
+        <lastName>Heinrich</lastName>
+        <middleName />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>SUSAN</firstName>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <bioguideId>C001035</bioguideId>
+        <lastName>COLLINS</lastName>
+        <middleName>MARGARET</middleName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Angus</firstName>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000383</bioguideId>
+        <lastName>King</lastName>
+        <middleName />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <party>I</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Roy</firstName>
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <bioguideId>B000575</bioguideId>
+        <lastName>Blunt</lastName>
+        <middleName />
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>MO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Kamala</firstName>
+        <identifiers>
+          <bioguideId>H001075</bioguideId>
+          <gpoId />
+          <lisID>2301</lisID>
+        </identifiers>
+        <bioguideId>H001075</bioguideId>
+        <lastName>Harris</lastName>
+        <middleName>D.</middleName>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <lastName>Cotton</lastName>
+        <middleName />
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <bioguideId>C001056</bioguideId>
+        <lastName>Cornyn</lastName>
+        <middleName />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+        </identifiers>
+        <bioguideId>B001267</bioguideId>
+        <lastName>Bennet</lastName>
+        <middleName>F.</middleName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Ben</firstName>
+        <identifiers>
+          <bioguideId>S001197</bioguideId>
+          <gpoId />
+          <lisID>2289</lisID>
+        </identifiers>
+        <bioguideId>S001197</bioguideId>
+        <lastName>Sasse</lastName>
+        <middleName />
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <state>NE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres286ats/xml/BILLS-116sres286ats.xml</url>
+          </item>
+        </formats>
+        <type>Agreed to Senate</type>
+        <date>2019-07-25T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>A resolution designating July 26, 2019, as "United States Intelligence Professionals Day".</title>
+    <introducedDate>2019-07-25</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>286</billNumber>
+    <congress>116</congress>
+    <amendments />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution designating July 26, 2019, as "United States Intelligence Professionals Day".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution designating July 26, 2019, as "United States Intelligence Professionals Day".</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5118; text: CR S5113)</text>
+      <links />
+      <actionDate>2019-07-25</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

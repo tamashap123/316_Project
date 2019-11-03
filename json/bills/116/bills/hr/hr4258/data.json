@@ -1,0 +1,171 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-09-25", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-10-15", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Courts, Intellectual Property, and the Internet Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4258-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Courts, Intellectual Property, and the Internet", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001208", 
+      "district": "6", 
+      "name": "McBath, Lucy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-15", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001214", 
+      "district": "17", 
+      "name": "Steube, W. Gregory", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-09-09", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-10-15", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-09", 
+  "number": "4258", 
+  "official_title": "To authorize the Marshal of the Supreme Court and the Supreme Court Police to protect the Justices, employees, and official guests of the Supreme Court outside of the Supreme Court grounds, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Reauthorizing Security for Supreme Court Justices Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S001211", 
+    "district": "9", 
+    "name": "Stanton, Greg", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-10-16", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Judges", 
+    "Protection of officials", 
+    "Supreme Court"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize the Marshal of the Supreme Court and the Supreme Court Police to protect the Justices, employees, and official guests of the Supreme Court outside of the Supreme Court grounds, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reauthorizing Security for Supreme Court Justices Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reauthorizing Security for Supreme Court Justices Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Reauthorizing Security for Supreme Court Justices Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-21T14:15:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4258.xml"
+}

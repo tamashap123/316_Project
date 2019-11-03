@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-29T15:02:45Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-29T16:57:31Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-29T15:02:50Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-02-26</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <number>1332</number>
+        <latestTitle>Fair Care Act of 2019</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <titles>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to provide a deduction for certain charity care furnished by physicians, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Physician Pro Bono Care Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Physician Pro Bono Care Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Physician Pro Bono Care Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>856</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-01-29</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-03-14T13:50:55Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Physician Pro Bono Care Act of 2019</b></p> <p>This bill allows a tax deduction for direct primary care physicians who provide charity care. The care must be provided without expectation of reimbursement and to an individual enrolled in Medicaid or the Children's Health Insurance Program (CHIP). </p> <p>A "direct primary care physician" is a physician who provides primary care (1) to individuals who have paid a periodic subscription fee, and (2) in exchange for a fee that is published on a publicly available website of the physician. </p> <p>The bill also specifies that a physician is not liable under federal or state law for harm caused by an act or omission of the physician, or attending medical personnel supporting the physician, if the act or omission (1) occurs in the course of furnishing charity care, and (2) was not grossly negligent. The bill preempts laws of a state or a political subdivision of the state that are inconsistent with this provision, unless the laws provide greater protection from liability for a defendant. </p>]]></text>
+          <updateDate>2019-01-29T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Physician Pro Bono Care Act of 2019</title>
+    <latestAction>
+      <actionDate>2019-01-29</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <createDate>2019-01-30T08:10:18Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Webster</lastName>
+        <firstName>Daniel</firstName>
+        <state>FL</state>
+        <bioguideId>W000806</bioguideId>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <district>11</district>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000806</bioguideId>
+          <lisID>2002</lisID>
+          <gpoId>7880</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <notes />
+    <introducedDate>2019-01-29</introducedDate>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <lastName>PETERSON</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <firstName>COLLIN</firstName>
+        <bioguideId>P000258</bioguideId>
+      </item>
+      <item>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2142</lisID>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <lastName>Meadows</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Mark</firstName>
+        <bioguideId>M001187</bioguideId>
+      </item>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2239</lisID>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <lastName>Allen</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>W.</middleName>
+        <firstName>Rick</firstName>
+        <bioguideId>A000372</bioguideId>
+      </item>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+          <lisID>2237</lisID>
+        </identifiers>
+        <district>10</district>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <lastName>Hice</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <firstName>Jody</firstName>
+        <bioguideId>H001071</bioguideId>
+      </item>
+      <item>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001195</bioguideId>
+          <lisID>2277</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <lastName>Mooney</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>X.</middleName>
+        <firstName>Alexander</firstName>
+        <bioguideId>M001195</bioguideId>
+      </item>
+      <item>
+        <state>AR</state>
+        <identifiers>
+          <lisID>2224</lisID>
+          <gpoId />
+          <bioguideId>W000821</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <lastName>Westerman</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Bruce</firstName>
+        <bioguideId>W000821</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000827</bioguideId>
+          <gpoId />
+          <lisID>2446</lisID>
+        </identifiers>
+        <district>6</district>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Wright</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Ron</firstName>
+        <bioguideId>W000827</bioguideId>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>2415</lisID>
+          <bioguideId>S001212</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Stauber</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Pete</firstName>
+        <bioguideId>S001212</bioguideId>
+      </item>
+      <item>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <lastName>Gosar</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <bioguideId>G000565</bioguideId>
+      </item>
+      <item>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <lastName>Budd</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Ted</firstName>
+        <bioguideId>B001305</bioguideId>
+      </item>
+      <item>
+        <state>MT</state>
+        <identifiers>
+          <lisID>2359</lisID>
+          <gpoId />
+          <bioguideId>G000584</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <lastName>Gianforte</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Greg</firstName>
+        <bioguideId>G000584</bioguideId>
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2389</lisID>
+          <gpoId />
+          <bioguideId>S001214</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Steube</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>Gregory</middleName>
+        <firstName>W.</firstName>
+        <bioguideId>S001214</bioguideId>
+      </item>
+      <item>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>L000583</bioguideId>
+          <lisID>2238</lisID>
+          <gpoId />
+        </identifiers>
+        <district>11</district>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <lastName>Loudermilk</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Barry</firstName>
+        <bioguideId>L000583</bioguideId>
+      </item>
+      <item>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>L000589</bioguideId>
+          <lisID>2368</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <lastName>Lesko</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Debbie</firstName>
+        <bioguideId>L000589</bioguideId>
+      </item>
+      <item>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <district>4</district>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <lastName>King</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Steve</firstName>
+        <bioguideId>K000362</bioguideId>
+      </item>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>2411</lisID>
+          <gpoId />
+          <bioguideId>H001088</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Hagedorn, Jim [R-MN-1]</fullName>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <lastName>Hagedorn</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Jim</firstName>
+        <bioguideId>H001088</bioguideId>
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <sponsorshipDate>2019-08-16</sponsorshipDate>
+        <lastName>Yoho</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>S.</middleName>
+        <firstName>Ted</firstName>
+        <bioguideId>Y000065</bioguideId>
+      </item>
+      <item>
+        <state>MS</state>
+        <identifiers>
+          <lisID>2416</lisID>
+          <bioguideId>G000591</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Guest, Michael [R-MS-3]</fullName>
+        <sponsorshipDate>2019-08-27</sponsorshipDate>
+        <lastName>Guest</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Michael</firstName>
+        <bioguideId>G000591</bioguideId>
+      </item>
+      <item>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <sponsorshipDate>2019-09-16</sponsorshipDate>
+        <lastName>Van Drew</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Jefferson</firstName>
+        <bioguideId>V000133</bioguideId>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-01-29T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr856ih/xml/BILLS-116hr856ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WEBSTER of Florida:H.R. 856.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H1284]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2019-09-17T07:15:35Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

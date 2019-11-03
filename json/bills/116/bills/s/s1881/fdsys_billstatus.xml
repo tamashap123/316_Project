@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <notes />
+    <committeeReports />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billNumber>1881</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>8</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <passedSenate>1</passedSenate>
+        <sentToHouse>1</sentToHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <orderedReported>1</orderedReported>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+      </actionTypeCounts>
+      <item>
+        <actionTime>16:57:36</actionTime>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Held at the desk.</text>
+        <actionDate>2019-09-11</actionDate>
+      </item>
+      <item>
+        <actionTime>12:45:02</actionTime>
+        <committee />
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <text>Received in the House.</text>
+        <actionDate>2019-09-11</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-09-10</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5411</url>
+            <name>S5411</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S5411)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5411</url>
+            <name>S5411</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5411)</text>
+        <actionDate>2019-09-10</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-09-10</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5411</url>
+            <name>S5411</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S5411)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <actionDate>2019-09-10</actionDate>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5411</url>
+            <name>S5411</name>
+          </link>
+        </links>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S5411)</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-10</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-18</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-06-18</actionDate>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to provide PreCheck to certain severely injured or disabled veterans, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>VETS Safe Travel Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Veterans Expedited TSA Screening Safe Travel Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>VETS Safe Travel Act</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Veterans Expedited TSA Screening Safe Travel Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Veterans Expedited TSA Screening Safe Travel Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <title>Veterans Expedited TSA Screening Safe Travel Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <title>VETS Safe Travel Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Veterans Expedited TSA Screening Safe Travel Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>VETS Safe Travel Act</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2019-09-11</actionDate>
+      <actionTime>16:57:36</actionTime>
+      <text>Held at the desk.</text>
+    </latestAction>
+    <laws />
+    <introducedDate>2019-06-18</introducedDate>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <identifiers>
+          <gpoId>7948</gpoId>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <bioguideId>Y000064</bioguideId>
+        <firstName>Todd</firstName>
+        <party>R</party>
+        <lastName>Young</lastName>
+        <middleName />
+        <state>IN</state>
+      </item>
+    </sponsors>
+    <title>Veterans Expedited TSA Screening Safe Travel Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-10-24T16:18:43Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1881es/xml/BILLS-116s1881es.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in Senate</type>
+        <date>2019-09-10T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1881is/xml/BILLS-116s1881is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-06-18T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates>
+      <item>
+        <title>S.1881, VETS Safe Travel Act</title>
+        <pubDate>2019-10-24T15:29:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/55762</url>
+      </item>
+    </cboCostEstimates>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <bioguideId>D000622</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+          <lisID>2123</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tammy</firstName>
+        <party>D</party>
+        <lastName>Duckworth</lastName>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <state>IL</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-31</sponsorshipDate>
+        <bioguideId>T000464</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jon</firstName>
+        <party>D</party>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <state>MT</state>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-31</sponsorshipDate>
+        <bioguideId>B001310</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+          <lisID>2462</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <lastName>Braun</lastName>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <state>IN</state>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <latestTitle>Veterans Expedited TSA Screening Safe Travel Act</latestTitle>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 160.</text>
+          <actionDate>2019-09-12</actionDate>
+        </latestAction>
+        <number>3356</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <createDate>2019-06-19T04:57:14Z</createDate>
+    <amendments />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <date>2019-09-10T21:45:22Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2019-07-10T14:00:36Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-06-18T19:02:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

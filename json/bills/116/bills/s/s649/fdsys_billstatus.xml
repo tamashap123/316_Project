@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2019-03-05</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <billNumber>649</billNumber>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Nuclear Waste Informed Consent Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1544</number>
+        <latestAction>
+          <actionDate>2019-03-05</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s649is/xml/BILLS-116s649is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-03-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>Nuclear Waste Informed Consent Act</title>
+    <congress>116</congress>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Nuclear power</name>
+          </item>
+          <item>
+            <name>Radioactive wastes and releases</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <createDate>2019-03-06T05:42:07Z</createDate>
+    <titles>
+      <item>
+        <title>A bill to require the Secretary of Energy to obtain the consent of affected State and local governments before making an expenditure from the Nuclear Waste Fund for a nuclear waste repository, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Nuclear Waste Informed Consent Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Nuclear Waste Informed Consent Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Nuclear Waste Informed Consent Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <recordedVotes />
+    <updateDate>2019-06-29T03:32:15Z</updateDate>
+    <laws />
+    <amendments />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2019-03-05</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <bioguideId>R000608</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+          <lisID>2339</lisID>
+        </identifiers>
+        <lastName>Rosen</lastName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+      </item>
+      <item>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <bioguideId>B001288</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Booker</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+      </item>
+      <item>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <firstName>Kamala</firstName>
+        <bioguideId>H001075</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <identifiers>
+          <bioguideId>H001075</bioguideId>
+          <gpoId />
+          <lisID>2301</lisID>
+        </identifiers>
+        <lastName>Harris</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+      </item>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+      </item>
+      <item>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>Bernard</firstName>
+        <bioguideId>S000033</bioguideId>
+        <party>I</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <lastName>Sanders</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+      </item>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Warren</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+      </item>
+      <item>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <bioguideId>G000555</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <lastName>Gillibrand</lastName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <introducedDate>2019-03-05</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <type>Standing</type>
+          <name>Environment and Public Works Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-05T16:52:48Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-03-05T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-06-21T18:34:50Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-03-05</actionDate>
+          <text><![CDATA[<p><b>Nuclear Waste Informed Consent Act</b></p> <p>This bill prohibits the Department of Energy (DOE) from using the Nuclear Waste Fund for certain expenditures involving repositories for disposing of spent nuclear fuel or high-level radioactive waste. Specifically, DOE may not use the fund to pay for disposal in a repository or planning, construction, or operation of a repository unless DOE has entered into an agreement with the state in which the repository is located and with affected local governments and Indian tribes.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <bioguideId>C001113</bioguideId>
+        <lastName>Cortez Masto</lastName>
+        <identifiers>
+          <lisID>2299</lisID>
+          <gpoId />
+          <bioguideId>C001113</bioguideId>
+        </identifiers>
+        <firstName>Catherine</firstName>
+        <party>D</party>
+        <state>NV</state>
+        <byRequestType />
+        <middleName />
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

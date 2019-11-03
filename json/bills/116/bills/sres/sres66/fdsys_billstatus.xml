@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-11</actionDate>
+        <committee>
+          <systemCode>ssap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1169</url>
+            <name>S1169</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Appropriations. (text: CR S1169)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <amendments />
+    <committeeReports />
+    <congress>116</congress>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>CA</state>
+        <party>D</party>
+        <bioguideId>F000062</bioguideId>
+        <firstName>DIANNE</firstName>
+        <identifiers>
+          <gpoId>8338</gpoId>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <byRequestType />
+        <lastName>FEINSTEIN</lastName>
+      </item>
+    </sponsors>
+    <title>A resolution rejecting the use of Government shutdowns.</title>
+    <laws />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssap00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-02-11T22:57:46Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Appropriations Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>66</billNumber>
+    <recordedVotes />
+    <updateDate>2019-07-31T07:34:03Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <billType>SRES</billType>
+    <cboCostEstimates />
+    <latestAction>
+      <actionDate>2019-02-11</actionDate>
+      <links />
+      <text>Referred to the Committee on Appropriations. (text: CR S1169)</text>
+    </latestAction>
+    <introducedDate>2019-02-11</introducedDate>
+    <textVersions>
+      <item>
+        <date>2019-02-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres66is/xml/BILLS-116sres66is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <createDate>2019-02-12T05:25:14Z</createDate>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <lastName>COLLINS</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <state>ME</state>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <state>MN</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <firstName>BENJAMIN</firstName>
+        <lastName>CARDIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <state>MD</state>
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <state>CT</state>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <state>MD</state>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution rejecting the use of Government shutdowns.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution rejecting the use of Government shutdowns.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-02-11T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-07-19T21:46:27Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution rejects the use of government shutdowns as a negotiating tactic. It also affirms that government shutdowns (1) cause unnecessary pain to federal workers and the people of the United States, and (2) should never be resorted to again. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-02-11</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

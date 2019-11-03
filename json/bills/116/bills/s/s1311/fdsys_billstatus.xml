@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-02T19:42:10Z</date>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-02</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to provide lasting protection for inventoried roadless areas within the National Forest System.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Roadless Area Conservation Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Roadless Area Conservation Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Roadless Area Conservation Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <date>2019-05-02T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1311is/xml/BILLS-116s1311is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>MARIA</firstName>
+        <bioguideId>C000127</bioguideId>
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <party>D</party>
+        <state>WA</state>
+        <lastName>CANTWELL</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-05-03T04:42:12Z</createDate>
+    <title>Roadless Area Conservation Act of 2019</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <billType>S</billType>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2019-05-02</actionDate>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>TOM</firstName>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>UDALL</lastName>
+        <bioguideId>U000039</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RON</firstName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>WYDEN</lastName>
+        <bioguideId>W000779</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Richard</firstName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <bioguideId>D000563</bioguideId>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>PATTY</firstName>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>MURRAY</lastName>
+        <bioguideId>M001111</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <lastName>Booker</lastName>
+        <bioguideId>B001288</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kamala</firstName>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001075</bioguideId>
+          <gpoId />
+          <lisID>2301</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Harris</lastName>
+        <bioguideId>H001075</bioguideId>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Elizabeth</firstName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Warren</lastName>
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Robert</firstName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Menendez</lastName>
+        <bioguideId>M000639</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Martin</firstName>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Heinrich</lastName>
+        <bioguideId>H001046</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tina</firstName>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <lastName>Smith</lastName>
+        <bioguideId>S001203</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bernard</firstName>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <party>I</party>
+        <lastName>Sanders</lastName>
+        <bioguideId>S000033</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mazie</firstName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Hirono</lastName>
+        <bioguideId>H001042</bioguideId>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BENJAMIN</firstName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>CARDIN</lastName>
+        <bioguideId>C000141</bioguideId>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>EDWARD</firstName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>RI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>RI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Sheldon</firstName>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <updateDate>2019-08-27T04:27:14Z</updateDate>
+    <recordedVotes />
+    <introducedDate>2019-05-02</introducedDate>
+    <billNumber>1311</billNumber>
+    <notes />
+    <laws />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

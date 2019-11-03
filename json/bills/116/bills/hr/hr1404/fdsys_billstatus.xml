@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <createDate>2019-02-28T08:10:06Z</createDate>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2019-03-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1404rfs/xml/BILLS-116hr1404rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-03-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1404eh/xml/BILLS-116hr1404eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-27T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1404ih/xml/BILLS-116hr1404ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To strengthen the United States response to Russian interference by providing transparency on the corruption of Russian President Vladimir Putin.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Vladimir Putin Transparency Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Vladimir Putin Transparency Act</title>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Vladimir Putin Transparency Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Vladimir Putin Transparency Act</title>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Vladimir Putin Transparency Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-13T14:50:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Select</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-02-27T15:05:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-02-27T15:04:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-02-27T15:04:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hlig00</systemCode>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Select</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2019-03-13</actionDate>
+        <committee>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Select Committee on Intelligence.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <actionTime>13:10:10</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <actionTime>13:10:05</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2662-2663)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H2662-2663</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2662-2663</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <actionTime>13:10:05</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2662-2663)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H2662-2663</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2662-2663</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <actionTime>13:00:26</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1404.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 1404</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/1404</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <actionTime>13:00:10</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H2662-2664)</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H2662-2664</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2662-2664</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <actionTime>12:58:58</actionTime>
+        <text>Mrs. Demings moved to suspend the rules and pass the bill, as amended.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-02-27</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committees on Foreign Affairs, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-02-27</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committees on Foreign Affairs, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-02-27</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committees on Foreign Affairs, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-02-27</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-02-27</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <billReferrals>3</billReferrals>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <generalDebate>1</generalDebate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <updateDate>2019-08-21T15:51:09Z</updateDate>
+    <amendments />
+    <relatedBills>
+      <item>
+        <latestTitle>Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3494</number>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Select Committee on Intelligence.</text>
+          <actionDate>2019-07-18</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. DEMINGS:H.R. 1404.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2272]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>International Affairs</name>
+          </item>
+          <item>
+            <name>Real estate business</name>
+          </item>
+          <item>
+            <name>Rule of law and government transparency</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <middleName>M.</middleName>
+        <bioguideId>S001196</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Stefanik</lastName>
+        <state>NY</state>
+        <firstName>Elise</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>T000479</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Taylor</lastName>
+        <state>TX</state>
+        <firstName>Van</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+          <gpoId />
+          <lisID>2444</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>C001068</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+        <district>10</district>
+        <firstName>Val</firstName>
+        <state>FL</state>
+        <lastName>Demings</lastName>
+        <bioguideId>D000627</bioguideId>
+        <identifiers>
+          <bioguideId>D000627</bioguideId>
+          <lisID>2320</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+        <middleName>Butler</middleName>
+      </item>
+    </sponsors>
+    <title>Vladimir Putin Transparency Act</title>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <actionDate>2019-03-13</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Select Committee on Intelligence.</text>
+    </latestAction>
+    <calendarNumbers />
+    <introducedDate>2019-02-27</introducedDate>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDate>2019-02-27</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-02-27T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-03-11T19:48:07Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Vladimir Putin Transparency Act</b></p> <p>This bill directs the Office of the Director of National Intelligence to report to Congress about Russian President Vladimir Putin. The report shall address topics including (1) Putin's estimated net worth and known sources of income; (2) intermediaries, including shell companies, that he uses; and (3) the identities of the most significant Russian senior officials and oligarchs who facilitate his corrupt acts.<br> </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1404</billNumber>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

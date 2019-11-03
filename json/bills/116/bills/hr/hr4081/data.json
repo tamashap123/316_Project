@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-08-28", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4081-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-26", 
+  "number": "4081", 
+  "official_title": "To provide for the licensing of firearm and ammunition possession and the registration of firearms, and to prohibit the possession of certain ammunition.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Sabika Sheikh Firearm Licensing and Registration Act", 
+  "sponsor": {
+    "bioguide_id": "J000032", 
+    "district": "18", 
+    "name": "Jackson Lee, Sheila", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-26", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Criminal procedure and sentencing", 
+    "Firearms and explosives", 
+    "Government information and archives", 
+    "Licensing and registrations", 
+    "Life, casualty, property insurance", 
+    "Mental health"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the licensing of firearm and ammunition possession and the registration of firearms, and to prohibit the possession of certain ammunition.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sabika Sheikh Firearm Licensing and Registration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sabika Sheikh Firearm Licensing and Registration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Sabika Sheikh Firearm Licensing and Registration Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-23T19:00:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4081.xml"
+}

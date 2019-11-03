@@ -1,0 +1,70 @@
+<bill session="116" type="h" number="1623" updated="2019-11-02T04:42:43Z">
+  <state datetime="2019-10-29T16:30:34-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-10-29T16:30:34-04:00"/>
+  </status>
+  <introduced datetime="2019-03-07"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to provide for the treatment of payments for child care and other personal use services as an authorized campaign expenditure, and for other purposes.</title>
+    <title type="short" as="passed house">Help America Run Act</title>
+    <title type="short" as="passed house">Help America Run Act</title>
+    <title type="short" as="introduced">Help America Run Act</title>
+    <title type="short" as="introduced">Help America Run Act</title>
+    <title type="display">Help America Run Act</title>
+  </titles>
+  <sponsor bioguide_id="P000618"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2019-03-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-03-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2507-2508"/>
+    </action>
+    <action datetime="2019-03-07" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+    <action datetime="2019-10-29T16:05:39-04:00">
+      <text>Ms. Lofgren moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2019-10-29T16:05:48-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8576-8579" label="consideration"/>
+    </action>
+    <action datetime="2019-10-29T16:05:50-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1623.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2019-10-29T16:30:34-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8576-8577" label="text"/>
+    </vote>
+    <action datetime="2019-10-29T16:30:36-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-10-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="1"/>
+    <bill type="s" session="116" relation="unknown" number="949"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Adult day care"/>
+    <term name="Child care and development"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary date="2019-03-07T05:00:00Z" status="Introduced in House">Help America Run Act
+
+This bill allows an authorized committee of a candidate who is not a federal officeholder to pay for certain personal use services, including child care and health insurance, if the services are necessary to enable the candidate to participate in campaign-connected activities. The amount such a committee may pay a candidate as salary is reduced by the amount paid for personal services.</summary>
+  <committee-reports/>
+</bill>

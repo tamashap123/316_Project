@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-11-01", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-11-01", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres678-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-11-01", 
+  "number": "678", 
+  "official_title": "Commending the performance of the Special Operations Forces and a military working dog in the eradication of the terrorist leader of the Islamic State of Iraq and Syria.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "E000298", 
+    "district": "4", 
+    "name": "Estes, Ron", 
+    "state": "KS", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-11-01", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Commending the performance of the Special Operations Forces and a military working dog in the eradication of the terrorist leader of the Islamic State of Iraq and Syria.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Commending the performance of the Special Operations Forces and a military working dog in the eradication of the terrorist leader of the Islamic State of Iraq and Syria.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-02T07:16:40Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres678.xml"
+}

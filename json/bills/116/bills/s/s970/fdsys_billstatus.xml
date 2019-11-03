@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-01</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2019-04-01</actionDate>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2019-10-16T13:58:51Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>970</billNumber>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>WICKER</lastName>
+        <bioguideId>W000437</bioguideId>
+        <firstName>ROGER</firstName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <state>MS</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <bioguideId>K000383</bioguideId>
+        <firstName>Angus</firstName>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <state>ME</state>
+        <party>I</party>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sinema</lastName>
+        <bioguideId>S001191</bioguideId>
+        <firstName>Kyrsten</firstName>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <state>AZ</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cramer</lastName>
+        <bioguideId>C001096</bioguideId>
+        <firstName>Kevin</firstName>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <state>ND</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Boozman</lastName>
+        <bioguideId>B001236</bioguideId>
+        <firstName>John</firstName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <state>AR</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hyde-Smith</lastName>
+        <bioguideId>H001079</bioguideId>
+        <firstName>Cindy</firstName>
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <state>MS</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001079</bioguideId>
+          <gpoId />
+          <lisID>2366</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-08-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jones</lastName>
+        <bioguideId>J000300</bioguideId>
+        <firstName>Doug</firstName>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <state>AL</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>2364</lisID>
+          <bioguideId>J000300</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>COLLINS</lastName>
+        <bioguideId>C001035</bioguideId>
+        <firstName>SUSAN</firstName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <state>ME</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <middleName>MARGARET</middleName>
+        <sponsorshipDate>2019-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s970is/xml/BILLS-116s970is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-01T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2019-04-02T04:27:11Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Tester</lastName>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <state>MT</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>Jon</firstName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2019-04-01</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Public Health Service Act to provide for the participation of physical therapists in the National Health Service Corps Loan Repayment Program, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Physical Therapist Workforce and Patient Access Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Physical Therapist Workforce and Patient Access Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Physical Therapist Workforce and Patient Access Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+          <actionDate>2019-05-16</actionDate>
+        </latestAction>
+        <number>2802</number>
+        <type>HR</type>
+        <latestTitle>Physical Therapist Workforce and Patient Access Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-01T21:13:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-04-01</introducedDate>
+    <calendarNumbers />
+    <laws />
+    <title>Physical Therapist Workforce and Patient Access Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

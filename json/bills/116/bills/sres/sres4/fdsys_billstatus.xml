@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text: CR S6)</text>
+      <actionDate>2019-01-03</actionDate>
+      <links />
+    </latestAction>
+    <updateDate>2019-10-25T15:36:57Z</updateDate>
+    <version>1.0.0</version>
+    <amendments />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <date>2019-01-03T05:00:00Z</date>
+        <type>Agreed to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres4ats/xml/BILLS-116sres4ats.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <billType>SRES</billType>
+    <relatedBills />
+    <cosponsors />
+    <cboCostEstimates />
+    <title>A resolution notifying the President of the United States of the election of a President pro tempore.</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional leadership</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees />
+    </committees>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <identifiers>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+          <lisID>1395</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>KY</state>
+        <byRequestType />
+        <lastName>MCCONNELL</lastName>
+        <middleName />
+        <firstName>MITCH</firstName>
+      </item>
+    </sponsors>
+    <introducedDate>2019-01-03</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-01-08T16:23:33Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This resolution notifies the President of the United States of the election of the Honorable Chuck Grassley as President pro tempore of the Senate.</p>]]></text>
+          <actionDate>2019-01-03</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <updateDate>2019-01-03T18:50:20Z</updateDate>
+          <lastSummaryUpdateDate>2019-01-08T16:23:39Z</lastSummaryUpdateDate>
+          <name>Passed Senate</name>
+          <text><![CDATA[<p>This resolution notifies the President of the United States of the election of the Honorable Chuck Grassley as President pro tempore of the Senate.</p>]]></text>
+          <actionDate>2019-01-03</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution notifying the President of the United States of the election of a President pro tempore.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution notifying the President of the United States of the election of a President pro tempore.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S6</url>
+            <name>S6</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text: CR S6)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S6</url>
+            <name>S6</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6; text: CR S6)</text>
+        <actionDate>2019-01-03</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-01-03</actionDate>
+      </item>
+    </actions>
+    <congress>116</congress>
+    <billNumber>4</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <notes />
+    <createDate>2019-01-04T13:32:58Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

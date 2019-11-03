@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <lastName>Tonko</lastName>
+        <bioguideId>T000469</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>20</district>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 150 (Wednesday, September 18, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. McKINLEY:H.R. 4377.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8Section 8--Powers of Congress. To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H7774]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <title>To extend the authorization for the Wheeling National Heritage Area.</title>
+    <billType>HR</billType>
+    <billNumber>4377</billNumber>
+    <originChamber>House</originChamber>
+    <createDate>2019-09-19T07:12:24Z</createDate>
+    <version>1.0.0</version>
+    <laws />
+    <introducedDate>2019-09-18</introducedDate>
+    <titles>
+      <item>
+        <title>To extend the authorization for the Wheeling National Heritage Area.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To extend the authorization for the Wheeling National Heritage Area.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+      <actionDate>2019-09-30</actionDate>
+      <links />
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-09-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4377ih/xml/BILLS-116hr4377ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-18T14:02:35Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-09-30T20:30:34Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>M001180</bioguideId>
+        <party>R</party>
+        <district>1</district>
+        <middleName>B.</middleName>
+        <firstName>David</firstName>
+        <lastName>McKinley</lastName>
+        <state>WV</state>
+        <identifiers>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-09-30</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-09-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-09-18</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-09-18</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-10-30T07:13:21Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

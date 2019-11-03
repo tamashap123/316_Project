@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-12T23:31:12-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.286", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/286"
+        }, 
+        {
+          "name": "Roll no. 270", 
+          "url": "http://clerk.house.gov/evs/2019/roll270.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "roll": 270, 
+      "text": "On agreeing to the Foster amendment (A020) Agreed to by recorded vote: 246 - 178 (Roll no. 270).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-12T19:33:53-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.286", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/286"
+        }, 
+        {
+          "name": "H4560", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4560"
+        }, 
+        {
+          "name": "H4560-4561", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4560-4561"
+        }, 
+        {
+          "name": "H4587-4588", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4587-4588"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4560-4561, H4587-4588", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4560", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Foster.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T23:31:12-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.286", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/286"
+        }, 
+        {
+          "name": "Roll no. 270", 
+          "url": "http://clerk.house.gov/evs/2019/roll270.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T23:31:12-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.286", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/286"
+        }, 
+        {
+          "name": "Roll no. 270", 
+          "url": "http://clerk.house.gov/evs/2019/roll270.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T23:31:12-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.286", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/286"
+        }, 
+        {
+          "name": "Roll no. 270", 
+          "url": "http://clerk.house.gov/evs/2019/roll270.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Foster amendment (A020) Agreed to by recorded vote: 246 - 178 (Roll no. 270).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T19:33:53-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.286", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/286"
+        }, 
+        {
+          "name": "H4560", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4560"
+        }, 
+        {
+          "name": "H4560-4561", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4560-4561"
+        }, 
+        {
+          "name": "H4587-4588", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4587-4588"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A020) offered by Mr. Foster.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt286-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2740-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 2740
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment strikes Section 510, which currently prohibits HHS from spending any federal dollars to promulgate or adopt a national patient identifier.", 
+  "introduced_at": "2019-06-12", 
+  "number": 286, 
+  "purpose": "An amendment numbered 20 printed in Part B of House Report 116-109 to strike Section 510, which currently prohibits HHS from spending any federal dollars to promulgate or adopt a national patient identifier.", 
+  "sponsor": {
+    "bioguide_id": "F000454", 
+    "district": "11", 
+    "name": "Foster, Bill", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-06-12T23:31:12-04:00", 
+  "updated_at": "2019-10-29T15:40:43Z"
+}

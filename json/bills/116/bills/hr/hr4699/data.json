@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4699-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-16", 
+  "number": "4699", 
+  "official_title": "To amend title XIX of the Social Security Act to remove the matching requirement for a territory to use specially allocated Federal funds for Medicare covered part D drugs for low-income individuals.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "G000582", 
+    "district": "0", 
+    "name": "Gonzalez-Colon, Jenniffer", 
+    "state": "PR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-16", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to remove the matching requirement for a territory to use specially allocated Federal funds for Medicare covered part D drugs for low-income individuals.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act to remove the matching requirement for a territory to use specially allocated Federal funds for Medicare covered part D drugs for low-income individuals.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-24T18:39:35Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4699.xml"
+}

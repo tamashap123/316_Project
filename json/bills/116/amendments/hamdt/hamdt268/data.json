@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-12T18:29:39-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.268", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/268"
+        }, 
+        {
+          "name": "Roll no. 251", 
+          "url": "http://clerk.house.gov/evs/2019/roll251.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "roll": 251, 
+      "text": "On agreeing to the McGovern amendment (A002) Agreed to by recorded vote: 338 - 83 (Roll no. 251).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-12T15:53:27-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.268", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/268"
+        }, 
+        {
+          "name": "H4531", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4531"
+        }, 
+        {
+          "name": "H4531-4532", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4531-4532"
+        }, 
+        {
+          "name": "H4550", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4550"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4531-4532, H4550", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4531", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T18:29:39-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.268", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/268"
+        }, 
+        {
+          "name": "Roll no. 251", 
+          "url": "http://clerk.house.gov/evs/2019/roll251.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T18:29:39-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.268", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/268"
+        }, 
+        {
+          "name": "Roll no. 251", 
+          "url": "http://clerk.house.gov/evs/2019/roll251.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T18:29:39-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.268", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/268"
+        }, 
+        {
+          "name": "Roll no. 251", 
+          "url": "http://clerk.house.gov/evs/2019/roll251.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the McGovern amendment (A002) Agreed to by recorded vote: 338 - 83 (Roll no. 251).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T15:53:27-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.268", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/268"
+        }, 
+        {
+          "name": "H4531", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4531"
+        }, 
+        {
+          "name": "H4531-4532", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4531-4532"
+        }, 
+        {
+          "name": "H4550", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4550"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A002) offered by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt268-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2740-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 2740
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment ensures medically-tailored nutrition interventions are inc luded in evidence-based practices for enhancing senior nutrition under the Older Americans Act.", 
+  "introduced_at": "2019-06-12", 
+  "number": 268, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 116-109 to ensure medically-tailored nutrition interventions are included in evidence-based practices for enhancing senior nutrition under the Older Americans Act.", 
+  "sponsor": {
+    "bioguide_id": "M000312", 
+    "district": "2", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-06-12T18:29:39-04:00", 
+  "updated_at": "2019-11-01T04:57:47Z"
+}

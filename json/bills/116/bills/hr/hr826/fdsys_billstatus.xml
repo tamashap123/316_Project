@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <notes />
+    <introducedDate>2019-01-28</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bass</lastName>
+        <district>37</district>
+        <bioguideId>B001270</bioguideId>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <party>D</party>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Karen</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MEEKS</lastName>
+        <district>5</district>
+        <bioguideId>M001137</bioguideId>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <party>D</party>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>W.</middleName>
+        <firstName>GREGORY</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>McCaul</lastName>
+        <district>10</district>
+        <bioguideId>M001157</bioguideId>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>T.</middleName>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gonzalez-Colon</lastName>
+        <district>0</district>
+        <bioguideId>G000582</bioguideId>
+        <identifiers>
+          <lisID>2347</lisID>
+          <gpoId />
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>PR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <firstName>Jenniffer</firstName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-01-29T20:50:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-28T17:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-28T17:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-28T17:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-01-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-01-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-01-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-28</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>Argentina</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Brazil</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>HIV/AIDS</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>India</name>
+          </item>
+          <item>
+            <name>Indonesia</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Multilateral development programs</name>
+          </item>
+          <item>
+            <name>National Institutes of Health (NIH)</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Saudi Arabia</name>
+          </item>
+          <item>
+            <name>South Africa</name>
+          </item>
+          <item>
+            <name>South Korea</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+          <item>
+            <name>World health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <laws />
+    <recordedVotes />
+    <billNumber>826</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>NJ</state>
+        <bioguideId>S000522</bioguideId>
+        <lastName>SMITH</lastName>
+        <firstName>CHRISTOPHER</firstName>
+        <middleName>H.</middleName>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <district>4</district>
+        <identifiers>
+          <gpoId>8046</gpoId>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>End Neglected Tropical Diseases Act</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr826ih/xml/BILLS-116hr826ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-28T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H1243-H1244]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SMITH of New Jersey:H.R. 826.Congress has the power to enact this legislation pursuantto the following:[[Page H1244]]Article 1, Section 8, Clause 1Article 1, Section 8, Clause 18</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestTitle>End Neglected Tropical Diseases Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2481</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2019-09-17</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+      </item>
+      <item>
+        <latestTitle>End Neglected Tropical Diseases Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>3460</number>
+        <latestAction>
+          <text>Committee Agreed to Seek Consideration Under Suspension of the Rules.</text>
+          <actionDate>2019-06-26</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <updateDate>2019-09-30T14:45:32Z</updateDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>To facilitate effective research on and treatment of neglected tropical diseases, including Ebola, through coordinated domestic and international efforts.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>End Neglected Tropical Diseases Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>End Neglected Tropical Diseases Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>End Neglected Tropical Diseases Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-01-29</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <congress>116</congress>
+    <amendments />
+    <createDate>2019-01-29T08:10:18Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

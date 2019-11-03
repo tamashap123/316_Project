@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>116</congress>
+    <updateDate>2019-07-30T13:05:45Z</updateDate>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <bioguideId>V000081</bioguideId>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <lastName>VELAZQUEZ</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+          <lisID>1184</lisID>
+        </identifiers>
+        <firstName>NYDIA</firstName>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>7</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <bioguideId>H001090</bioguideId>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <lastName>Harder</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2377</lisID>
+          <bioguideId>H001090</bioguideId>
+        </identifiers>
+        <firstName>Josh</firstName>
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <middleName />
+        <district>10</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <latestAction>
+      <actionDate>2019-01-09</actionDate>
+      <text>Received in the Senate.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-03</introducedDate>
+    <committeeReports />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hssm00</systemCode>
+          <name>Small Business Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T16:22:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr128eh/xml/BILLS-116hr128eh.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-08T05:00:00Z</date>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr128ih/xml/BILLS-116hr128ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+    <notes />
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <billReferrals>1</billReferrals>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionDate>2019-01-08</actionDate>
+        <links />
+        <committee />
+        <actionTime>17:31:52</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H273-274)</text>
+        <type>Floor</type>
+        <actionDate>2019-01-08</actionDate>
+        <links>
+          <link>
+            <name>H273-274</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H273-274</url>
+          </link>
+        </links>
+        <committee />
+        <actionTime>17:31:48</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H273-274)</text>
+        <type>Floor</type>
+        <actionDate>2019-01-08</actionDate>
+        <links>
+          <link>
+            <name>H273-274</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H273-274</url>
+          </link>
+        </links>
+        <committee />
+        <actionTime>17:31:48</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 128.</text>
+        <type>Floor</type>
+        <actionDate>2019-01-08</actionDate>
+        <links>
+          <link>
+            <name>H.R. 128</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/128</url>
+          </link>
+        </links>
+        <committee />
+        <actionTime>17:23:49</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <text>Considered under suspension of the rules. (consideration: CR H273-275)</text>
+        <type>Floor</type>
+        <actionDate>2019-01-08</actionDate>
+        <links>
+          <link>
+            <name>H273-275</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H273-275</url>
+          </link>
+        </links>
+        <committee />
+        <actionTime>17:23:48</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <text>Ms. Velazquez moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <actionDate>2019-01-08</actionDate>
+        <links />
+        <committee />
+        <actionTime>17:23:13</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Small Business.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </committee>
+        <actionDate>2019-01-03</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To clarify the primary functions and duties of the Office of Advocacy of the Small Business Administration, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Small Business Advocacy Improvements Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Small Business Advocacy Improvements Act of 2019</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Small Business Advocacy Improvements Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Small Business Advocacy Improvements Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Small Business Advocacy Improvements Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <state>KY</state>
+        <district>1</district>
+        <identifiers>
+          <lisID>2297</lisID>
+          <bioguideId>C001108</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <firstName>James</firstName>
+        <lastName>Comer</lastName>
+        <middleName />
+        <bioguideId>C001108</bioguideId>
+      </item>
+    </sponsors>
+    <title>Small Business Advocacy Improvements Act of 2019</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-03</actionDate>
+          <lastSummaryUpdateDate>2019-01-23T21:32:38Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Small Business Advocacy Improvements Act of 2019</b></p> <p>This bill expands the primary functions and additional duties of the Office of Advocacy of the Small Business Administration to include: (1) examining the role of small businesses in the international economy, and (2) representing the views and interests of small businesses before foreign governments and international entities to contribute to regulatory and trade initiatives that may affect small businesses.</p>]]></text>
+        </item>
+        <item>
+          <versionCode>53</versionCode>
+          <actionDate>2019-01-08</actionDate>
+          <lastSummaryUpdateDate>2019-01-23T22:14:03Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House</actionDesc>
+          <updateDate>2019-01-08T14:29:28Z</updateDate>
+          <name>Passed House</name>
+          <text><![CDATA[<p><b>Small Business Advocacy Improvements Act of 2019</b></p> <p>This bill expands the primary functions and additional duties of the Office of Advocacy of the Small Business Administration to include: (1) examining the role of small businesses in the international economy, and (2) representing the views and interests of small businesses before foreign governments and international entities to contribute to regulatory and trade initiatives that may affect small businesses.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COMER:H.R. 128.Congress has the power to enact this legislation pursuantto the following:Article I, Section 1, Clause 1; Article I, Section 8,Clause 18[Page H214]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-01-04T13:32:53Z</createDate>
+    <billNumber>128</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Small Business Administration</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

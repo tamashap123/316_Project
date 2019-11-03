@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <systemCode>hsfa13</systemCode>
+          <name>Middle East, North Africa and International Terrorism Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Middle East, North Africa and International Terrorism.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-01-03</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>FTO Passport Revocation Act of 2019</b></p> <p>This bill authorizes the Department of State to revoke or refuse to issue a passport for an individual who has aided an organization that the State Department has designated as a foreign terrorist organization.</p> <p>Any such individual may request a hearing with the State Department upon being notified of such an action. <br> </p>]]></text>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-12T15:36:08Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T16:13:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Middle East, North Africa and International Terrorism Subcommittee</name>
+              <systemCode>hsfa13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-14T20:21:05Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-04T13:32:54Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>145</billNumber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+          <actionDate>2019-03-05</actionDate>
+        </latestAction>
+        <number>774</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Expatriate Terrorist Act</latestTitle>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <lastName>Keating</lastName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+          <lisID>2025</lisID>
+        </identifiers>
+        <firstName>William</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <bioguideId>K000375</bioguideId>
+        <district>9</district>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>Norman</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+          <lisID>2361</lisID>
+        </identifiers>
+        <firstName>Ralph</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <bioguideId>N000190</bioguideId>
+        <district>5</district>
+        <state>SC</state>
+      </item>
+      <item>
+        <lastName>Posey</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <bioguideId>P000599</bioguideId>
+        <district>8</district>
+        <state>FL</state>
+      </item>
+      <item>
+        <lastName>Meadows</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mark</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <bioguideId>M001187</bioguideId>
+        <district>11</district>
+        <state>NC</state>
+      </item>
+      <item>
+        <lastName>Weber</lastName>
+        <middleName>K.</middleName>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Randy</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <bioguideId>W000814</bioguideId>
+        <district>14</district>
+        <state>TX</state>
+      </item>
+      <item>
+        <lastName>Timmons</lastName>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>T000480</bioguideId>
+          <lisID>2438</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>William</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <fullName>Rep. Timmons, William R. IV [R-SC-4]</fullName>
+        <bioguideId>T000480</bioguideId>
+        <district>4</district>
+        <state>SC</state>
+      </item>
+      <item>
+        <lastName>Brooks</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <firstName>Mo</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <bioguideId>B001274</bioguideId>
+        <district>5</district>
+        <state>AL</state>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-03-14</actionDate>
+      <text>Referred to the Subcommittee on Middle East, North Africa and International Terrorism.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-03</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <date>2019-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr145ih/xml/BILLS-116hr145ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:05:58Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>FTO Passport Revocation Act of 2019</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DUNCAN:H.R. 145.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clauses 10, 11, and 15[Page H215]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To authorize the revocation or denial of passports to individuals affiliated with foreign terrorist organizations, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>FTO Passport Revocation Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>FTO Passport Revocation Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>FTO Passport Revocation Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <bioguideId>D000615</bioguideId>
+        <lastName>Duncan</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

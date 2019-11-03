@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3805-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-17", 
+  "number": "3805", 
+  "official_title": "To reform prescription drug pricing and reduce out-of-pocket costs by ensuring consumers benefit from negotiated rebates.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1384-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Prescription Drug Rebate Reform Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "G000579", 
+    "district": "8", 
+    "name": "Gallagher, Mike", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-17", 
+  "subjects": [
+    "Health", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Inflation and prices", 
+    "Prescription drugs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To reform prescription drug pricing and reduce out-of-pocket costs by ensuring consumers benefit from negotiated rebates.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Prescription Drug Rebate Reform Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Prescription Drug Rebate Reform Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Prescription Drug Rebate Reform Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-08-27T20:15:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3805.xml"
+}

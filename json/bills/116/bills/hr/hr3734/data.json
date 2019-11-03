@@ -1,0 +1,237 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-10-15", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSSM"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-233", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/233"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Small Business. H. Rept. 116-233.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-15", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "185", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 185.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3734-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-233"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001306", 
+      "district": "12", 
+      "name": "Balderson, Troy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-17", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000266", 
+      "district": "1", 
+      "name": "Chabot, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-12", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001059", 
+      "district": "16", 
+      "name": "Costa, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-24", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000466", 
+      "district": "1", 
+      "name": "Fitzpatrick, Brian K.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-30", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000592", 
+      "district": "2", 
+      "name": "Golden, Jared F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-06", 
+      "state": "ME", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "U000040", 
+      "district": "14", 
+      "name": "Underwood, Lauren", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-06", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-12", 
+  "number": "3734", 
+  "official_title": "To require the Comptroller General of the United States to report on access to credit for small business concerns owned and controlled by covered individuals, to require the Administrator of the Small Business Administration to report on the veterans interagency task force, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "SERV Act", 
+  "sponsor": {
+    "bioguide_id": "D000629", 
+    "district": "3", 
+    "name": "Davids, Sharice", 
+    "state": "KS", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-07-17", 
+  "subjects": [
+    "Commerce"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Comptroller General of the United States to report on access to credit for small business concerns owned and controlled by covered individuals, to require the Administrator of the Small Business Administration to report on the veterans interagency task force, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "SERV Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "SERV Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Successful Entrepreneurship for Reservists and Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Successful Entrepreneurship for Reservists and Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SERV Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Successful Entrepreneurship for Reservists and Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Successful Entrepreneurship for Reservists and Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Successful Entrepreneurship for Reservists and Veterans Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-24T03:58:48Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3734.xml"
+}

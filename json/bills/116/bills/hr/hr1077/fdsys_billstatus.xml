@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Budget.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+        </committee>
+        <actionDate>2019-02-07</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR H1397)</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-07</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H1397</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1397</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>CBO Show Your Work Act </b></p> <p>This bill requires the Congressional Budget Office (CBO) to make available to Congress and the public each fiscal model, policy model, and data preparation routine that the CBO uses to estimate the costs and other fiscal, social, or economic effects of legislation. </p> <p>For each estimate of the costs and other fiscal effects of legislation, the CBO must also disclose, in a manner sufficient to permit replication by individuals not employed by the CBO, the data, programs, models, assumptions, and other details of the computations used to prepare the estimate. </p> <p>For data that may not be disclosed, the CBO must make available to Congress and the public</p> <ul> <li> a complete list of all data variables for the data; </li> <li> descriptive statistics for all data variables for the data, to the extent that the descriptive statistics do not violate the rule against disclosure; </li> <li> a reference to the statute requiring that the data not be disclosed; and </li> <li> contact information for the individual or entity who has unrestricted access to the data. </li> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-07</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-07-19T21:45:54Z</lastSummaryUpdateDate>
+          <updateDate>2019-02-07T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Budget Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsbu00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-07T15:00:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-02-08T08:10:22Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>1077</billNumber>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-01-30</actionDate>
+          <text>Read twice and referred to the Committee on the Budget.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>278</number>
+        <latestTitle>CBO Show Your Work Act</latestTitle>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000819</bioguideId>
+          <lisID>2255</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <state>NC</state>
+        <bioguideId>W000819</bioguideId>
+        <lastName>Walker</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Barry</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000583</bioguideId>
+          <lisID>2238</lisID>
+        </identifiers>
+        <district>11</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <state>GA</state>
+        <bioguideId>L000583</bioguideId>
+        <lastName>Loudermilk</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Alexander</firstName>
+        <middleName>X.</middleName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <state>WV</state>
+        <bioguideId>M001195</bioguideId>
+        <lastName>Mooney</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <state>FL</state>
+        <bioguideId>P000599</bioguideId>
+        <lastName>Posey</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Andy</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2026</lisID>
+          <gpoId>7976</gpoId>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <state>MD</state>
+        <bioguideId>H001052</bioguideId>
+        <lastName>Harris</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Bob</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000563</bioguideId>
+          <gpoId>8108</gpoId>
+          <lisID>2049</lisID>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <state>OH</state>
+        <bioguideId>G000563</bioguideId>
+        <lastName>Gibbs</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+        <lastName>Gallagher</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Matt</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <state>FL</state>
+        <bioguideId>G000578</bioguideId>
+        <lastName>Gaetz</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Scott</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2157</lisID>
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <state>PA</state>
+        <bioguideId>P000605</bioguideId>
+        <lastName>Perry</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Gary</firstName>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2221</lisID>
+          <bioguideId>P000609</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Palmer, Gary J. [R-AL-6]</fullName>
+        <state>AL</state>
+        <bioguideId>P000609</bioguideId>
+        <lastName>Palmer</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Rick</firstName>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <state>GA</state>
+        <bioguideId>A000372</bioguideId>
+        <lastName>Allen</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <state>FL</state>
+        <bioguideId>Y000065</bioguideId>
+        <lastName>Yoho</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2369</lisID>
+          <gpoId />
+          <bioguideId>C001115</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cloud, Michael [R-TX-27]</fullName>
+        <state>TX</state>
+        <bioguideId>C001115</bioguideId>
+        <lastName>Cloud</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <state>NC</state>
+        <bioguideId>B001305</bioguideId>
+        <lastName>Budd</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-02-07</actionDate>
+      <text>Referred to the House Committee on the Budget.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-02-07</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1077ih/xml/BILLS-116hr1077ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-31T07:33:17Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Congressional Budget Office (CBO)</name>
+          </item>
+          <item>
+            <name>Congressional agencies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>CBO Show Your Work Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DAVIDSON of Ohio:H.R. 1077.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18: To make all Laws whichshall be necessary and proper for carrying into the Executionfor the foregoing Powers, and all other Powers vested by thisConstition in the Government of the United States, or in anyDepartment or Officer thereof.[Page H1463]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Congressional Budget Office to make publicly available the fiscal and mathematical models, data, and other details of computations used in cost analysis and scoring.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>CBO Show Your Work Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>CBO Show Your Work Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>CBO Show Your Work Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Warren</firstName>
+        <middleName />
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>D000626</bioguideId>
+          <gpoId />
+          <lisID>2296</lisID>
+        </identifiers>
+        <district>8</district>
+        <bioguideId>D000626</bioguideId>
+        <lastName>Davidson</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

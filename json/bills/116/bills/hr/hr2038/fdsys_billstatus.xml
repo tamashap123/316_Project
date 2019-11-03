@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2019-10-18T07:16:02Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>M001187</bioguideId>
+        <lastName>Meadows</lastName>
+        <byRequestType />
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <district>11</district>
+        <firstName>Mark</firstName>
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-15T18:48:50Z</date>
+                </item>
+              </activities>
+              <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-02T14:01:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Budd</lastName>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <gpoId />
+          <lisID>2336</lisID>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <district>13</district>
+        <party>R</party>
+        <bioguideId>B001305</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-10-17</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Lesko</lastName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <identifiers>
+          <bioguideId>L000589</bioguideId>
+          <gpoId />
+          <lisID>2368</lisID>
+        </identifiers>
+        <firstName>Debbie</firstName>
+        <district>8</district>
+        <party>R</party>
+        <bioguideId>L000589</bioguideId>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <title>State-Based, Market-Oriented, Prescription Drug Negotiations Act of 2019</title>
+    <latestAction>
+      <links />
+      <actionDate>2019-05-15</actionDate>
+      <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2038ih/xml/BILLS-116hr2038ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-02T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-04-02</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-04-02</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-04-02</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <congress>116</congress>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To allow State-based, market-oriented, prescription drug negotiations to lower pharmaceutical drug prices, to encourage competition, to increase consumer choice and access, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>State-Based, Market-Oriented, Prescription Drug Negotiations Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>State-Based, Market-Oriented, Prescription Drug Negotiations Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>State-Based, Market-Oriented, Prescription Drug Negotiations Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <createDate>2019-04-03T07:12:09Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MEADOWS:H.R. 2038.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 ``The Congress shall havePower To . . . regulate Commerce . . . among the severalStates . . . .''[Page H2987]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-04-02</introducedDate>
+    <committeeReports />
+    <billNumber>2038</billNumber>
+    <relatedBills />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

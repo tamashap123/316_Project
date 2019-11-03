@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2019-10-18T07:15:37Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>G000590</bioguideId>
+        <lastName>Green</lastName>
+        <byRequestType />
+        <fullName>Rep. Green, Mark E. [R-TN-7]</fullName>
+        <middleName>E.</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000590</bioguideId>
+          <lisID>2442</lisID>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <firstName>Mark</firstName>
+        <state>TN</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-08-02T15:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-08-12T16:08:54Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2019-08-02</sponsorshipDate>
+        <lastName>Walker</lastName>
+        <bioguideId>W000819</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000819</bioguideId>
+          <lisID>2255</lisID>
+        </identifiers>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <state>FL</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2019-10-17</sponsorshipDate>
+        <lastName>Gaetz</lastName>
+        <bioguideId>G000578</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000578</bioguideId>
+          <gpoId />
+          <lisID>2314</lisID>
+        </identifiers>
+        <firstName>Matt</firstName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <laws />
+    <title>Strongly condemning the violent actions of Antifa and recognizing that it engages in domestic terrorism.</title>
+    <latestAction>
+      <links />
+      <actionDate>2019-08-12</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres536ih/xml/BILLS-116hres536ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-08-02T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-08-12</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-08-02</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-08-02</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-08-02</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <congress>116</congress>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Political movements and philosophies</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Strongly condemning the violent actions of Antifa and recognizing that it engages in domestic terrorism.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Strongly condemning the violent actions of Antifa and recognizing that it engages in domestic terrorism.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <createDate>2019-08-03T07:42:07Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2019-08-02</introducedDate>
+    <committeeReports />
+    <billNumber>536</billNumber>
+    <relatedBills />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

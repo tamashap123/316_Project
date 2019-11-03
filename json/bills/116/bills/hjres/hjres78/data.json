@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hjres78-116", 
+  "bill_type": "hjres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-23", 
+  "number": "78", 
+  "official_title": "Expressing support for freedom of conscience.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sjres58-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001299", 
+    "district": "3", 
+    "name": "Banks, Jim", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-23", 
+  "subjects": [
+    "Civil rights and liberties, minority issues", 
+    "Constitution and constitutional amendments", 
+    "First Amendment rights", 
+    "Religion", 
+    "Tax-exempt organizations"
+  ], 
+  "subjects_top_term": "Civil rights and liberties, minority issues", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing support for freedom of conscience.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expressing support for freedom of conscience.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-29T17:45:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hjres/BILLSTATUS-116hjres78.xml"
+}

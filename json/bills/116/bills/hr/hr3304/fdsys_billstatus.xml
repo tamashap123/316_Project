@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <notes />
+    <introducedDate>2019-06-18</introducedDate>
+    <cosponsors>
+      <item>
+        <district>6</district>
+        <state>VA</state>
+        <bioguideId>C001118</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001118</bioguideId>
+          <gpoId />
+          <lisID>2455</lisID>
+        </identifiers>
+        <middleName />
+        <lastName>Cline</lastName>
+        <firstName>Ben</firstName>
+        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <district>2</district>
+        <state>TN</state>
+        <bioguideId>B001309</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2440</lisID>
+          <bioguideId>B001309</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Burchett</lastName>
+        <firstName>Tim</firstName>
+        <fullName>Rep. Burchett, Tim [R-TN-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <district>4</district>
+        <state>PA</state>
+        <bioguideId>D000631</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2432</lisID>
+          <bioguideId>D000631</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Dean</lastName>
+        <firstName>Madeleine</firstName>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2019-07-23T18:47:24Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2019-07-11T16:35:51Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-06-18T04:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionCode>E40000</actionCode>
+        <text>Became Public Law No: 116-53.</text>
+        <type>President</type>
+        <actionDate>2019-08-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <text>Became Public Law No: 116-53.</text>
+        <type>BecameLaw</type>
+        <actionDate>2019-08-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>E30000</actionCode>
+        <text>Signed by President.</text>
+        <type>President</type>
+        <actionDate>2019-08-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <actionDate>2019-08-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>E20000</actionCode>
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <actionDate>2019-08-13</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>28000</actionCode>
+        <text>Presented to President.</text>
+        <type>President</type>
+        <actionDate>2019-08-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-08-01</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5321</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5321</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Voice Vote. (consideration: CR S5321)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5321)</text>
+        <type>Floor</type>
+        <actionDate>2019-08-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S5321</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5321</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-07-24</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate, read twice.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionDate>2019-07-23</actionDate>
+        <actionTime>19:31:26</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 499). (text: CR H7216)</text>
+        <type>Floor</type>
+        <actionDate>2019-07-23</actionDate>
+        <actionTime>19:31:25</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H7216</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7216</url>
+          </link>
+          <link>
+            <name>Roll no. 499</name>
+            <url>http://clerk.house.gov/evs/2019/roll499.xml</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 1 (Roll no. 499).(text: CR H7216)</text>
+        <type>Floor</type>
+        <actionDate>2019-07-23</actionDate>
+        <actionTime>19:31:25</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H7216</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7216</url>
+          </link>
+          <link>
+            <name>Roll no. 499</name>
+            <url>http://clerk.house.gov/evs/2019/roll499.xml</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <text>Considered as unfinished business. (consideration: CR H7223-7224)</text>
+        <type>Floor</type>
+        <actionDate>2019-07-23</actionDate>
+        <actionTime>19:20:59</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H7223-7224</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7223-7224</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H37220</actionCode>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+        <actionDate>2019-07-23</actionDate>
+        <actionTime>18:25:20</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3304.</text>
+        <type>Floor</type>
+        <actionDate>2019-07-23</actionDate>
+        <actionTime>18:21:10</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 3304</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/3304</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <text>Considered under suspension of the rules. (consideration: CR H7216-7217)</text>
+        <type>Floor</type>
+        <actionDate>2019-07-23</actionDate>
+        <actionTime>18:21:08</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H7216-7217</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7216-7217</url>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <text>Mr. Cicilline moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionDate>2019-07-23</actionDate>
+        <actionTime>18:20:46</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>H12410</actionCode>
+        <text>Placed on the Union Calendar, Calendar No. 130.</text>
+        <type>Calendars</type>
+        <actionDate>2019-07-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <text>Reported by the Committee on Judiciary. H. Rept. 116-170.</text>
+        <type>Committee</type>
+        <actionDate>2019-07-23</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 116-170</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/170</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <text>Reported by the Committee on Judiciary. H. Rept. 116-170.</text>
+        <type>Committee</type>
+        <actionDate>2019-07-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 116-170</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/170</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2019-07-11</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-11</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-18</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <becamePublicLaw>2</becamePublicLaw>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <sentToHouse>1</sentToHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForE>3</placeholderTextForE>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <orderedToBeReported>1</orderedToBeReported>
+        <introducedInSenate>1</introducedInSenate>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <passedSenate>1</passedSenate>
+        <billReferrals>1</billReferrals>
+        <considerationByHouse>2</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <presentedToPresident>1</presentedToPresident>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-170</citation>
+      </committeeReport>
+    </committeeReports>
+    <laws>
+      <item>
+        <number>116-53</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <recordedVotes>
+      <recordedVote>
+        <date>2019-07-23T23:31:25Z</date>
+        <url>http://clerk.house.gov/evs/2019/roll499.xml</url>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <rollNumber>499</rollNumber>
+        <sessionNumber>1</sessionNumber>
+        <congress>116</congress>
+      </recordedVote>
+    </recordedVotes>
+    <billNumber>3304</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <middleName />
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <district>9</district>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3304enr/xml/BILLS-116hr3304enr.xml</url>
+          </item>
+        </formats>
+        <date />
+        <type>Enrolled Bill</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3304rds/xml/BILLS-116hr3304rds.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-24T04:00:00Z</date>
+        <type>Received in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3304eh/xml/BILLS-116hr3304eh.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-23T04:00:00Z</date>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3304rh/xml/BILLS-116hr3304rh.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-23T04:00:00Z</date>
+        <type>Reported in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3304ih/xml/BILLS-116hr3304ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-18T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 102 (Tuesday, June 18, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. COHEN:H.R. 3304.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3[Page H4771]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2019-07-16</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>National Guard and Reservists Debt Relief Extension Act of 2019</latestTitle>
+        <number>2128</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2019-10-01T15:57:26Z</updateDate>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00130</calendar>
+      </item>
+    </calendarNumbers>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To exempt for an additional 4-year period, from the application of the means-test presumption of abuse under chapter 7, qualifying members of reserve components of the Armed Forces and members of the National Guard who, after September 11, 2001, are called to active duty or to perform a homeland defense activity for not less than 90 days.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <chamberCode />
+        <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>National Guard and Reservists Debt Relief Extension Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-08-23</actionDate>
+      <text>Became Public Law No: 116-53.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <congress>116</congress>
+    <amendments />
+    <createDate>2019-06-19T11:12:10Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

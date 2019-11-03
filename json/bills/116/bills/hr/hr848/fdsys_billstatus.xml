@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <date>2019-01-29T15:00:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <relatedBills />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To restrict certain Federal assistance benefits to individuals verified to be citizens of the United States.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To restrict certain Federal assistance benefits to individuals verified to be citizens of the United States.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>848</billNumber>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>To restrict certain Federal assistance benefits to individuals verified to be citizens of the United States.</title>
+    <latestAction>
+      <actionDate>2019-01-29</actionDate>
+      <links />
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </latestAction>
+    <createDate>2019-01-30T08:10:17Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Grothman</lastName>
+        <firstName>Glenn</firstName>
+        <state>WI</state>
+        <bioguideId>G000576</bioguideId>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <district>6</district>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+          <lisID>2276</lisID>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <notes />
+    <introducedDate>2019-01-29</introducedDate>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <actionDate>2019-01-29</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2019-01-29</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2019-01-29</actionDate>
+      </item>
+    </actions>
+    <laws />
+    <cosponsors>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <firstName>Paul</firstName>
+        <middleName>A.</middleName>
+        <lastName>Gosar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000578</bioguideId>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <middleName />
+        <lastName>Gaetz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000615</bioguideId>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <lastName>Duncan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000599</bioguideId>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <middleName />
+        <lastName>Posey</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>N000190</bioguideId>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <firstName>Ralph</firstName>
+        <middleName />
+        <lastName>Norman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+          <lisID>2361</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000589</bioguideId>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <firstName>Debbie</firstName>
+        <middleName />
+        <lastName>Lesko</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>L000589</bioguideId>
+          <lisID>2368</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001195</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>Alexander</firstName>
+        <middleName>X.</middleName>
+        <lastName>Mooney</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001195</bioguideId>
+          <gpoId />
+          <lisID>2277</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>F000461</bioguideId>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <middleName />
+        <lastName>Flores</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2065</lisID>
+          <gpoId>8173</gpoId>
+          <bioguideId>F000461</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000605</bioguideId>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <firstName>Scott</firstName>
+        <middleName />
+        <lastName>Perry</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001302</bioguideId>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <firstName>Andy</firstName>
+        <middleName />
+        <lastName>Biggs</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2307</lisID>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr848ih/xml/BILLS-116hr848ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-29T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Citizenship and naturalization</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GROTHMAN:H.R. 848.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H1284]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2019-09-18T07:15:57Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

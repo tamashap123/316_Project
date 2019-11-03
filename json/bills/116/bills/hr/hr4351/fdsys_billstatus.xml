@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4351</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionDate>2019-09-17</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-09-17</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-09-17</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <introducedDate>2019-09-17</introducedDate>
+    <recordedVotes />
+    <title>Yes In My Backyard Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <lastName>Heck</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2170</lisID>
+          <bioguideId>H001064</bioguideId>
+        </identifiers>
+        <bioguideId>H001064</bioguideId>
+        <district>10</district>
+        <state>WA</state>
+        <party>D</party>
+        <firstName>Denny</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <updateDate>2019-09-25T07:16:50Z</updateDate>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001074</bioguideId>
+          <lisID>2327</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Hollingsworth</lastName>
+        <party>R</party>
+        <firstName>Trey</firstName>
+        <state>IN</state>
+        <fullName>Rep. Hollingsworth, Trey [R-IN-9]</fullName>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <bioguideId>H001074</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <lastName>CLAY</lastName>
+        <party>D</party>
+        <firstName>WM.</firstName>
+        <state>MO</state>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <middleName>LACY</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <bioguideId>C001049</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8028</gpoId>
+          <lisID>1791</lisID>
+          <bioguideId>F000450</bioguideId>
+        </identifiers>
+        <lastName>Foxx</lastName>
+        <party>R</party>
+        <firstName>Virginia</firstName>
+        <state>NC</state>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>F000450</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7925</gpoId>
+          <lisID>1967</lisID>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <lastName>Quigley</lastName>
+        <party>D</party>
+        <firstName>Mike</firstName>
+        <state>IL</state>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <bioguideId>Q000023</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001056</bioguideId>
+          <gpoId>8207</gpoId>
+          <lisID>2071</lisID>
+        </identifiers>
+        <lastName>Herrera Beutler</lastName>
+        <party>R</party>
+        <firstName>Jaime</firstName>
+        <state>WA</state>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <sponsorshipDate>2019-09-17</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <bioguideId>H001056</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+          <lisID>2137</lisID>
+        </identifiers>
+        <lastName>Wagner</lastName>
+        <party>R</party>
+        <firstName>Ann</firstName>
+        <state>MO</state>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <bioguideId>W000812</bioguideId>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-17T16:03:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2019-09-18T07:12:19Z</createDate>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>1919</number>
+        <latestTitle>Yes In My Backyard Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2019-06-20</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require certain grantees under title I of the Housing and Community Development Act of 1974 to submit a plan to track discriminatory land use policies, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Yes In My Backyard Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Yes In My Backyard Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Yes In My Backyard Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Financial Services.</text>
+      <actionDate>2019-09-17</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 149 (Tuesday, September 17, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. HECK:H.R. 4351.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of U.S. Constitution[Page H7754]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4351ih/xml/BILLS-116hr4351ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-17T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

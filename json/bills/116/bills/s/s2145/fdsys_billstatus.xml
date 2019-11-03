@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2019-07-17</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-07-17</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <laws />
+    <textVersions>
+      <item>
+        <date>2019-07-17T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2145is/xml/BILLS-116s2145is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <createDate>2019-07-18T04:42:11Z</createDate>
+    <relatedBills />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <billNumber>2145</billNumber>
+    <congress>116</congress>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+          <lisID>2462</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <state>IN</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Braun</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>L000575</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <firstName>James</firstName>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <state>OK</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Lankford</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to prohibit the payment of bonuses to contractors for unsatisfactory performance.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Bogus Bonus Ban Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Bogus Bonus Ban Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Bogus Bonus Ban Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-17T20:28:18Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <notes />
+    <recordedVotes />
+    <cboCostEstimates />
+    <updateDate>2019-08-07T14:39:56Z</updateDate>
+    <latestAction>
+      <actionDate>2019-07-17</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <calendarNumbers />
+    <amendments />
+    <title>Bogus Bonus Ban Act of 2019</title>
+    <sponsors>
+      <item>
+        <lastName>Ernst</lastName>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <byRequestType />
+        <state>IA</state>
+        <bioguideId>E000295</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+        </identifiers>
+        <firstName>Joni</firstName>
+        <party>R</party>
+        <middleName />
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

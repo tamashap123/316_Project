@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <notes />
+    <introducedDate>2019-07-02</introducedDate>
+    <cosponsors>
+      <item>
+        <firstName>Rashida</firstName>
+        <bioguideId>T000481</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-07-10</sponsorshipDate>
+        <district>13</district>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <party>D</party>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000481</bioguideId>
+          <gpoId />
+          <lisID>2410</lisID>
+        </identifiers>
+        <lastName>Tlaib</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Ayanna</firstName>
+        <bioguideId>P000617</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-07-10</sponsorshipDate>
+        <district>7</district>
+        <fullName>Rep. Pressley, Ayanna [D-MA-7]</fullName>
+        <party>D</party>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2405</lisID>
+          <bioguideId>P000617</bioguideId>
+        </identifiers>
+        <lastName>Pressley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Alexandria</firstName>
+        <bioguideId>O000172</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-07-10</sponsorshipDate>
+        <district>14</district>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <party>D</party>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>O000172</bioguideId>
+          <gpoId />
+          <lisID>2427</lisID>
+        </identifiers>
+        <lastName>Ocasio-Cortez</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Emanuel</firstName>
+        <bioguideId>C001061</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <district>5</district>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <party>D</party>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001061</bioguideId>
+          <gpoId>8013</gpoId>
+          <lisID>1790</lisID>
+        </identifiers>
+        <lastName>Cleaver</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-08-06</sponsorshipDate>
+        <district>9</district>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2019-07-11T15:05:31Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-02T16:01:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2019-07-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 26.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-11</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-02</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-02</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-02</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <orderedToBeReported>1</orderedToBeReported>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <laws />
+    <recordedVotes />
+    <billNumber>3614</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>FL</state>
+        <bioguideId>L000586</bioguideId>
+        <lastName>Lawson</lastName>
+        <firstName>Al</firstName>
+        <middleName />
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <district>5</district>
+        <identifiers>
+          <lisID>2317</lisID>
+          <gpoId />
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Restricting Credit Checks for Employment Decisions Act</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3614ih/xml/BILLS-116hr3614ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-07-02T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 111 (Tuesday, July 2, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. LAWSON of Florida:H.R. 3614.Congress has the power to enact this legislation pursuantto the following:To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.[Page H5269]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <updateDate>2019-09-30T20:12:25Z</updateDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Fair Credit Reporting Act to ban the use of credit information for most employment decisions, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Restricting Credit Checks for Employment Decisions Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Restricting Credit Checks for Employment Decisions Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Restricting Credit Checks for Employment Decisions Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-07-11</actionDate>
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 26.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 3614, Restricting Credit Checks for Employment Decisions Act</title>
+        <pubDate>2019-09-30T20:01:32Z</pubDate>
+        <url>https://www.cbo.gov/publication/55674</url>
+      </item>
+    </cboCostEstimates>
+    <congress>116</congress>
+    <amendments />
+    <createDate>2019-07-03T07:12:09Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-08-06", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-08-06", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3732-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Courts, Intellectual Property, and the Internet", 
+      "subcommittee_id": "03"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution, Civil Rights, and Civil Liberties", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001150", 
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-09", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-12", 
+  "number": "3732", 
+  "official_title": "To amend the Revised Statutes of the United States and title 28, United States Code, to enhance compliance with requests for information pursuant to legislative power under Article I of the Constitution, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Congressional Subpoena Compliance and Enforcement Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000631", 
+    "district": "4", 
+    "name": "Dean, Madeleine", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-12", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Congressional-executive branch relations", 
+    "Evidence and witnesses", 
+    "Federal officials", 
+    "Government studies and investigations", 
+    "Judicial review and appeals", 
+    "Law"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Revised Statutes of the United States and title 28, United States Code, to enhance compliance with requests for information pursuant to legislative power under Article I of the Constitution, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Congressional Subpoena Compliance and Enforcement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Congressional Subpoena Compliance and Enforcement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Congressional Subpoena Compliance and Enforcement Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-18T19:15:19Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3732.xml"
+}

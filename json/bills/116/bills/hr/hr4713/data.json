@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-17", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-17", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4713-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "T000479", 
+      "district": "3", 
+      "name": "Taylor, Van", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-29", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000193", 
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-17", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-17", 
+  "number": "4713", 
+  "official_title": "To amend the Homeland Security Act of 2002 to make certain improvements in the Office for Civil Rights and Civil Liberties of the Department of Homeland Security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Department of Homeland Security Office of Civil Rights and Civil Liberties Authorization Act", 
+  "sponsor": {
+    "bioguide_id": "G000553", 
+    "district": "9", 
+    "name": "Green, Al", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-17", 
+  "subjects": [
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Executive agency funding and structure", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to make certain improvements in the Office for Civil Rights and Civil Liberties of the Department of Homeland Security, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Office of Civil Rights and Civil Liberties Authorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Office of Civil Rights and Civil Liberties Authorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Office of Civil Rights and Civil Liberties Authorization Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-30T07:16:51Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4713.xml"
+}

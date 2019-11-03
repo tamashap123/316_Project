@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-08", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Citizenship.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-04-08", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Citizenship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1663-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-11", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-11", 
+  "number": "1663", 
+  "official_title": "To amend title 36, United States Code, to revise the Federal charter for the Foundation of the Federal Bar Association.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Foundation of the Federal Bar Association Charter Amendments Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C000266", 
+    "district": "1", 
+    "name": "Chabot, Steve", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-11", 
+  "subjects": [
+    "District of Columbia", 
+    "Federally chartered organizations", 
+    "Law", 
+    "Lawyers and legal services"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-03-11T04:00:00Z", 
+    "text": "Foundation of the Federal Bar Association Charter Amendments Act of 2019 This bill revises the federal charter for the Foundation of the Federal Bar Association.\n\nSpecifically, it makes the following changes:\n\n eliminates the provision that requires the foundation to be incorporated and domiciled in the District of Columbia; requires the board of directors to decide, and specify in the bylaws, the location of the principal office; specifies that the bylaws\u2014not the charter\u2014must provide for the terms of membership, the responsibilities of the board of directors, and the election of officers; prohibits a director or officer, in his or her corporate capacity, from contributing to, supporting, or participating in political activities; allows income and assets of the corporation to be used to reasonably compensate or reimburse expenses of an officer, director, or member; to award a grant to the Federal Bar Association chapter of an officer, director, or member; and to reasonably compensate employees; expands a prohibition on loans for directors and officers to include members and employees; and specifies that on dissolution or final liquidation, any remaining assets must be distributed as provided by the board of directors instead of deposited in the Treasury."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 36, United States Code, to revise the Federal charter for the Foundation of the Federal Bar Association.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Foundation of the Federal Bar Association Charter Amendments Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Foundation of the Federal Bar Association Charter Amendments Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Foundation of the Federal Bar Association Charter Amendments Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-08-20T07:42:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr1663.xml"
+}

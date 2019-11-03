@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <links />
+      <actionDate>2019-09-18</actionDate>
+    </latestAction>
+    <notes />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <date>2019-09-18T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2501is/xml/BILLS-116s2501is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2019-09-18</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-09-18</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <activities>
+            <item>
+              <date>2019-09-18T17:16:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssaf00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-10-02T04:42:30Z</updateDate>
+    <amendments />
+    <billNumber>2501</billNumber>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <bioguideId>M001111</bioguideId>
+        <party>D</party>
+        <lastName>MURRAY</lastName>
+        <middleName />
+        <firstName>PATTY</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+          <lisID>1409</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VT</state>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <bioguideId>L000174</bioguideId>
+        <party>D</party>
+        <lastName>LEAHY</lastName>
+        <middleName>JOSEPH</middleName>
+        <firstName>PATRICK</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <bioguideId>W000779</bioguideId>
+        <party>D</party>
+        <lastName>WYDEN</lastName>
+        <middleName />
+        <firstName>RON</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CT</state>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <bioguideId>B001277</bioguideId>
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <middleName />
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>RI</state>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <bioguideId>R000122</bioguideId>
+        <party>D</party>
+        <lastName>REED</lastName>
+        <middleName>F.</middleName>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>HI</state>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <bioguideId>H001042</bioguideId>
+        <party>D</party>
+        <lastName>Hirono</lastName>
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VT</state>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <bioguideId>S000033</bioguideId>
+        <party>I</party>
+        <lastName>Sanders</lastName>
+        <middleName />
+        <firstName>Bernard</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+          <lisID>1010</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <party>D</party>
+        <lastName>Gillibrand</lastName>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <bioguideId>B001230</bioguideId>
+        <party>D</party>
+        <lastName>Baldwin</lastName>
+        <middleName />
+        <firstName>Tammy</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NJ</state>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <bioguideId>M000639</bioguideId>
+        <party>D</party>
+        <lastName>Menendez</lastName>
+        <middleName />
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <bioguideId>S001203</bioguideId>
+        <party>D</party>
+        <lastName>Smith</lastName>
+        <middleName />
+        <firstName>Tina</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CT</state>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <bioguideId>M001169</bioguideId>
+        <party>D</party>
+        <lastName>Murphy</lastName>
+        <middleName />
+        <firstName>Christopher</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Richard B. Russell National School Lunch Act to improve the child and adult care food program.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Access to Healthy Food for Young Children Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Access to Healthy Food for Young Children Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Access to Healthy Food for Young Children Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <firstName>Bob</firstName>
+        <bioguideId>C001070</bioguideId>
+        <middleName />
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <lastName>Casey</lastName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <calendarNumbers />
+    <title>Access to Healthy Food for Young Children Act of 2019</title>
+    <introducedDate>2019-09-18</introducedDate>
+    <createDate>2019-09-19T04:27:21Z</createDate>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

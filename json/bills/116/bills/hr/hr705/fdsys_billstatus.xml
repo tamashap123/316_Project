@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>hshm07</systemCode>
+          <name>Transportation and Maritime Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <actionDate>2019-01-22</actionDate>
+        <links />
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-22</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-22</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <updateDate>2019-01-22T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-22</actionDate>
+          <text><![CDATA[<p><b>Pay Our TSA Screeners Act of 2019 </b></p> <p>This bill authorizes the Transportation Security Administration (TSA) to use security service fees to pay Transportation Security Officer salaries during a lapse in appropriations for the TSA. The TSA must notify Congress when using the authority provided by this bill. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-07-19T20:45:45Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-22T17:02:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Transportation and Maritime Security Subcommittee</name>
+              <systemCode>hshm07</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-06T20:13:43Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-23T08:10:10Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>705</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <middleName />
+        <party>D</party>
+        <firstName>Anthony</firstName>
+        <state>NY</state>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <district>22</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <identifiers>
+          <lisID>2429</lisID>
+          <gpoId />
+          <bioguideId>B001308</bioguideId>
+        </identifiers>
+        <bioguideId>B001308</bioguideId>
+        <lastName>Brindisi</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <firstName>Jefferson</firstName>
+        <state>NJ</state>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <identifiers>
+          <lisID>2419</lisID>
+          <bioguideId>V000133</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>V000133</bioguideId>
+        <lastName>Van Drew</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <party>R</party>
+        <firstName>Elise</firstName>
+        <state>NY</state>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <district>21</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <identifiers>
+          <lisID>2263</lisID>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <bioguideId>S001196</bioguideId>
+        <lastName>Stefanik</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <state>OH</state>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <district>15</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <bioguideId>S001187</bioguideId>
+        <lastName>Stivers</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Rodney</firstName>
+        <state>IL</state>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>D000619</bioguideId>
+        <lastName>Davis</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Lloyd</firstName>
+        <state>PA</state>
+        <fullName>Rep. Smucker, Lloyd [R-PA-11]</fullName>
+        <district>11</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001199</bioguideId>
+          <lisID>2346</lisID>
+        </identifiers>
+        <bioguideId>S001199</bioguideId>
+        <lastName>Smucker</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Will</firstName>
+        <state>TX</state>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <district>23</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2269</lisID>
+          <bioguideId>H001073</bioguideId>
+        </identifiers>
+        <bioguideId>H001073</bioguideId>
+        <lastName>Hurd</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Dan</firstName>
+        <state>WA</state>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000189</bioguideId>
+          <lisID>2275</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>N000189</bioguideId>
+        <lastName>Newhouse</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Anthony</firstName>
+        <state>OH</state>
+        <fullName>Rep. Gonzalez, Anthony [R-OH-16]</fullName>
+        <district>16</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000588</bioguideId>
+          <lisID>2430</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>G000588</bioguideId>
+        <lastName>Gonzalez</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName>W.</middleName>
+        <party>R</party>
+        <firstName>Susan</firstName>
+        <state>IN</state>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2129</lisID>
+          <bioguideId>B001284</bioguideId>
+        </identifiers>
+        <bioguideId>B001284</bioguideId>
+        <lastName>Brooks</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Doug</firstName>
+        <state>CA</state>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <identifiers>
+          <lisID>2100</lisID>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <bioguideId>L000578</bioguideId>
+        <lastName>LaMalfa</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Chris</firstName>
+        <state>NY</state>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <district>27</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001092</bioguideId>
+          <lisID>2151</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001092</bioguideId>
+        <lastName>Collins</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Jenniffer</firstName>
+        <state>PR</state>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <identifiers>
+          <lisID>2347</lisID>
+          <gpoId />
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <bioguideId>G000582</bioguideId>
+        <lastName>Gonzalez-Colon</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-02-06</actionDate>
+      <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-22</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-22T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr705ih/xml/BILLS-116hr705ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-31T07:33:11Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Pay Our TSA Screeners Act of 2019</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KATKO:H.R. 705.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 and Article I, Section 8,Clause 3.[Page H998]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To authorize the Administrator of the Transportation Security Administration to utilize the security service fee to pay Transportation Security officer salaries during a lapse in appropriations for the Transportation Security Administration, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Pay Our TSA Screeners Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Pay Our TSA Screeners Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Pay Our TSA Screeners Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>24</district>
+        <bioguideId>K000386</bioguideId>
+        <lastName>Katko</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

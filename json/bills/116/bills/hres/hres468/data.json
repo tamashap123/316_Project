@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-06-28", 
+      "action_code": "", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Military Personnel.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres468-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Military Personnel", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-27", 
+  "number": "468", 
+  "official_title": "Expressing the sense of the House of Representatives that the Secretary of Defense should review section 504 of title 10, United States Code, for purposes related to enlisting certain aliens in the Armed Forces.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "F000454", 
+    "district": "11", 
+    "name": "Foster, Bill", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-27", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing the sense of the House of Representatives that the Secretary of Defense should review section 504 of title 10, United States Code, for purposes related to enlisting certain aliens in the Armed Forces.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expressing the sense of the House of Representatives that the Secretary of Defense should review section 504 of title 10, United States Code, for purposes related to enlisting certain aliens in the Armed Forces.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-31T07:13:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres468.xml"
+}

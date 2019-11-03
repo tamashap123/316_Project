@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2019-07-30T15:36:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2019-07-30</actionDate>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <lastName>Schneider</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>S001190</bioguideId>
+        <middleName>Scott</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001190</bioguideId>
+          <lisID>2124</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-30</sponsorshipDate>
+        <firstName>Bradley</firstName>
+        <state>IL</state>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <lastName>Gallego</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <bioguideId>G000574</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+          <lisID>2226</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-08-13</sponsorshipDate>
+        <firstName>Ruben</firstName>
+        <state>AZ</state>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <billNumber>4122</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <notes />
+    <updateDate>2019-08-29T19:00:30Z</updateDate>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Marriage and family status</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <title>To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age.</title>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <firstName>NITA</firstName>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <district>17</district>
+        <identifiers>
+          <bioguideId>L000480</bioguideId>
+          <gpoId>8079</gpoId>
+          <lisID>709</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>LOWEY</lastName>
+        <bioguideId>L000480</bioguideId>
+        <byRequestType />
+        <middleName>M.</middleName>
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <date>2019-07-30T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4122ih/xml/BILLS-116hr4122ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2019-07-31T07:12:58Z</createDate>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-30</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <introducedDate>2019-07-30</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 129 (Tuesday, July 30, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mrs. LOWEY:H.R. 4122.Congress has the power to enact this legislation pursuantto the following:Article 1[Page H7482]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

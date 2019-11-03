@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-13", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E1149-1150", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E1149-1150"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E1149-1150", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4332-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-13", 
+  "number": "4332", 
+  "official_title": "To require the Secretary of the Treasury to mint commemorative coins in recognition of Paul Laurence Dunbar.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Paul Laurence Dunbar Commemorative Coin Act", 
+  "sponsor": {
+    "bioguide_id": "N000147", 
+    "district": "0", 
+    "name": "Norton, Eleanor Holmes", 
+    "state": "DC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-13", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Secretary of the Treasury to mint commemorative coins in recognition of Paul Laurence Dunbar.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Paul Laurence Dunbar Commemorative Coin Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Paul Laurence Dunbar Commemorative Coin Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Paul Laurence Dunbar Commemorative Coin Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-18T19:00:19Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4332.xml"
+}

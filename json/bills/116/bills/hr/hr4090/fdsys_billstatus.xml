@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4090</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <actionDate>2019-07-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-07-26</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-07-26</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <introducedDate>2019-07-26</introducedDate>
+    <recordedVotes />
+    <title>Do Your Job Act of 2019</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <lastName>Rooney</lastName>
+        <identifiers>
+          <bioguideId>R000607</bioguideId>
+          <lisID>2323</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000607</bioguideId>
+        <district>19</district>
+        <state>FL</state>
+        <party>R</party>
+        <firstName>Francis</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <updateDate>2019-09-23T16:45:21Z</updateDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cosponsors />
+    <version>1.0.0</version>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <name>Oversight and Reform Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-26T13:01:25Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2019-07-27T07:12:54Z</createDate>
+    <relatedBills />
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 5, United States Code, to eliminate the use of official time by Federal employees.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Do Your Job Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Do Your Job Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Do Your Job Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+      <actionDate>2019-07-26</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 127 (Friday, July 26, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. ROONEY of Florida:H.R. 4090.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H7476]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <date>2019-07-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4090ih/xml/BILLS-116hr4090ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

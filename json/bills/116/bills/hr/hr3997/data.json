@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-25", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-25", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Oversight and Reform, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-25", 
+      "action_code": "H11100", 
+      "committees": [
+        "HLIG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Oversight and Reform, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3997-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-25", 
+  "number": "3997", 
+  "official_title": "To amend the Intelligence Reform and Terrorism Prevention Act of 2004 to prohibit individuals with security clearances from being employed by certain entities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Safe Career Transitions for Intelligence and National Security Professionals", 
+  "sponsor": {
+    "bioguide_id": "B001299", 
+    "district": "3", 
+    "name": "Banks, Jim", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-25", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Criminal procedure and sentencing", 
+    "Employee hiring", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Intelligence activities, surveillance, classified information"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Intelligence Reform and Terrorism Prevention Act of 2004 to prohibit individuals with security clearances from being employed by certain entities.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Career Transitions for Intelligence and National Security Professionals", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Career Transitions for Intelligence and National Security Professionals", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Safe Career Transitions for Intelligence and National Security Professionals", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-25T16:00:21Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3997.xml"
+}

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-10T21:40:44Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1133</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Charitable contributions</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-10</actionDate>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>F000463</bioguideId>
+        <byRequestType />
+        <state>NE</state>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <firstName>Deb</firstName>
+        <lastName>Fischer</lastName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <date>2019-04-10T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1133is/xml/BILLS-116s1133is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <createDate>2019-04-11T04:57:13Z</createDate>
+    <notes />
+    <introducedDate>2019-04-10</introducedDate>
+    <titles>
+      <item>
+        <title>A bill to provide disaster tax relief for certain disasters occurring in 2019.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Disaster Tax Relief Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Disaster Tax Relief Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Disaster Tax Relief Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2019-04-10</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <firstName>Joni</firstName>
+        <middleName />
+        <bioguideId>E000295</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Ernst</lastName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Ben</firstName>
+        <middleName />
+        <bioguideId>S001197</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <identifiers>
+          <lisID>2289</lisID>
+          <bioguideId>S001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sasse</lastName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>CHARLES</firstName>
+        <middleName>ERNEST</middleName>
+        <bioguideId>G000386</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <identifiers>
+          <gpoId>8316</gpoId>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>GRASSLEY</lastName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <title>Disaster Tax Relief Act of 2019</title>
+    <updateDate>2019-10-08T14:15:23Z</updateDate>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Hurricanes Florence and Michael and California Wildfire Tax Relief Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-09-25</actionDate>
+        </latestAction>
+        <number>2544</number>
+        <congress>116</congress>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To provide a temporary increase in the limitation on deductible contributions made for relief efforts related to Hurricane Dorian.</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-09-19</actionDate>
+        </latestAction>
+        <number>4415</number>
+        <congress>116</congress>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>TREAD Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-06-13</actionDate>
+        </latestAction>
+        <number>3287</number>
+        <congress>116</congress>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Disaster Tax Relief Act of 2019</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-04-10</actionDate>
+        </latestAction>
+        <number>2284</number>
+        <congress>116</congress>
+      </item>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Tax Extender and Disaster Relief Act of 2019</latestTitle>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 28.</text>
+          <actionDate>2019-03-04</actionDate>
+        </latestAction>
+        <number>617</number>
+        <congress>116</congress>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Disaster Tax Relief Act of 2019</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-04-09</actionDate>
+        </latestAction>
+        <number>2145</number>
+        <congress>116</congress>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>2018 Natural Disasters Tax Relief Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-02-11</actionDate>
+        </latestAction>
+        <number>1148</number>
+        <congress>116</congress>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Hurricane Florence Tax Relief Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-01-14</actionDate>
+        </latestAction>
+        <number>536</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-03-25</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <lastName>Cotton</lastName>
+        <byRequestType />
+        <party>R</party>
+        <state>AR</state>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <middleName />
+      </item>
+    </sponsors>
+    <createDate>2019-03-26T04:27:07Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2019-05-22T18:31:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-25T20:25:14Z</date>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <introducedDate>2019-03-25</introducedDate>
+    <amendments />
+    <congress>116</congress>
+    <billNumber>857</billNumber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>LINDSEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRAHAM</lastName>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+          <lisID>452</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <middleName>O.</middleName>
+        <bioguideId>G000359</bioguideId>
+        <state>SC</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001236</bioguideId>
+        <state>AR</state>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s857is/xml/BILLS-116s857is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-03-25T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 38, United States Code, to increase the amount of special pension for Medal of Honor recipients, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 38, United States Code, to increase the amount of special pension for Medal of Honor recipients, and for other purposes.</title>
+      </item>
+    </titles>
+    <updateDate>2019-06-11T09:20:16Z</updateDate>
+    <cboCostEstimates />
+    <title>A bill to amend title 38, United States Code, to increase the amount of special pension for Medal of Honor recipients, and for other purposes.</title>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-05-22</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <links />
+    </latestAction>
+    <relatedBills />
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

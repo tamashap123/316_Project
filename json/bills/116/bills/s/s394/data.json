@@ -1,0 +1,282 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-07", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-13", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-03-25", 
+      "action_code": "", 
+      "committee": "Homeland Security and Governmental Affairs", 
+      "committees": [
+        "SSGA"
+      ], 
+      "links": [
+        {
+          "name": "report No. 116-13", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/senate-report/13"
+        }
+      ], 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 116-13.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2019-03-25", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "44", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2019-08-01", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "links": [
+        {
+          "name": "S5318-5320", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5318-5320"
+        }, 
+        {
+          "name": "S5319-5320", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5319-5320"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S5318-5320", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5319-5320", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with amendments by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2019-08-01", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-08-02T11:04:07-04:00", 
+      "action_code": "H14000", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-08-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s394-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [
+    "S. Rept. 116-13"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C000174", 
+      "district": null, 
+      "name": "Carper, Thomas R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "DE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001076", 
+      "district": null, 
+      "name": "Hassan, Margaret Wood", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-07", 
+      "state": "NH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000817", 
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-30", 
+      "state": "MA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-03-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2019-08-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-07", 
+  "number": "394", 
+  "official_title": "A bill to amend the Presidential Transition Act of 1963 to improve the orderly transfer of the executive power during Presidential transitions.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s949-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr964-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s338-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Presidential Transition Enhancement Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "J000293", 
+    "district": null, 
+    "name": "Johnson, Ron", 
+    "state": "WI", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2019-08-01", 
+  "subjects": [
+    "Congressional officers and employees", 
+    "Elections, voting, political campaign regulation", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Intelligence activities, surveillance, classified information", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Public participation and lobbying"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Presidential Transition Act of 1963 to improve the orderly transfer of the executive power during Presidential transitions.", 
+      "type": "official"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Presidential Transition Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Presidential Transition Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Presidential Transition Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Presidential Transition Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Presidential Transition Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Presidential Transition Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Presidential Transition Enhancement Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-08-16T10:35:01Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s394.xml"
+}

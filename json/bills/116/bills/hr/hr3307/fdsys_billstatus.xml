@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2019-06-18</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-18T04:03:40Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-06-19T11:12:10Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>3307</billNumber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-06-18</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <congress>116</congress>
+        <latestTitle>Economic Mobility Act of 2019</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3300</number>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000582</bioguideId>
+        <middleName />
+        <party>R</party>
+        <lastName>Gonzalez-Colon</lastName>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+          <lisID>2347</lisID>
+          <gpoId />
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jenniffer</firstName>
+        <state>PR</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001292</bioguideId>
+        <middleName>S.</middleName>
+        <party>D</party>
+        <lastName>Beyer</lastName>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <lisID>2272</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Donald</firstName>
+        <state>VA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000617</bioguideId>
+        <middleName>K.</middleName>
+        <party>D</party>
+        <lastName>DelBene</lastName>
+        <identifiers>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+          <lisID>2096</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Suzan</firstName>
+        <state>WA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000822</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Watson Coleman</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bonnie</firstName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001200</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Soto</lastName>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+          <gpoId />
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Darren</firstName>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000551</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>LEE</lastName>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000081</bioguideId>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <lastName>VELAZQUEZ</lastName>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>NYDIA</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001038</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Higgins</lastName>
+        <identifiers>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001177</bioguideId>
+        <middleName>Kilili Camacho</middleName>
+        <party>D</party>
+        <lastName>Sablan</lastName>
+        <identifiers>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gregorio</firstName>
+        <state>MP</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001204</bioguideId>
+        <middleName>F. Q.</middleName>
+        <party>D</party>
+        <lastName>San Nicolas</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001204</bioguideId>
+          <lisID>2393</lisID>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. San Nicolas, Michael F. Q. [D-GU-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+        <state>GU</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000096</bioguideId>
+        <middleName>K.</middleName>
+        <party>D</party>
+        <lastName>DAVIS</lastName>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DANNY</firstName>
+        <state>IL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>O000172</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Ocasio-Cortez</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000172</bioguideId>
+          <lisID>2427</lisID>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Alexandria</firstName>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001201</bioguideId>
+        <middleName>R.</middleName>
+        <party>D</party>
+        <lastName>Suozzi</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-06-18</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-06-18</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-06-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3307ih/xml/BILLS-116hr3307ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:39:23Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>To amend the Internal Revenue Code of 1986 to provide for payments to possessions of the United States related to the application of the earned income tax credit in such possessions.</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 102 (Tuesday, June 18, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. PASCRELL:H.R. 3307.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 of the Constitution.[Page H4771]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide for payments to possessions of the United States related to the application of the earned income tax credit in such possessions.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide for payments to possessions of the United States related to the application of the earned income tax credit in such possessions.</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>WILLIAM</firstName>
+        <middleName>J.</middleName>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <district>9</district>
+        <bioguideId>P000096</bioguideId>
+        <lastName>PASCRELL</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

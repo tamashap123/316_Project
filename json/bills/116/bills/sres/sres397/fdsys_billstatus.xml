@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+          <activities>
+            <item>
+              <date>2019-10-31T19:48:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution celebrating the 25th anniversary of the passage of the Mike Mansfield Fellowship Act creating the Mike Mansfield Fellowship Program.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution celebrating the 25th anniversary of the passage of the Mike Mansfield Fellowship Act creating the Mike Mansfield Fellowship Program.</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea />
+    <billType>SRES</billType>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-10-31</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S6340-6341</url>
+            <name>S6340-6341</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text: CR S6340-6341)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-10-31</actionDate>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <title>A resolution celebrating the 25th anniversary of the passage of the Mike Mansfield Fellowship Act creating the Mike Mansfield Fellowship Program.</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-10-31</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Committee on Foreign Relations. (text: CR S6340-6341)</text>
+      <actionDate>2019-10-31</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <bioguideId>T000464</bioguideId>
+        <byRequestType />
+        <state>MT</state>
+        <lastName>Tester</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <party>R</party>
+        <lastName>Daines</lastName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>MT</state>
+        <identifiers>
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <sponsorshipDate>2019-10-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>397</billNumber>
+    <relatedBills />
+    <notes />
+    <updateDate>2019-11-01T14:57:37Z</updateDate>
+    <createDate>2019-11-01T04:57:37Z</createDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

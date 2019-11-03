@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-06T15:00:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsag14</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-27T18:46:22Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+            </item>
+            <item>
+              <systemCode>hsag29</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-27T18:46:13Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Livestock and Foreign Agriculture Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-06T15:00:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-26T20:20:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <title>To support State and tribal efforts to develop and implement management strategies to address chronic wasting disease among deer, elk, and moose populations, to support applied research regarding the causes of chronic wasting disease and methods to control the further spread of the disease, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Chronic Wasting Disease Management Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Chronic Wasting Disease Management Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Chronic Wasting Disease Management Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <systemCode>hsag14</systemCode>
+          <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <systemCode>hsag29</systemCode>
+          <name>Livestock and Foreign Agriculture Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-26</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-03-06</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-03-06</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-06</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-06</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <title>Chronic Wasting Disease Management Act</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-03-06</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+      <actionDate>2019-03-27</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <party>D</party>
+        <firstName>RON</firstName>
+        <bioguideId>K000188</bioguideId>
+        <district>3</district>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <lastName>KIND</lastName>
+        <middleName />
+        <state>WI</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <firstName>F.</firstName>
+        <middleName>JAMES</middleName>
+        <lastName>SENSENBRENNER</lastName>
+        <state>WI</state>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <bioguideId>S000244</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Peter</firstName>
+        <middleName />
+        <lastName>Welch</lastName>
+        <state>VT</state>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <bioguideId>W000800</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Glenn</firstName>
+        <middleName />
+        <lastName>Grothman</lastName>
+        <state>WI</state>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2276</lisID>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <bioguideId>G000576</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>EARL</firstName>
+        <middleName />
+        <lastName>BLUMENAUER</lastName>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <bioguideId>B000574</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Suzanne</firstName>
+        <middleName />
+        <lastName>Bonamici</lastName>
+        <state>OR</state>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8367</gpoId>
+          <bioguideId>B001278</bioguideId>
+          <lisID>2092</lisID>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <bioguideId>B001278</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Pete</firstName>
+        <middleName />
+        <lastName>Stauber</lastName>
+        <state>MN</state>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2415</lisID>
+          <bioguideId>S001212</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <bioguideId>S001212</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <middleName />
+        <lastName>Gallagher</lastName>
+        <state>WI</state>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <bioguideId>G000579</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Angie</firstName>
+        <middleName />
+        <lastName>Craig</lastName>
+        <state>MN</state>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001119</bioguideId>
+          <lisID>2412</lisID>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <bioguideId>C001119</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>ZOE</firstName>
+        <middleName />
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <district>19</district>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <bioguideId>L000397</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <middleName>H.</middleName>
+        <lastName>COOPER</lastName>
+        <state>TN</state>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8152</gpoId>
+          <lisID>231</lisID>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <bioguideId>C000754</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Andy</firstName>
+        <middleName />
+        <lastName>Levin</lastName>
+        <state>MI</state>
+        <fullName>Rep. Levin, Andy [D-MI-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2408</lisID>
+          <gpoId />
+          <bioguideId>L000592</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>L000592</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Gilbert</firstName>
+        <middleName>Ray</middleName>
+        <lastName>Cisneros</lastName>
+        <state>CA</state>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001123</bioguideId>
+          <lisID>2380</lisID>
+        </identifiers>
+        <district>39</district>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <bioguideId>C001123</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Sean</firstName>
+        <middleName />
+        <lastName>Casten</lastName>
+        <state>IL</state>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2398</lisID>
+          <bioguideId>C001117</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2019-08-30</sponsorshipDate>
+        <bioguideId>C001117</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Daniel</firstName>
+        <middleName>T.</middleName>
+        <lastName>Kildee</lastName>
+        <state>MI</state>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000380</bioguideId>
+          <lisID>2134</lisID>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-10-22</sponsorshipDate>
+        <bioguideId>K000380</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Ralph</firstName>
+        <middleName>Lee</middleName>
+        <lastName>Abraham</lastName>
+        <state>LA</state>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000374</bioguideId>
+          <lisID>2244</lisID>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-10-29</sponsorshipDate>
+        <bioguideId>A000374</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date>2019-03-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1550ih/xml/BILLS-116hr1550ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2019-03-06</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Chronic Wasting Disease Management&nbsp;Act</b></p> <p>This bill requires the Animal and Plant Health Inspection Service-Wildlife Services to support state and tribal efforts to address chronic wasting disease. The transmissible disease afflicts deer, elk, and moose populations.</p> <p>The agency must make grants to research centers to support efforts to expand and accelerate applied research on the disease.</p> <p>Land management agencies of the Department of Agriculture and the Department of the Interior must work cooperatively with states in researching the disease and implementing state response plans&nbsp;to reduce the spread and prevalence of the disease.</p>]]></text>
+          <lastSummaryUpdateDate>2019-09-09T20:47:01Z</lastSummaryUpdateDate>
+          <updateDate>2019-03-06T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1550</billNumber>
+    <relatedBills>
+      <item>
+        <latestTitle>Chronic Wasting Disease Management Act</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <number>689</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+          <actionDate>2019-03-06</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>ACCESS Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <number>1326</number>
+        <latestAction>
+          <text>Subcommittee Hearings Held.</text>
+          <actionDate>2019-03-26</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H2504-H2505]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KIND:H.R. 1550.[[Page H2505]]Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-03-07T08:12:22Z</createDate>
+    <updateDate>2019-10-30T07:16:01Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

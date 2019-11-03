@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-05-31T17:16:25Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-05-20T22:25:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-05-09T19:46:01Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2019-05-02T14:00:34Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-03-14T18:40:44Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to strengthen programs authorized under the Debbie Smith Act of 2004.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Debbie Smith Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Debbie Smith Act of 2019</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Debbie Smith Act of 2019</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Debbie Smith Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <title>Debbie Smith Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <title>Debbie Smith Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Debbie Smith Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <billType>S</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <sentToHouse>1</sentToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <reportedToSenate>2</reportedToSenate>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <passedSenate>1</passedSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-31</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-20</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionTime>14:03:14</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H14000</actionCode>
+        <actionDate>2019-05-20</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-05-20</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2946-2948</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2946-2948</url>
+          </link>
+          <link>
+            <name>S2947-2948</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2947-2948</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with amendments by Unanimous Consent. (consideration: CR S2946-2948; text: CR S2947-2948)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>S2946-2948</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2946-2948</url>
+          </link>
+          <link>
+            <name>S2947-2948</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2947-2948</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S2946-2948; text: CR S2947-2948)</text>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+        <actionDate>2019-05-16</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-05-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-05-09</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Graham with amendments. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Committee on the Judiciary. Reported by Senator Graham with amendments. Without written report.</text>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>14000</actionCode>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-03-14</actionDate>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0080</number>
+      </item>
+    </calendarNumbers>
+    <originChamber>Senate</originChamber>
+    <title>Debbie Smith Act of 2019</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-03-14</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <actionDate>2019-05-31</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <firstName>John</firstName>
+        <bioguideId>C001056</bioguideId>
+        <byRequestType />
+        <state>TX</state>
+        <lastName>Cornyn</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <firstName>DIANNE</firstName>
+        <bioguideId>F000062</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>CA</state>
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Thomas</firstName>
+        <bioguideId>T000476</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>NC</state>
+        <lastName>Tillis</lastName>
+        <middleName>Roland</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <bioguideId>B001277</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>CT</state>
+        <lastName>Blumenthal</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Joni</firstName>
+        <bioguideId>E000295</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>IA</state>
+        <lastName>Ernst</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2283</lisID>
+          <gpoId />
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Martha</firstName>
+        <bioguideId>M001197</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>AZ</state>
+        <lastName>McSally</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>RICHARD</firstName>
+        <bioguideId>B001135</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>NC</state>
+        <lastName>BURR</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>PATRICK</firstName>
+        <bioguideId>L000174</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>VT</state>
+        <lastName>LEAHY</lastName>
+        <middleName>JOSEPH</middleName>
+        <identifiers>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>MN</state>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Marsha</firstName>
+        <bioguideId>B001243</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>TN</state>
+        <lastName>Blackburn</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Josh</firstName>
+        <bioguideId>H001089</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hawley, Josh  [R-MO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>MO</state>
+        <lastName>Hawley</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2464</lisID>
+          <gpoId />
+          <bioguideId>H001089</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>C000880</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>ID</state>
+        <lastName>CRAPO</lastName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <bioguideId>C000880</bioguideId>
+          <lisID>250</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Tim</firstName>
+        <bioguideId>S001184</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <state>SC</state>
+        <lastName>Scott</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <bioguideId>B001310</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <state>IN</state>
+        <lastName>Braun</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2462</lisID>
+          <bioguideId>B001310</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>John</firstName>
+        <bioguideId>K000393</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <state>LA</state>
+        <lastName>Kennedy</lastName>
+        <middleName>Neely</middleName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000393</bioguideId>
+          <lisID>2303</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+        <bioguideId>D000563</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <state>IL</state>
+        <lastName>DURBIN</lastName>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>CHARLES</firstName>
+        <bioguideId>G000386</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>IA</state>
+        <lastName>GRASSLEY</lastName>
+        <middleName>ERNEST</middleName>
+        <identifiers>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>MARIA</firstName>
+        <bioguideId>C000127</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-13</sponsorshipDate>
+        <state>WA</state>
+        <lastName>CANTWELL</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Jeanne</firstName>
+        <bioguideId>S001181</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>NH</state>
+        <lastName>Shaheen</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <firstName>Catherine</firstName>
+        <bioguideId>C001113</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>NV</state>
+        <lastName>Cortez Masto</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001113</bioguideId>
+          <lisID>2299</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>SUSAN</firstName>
+        <bioguideId>C001035</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <state>ME</state>
+        <lastName>COLLINS</lastName>
+        <middleName>MARGARET</middleName>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Deb</firstName>
+        <bioguideId>F000463</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>NE</state>
+        <lastName>Fischer</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date>2019-05-20T04:00:00Z</date>
+        <type>Referred in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s820rfh/xml/BILLS-116s820rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-05-16T04:00:00Z</date>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s820es/xml/BILLS-116s820es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-05-09T04:00:00Z</date>
+        <type>Reported to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s820rs/xml/BILLS-116s820rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-03-14T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s820is/xml/BILLS-116s820is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-10-02T12:44:59Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Debbie Smith Act of 2019</b></p> <p>This bill reauthorizes grants that support state and local efforts to process DNA evidence in rape kits.</p> <p>Specifically, it reauthorizes through FY2024 the following:</p> <ul> <li>grants under the Debbie Smith DNA Backlog Grant Program;</li> <li>grants to provide DNA training and education for law enforcement personnel, corrections personnel, and court officers; and</li> <li>grants under the Sexual Assault Forensic Exam Program.</li> </ul>]]></text>
+          <updateDate>2019-03-14T04:00:00Z</updateDate>
+          <actionDate>2019-03-14</actionDate>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDesc>Reported to Senate</actionDesc>
+          <name>Reported to Senate</name>
+          <lastSummaryUpdateDate>2019-10-22T18:47:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Debbie Smith Act of 2019</b></p> <p>This bill reauthorizes grants that support state and local efforts to process DNA evidence in rape kits.</p> <p>Specifically, it reauthorizes through FY2024 the following:</p> <ul> <li>grants under the Debbie Smith DNA Backlog Grant Program;</li> <li>grants to provide DNA training and education for law enforcement personnel, corrections personnel, and court officers; and</li> <li>grants under the Sexual Assault Forensic Exam Program.</li> </ul>]]></text>
+          <updateDate>2019-05-09T12:44:08Z</updateDate>
+          <actionDate>2019-05-09</actionDate>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDesc>Passed Senate</actionDesc>
+          <name>Passed Senate</name>
+          <lastSummaryUpdateDate>2019-10-25T16:50:57Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Debbie Smith Act of 2019</b></p> <p>This bill reauthorizes grants that support state and local efforts to process DNA evidence in rape kits.</p> <p>Specifically, it reauthorizes through FY2024 the following:</p> <ul> <li>grants under the Debbie Smith DNA Backlog Grant Program;</li> <li>grants to provide DNA training and education for law enforcement personnel, corrections personnel, and court officers; and</li> <li>grants under the Sexual Assault Forensic Exam Program.</li> </ul>]]></text>
+          <updateDate>2019-05-16T12:29:48Z</updateDate>
+          <actionDate>2019-05-16</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>820</billNumber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Received in the Senate.</text>
+          <actionDate>2019-10-28</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Debbie Smith Reauthorization Act of 2019</latestTitle>
+        <number>777</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <notes />
+    <updateDate>2019-10-30T04:23:59Z</updateDate>
+    <createDate>2019-03-15T04:42:08Z</createDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

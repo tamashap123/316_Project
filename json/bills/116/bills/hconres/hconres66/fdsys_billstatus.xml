@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2019-10-15T14:38:23Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>H000324</bioguideId>
+        <lastName>HASTINGS</lastName>
+        <byRequestType />
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <district>20</district>
+        <firstName>ALCEE</firstName>
+        <state>FL</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsag29</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-10-11T17:15:44Z</date>
+                </item>
+              </activities>
+              <name>Livestock and Foreign Agriculture Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-26T14:06:35Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-26T14:06:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Buchanan</lastName>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1840</lisID>
+          <bioguideId>B001260</bioguideId>
+          <gpoId>7885</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>B001260</bioguideId>
+        <firstName>Vern</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <district>16</district>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HCONRES</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <laws />
+    <title>Urging all nations to outlaw the dog and cat meat trade and to enforce existing laws against such trade.</title>
+    <latestAction>
+      <links />
+      <actionDate>2019-10-11</actionDate>
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres66ih/xml/BILLS-116hconres66ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-10-11</actionDate>
+        <committee>
+          <name>Livestock and Foreign Agriculture Subcommittee</name>
+          <systemCode>hsag29</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+    </actions>
+    <congress>116</congress>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Meat</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Urging all nations to outlaw the dog and cat meat trade and to enforce existing laws against such trade.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Urging all nations to outlaw the dog and cat meat trade and to enforce existing laws against such trade.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <createDate>2019-09-27T07:12:22Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <introducedDate>2019-09-26</introducedDate>
+    <committeeReports />
+    <billNumber>66</billNumber>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-09-26</actionDate>
+          <text>Referred to the Committee on Foreign Relations. (text: CR S5757-5758)</text>
+        </latestAction>
+        <type>SCONRES</type>
+        <latestTitle>A concurrent resolution calling for an end to the consumption and trade of dog and cat meat.</latestTitle>
+        <number>26</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

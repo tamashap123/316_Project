@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2019-09-26</actionDate>
+    </latestAction>
+    <notes />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-09-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4530ih/xml/BILLS-116hr4530ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-09-26</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-09-26</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-09-26</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-26T14:03:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-10-03T18:59:12Z</updateDate>
+    <amendments />
+    <billNumber>4530</billNumber>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-09-26</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Native American Health Savings Improvement Act</b></p> <p> This bill amends the Internal Revenue Code to allow individuals who are eligible for a medical care program of the Indian Health Service or a tribal organization to participate in health savings accounts.</p>]]></text>
+          <updateDate>2019-09-26T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-10-03T18:58:45Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <firstName>Raul</firstName>
+        <bioguideId>R000599</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <district>36</district>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <gpoId />
+          <lisID>2109</lisID>
+        </identifiers>
+        <lastName>Ruiz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to permit individuals eligible for Indian Health Service assistance to qualify for health savings accounts.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Native American Health Savings Improvement Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Native American Health Savings Improvement Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Native American Health Savings Improvement Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <bioguideId>M001194</bioguideId>
+        <middleName>R.</middleName>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>M001194</bioguideId>
+          <gpoId />
+          <lisID>2248</lisID>
+        </identifiers>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <district>4</district>
+        <lastName>Moolenaar</lastName>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <calendarNumbers />
+    <title>Native American Health Savings Improvement Act</title>
+    <introducedDate>2019-09-26</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 156 (Thursday, September 26, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. MOOLENAAR:H.R. 4530.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 which grants Congress the power toregulate Commerce with the Indian Tribes.[Page H8055]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-09-27T07:12:27Z</createDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,227 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-11", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E902-903", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E902-903"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E902-903", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3708-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001287", 
+      "district": "7", 
+      "name": "Bera, Ami", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-30", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001308", 
+      "district": "22", 
+      "name": "Brindisi, Anthony", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-28", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001120", 
+      "district": "2", 
+      "name": "Crenshaw, Dan", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-30", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000376", 
+      "district": "16", 
+      "name": "Kelly, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-23", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000569", 
+      "district": "3", 
+      "name": "Luetkemeyer, Blaine", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-24", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "N000181", 
+      "district": "22", 
+      "name": "Nunes, Devin", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-11", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001190", 
+      "district": "10", 
+      "name": "Schneider, Bradley Scott", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-11", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001216", 
+      "district": "8", 
+      "name": "Schrier, Kim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-31", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001185", 
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-09", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001195", 
+      "district": "8", 
+      "name": "Smith, Jason", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-11", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000470", 
+      "district": "3", 
+      "name": "Tipton, Scott  R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-17", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-11", 
+  "number": "3708", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to allow individuals with direct primary care service arrangements to remain eligible individuals for purposes of health savings accounts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Primary Care Enhancement Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "B000574", 
+    "district": "3", 
+    "name": "Blumenauer, Earl", 
+    "state": "OR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-11", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-07-11T04:00:00Z", 
+    "text": "Primary Care Enhancement Act of 2019\n\nThis bill permits a taxpayer with a primary care service arrangement whose fixed periodic fee\u00a0does not exceed $150 a month to participate in and contribute to a health savings account."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to allow individuals with direct primary care service arrangements to remain eligible individuals for purposes of health savings accounts, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Primary Care Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Primary Care Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Primary Care Enhancement Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-01T20:12:36Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3708.xml"
+}

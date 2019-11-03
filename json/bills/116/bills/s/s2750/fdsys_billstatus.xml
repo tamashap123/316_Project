@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <firstName>Doug</firstName>
+        <middleName />
+        <sponsorshipDate>2019-10-30</sponsorshipDate>
+        <lastName>Jones</lastName>
+        <state>AL</state>
+        <fullName>Sen. Jones, Doug  [D-AL]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000300</bioguideId>
+        <identifiers>
+          <lisID>2364</lisID>
+          <bioguideId>J000300</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <policyArea />
+    <cboCostEstimates />
+    <billType>S</billType>
+    <billNumber>2750</billNumber>
+    <originChamber>Senate</originChamber>
+    <createDate>2019-10-31T04:42:31Z</createDate>
+    <version>1.0.0</version>
+    <laws />
+    <introducedDate>2019-10-30</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Homeland Security Act of 2002 to authorize the Operation Stonegarden grant program, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Homeland Security Act of 2002 to authorize the Operation Stonegarden grant program, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2019-10-30</actionDate>
+      <links />
+    </latestAction>
+    <textVersions />
+    <title>A bill to amend the Homeland Security Act of 2002 to authorize the Operation Stonegarden grant program, and for other purposes.</title>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-10-30T19:56:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <party>R</party>
+        <lastName>McSally</lastName>
+        <middleName />
+        <firstName>Martha</firstName>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-10-31T05:02:34Z</updateDate>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-10-30</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-10-30</actionDate>
+      </item>
+    </actions>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

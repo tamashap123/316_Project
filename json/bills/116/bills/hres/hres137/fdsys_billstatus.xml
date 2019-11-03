@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>116</congress>
+    <updateDate>2019-07-30T12:59:30Z</updateDate>
+    <cosponsors>
+      <item>
+        <middleName />
+        <party>R</party>
+        <firstName>Jeff</firstName>
+        <state>NE</state>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>8038</gpoId>
+          <bioguideId>F000449</bioguideId>
+          <lisID>1793</lisID>
+        </identifiers>
+        <bioguideId>F000449</bioguideId>
+        <lastName>Fortenberry</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName>Ray</middleName>
+        <party>D</party>
+        <firstName>Ben</firstName>
+        <state>NM</state>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>8058</gpoId>
+          <bioguideId>L000570</bioguideId>
+          <lisID>1939</lisID>
+        </identifiers>
+        <bioguideId>L000570</bioguideId>
+        <lastName>Lujan</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName>J. "Chuck"</middleName>
+        <party>R</party>
+        <firstName>Charles</firstName>
+        <state>TN</state>
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000459</bioguideId>
+          <gpoId>8150</gpoId>
+          <lisID>2061</lisID>
+        </identifiers>
+        <bioguideId>F000459</bioguideId>
+        <lastName>Fleischmann</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <party>D</party>
+        <firstName>PETER</firstName>
+        <state>IN</state>
+        <fullName>Rep. Visclosky, Peter J. [D-IN-1]</fullName>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>V000108</bioguideId>
+          <gpoId>7940</gpoId>
+          <lisID>1188</lisID>
+        </identifiers>
+        <bioguideId>V000108</bioguideId>
+        <lastName>VISCLOSKY</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <latestAction>
+      <actionDate>2019-03-14</actionDate>
+      <text>Referred to the Subcommittee on Asia, the Pacific and Nonproliferation.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-02-15</introducedDate>
+    <committeeReports />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-15T15:01:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Asia and the Pacific Subcommittee</name>
+              <systemCode>hsfa05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-14T20:19:29Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <date>2019-02-15T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres137ih/xml/BILLS-116hres137ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+    <notes />
+    <billType>HRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <systemCode>hsfa05</systemCode>
+          <name>Asia and the Pacific Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Asia, the Pacific and Nonproliferation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-02-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-02-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Expressing the sense of the House of Representatives in support of the International Atomic Energy Agency's (IAEA) nuclear security role.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Expressing the sense of the House of Representatives in support of the International Atomic Energy Agency's (IAEA) nuclear security role.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <state>IL</state>
+        <district>11</district>
+        <identifiers>
+          <bioguideId>F000454</bioguideId>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Bill</firstName>
+        <lastName>Foster</lastName>
+        <middleName />
+        <bioguideId>F000454</bioguideId>
+      </item>
+    </sponsors>
+    <title>Expressing the sense of the House of Representatives in support of the International Atomic Energy Agency's (IAEA) nuclear security role.</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <createDate>2019-02-16T08:10:12Z</createDate>
+    <billNumber>137</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Arms control and nonproliferation</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

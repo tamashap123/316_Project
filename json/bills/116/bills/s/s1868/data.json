@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-13", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-13", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "links": [
+        {
+          "name": "S5899-5900", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5899-5900"
+        }
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1868-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001183", 
+      "district": null, 
+      "name": "Manchin, Joe, III", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-13", 
+      "state": "WV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-13", 
+  "number": "1868", 
+  "official_title": "A bill to provide support to States to establish invisible high-risk pool or reinsurance programs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Premium Reduction Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001035", 
+    "district": null, 
+    "name": "Collins, Susan M.", 
+    "state": "ME", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-13", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide support to States to establish invisible high-risk pool or reinsurance programs.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Premium Reduction Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Premium Reduction Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Premium Reduction Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-18T18:08:34Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1868.xml"
+}

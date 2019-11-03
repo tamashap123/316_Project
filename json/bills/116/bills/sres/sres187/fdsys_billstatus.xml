@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <laws />
+    <billType>SRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2621-2622</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2621-2622</url>
+          </link>
+          <link>
+            <name>S2624</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2624</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S2624; text: CR S2621-2622)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.(consideration: CR S2624; text: CR S2621-2622)</text>
+        <actionCode>17000</actionCode>
+        <links>
+          <link>
+            <name>S2621-2622</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2621-2622</url>
+          </link>
+          <link>
+            <name>S2624</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2624</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-05-02</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-05-02</actionDate>
+      </item>
+    </actions>
+    <congress>116</congress>
+    <billNumber>187</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution recognizing the cultural and historical significance of the Cinco de Mayo holiday.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A resolution recognizing the cultural and historical significance of the Cinco de Mayo holiday.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2019-05-03T04:42:10Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Cornyn</lastName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <firstName>John</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>TX</state>
+        <bioguideId>C001056</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Bennet</lastName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <party>D</party>
+        <firstName>Michael</firstName>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>CO</state>
+        <bioguideId>B001267</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>CT</state>
+        <bioguideId>B001277</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Cortez Masto</lastName>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <party>D</party>
+        <firstName>Catherine</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>NV</state>
+        <bioguideId>C001113</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Gardner</lastName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <party>R</party>
+        <firstName>Cory</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>CO</state>
+        <bioguideId>G000562</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Harris</lastName>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <party>D</party>
+        <firstName>Kamala</firstName>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>H001075</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Heinrich</lastName>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <party>D</party>
+        <firstName>Martin</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>NM</state>
+        <bioguideId>H001046</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Klobuchar</lastName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>MN</state>
+        <bioguideId>K000367</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>McSally</lastName>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <party>R</party>
+        <firstName>Martha</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>AZ</state>
+        <bioguideId>M001197</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>MURRAY</lastName>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <party>D</party>
+        <firstName>PATTY</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>WA</state>
+        <bioguideId>M001111</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Rosen</lastName>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <party>D</party>
+        <firstName>Jacklyn</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>NV</state>
+        <bioguideId>R000608</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Sinema</lastName>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <party>D</party>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>AZ</state>
+        <bioguideId>S001191</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Smith</lastName>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <party>D</party>
+        <firstName>Tina</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>MN</state>
+        <bioguideId>S001203</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <title>A resolution recognizing the cultural and historical significance of the Cinco de Mayo holiday.</title>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <amendments />
+    <cboCostEstimates />
+    <updateDate>2019-05-09T04:57:23Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <date>2019-05-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres187ats/xml/BILLS-116sres187ats.xml</url>
+          </item>
+        </formats>
+        <type>Agreed to Senate</type>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S2624; text: CR S2621-2622)</text>
+      <actionDate>2019-05-02</actionDate>
+    </latestAction>
+    <sponsors>
+      <item>
+        <lastName>Menendez</lastName>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <middleName />
+        <party>D</party>
+        <byRequestType />
+        <state>NJ</state>
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <firstName>Robert</firstName>
+      </item>
+    </sponsors>
+    <introducedDate>2019-05-02</introducedDate>
+    <committees>
+      <billCommittees />
+    </committees>
+    <calendarNumbers />
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

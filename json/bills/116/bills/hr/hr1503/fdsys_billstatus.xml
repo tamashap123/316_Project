@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToHouse>1</reportedToHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <billReferrals>1</billReferrals>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <placeholderTextForH>4</placeholderTextForH>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <generalDebate>1</generalDebate>
+        <actionStageOverride>1</actionStageOverride>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-09</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2019-05-08</actionDate>
+        <committee />
+        <actionTime>13:59:35</actionTime>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 187). (text: CR H3486-3487)</text>
+        <actionDate>2019-05-08</actionDate>
+        <committee />
+        <actionTime>13:59:34</actionTime>
+        <links>
+          <link>
+            <name>H3486-3487</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3486-3487</url>
+          </link>
+          <link>
+            <name>Roll no. 187</name>
+            <url>http://clerk.house.gov/evs/2019/roll187.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 187).(text: CR H3486-3487)</text>
+        <actionDate>2019-05-08</actionDate>
+        <committee />
+        <actionTime>13:59:34</actionTime>
+        <links>
+          <link>
+            <name>H3486-3487</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3486-3487</url>
+          </link>
+          <link>
+            <name>Roll no. 187</name>
+            <url>http://clerk.house.gov/evs/2019/roll187.xml</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <text>Considered as unfinished business. (consideration: CR H3491)</text>
+        <actionDate>2019-05-08</actionDate>
+        <committee />
+        <actionTime>13:31:33</actionTime>
+        <links>
+          <link>
+            <name>H3491</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3491</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H37220</actionCode>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionDate>2019-05-08</actionDate>
+        <committee />
+        <actionTime>12:36:19</actionTime>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1503.</text>
+        <actionDate>2019-05-08</actionDate>
+        <committee />
+        <actionTime>12:25:47</actionTime>
+        <links>
+          <link>
+            <name>H.R. 1503</name>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/1503</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <text>Considered under suspension of the rules. (consideration: CR H3486-3488)</text>
+        <actionDate>2019-05-08</actionDate>
+        <committee />
+        <actionTime>12:25:45</actionTime>
+        <links>
+          <link>
+            <name>H3486-3488</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3486-3488</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <text>Ms. Eshoo moved to suspend the rules and pass the bill, as amended.</text>
+        <actionDate>2019-05-08</actionDate>
+        <committee />
+        <actionTime>12:25:20</actionTime>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <text>Placed on the Union Calendar, Calendar No. 25.</text>
+        <actionDate>2019-05-02</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-47.</text>
+        <actionDate>2019-05-02</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 116-47</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/47</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-47.</text>
+        <actionDate>2019-05-02</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 116-47</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/47</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-27</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-06</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2019-03-05</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-05</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-05</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>19</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-05-09T15:46:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-27T16:24:48Z</date>
+                  <name>Reported by</name>
+                </item>
+                <item>
+                  <date>2019-03-27T16:24:39Z</date>
+                  <name>Markup by</name>
+                </item>
+                <item>
+                  <date>2019-03-06T17:15:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-05-02T18:55:22Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2019-04-03T20:00:42Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-03-05T17:08:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-47</citation>
+      </committeeReport>
+    </committeeReports>
+    <createDate>2019-03-06T08:12:09Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>1503</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <lastName>Ruiz</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <bioguideId>R000599</bioguideId>
+        <district>36</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <lastName>RUSH</lastName>
+        <middleName>L.</middleName>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <firstName>BOBBY</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <bioguideId>R000515</bioguideId>
+        <district>1</district>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>PALLONE</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>887</lisID>
+          <gpoId>8048</gpoId>
+          <bioguideId>P000034</bioguideId>
+        </identifiers>
+        <firstName>FRANK</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <bioguideId>P000034</bioguideId>
+        <district>6</district>
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>Dingell</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Debbie</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <bioguideId>D000624</bioguideId>
+        <district>12</district>
+        <state>MI</state>
+      </item>
+      <item>
+        <lastName>ESHOO</lastName>
+        <middleName>G.</middleName>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+        </identifiers>
+        <firstName>ANNA</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <bioguideId>E000215</bioguideId>
+        <district>18</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <lastName>Kennedy</lastName>
+        <middleName>P.</middleName>
+        <identifiers>
+          <lisID>2172</lisID>
+          <gpoId />
+          <bioguideId>K000379</bioguideId>
+        </identifiers>
+        <firstName>Joseph</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <bioguideId>K000379</bioguideId>
+        <district>4</district>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>Matsui</lastName>
+        <middleName>O.</middleName>
+        <identifiers>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+          <bioguideId>M001163</bioguideId>
+        </identifiers>
+        <firstName>Doris</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <bioguideId>M001163</bioguideId>
+        <district>6</district>
+        <state>CA</state>
+      </item>
+      <item>
+        <lastName>Craig</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001119</bioguideId>
+          <lisID>2412</lisID>
+        </identifiers>
+        <firstName>Angie</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <bioguideId>C001119</bioguideId>
+        <district>2</district>
+        <state>MN</state>
+      </item>
+      <item>
+        <lastName>Clarke</lastName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <firstName>Yvette</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <bioguideId>C001067</bioguideId>
+        <district>9</district>
+        <state>NY</state>
+      </item>
+      <item>
+        <lastName>Van Drew</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jefferson</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <bioguideId>V000133</bioguideId>
+        <district>2</district>
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>WALDEN</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8115</gpoId>
+          <lisID>1596</lisID>
+          <bioguideId>W000791</bioguideId>
+        </identifiers>
+        <firstName>GREG</firstName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <bioguideId>W000791</bioguideId>
+        <district>2</district>
+        <state>OR</state>
+      </item>
+      <item>
+        <lastName>SCHAKOWSKY</lastName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <firstName>JANICE</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <bioguideId>S001145</bioguideId>
+        <district>9</district>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>Mucarsel-Powell</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001207</bioguideId>
+          <lisID>2390</lisID>
+        </identifiers>
+        <firstName>Debbie</firstName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <fullName>Rep. Mucarsel-Powell, Debbie [D-FL-26]</fullName>
+        <bioguideId>M001207</bioguideId>
+        <district>26</district>
+        <state>FL</state>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-05-09</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-03-05</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <date>2019-05-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1503rfs/xml/BILLS-116hr1503rfs.xml</url>
+          </item>
+        </formats>
+        <type>Referred in Senate</type>
+      </item>
+      <item>
+        <date>2019-05-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1503eh/xml/BILLS-116hr1503eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <date>2019-05-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1503rh/xml/BILLS-116hr1503rh.xml</url>
+          </item>
+        </formats>
+        <type>Reported in House</type>
+      </item>
+      <item>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1503ih/xml/BILLS-116hr1503ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:22:37Z</updateDate>
+    <recordedVotes>
+      <recordedVote>
+        <date>2019-05-08T17:59:34Z</date>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <chamber>House</chamber>
+        <url>http://clerk.house.gov/evs/2019/roll187.xml</url>
+        <congress>116</congress>
+        <rollNumber>187</rollNumber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Food and Drug Administration (FDA)</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Orange Book Transparency Act of 2019</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. KELLY of Illinois:H.R. 1503.Congress has the power to enact this legislation pursuantto the following:Article I Section 8[Page H2368]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00025</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <titles>
+      <item>
+        <title>To amend the Federal Food, Drug, and Cosmetic Act regarding the list under section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Orange Book Transparency Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Orange Book Transparency Act of 2019</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Orange Book Transparency Act of 2019</title>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Orange Book Transparency Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Orange Book Transparency Act of 2019</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Orange Book Transparency Act of 2019</title>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Orange Book Transparency Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Robin</firstName>
+        <middleName>L.</middleName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <bioguideId>K000385</bioguideId>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

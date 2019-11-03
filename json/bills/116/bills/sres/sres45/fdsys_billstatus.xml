@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-04-11T15:42:25Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Energy and Natural Resources</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Energy and Natural Resources for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-02-15T23:18:39Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-05</actionDate>
+          <updateDate>2019-02-05T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate</actionDesc>
+          <name>Reported to Senate</name>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Energy and Natural Resources for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-02-15T23:18:32Z</lastSummaryUpdateDate>
+          <versionCode>25</versionCode>
+          <actionDate>2019-02-05</actionDate>
+          <updateDate>2019-02-05T13:40:43Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres45is/xml/BILLS-116sres45is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Committee on Energy and Natural Resources.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Committee on Energy and Natural Resources.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>45</billNumber>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S871</url>
+            <name>S871</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S871)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Original measure reported to Senate by Senator Murkowski. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <links />
+        <text>Committee on Energy and Natural Resources. Original measure reported to Senate by Senator Murkowski. Without written report.</text>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-05</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2019-02-06T06:10:14Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-05T21:49:57Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-05T21:49:35Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-02-05</introducedDate>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text: CR S871)</text>
+      <actionDate>2019-02-05</actionDate>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <title>An original resolution authorizing expenditures by the Committee on Energy and Natural Resources.</title>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <amendments />
+    <billType>SRES</billType>
+    <committeeReports />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

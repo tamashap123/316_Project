@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3601-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-28", 
+  "number": "3601", 
+  "official_title": "To direct the Commissioner of Social Security to implement certain recordkeeping recommendations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Social Security Integrity Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "K000362", 
+    "district": "4", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-28", 
+  "subjects": [
+    "Social welfare"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Commissioner of Social Security to implement certain recordkeeping recommendations, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Social Security Integrity Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Social Security Integrity Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Social Security Integrity Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-30T20:15:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3601.xml"
+}

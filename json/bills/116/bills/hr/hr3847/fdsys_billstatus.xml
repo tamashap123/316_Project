@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2019-07-18</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-07-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-07-18T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-07-18</actionDate>
+          <text><![CDATA[Designates the facility of the United States Postal Service located at 117 West Poythress Street in Hopewell, Virginia, as the "Reverend Curtis West Harris Post Office Building."]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-07-19T08:01:58Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Oversight and Reform Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-07-18T13:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-07-19T07:12:15Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>3847</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <state>VA</state>
+        <district>1</district>
+        <identifiers>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+          <gpoId>8192</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>Robert</firstName>
+        <lastName>Wittman</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <bioguideId>W000804</bioguideId>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>VA</state>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2453</lisID>
+          <bioguideId>L000591</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>Elaine</firstName>
+        <lastName>Luria</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>G.</middleName>
+        <bioguideId>L000591</bioguideId>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>VA</state>
+        <district>3</district>
+        <identifiers>
+          <lisID>1037</lisID>
+          <bioguideId>S000185</bioguideId>
+          <gpoId>8194</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>Robert</firstName>
+        <lastName>Scott</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C. "Bobby"</middleName>
+        <bioguideId>S000185</bioguideId>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>VA</state>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>R000611</bioguideId>
+          <gpoId />
+          <lisID>2454</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>Denver</firstName>
+        <lastName>Riggleman</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>R000611</bioguideId>
+        <fullName>Rep. Riggleman, Denver [R-VA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>VA</state>
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2455</lisID>
+          <bioguideId>C001118</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>Ben</firstName>
+        <lastName>Cline</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001118</bioguideId>
+        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>VA</state>
+        <district>7</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001209</bioguideId>
+          <lisID>2456</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>Abigail</firstName>
+        <lastName>Spanberger</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Davis</middleName>
+        <bioguideId>S001209</bioguideId>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>VA</state>
+        <district>8</district>
+        <identifiers>
+          <lisID>2272</lisID>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>Donald</firstName>
+        <lastName>Beyer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <bioguideId>B001292</bioguideId>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>VA</state>
+        <district>9</district>
+        <identifiers>
+          <lisID>2070</lisID>
+          <bioguideId>G000568</bioguideId>
+          <gpoId>8200</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>H.</firstName>
+        <lastName>Griffith</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Morgan</middleName>
+        <bioguideId>G000568</bioguideId>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>VA</state>
+        <district>10</district>
+        <identifiers>
+          <lisID>2457</lisID>
+          <gpoId />
+          <bioguideId>W000825</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>Jennifer</firstName>
+        <lastName>Wexton</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>W000825</bioguideId>
+        <fullName>Rep. Wexton, Jennifer [D-VA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>VA</state>
+        <district>11</district>
+        <identifiers>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-07-18</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-07-18</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3847ih/xml/BILLS-116hr3847ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-18T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:42:58Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Virginia</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>To designate the facility of the United States Postal Service located at 117 West Poythress Street in Hopewell, Virginia, as the "Reverend Curtis West Harris Post Office Building".</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 121 (Thursday, July 18, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. McEACHIN:H.R. 3847.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution[Page H7152]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To designate the facility of the United States Postal Service located at 117 West Poythress Street in Hopewell, Virginia, as the "Reverend Curtis West Harris Post Office Building".</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To designate the facility of the United States Postal Service located at 117 West Poythress Street in Hopewell, Virginia, as the "Reverend Curtis West Harris Post Office Building".</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>A.</firstName>
+        <middleName>Donald</middleName>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <state>VA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001200</bioguideId>
+          <lisID>2352</lisID>
+        </identifiers>
+        <district>4</district>
+        <bioguideId>M001200</bioguideId>
+        <lastName>McEachin</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

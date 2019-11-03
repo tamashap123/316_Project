@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-03-05T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-04-01T18:20:26Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill modifies the requirements for determining the unrelated business taxable income of tax-exempt organizations. The bill repeals a provision that requires unrelated business taxable income to be increased by the amount of expenses paid or incurred by a tax-exempt organization for certain fringe benefits for which a tax deduction is not allowed, including benefits relating to transportation, parking, or an on-premises athletic facility.</p>]]></text>
+          <name>Introduced in House</name>
+          <actionDate>2019-03-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <item>
+        <links />
+        <actionDate>2019-03-05</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-03-05</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-03-05</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <updateDate>2019-10-19T07:16:07Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>1545</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>Duncan</lastName>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <bioguideId>D000615</bioguideId>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>SC</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Hice</lastName>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+          <lisID>2237</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <bioguideId>H001071</bioguideId>
+        <firstName>Jody</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <district>10</district>
+      </item>
+      <item>
+        <lastName>Gaetz</lastName>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+          <lisID>2314</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <bioguideId>G000578</bioguideId>
+        <firstName>Matt</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Lamborn</lastName>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>L000564</bioguideId>
+          <gpoId>7863</gpoId>
+          <lisID>1834</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <bioguideId>L000564</bioguideId>
+        <firstName>Doug</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CO</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Suozzi</lastName>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+          <lisID>2341</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <bioguideId>S001201</bioguideId>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Budd</lastName>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2336</lisID>
+          <gpoId />
+          <bioguideId>B001305</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <bioguideId>B001305</bioguideId>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NC</state>
+        <district>13</district>
+      </item>
+      <item>
+        <lastName>Moolenaar</lastName>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2248</lisID>
+          <gpoId />
+          <bioguideId>M001194</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <bioguideId>M001194</bioguideId>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Weber</lastName>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <gpoId />
+          <lisID>2161</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <bioguideId>W000814</bioguideId>
+        <firstName>Randy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <district>14</district>
+      </item>
+      <item>
+        <lastName>Johnson</lastName>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000299</bioguideId>
+          <lisID>2330</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <bioguideId>J000299</bioguideId>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>LA</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Byrne</lastName>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2197</lisID>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <bioguideId>B001289</bioguideId>
+        <firstName>Bradley</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Norman</lastName>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+          <lisID>2361</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <bioguideId>N000190</bioguideId>
+        <firstName>Ralph</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SC</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Hartzler</lastName>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <gpoId>8012</gpoId>
+          <lisID>2032</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <bioguideId>H001053</bioguideId>
+        <firstName>Vicky</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Banks</lastName>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+          <lisID>2326</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>B001299</bioguideId>
+        <firstName>Jim</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2294</lisID>
+          <gpoId />
+          <bioguideId>K000388</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>K000388</bioguideId>
+        <firstName>Trent</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Conaway</lastName>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Michael</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8167</gpoId>
+          <bioguideId>C001062</bioguideId>
+          <lisID>1805</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>C001062</bioguideId>
+        <firstName>K.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <district>11</district>
+      </item>
+      <item>
+        <lastName>Babin</lastName>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+          <lisID>2270</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <bioguideId>B001291</bioguideId>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <district>36</district>
+      </item>
+      <item>
+        <lastName>Rose</lastName>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000613</bioguideId>
+          <lisID>2426</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <bioguideId>R000613</bioguideId>
+        <firstName>Max</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>11</district>
+      </item>
+      <item>
+        <lastName>Brindisi</lastName>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001308</bioguideId>
+          <lisID>2429</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <bioguideId>B001308</bioguideId>
+        <firstName>Anthony</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>22</district>
+      </item>
+      <item>
+        <lastName>Meng</lastName>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <bioguideId>M001188</bioguideId>
+        <firstName>Grace</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>6</district>
+      </item>
+      <item>
+        <lastName>Jordan</lastName>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>J000289</bioguideId>
+          <gpoId>8094</gpoId>
+          <lisID>1868</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <bioguideId>J000289</bioguideId>
+        <firstName>Jim</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Slotkin</lastName>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2407</lisID>
+          <bioguideId>S001208</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <bioguideId>S001208</bioguideId>
+        <firstName>Elissa</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Katko</lastName>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2264</lisID>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <bioguideId>K000386</bioguideId>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>24</district>
+      </item>
+      <item>
+        <lastName>McAdams</lastName>
+        <fullName>Rep. McAdams, Ben [D-UT-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001209</bioguideId>
+          <gpoId />
+          <lisID>2452</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>M001209</bioguideId>
+        <firstName>Ben</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>UT</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Roe</lastName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <bioguideId>R000582</bioguideId>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TN</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Rouda</lastName>
+        <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2382</lisID>
+          <gpoId />
+          <bioguideId>R000616</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>R000616</bioguideId>
+        <firstName>Harley</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>48</district>
+      </item>
+      <item>
+        <lastName>Trone</lastName>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000483</bioguideId>
+          <gpoId />
+          <lisID>2406</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>T000483</bioguideId>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <district>6</district>
+      </item>
+      <item>
+        <lastName>Watkins</lastName>
+        <fullName>Rep. Watkins, Steve [R-KS-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000824</bioguideId>
+          <lisID>2402</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>W000824</bioguideId>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KS</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>UPTON</lastName>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId>7991</gpoId>
+          <bioguideId>U000031</bioguideId>
+          <lisID>1177</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <bioguideId>U000031</bioguideId>
+        <firstName>FRED</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <district>6</district>
+      </item>
+      <item>
+        <lastName>Van Drew</lastName>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <bioguideId>V000133</bioguideId>
+        <firstName>Jefferson</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Gianforte</lastName>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2359</lisID>
+          <gpoId />
+          <bioguideId>G000584</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <bioguideId>G000584</bioguideId>
+        <firstName>Greg</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MT</state>
+        <district>0</district>
+      </item>
+      <item>
+        <lastName>Morelle</lastName>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2371</lisID>
+          <gpoId />
+          <bioguideId>M001206</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <bioguideId>M001206</bioguideId>
+        <firstName>Joseph</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>25</district>
+      </item>
+      <item>
+        <lastName>Cole</lastName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <bioguideId>C001053</bioguideId>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OK</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Brooks</lastName>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>B001274</bioguideId>
+        <firstName>Mo</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Collins</lastName>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2151</lisID>
+          <gpoId />
+          <bioguideId>C001092</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>C001092</bioguideId>
+        <firstName>Chris</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>27</district>
+      </item>
+      <item>
+        <lastName>DAVIS</lastName>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7858</gpoId>
+          <bioguideId>D000598</bioguideId>
+          <lisID>1641</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>D000598</bioguideId>
+        <firstName>SUSAN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>53</district>
+      </item>
+      <item>
+        <lastName>SENSENBRENNER</lastName>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>JAMES</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>S000244</bioguideId>
+        <firstName>F.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Lesko</lastName>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2368</lisID>
+          <bioguideId>L000589</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <bioguideId>L000589</bioguideId>
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Bost</lastName>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-20</sponsorshipDate>
+        <bioguideId>B001295</bioguideId>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <district>12</district>
+      </item>
+      <item>
+        <lastName>Smucker</lastName>
+        <fullName>Rep. Smucker, Lloyd [R-PA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001199</bioguideId>
+          <gpoId />
+          <lisID>2346</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-10-18</sponsorshipDate>
+        <bioguideId>S001199</bioguideId>
+        <firstName>Lloyd</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <district>11</district>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1545ih/xml/BILLS-116hr1545ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WALKER:H.R. 1545.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 of the United StatesConstitution[Page H2370]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-03-06T08:12:10Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Walker</lastName>
+        <bioguideId>W000819</bioguideId>
+        <district>6</district>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2255</lisID>
+          <bioguideId>W000819</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>Mark</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2019-03-05</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business expenses</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Sports and recreation facilities</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to repeal the inclusion of certain fringe benefit expenses for which a deduction is disallowed in unrelated business taxable income.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to repeal the inclusion of certain fringe benefit expenses for which a deduction is disallowed in unrelated business taxable income.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>1282</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-05-02</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Preserve Charities and Houses of Worship Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <number>501</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-14</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>Stop the Tax Hike on Charities and Places of Worship Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <number>1223</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-14</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <latestTitle>Stop the Tax Hike on Charities and Places of Worship Act</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <number>513</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-01-11</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <latestTitle>Nonprofits Support Act</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <number>632</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-28</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>LIFT for Charities Act</latestTitle>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-05T17:08:20Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-03-05</introducedDate>
+    <calendarNumbers />
+    <title>To amend the Internal Revenue Code of 1986 to repeal the inclusion of certain fringe benefit expenses for which a deduction is disallowed in unrelated business taxable income.</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

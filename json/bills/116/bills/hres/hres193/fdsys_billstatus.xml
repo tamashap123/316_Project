@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText />
+    <updateDate>2019-09-05T21:47:45Z</updateDate>
+    <billType>HRES</billType>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>193</billNumber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on the Budget</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <recordedVotes />
+    <cosponsors />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres193ih/xml/BILLS-116hres193ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <createDate>2019-03-08T08:12:07Z</createDate>
+    <congress>116</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Providing amounts for the expenses of the Committee on the Budget in the One Hundred Sixteenth Congress.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <title>Providing amounts for the expenses of the Committee on the Budget in the One Hundred Sixteenth Congress.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-07T15:06:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Providing amounts for the expenses of the Committee on the Budget in the One Hundred Sixteenth Congress.</title>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2019-03-07</actionDate>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <lastName>Yarmuth</lastName>
+        <identifiers>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+          <bioguideId>Y000062</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <firstName>John</firstName>
+        <district>3</district>
+        <state>KY</state>
+        <party>D</party>
+        <bioguideId>Y000062</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2019-03-07</introducedDate>
+    <notes />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

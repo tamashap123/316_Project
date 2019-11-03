@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-08-14</actionDate>
+        <committee>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <updateDate>2019-10-12T07:16:36Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>3977</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Cook</lastName>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <identifiers>
+          <lisID>2103</lisID>
+          <gpoId />
+          <bioguideId>C001094</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001094</bioguideId>
+        <firstName>Paul</firstName>
+        <district>8</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Davids</lastName>
+        <fullName>Rep. Davids, Sharice [D-KS-3]</fullName>
+        <identifiers>
+          <lisID>2403</lisID>
+          <bioguideId>D000629</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000629</bioguideId>
+        <firstName>Sharice</firstName>
+        <district>3</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Cole</lastName>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001053</bioguideId>
+        <firstName>Tom</firstName>
+        <district>4</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Gallego</lastName>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000574</bioguideId>
+        <firstName>Ruben</firstName>
+        <district>7</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <party>D</party>
+        <middleName>Ray</middleName>
+        <lastName>Lujan</lastName>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+          <lisID>1939</lisID>
+          <gpoId>8058</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000570</bioguideId>
+        <firstName>Ben</firstName>
+        <district>3</district>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <lastName>Fitzpatrick</lastName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000466</bioguideId>
+        <firstName>Brian</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <lastName>Kuster</lastName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000382</bioguideId>
+        <firstName>Ann</firstName>
+        <district>2</district>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Tlaib</lastName>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <identifiers>
+          <lisID>2410</lisID>
+          <gpoId />
+          <bioguideId>T000481</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000481</bioguideId>
+        <firstName>Rashida</firstName>
+        <district>13</district>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3977ih/xml/BILLS-116hr3977ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-25T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 126 (Thursday, July 25, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Ms. HAALAND:H.R. 3977.Congress has the power to enact this legislation pursuantto the following:U.S. Constitution, Article I, Section 8[Page H7468]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-07-26T07:12:16Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Haaland</lastName>
+        <bioguideId>H001080</bioguideId>
+        <district>1</district>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <state>NM</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001080</bioguideId>
+          <lisID>2423</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+        <byRequestType />
+        <firstName>Debra</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+      <actionDate>2019-08-14</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>To amend the Indian Civil Rights Act of 1968 to extend the jurisdiction of tribal courts to cover crimes involving sexual violence, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Justice for Native Survivors of Sexual Violence Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Justice for Native Survivors of Sexual Violence Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Justice for Native Survivors of Sexual Violence Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-06-19</actionDate>
+          <text>Committee on Indian Affairs. Hearings held.</text>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>Justice for Native Survivors of Sexual Violence Act</latestTitle>
+        <number>288</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-07-25T14:08:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-08-14T14:17:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii24</systemCode>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-07-25</introducedDate>
+    <calendarNumbers />
+    <title>Justice for Native Survivors of Sexual Violence Act</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

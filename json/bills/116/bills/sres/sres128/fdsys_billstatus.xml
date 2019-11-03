@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-03-28T16:33:56Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution commemorating the 100th anniversary of the National Parks Conservation Association.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution commemorating the 100th anniversary of the National Parks Conservation Association.</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <billType>SRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-28</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2092</url>
+            <name>S2092</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Energy and Natural Resources. (text: CR S2092)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-28</actionDate>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <title>A resolution commemorating the 100th anniversary of the National Parks Conservation Association.</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-03-28</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Committee on Energy and Natural Resources. (text: CR S2092)</text>
+      <actionDate>2019-03-28</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <party>D</party>
+        <firstName>PATTY</firstName>
+        <bioguideId>M001111</bioguideId>
+        <byRequestType />
+        <state>WA</state>
+        <lastName>MURRAY</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <middleName>MOORE</middleName>
+        <party>R</party>
+        <lastName>CAPITO</lastName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <bioguideId>C001047</bioguideId>
+        <firstName>SHELLEY</firstName>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+      </item>
+      <item>
+        <middleName>Wood</middleName>
+        <party>D</party>
+        <lastName>Hassan</lastName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <bioguideId>H001076</bioguideId>
+        <firstName>Margaret</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <lastName>Smith</lastName>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <bioguideId>S001203</bioguideId>
+        <firstName>Tina</firstName>
+        <identifiers>
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres128is/xml/BILLS-116sres128is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-10-28T15:36:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution commemorates the 100th anniversary of the founding of the National Parks Conservation Association. </p> <p>The resolution also applauds the association for its past, present, and future efforts to advocate for the National Park System. </p> <p>Finally, it wishes the association continued success during the next 100 years as it strives to engage and inspire the public to advance the mission of the National Park System. </p>]]></text>
+          <updateDate>2019-03-28T04:00:00Z</updateDate>
+          <actionDate>2019-03-28</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>128</billNumber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+          <actionDate>2019-03-25</actionDate>
+        </latestAction>
+        <type>HRES</type>
+        <congress>116</congress>
+        <number>250</number>
+        <latestTitle>Commemorating the 100th anniversary of the National Parks Conservation Association.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <updateDate>2019-10-31T09:58:13Z</updateDate>
+    <createDate>2019-03-29T04:42:14Z</createDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

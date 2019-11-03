@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-06-28", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Biotechnology, Horticulture, and Research.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3244-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Biotechnology, Horticulture, and Research", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-12", 
+  "number": "3244", 
+  "official_title": "To amend the Plant Protection Act for purposes of mitigating the threat of invasive species, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Invasive Species Prevention and Forest Restoration Act", 
+  "sponsor": {
+    "bioguide_id": "W000800", 
+    "district": "0", 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-12", 
+  "subjects": [
+    "Agriculture and food"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-06-12T04:00:00Z", 
+    "text": "Invasive Species Prevention and Forest Restoration Act \n\nThis bill directs the Department of Agriculture (USDA) to award competitive grants to certain institutions for research to promote the restoration of tree species affected by non-native plant pests and noxious weeds.\n\nUSDA may also award competitive grants to implement the research or other solutions to restore forest tree species native to the United States that have suffered severe levels of mortality caused by non-native plants pests and noxious weeds.\n\nThe bill also expands the authority of USDA to transfer funds to respond to an emergency involving an outbreak of a plant pest or noxious weed."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Plant Protection Act for purposes of mitigating the threat of invasive species, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Invasive Species Prevention and Forest Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Invasive Species Prevention and Forest Restoration Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Invasive Species Prevention and Forest Restoration Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-30T18:30:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3244.xml"
+}

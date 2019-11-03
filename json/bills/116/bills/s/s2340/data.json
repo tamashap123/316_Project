@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-30", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-30", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "links": [
+        {
+          "name": "S5199-5200", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5199-5200"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S5199-5200", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2340-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000622", 
+      "district": null, 
+      "name": "Duckworth, Tammy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-24", 
+      "state": "IL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-30", 
+  "number": "2340", 
+  "official_title": "A bill to establish the Cahokia Mounds Mississippian Culture National Historical Park in the States of Illinois and Missouri, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3824-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Cahokia Mounds Mississippian Culture National Historical Park Act", 
+  "sponsor": {
+    "bioguide_id": "D000563", 
+    "district": null, 
+    "name": "Durbin, Richard J.", 
+    "state": "IL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-30", 
+  "subjects": [
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish the Cahokia Mounds Mississippian Culture National Historical Park in the States of Illinois and Missouri, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cahokia Mounds Mississippian Culture National Historical Park Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cahokia Mounds Mississippian Culture National Historical Park Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Cahokia Mounds Mississippian Culture National Historical Park Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-25T10:05:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2340.xml"
+}

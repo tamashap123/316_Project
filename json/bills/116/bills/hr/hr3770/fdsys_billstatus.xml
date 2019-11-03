@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-16T14:01:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3770ih/xml/BILLS-116hr3770ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-16T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>B001296</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <district>2</district>
+        <lastName>Boyle</lastName>
+        <firstName>Brendan</firstName>
+        <byRequestType />
+        <state>PA</state>
+        <middleName>F.</middleName>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To require the chief election officials of the States to provide voter registration forms at certain naturalization proceedings, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Citizenship Empowerment Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Citizenship Empowerment Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Citizenship Empowerment Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2019-08-21T15:52:23Z</updateDate>
+    <createDate>2019-07-17T07:12:08Z</createDate>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-07-16</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Referred to the House Committee on House Administration.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-07-16</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-07-16</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <middleName>D.</middleName>
+        <bioguideId>S001145</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SCHAKOWSKY</lastName>
+        <state>IL</state>
+        <firstName>JANICE</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>S001193</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Swalwell</lastName>
+        <state>CA</state>
+        <firstName>Eric</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <laws />
+    <title>Citizenship Empowerment Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 119 (Tuesday, July 16, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. BRENDAN F. BOYLE of Pennsylvania:H.R. 3770.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution under theGeneral Welfare Clause.[Page H5912]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2019-07-16</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <congress>116</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDate>2019-07-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-07-16T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-08-17T14:30:47Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Citizenship Empowerment Act</b></p> <p>This bill requires state chief election officials to distribute mail voter registration forms to each person who becomes a U.S. citizen at a naturalization ceremony at the ceremony's conclusion.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2019-07-16</introducedDate>
+    <billNumber>3770</billNumber>
+    <cboCostEstimates />
+    <amendments />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

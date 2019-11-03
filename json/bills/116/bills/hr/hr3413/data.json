@@ -1,0 +1,219 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-21", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-02", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Oversight, Management, and Accountability.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Oversight, Management, and Accountability Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-17", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-08-30", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSHM"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-190", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/190"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-190.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-08-30", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "148", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 148.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3413-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-190"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Oversight, Management, and Accountability", 
+      "subcommittee_id": "09"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001088", 
+      "district": "1", 
+      "name": "Hagedorn, Jim", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-25", 
+      "state": "MN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000575", 
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-25", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-17", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-21", 
+  "number": "3413", 
+  "official_title": "To amend the Homeland Security Act of 2002 to provide for certain acquisition authorities for the Under Secretary of Management of the Department of Homeland Security, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "DHS Acquisition Reform Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "C001120", 
+    "district": "2", 
+    "name": "Crenshaw, Dan", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-07-17", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Department of Homeland Security", 
+    "Emergency management", 
+    "Federal officials", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Performance measurement", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Homeland Security Act of 2002 to provide for certain acquisition authorities for the Under Secretary of Management of the Department of Homeland Security, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Reform Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Reform Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Reform Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Reform Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "DHS Acquisition Reform Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-04T12:26:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3413.xml"
+}

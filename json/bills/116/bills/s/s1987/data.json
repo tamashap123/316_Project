@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-26", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-26", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "links": [
+        {
+          "name": "S4569-4570", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4569-4570"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S4569-4570", 
+          "type": "Sponsor introductory remarks on measure"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1987-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-26", 
+  "number": "1987", 
+  "official_title": "A bill to require the Secretary of Health and Human Services to establish reference prices for prescription drugs for purposes of Federal health programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3523-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "End Price Gouging for Medications Act", 
+  "sponsor": {
+    "bioguide_id": "M001176", 
+    "district": null, 
+    "name": "Merkley, Jeff", 
+    "state": "OR", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-26", 
+  "subjects": [
+    "Health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Secretary of Health and Human Services to establish reference prices for prescription drugs for purposes of Federal health programs, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "End Price Gouging for Medications Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "End Price Gouging for Medications Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "End Price Gouging for Medications Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-16T04:28:25Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1987.xml"
+}

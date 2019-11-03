@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <createDate>2019-07-09T04:27:22Z</createDate>
+    <relatedBills />
+    <cboCostEstimates />
+    <latestAction>
+      <actionDate>2019-07-08</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <recordedVotes />
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>S</billType>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-08</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-07-08</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2019-07-08</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-07-08T22:07:01Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to ensure that Federal infrastructure programs require the use of materials produced in the United States, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Build America, Buy America Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Build America, Buy America Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Build America, Buy America Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <updateDate>2019-07-19T07:39:20Z</updateDate>
+    <billNumber>2056</billNumber>
+    <sponsors>
+      <item>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <bioguideId>B000944</bioguideId>
+        <firstName>Sherrod</firstName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <state>OH</state>
+        <middleName />
+        <party>D</party>
+        <lastName>Brown</lastName>
+      </item>
+    </sponsors>
+    <title>Build America, Buy America Act</title>
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2056is/xml/BILLS-116s2056is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-07-08T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <bioguideId>P000449</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>PORTMAN</lastName>
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+          <lisID>924</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-08</sponsorshipDate>
+        <state>OH</state>
+        <firstName>ROB</firstName>
+        <party>R</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <bioguideId>B001310</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Braun</lastName>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+          <gpoId />
+          <lisID>2462</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-08</sponsorshipDate>
+        <state>IN</state>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-07-08</sponsorshipDate>
+        <state>MI</state>
+        <firstName>Gary</firstName>
+        <party>D</party>
+        <middleName>C.</middleName>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

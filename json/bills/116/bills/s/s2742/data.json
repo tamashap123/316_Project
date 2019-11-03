@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-30", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-30", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "links": [
+        {
+          "name": "S6303", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S6303"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S6303", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2742-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000577", 
+      "district": null, 
+      "name": "Lee, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-30", 
+      "state": "UT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000603", 
+      "district": null, 
+      "name": "Paul, Rand", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-30", 
+      "state": "KY", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001191", 
+      "district": null, 
+      "name": "Sinema, Kyrsten", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-30", 
+      "state": "AZ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-30", 
+  "number": "2742", 
+  "official_title": "A bill to require the Director of the Bureau of Prisons to be appointed by and with the advice and consent of the Senate.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M000355", 
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-30", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Director of the Bureau of Prisons to be appointed by and with the advice and consent of the Senate.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to require the Director of the Bureau of Prisons to be appointed by and with the advice and consent of the Senate.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-31T15:42:31Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2742.xml"
+}

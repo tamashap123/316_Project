@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-16T18:57:39-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.221", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/221"
+        }, 
+        {
+          "name": "Roll no. 210", 
+          "url": "http://clerk.house.gov/evs/2019/roll210.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 210, 
+      "text": "On agreeing to the McKinley amendment (A002) Failed by recorded vote: 189 - 230 (Roll no. 210).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-05-16T14:46:06-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.221", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/221"
+        }, 
+        {
+          "name": "H3874", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3874"
+        }, 
+        {
+          "name": "H3874-3876", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3874-3876"
+        }, 
+        {
+          "name": "H3902-3903", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3902-3903"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3874-3876, H3902-3903", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3874", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16T18:57:39-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.221", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/221"
+        }, 
+        {
+          "name": "Roll no. 210", 
+          "url": "http://clerk.house.gov/evs/2019/roll210.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the McKinley amendment (A002) Failed by recorded vote: 189 - 230 (Roll no. 210).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16T18:57:39-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.221", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/221"
+        }, 
+        {
+          "name": "Roll no. 210", 
+          "url": "http://clerk.house.gov/evs/2019/roll210.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16T14:46:06-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.221", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/221"
+        }, 
+        {
+          "name": "H3874", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3874"
+        }, 
+        {
+          "name": "H3874-3876", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3874-3876"
+        }, 
+        {
+          "name": "H3902-3903", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3902-3903"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A002) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16T18:57:39-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.221", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/221"
+        }, 
+        {
+          "name": "Roll no. 210", 
+          "url": "http://clerk.house.gov/evs/2019/roll210.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt221-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr987-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 987
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment sought to strike title II, Health Insurance Market Stabilization.", 
+  "introduced_at": "2019-05-16", 
+  "number": 221, 
+  "purpose": "An amendment numbered 2 printed in House Report 116-61 to strike title II, Health Insurance Market Stabilization.", 
+  "sponsor": {
+    "bioguide_id": "M001180", 
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2019-05-16T18:57:39-04:00", 
+  "updated_at": "2019-05-31T07:16:08Z"
+}

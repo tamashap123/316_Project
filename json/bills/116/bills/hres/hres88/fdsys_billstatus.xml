@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <systemCode>hsfa14</systemCode>
+          <name>Europe, Eurasia, Energy and the Environment Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Europe, Eurasia, Energy and the Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>This resolution expresses the House of Representatives' opposition to a hard border between Northern Ireland and the Republic of Ireland, which could result from the withdrawal of the United Kingdom (UK) from the European Union (EU). </p> <p>(Northern Ireland is part of the UK, and the Republic of Ireland is an EU member state. There is currently an open border between them.) </p>]]></text>
+          <updateDate>2019-01-29T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-29</actionDate>
+          <lastSummaryUpdateDate>2019-03-12T19:04:45Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-29T15:00:21Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Europe, Eurasia, Energy and the Environment Subcommittee</name>
+              <systemCode>hsfa14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-14T20:20:12Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-30T08:10:15Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>88</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>P000034</bioguideId>
+        <lastName>PALLONE</lastName>
+        <middleName />
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <district>6</district>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>FRANK</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000482</bioguideId>
+        <lastName>DOYLE</lastName>
+        <middleName />
+        <fullName>Rep. Doyle, Michael F. [D-PA-18]</fullName>
+        <district>18</district>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8132</gpoId>
+          <lisID>316</lisID>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>MIKE</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>H001038</bioguideId>
+        <lastName>Higgins</lastName>
+        <middleName />
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <district>26</district>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001038</bioguideId>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>W000826</bioguideId>
+        <lastName>Wild</lastName>
+        <middleName />
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <district>7</district>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2374</lisID>
+          <bioguideId>W000826</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Susan</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>L000588</bioguideId>
+        <lastName>Lamb</lastName>
+        <middleName />
+        <fullName>Rep. Lamb, Conor [D-PA-17]</fullName>
+        <district>17</district>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000588</bioguideId>
+          <lisID>2367</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Conor</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>K000380</bioguideId>
+        <lastName>Kildee</lastName>
+        <middleName>T.</middleName>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <district>5</district>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Daniel</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>N000015</bioguideId>
+        <lastName>NEAL</lastName>
+        <middleName>E.</middleName>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <district>1</district>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000015</bioguideId>
+          <gpoId>7967</gpoId>
+          <lisID>854</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>K000210</bioguideId>
+        <lastName>KING</lastName>
+        <middleName>T.</middleName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <district>2</district>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>F000466</bioguideId>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <district>1</district>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001069</bioguideId>
+        <lastName>Courtney</lastName>
+        <middleName />
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <district>2</district>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001069</bioguideId>
+          <gpoId>7867</gpoId>
+          <lisID>1836</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>J000295</bioguideId>
+        <lastName>Joyce</lastName>
+        <middleName>P.</middleName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <district>14</district>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2154</lisID>
+          <bioguideId>J000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001090</bioguideId>
+        <lastName>Cartwright</lastName>
+        <middleName />
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <district>8</district>
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Matt</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>K000379</bioguideId>
+        <lastName>Kennedy</lastName>
+        <middleName>P.</middleName>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <district>4</district>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Joseph</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>L000562</bioguideId>
+        <lastName>Lynch</lastName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <district>8</district>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7974</gpoId>
+          <lisID>1686</lisID>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Stephen</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>K000188</bioguideId>
+        <lastName>KIND</lastName>
+        <middleName />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <district>3</district>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>RON</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-03-14</actionDate>
+      <text>Referred to the Subcommittee on Europe, Eurasia, Energy and the Environment.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-29</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-29T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres88ih/xml/BILLS-116hres88ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T12:59:04Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Ireland</name>
+          </item>
+          <item>
+            <name>Northern Ireland</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Expressing the opposition of the House of Representatives to a hard border between Northern Ireland and the Republic of Ireland.</title>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <title>Expressing the opposition of the House of Representatives to a hard border between Northern Ireland and the Republic of Ireland.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Expressing the opposition of the House of Representatives to a hard border between Northern Ireland and the Republic of Ireland.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Brendan</firstName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <bioguideId>B001296</bioguideId>
+        <lastName>Boyle</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

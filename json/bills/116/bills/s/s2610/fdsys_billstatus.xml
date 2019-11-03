@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <middleName />
+        <party>D</party>
+        <lastName>Smith</lastName>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <sponsorshipDate>2019-10-16</sponsorshipDate>
+        <bioguideId>S001203</bioguideId>
+        <firstName>Tina</firstName>
+        <identifiers>
+          <lisID>2365</lisID>
+          <gpoId />
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+      </item>
+      <item>
+        <middleName />
+        <party>R</party>
+        <lastName>Sullivan</lastName>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <sponsorshipDate>2019-10-22</sponsorshipDate>
+        <bioguideId>S001198</bioguideId>
+        <firstName>Dan</firstName>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AK</state>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <billNumber>2610</billNumber>
+    <originChamber>Senate</originChamber>
+    <createDate>2019-10-17T04:57:34Z</createDate>
+    <version>1.0.0</version>
+    <laws />
+    <introducedDate>2019-10-16</introducedDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to reauthorize certain programs under the Office of Indian Energy Policy and Programs of the Department of Energy, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Tribal Energy Reauthorization Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Tribal Energy Reauthorization Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Tribal Energy Reauthorization Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <actionDate>2019-10-16</actionDate>
+      <links />
+    </latestAction>
+    <textVersions>
+      <item>
+        <date>2019-10-16T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2610is/xml/BILLS-116s2610is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>Tribal Energy Reauthorization Act</title>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Other</type>
+          <chamber>Senate</chamber>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+          <activities>
+            <item>
+              <date>2019-10-16T20:02:21Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <lastName>Murkowski</lastName>
+        <middleName />
+        <firstName>Lisa</firstName>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-10-30T10:07:58Z</updateDate>
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2019-10-16</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-10-16</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

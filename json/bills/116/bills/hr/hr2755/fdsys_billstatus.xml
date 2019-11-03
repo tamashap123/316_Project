@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <systemCode>hspw05</systemCode>
+          <name>Aviation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <systemCode>hspw14</systemCode>
+          <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <systemCode>hspw12</systemCode>
+          <name>Highways and Transit Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-15</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-15</actionDate>
+        <links />
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-15</actionDate>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-15</actionDate>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-15T14:02:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Aviation Subcommittee</name>
+              <systemCode>hspw05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-16T19:14:44Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+              <systemCode>hspw14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-16T19:14:34Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Highways and Transit Subcommittee</name>
+              <systemCode>hspw12</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-16T19:14:20Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-15T14:02:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-05-16T07:12:19Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>2755</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000559</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Garamendi</lastName>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000380</bioguideId>
+        <middleName>T.</middleName>
+        <party>D</party>
+        <lastName>Kildee</lastName>
+        <identifiers>
+          <lisID>2134</lisID>
+          <gpoId />
+          <bioguideId>K000380</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Daniel</firstName>
+        <state>MI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000607</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Pocan</lastName>
+        <identifiers>
+          <lisID>2171</lisID>
+          <gpoId />
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <state>WI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000574</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Gallego</lastName>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ruben</firstName>
+        <state>AZ</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001123</bioguideId>
+        <middleName>Ray</middleName>
+        <party>D</party>
+        <lastName>Cisneros</lastName>
+        <identifiers>
+          <lisID>2380</lisID>
+          <gpoId />
+          <bioguideId>C001123</bioguideId>
+        </identifiers>
+        <district>39</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gilbert</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000344</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>SHERMAN</lastName>
+        <identifiers>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>BRAD</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000581</bioguideId>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <lastName>Lawrence</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2252</lisID>
+          <bioguideId>L000581</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brenda</firstName>
+        <state>MI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000588</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Lamb</lastName>
+        <identifiers>
+          <bioguideId>L000588</bioguideId>
+          <lisID>2367</lisID>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Lamb, Conor [D-PA-17]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Conor</firstName>
+        <state>PA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001200</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Soto</lastName>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+          <lisID>2319</lisID>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Darren</firstName>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000467</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Finkenauer</lastName>
+        <identifiers>
+          <lisID>2394</lisID>
+          <bioguideId>F000467</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Finkenauer, Abby [D-IA-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Abby</firstName>
+        <state>IA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001156</bioguideId>
+        <middleName>T.</middleName>
+        <party>D</party>
+        <lastName>SANCHEZ</lastName>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <district>38</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>LINDA</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000131</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <lastName>Veasey</lastName>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+          <lisID>2166</lisID>
+        </identifiers>
+        <district>33</district>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Marc</firstName>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000822</bioguideId>
+        <middleName />
+        <party>D</party>
+        <lastName>Watson Coleman</lastName>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Bonnie</firstName>
+        <state>NJ</state>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-05-16</actionDate>
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-05-15</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-05-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2755ih/xml/BILLS-116hr2755ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:35:28Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Buy American requirements</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Metals</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Buy America 2.0 Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BRENDAN F. BOYLE of Pennsylvania:H.R. 2755.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution under theGeneral Welfare Clause.[Page H3842]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <chamberName />
+        <title>To standardize and extend certain Buy America provisions.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Buy America 2.0 Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Buy America 2.0 Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Buy America 2.0 Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Brendan</firstName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <bioguideId>B001296</bioguideId>
+        <lastName>Boyle</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

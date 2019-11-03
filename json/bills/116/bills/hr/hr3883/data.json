@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3883-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001250", 
+      "district": "1", 
+      "name": "Bishop, Rob", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-23", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-23", 
+  "number": "3883", 
+  "official_title": "To establish the Commission on Intergovernmental Relations of the United States to facilitate the fullest cooperation, coordination, and mutual accountability among all levels of government, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Restore the Partnership Act", 
+  "sponsor": {
+    "bioguide_id": "C001078", 
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-23", 
+  "subjects": [
+    "Advisory bodies", 
+    "Congressional oversight", 
+    "Government operations and politics", 
+    "Government studies and investigations", 
+    "Intergovernmental relations", 
+    "State and local government operations", 
+    "Tax administration and collection, taxpayers"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Commission on Intergovernmental Relations of the United States to facilitate the fullest cooperation, coordination, and mutual accountability among all levels of government, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restore the Partnership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restore the Partnership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Restore the Partnership Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-01T15:30:22Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3883.xml"
+}

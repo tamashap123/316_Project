@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-09T14:00:18Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr10</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-29T15:54:34Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Economic Opportunity Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-09T14:00:13Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-10T19:47:45Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Servicemembers Civil Relief Act to provide a guarantee of residency for registration of businesses of spouses of members of the uniformed services, to improve occupational license portability for military spouses through interstate compacts, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Servicemembers Civil Relief Act to provide a guarantee of residency for registration of businesses of spouses of members of the uniformed services, to improve occupational license portability for military spouses through interstate compacts, and for other purposes.</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-29</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-10</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Marriage and family status</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <title>To amend the Servicemembers Civil Relief Act to provide a guarantee of residency for registration of businesses of spouses of members of the uniformed services, to improve occupational license portability for military spouses through interstate compacts, and for other purposes.</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-05-09</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <actionDate>2019-05-29</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <party>R</party>
+        <firstName>Jim</firstName>
+        <bioguideId>B001299</bioguideId>
+        <district>3</district>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001299</bioguideId>
+          <lisID>2326</lisID>
+        </identifiers>
+        <lastName>Banks</lastName>
+        <middleName />
+        <state>IN</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>D000598</bioguideId>
+        <district>53</district>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <firstName>SUSAN</firstName>
+        <lastName>DAVIS</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <identifiers>
+          <gpoId>7858</gpoId>
+          <lisID>1641</lisID>
+          <bioguideId>D000598</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <firstName>STEVE</firstName>
+        <lastName>CHABOT</lastName>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <district>26</district>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <firstName>Michael</firstName>
+        <lastName>Burgess</lastName>
+        <state>TX</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <identifiers>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+        </identifiers>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <bioguideId>P000614</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <firstName>Chris</firstName>
+        <lastName>Pappas</lastName>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <identifiers>
+          <lisID>2418</lisID>
+          <bioguideId>P000614</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date>2019-05-09T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2618ih/xml/BILLS-116hr2618ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-10-30T21:45:35Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill addresses the process of business registration by a spouse accompanying a service member deployed away from the state of residence.</p> <p> The accompanying spouse shall not be deemed to have (1) lost a residence or domicile in the state, (2) acquired a residence or domicile in another state, or (3) become a resident in or of any other state. The spouse may elect to use the same residence as the member regardless of the date of marriage.</p> <p>The bill authorizes the Department of Defense to enter into an agreement with the Council of State Governments to assist with funding for interstate compacts on licensed occupations in order to alleviate burdens associated with relicensing when members make a permanent change of duty station to another state. </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2019-05-09T04:00:00Z</updateDate>
+          <actionDate>2019-05-09</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2618</billNumber>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>1383</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+          <actionDate>2019-05-09</actionDate>
+        </latestAction>
+        <latestTitle>A bill to amend the Servicemembers Civil Relief Act to provide a guarantee of residency for registration of businesses of spouses of members of the uniformed services, to improve occupational license portability for military spouses through interstate compacts, and for other purposes.</latestTitle>
+        <type>S</type>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>3072</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Subcommittee on Economic Opportunity.</text>
+          <actionDate>2019-06-17</actionDate>
+        </latestAction>
+        <latestTitle>To amend the Servicemembers Civil Relief Act to provide a guarantee of residency for registration of businesses of spouses of members of the uniformed services, to improve occupational license portability for military spouses through interstate compacts, and for other purposes.</latestTitle>
+        <type>HR</type>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>2500</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Received in the Senate.</text>
+          <actionDate>2019-09-10</actionDate>
+        </latestAction>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <type>HR</type>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>1790</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Conference held.</text>
+          <actionTime>10:00:34</actionTime>
+          <actionDate>2019-09-19</actionDate>
+        </latestAction>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <notes />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BANKS:H.R. 2618.Congress has the power to enact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation is provided by Article I, section 8 of the UnitedStates Constitution, specifically clause 18 (relating to thepower to make all laws necessary and proper for carrying outthe powers vested in Congress).[Page H3680]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-05-10T07:12:11Z</createDate>
+    <updateDate>2019-10-30T22:00:28Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2888-2889</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2888-2889</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S2888-2889)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-05-15</actionDate>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-15T18:03:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <updateDate>2019-06-15T04:42:15Z</updateDate>
+    <recordedVotes />
+    <introducedDate>2019-05-15</introducedDate>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>John</firstName>
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <title>Back the Blue Act of 2019</title>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <laws />
+    <createDate>2019-05-16T04:57:12Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S2888-2889)</text>
+      <actionDate>2019-05-15</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to protect law enforcement officers, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Back the Blue Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Back the Blue Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Back the Blue Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <amendments />
+    <billNumber>1480</billNumber>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+        <identifiers>
+          <lisID>2175</lisID>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001098</bioguideId>
+        <state>TX</state>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Thomas</firstName>
+        <lastName>Tillis</lastName>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Roland</middleName>
+        <bioguideId>T000476</bioguideId>
+        <state>NC</state>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001236</bioguideId>
+        <state>AR</state>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <lastName>Barrasso</lastName>
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001261</bioguideId>
+        <state>WY</state>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <lastName>Perdue</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Alfred</middleName>
+        <bioguideId>P000612</bioguideId>
+        <state>GA</state>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001243</bioguideId>
+        <state>TN</state>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Deb</firstName>
+        <lastName>Fischer</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>F000463</bioguideId>
+        <state>NE</state>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHELLEY</firstName>
+        <lastName>CAPITO</lastName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROB</firstName>
+        <lastName>PORTMAN</lastName>
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>P000449</bioguideId>
+        <state>OH</state>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <lastName>Cassidy</lastName>
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001075</bioguideId>
+        <state>LA</state>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B000575</bioguideId>
+        <state>MO</state>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cindy</firstName>
+        <lastName>Hyde-Smith</lastName>
+        <identifiers>
+          <lisID>2366</lisID>
+          <bioguideId>H001079</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>H001079</bioguideId>
+        <state>MS</state>
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <lastName>Daines</lastName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>D000618</bioguideId>
+        <state>MT</state>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Johnny</firstName>
+        <lastName>Isakson</lastName>
+        <identifiers>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <state>GA</state>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>PAT</firstName>
+        <lastName>ROBERTS</lastName>
+        <identifiers>
+          <gpoId>8275</gpoId>
+          <bioguideId>R000307</bioguideId>
+          <lisID>968</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>R000307</bioguideId>
+        <state>KS</state>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Judges</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-05-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1480is/xml/BILLS-116s1480is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

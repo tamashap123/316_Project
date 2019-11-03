@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <prayer>1</prayer>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <committee>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-09</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-09</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-09</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-01-09</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This bill confers exclusive jurisdiction to the U.S. Court of Federal Claims for the Miami Tribe of Oklahoma's land claim arising under the Treaty of Grouseland. The court must render judgement without regard to defenses based on the passage of time, including the statute of limitations. The United States is the only entity liable for such a claim, and monetary damages are the only available remedy. This jurisdiction expires unless such a claim is filed within one year.</p> All other claims of the tribe, including claims to title arising under the Treaty of Grouseland and the Northwest Ordinance, are extinguished.]]></text>
+          <updateDate>2019-01-09T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-07-18T19:26:41Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <date>2019-07-16T15:01:40Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2019-02-05T18:08:26Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-01-09T15:04:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-10T08:10:17Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>396</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <state>OK</state>
+        <district>4</district>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <lastName>Cole</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>OK</state>
+        <district>1</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2372</lisID>
+          <bioguideId>H001082</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <firstName>Kevin</firstName>
+        <lastName>Hern</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>H001082</bioguideId>
+        <fullName>Rep. Hern, Kevin [R-OK-1]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>AK</state>
+        <district>0</district>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <firstName>DON</firstName>
+        <lastName>YOUNG</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <bioguideId>Y000033</bioguideId>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-07-16</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-09</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr396ih/xml/BILLS-116hr396ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-09T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:09:15Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Indian claims</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+          <item>
+            <name>Oklahoma</name>
+          </item>
+          <item>
+            <name>Specialized courts</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>To provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MULLIN:H.R. 396.Congress has the power to enact this legislation pursuantto the following:Article III, Section 1 of the U.S. Constitution.[Page H360]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Markwayne</firstName>
+        <middleName />
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <state>OK</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2156</lisID>
+          <bioguideId>M001190</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <bioguideId>M001190</bioguideId>
+        <lastName>Mullin</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

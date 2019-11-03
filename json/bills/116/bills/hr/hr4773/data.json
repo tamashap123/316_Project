@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-21", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4773-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001109", 
+      "district": "0", 
+      "name": "Cheney, Liz", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-21", 
+      "state": "WY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000491", 
+      "district": "3", 
+      "name": "Lucas, Frank D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-21", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-21", 
+  "number": "4773", 
+  "official_title": "To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to direct the Secretary of Agriculture to make grants for the purpose of improving the farm management knowledge and skills of livestock producers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Livestock Risk Management and Education Act", 
+  "sponsor": {
+    "bioguide_id": "J000301", 
+    "district": "0", 
+    "name": "Johnson, Dusty", 
+    "state": "SD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-21", 
+  "subjects": [
+    "Agriculture and food"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Food, Agriculture, Conservation, and Trade Act of 1990 to direct the Secretary of Agriculture to make grants for the purpose of improving the farm management knowledge and skills of livestock producers.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Livestock Risk Management and Education Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Livestock Risk Management and Education Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Livestock Risk Management and Education Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-30T19:00:29Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4773.xml"
+}

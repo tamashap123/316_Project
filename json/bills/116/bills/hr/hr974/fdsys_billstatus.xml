@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>116</congress>
+    <updateDate>2019-07-30T13:16:09Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>L000491</bioguideId>
+        <firstName>FRANK</firstName>
+        <state>OK</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>L000491</bioguideId>
+          <lisID>711</lisID>
+          <gpoId>8111</gpoId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+        <lastName>LUCAS</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000479</bioguideId>
+        <firstName>Van</firstName>
+        <state>TX</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2444</lisID>
+          <bioguideId>T000479</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <lastName>Taylor</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <latestAction>
+      <actionDate>2019-03-12</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-02-05</introducedDate>
+    <committeeReports />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-03-12T16:16:47Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-02-05T17:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2019-03-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr974rfs/xml/BILLS-116hr974rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-03-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr974eh/xml/BILLS-116hr974eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr974ih/xml/BILLS-116hr974ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+    <notes />
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-03-11</actionDate>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:23:41</actionTime>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-03-11</actionDate>
+        <type>Floor</type>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2620)</text>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:23:37</actionTime>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2620</url>
+            <name>H2620</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2019-03-11</actionDate>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2620)</text>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionTime>16:23:37</actionTime>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2620</url>
+            <name>H2620</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2019-03-11</actionDate>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 974.</text>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:16:42</actionTime>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/974</url>
+            <name>H.R. 974</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2019-03-11</actionDate>
+        <type>Floor</type>
+        <text>Considered under suspension of the rules. (consideration: CR H2620-2621)</text>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:16:40</actionTime>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2620-2621</url>
+            <name>H2620-2621</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2019-03-11</actionDate>
+        <type>Floor</type>
+        <text>Ms. Waters moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>16:15:56</actionTime>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Federal Reserve Act to require the Vice Chairman for Supervision of the Board of Governors of the Federal Reserve System to provide a written report, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Federal Reserve Supervision Testimony Clarification Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Federal Reserve Supervision Testimony Clarification Act</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Federal Reserve Supervision Testimony Clarification Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <title>Federal Reserve Supervision Testimony Clarification Act</title>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Federal Reserve Supervision Testimony Clarification Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <state>NJ</state>
+        <district>5</district>
+        <identifiers>
+          <lisID>2338</lisID>
+          <gpoId />
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <firstName>Josh</firstName>
+        <lastName>Gottheimer</lastName>
+        <middleName />
+        <bioguideId>G000583</bioguideId>
+      </item>
+    </sponsors>
+    <title>Federal Reserve Supervision Testimony Clarification Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-02-05</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Federal Reserve Supervision Testimony Clarification Act </b></p> <p>This bill requires the Vice Chairman for Supervision of the Federal Reserve Board to provide a written testimony on board efforts regarding the supervision of certain financial institutions.&nbsp;If such position is vacant, another specified representative of the board must testify. </p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-02-25T17:13:51Z</lastSummaryUpdateDate>
+          <updateDate>2019-02-05T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2019-03-11</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <text><![CDATA[<p><b>Federal Reserve Supervision Testimony Clarification Act </b></p> <p>This bill requires the Vice Chairman for Supervision of the Federal Reserve Board to provide a written testimony on board efforts regarding the supervision of certain financial institutions.&nbsp;If such position is vacant, another specified representative of the board must testify. </p>]]></text>
+          <name>Passed House</name>
+          <lastSummaryUpdateDate>2019-04-02T21:39:00Z</lastSummaryUpdateDate>
+          <updateDate>2019-03-11T12:45:53Z</updateDate>
+          <versionCode>53</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOTTHEIMER:H.R. 974.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the Constitution statesthat Congress shall have the power ``to regulate Commercewith foreign Nations, and among the several States, and withthe Indian Tribes.''Article I, Section 8, Clause 18 of the Constitution statesthe Congress shall have the power ``to make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.''[Page H1362]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-02-06T08:10:16Z</createDate>
+    <billNumber>974</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Federal Reserve System</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

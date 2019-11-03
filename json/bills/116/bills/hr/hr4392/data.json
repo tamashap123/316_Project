@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4392-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "W000812", 
+      "district": "2", 
+      "name": "Wagner, Ann", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-09-18", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-18", 
+  "number": "4392", 
+  "official_title": "To direct the President to withdraw the application of the duty-free treatment with respect to Burma under the Generalized System of Preferences program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Allowing for the Safe Return of Rohingyas to Burma Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S000344", 
+    "district": "30", 
+    "name": "Sherman, Brad", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-18", 
+  "subjects": [
+    "Foreign trade and international finance"
+  ], 
+  "subjects_top_term": "Foreign trade and international finance", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Allowing for the Safe Return of Rohingyas to Burma Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Allowing for the Safe Return of Rohingyas to Burma Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the President to withdraw the application of the duty-free treatment with respect to Burma under the Generalized System of Preferences program, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Allowing for the Safe Return of Rohingyas to Burma Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-26T15:15:23Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4392.xml"
+}

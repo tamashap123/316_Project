@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-01-26T08:10:11Z</createDate>
+    <relatedBills />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <district>3</district>
+        <middleName />
+        <bioguideId>H001077</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <firstName>Clay</firstName>
+        <lastName>Higgins</lastName>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>H001077</bioguideId>
+          <lisID>2329</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <notes />
+    <congress>116</congress>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr798ih/xml/BILLS-116hr798ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-25T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <name>Immigration and Citizenship Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2019-01-25</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-01-25</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-01-25</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HIGGINS of Louisiana:H.R. 798.Congress has the power to enact this legislation pursuantto the following:Clause 18 of Section 8 of Article 1 of the Constitution.[Page H1218]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Returning Worker Accountability Act of 2019 </strong></p> <p>This bill exempts from the annual cap on nonimmigrant H-2B visas (temporary nonagricultural services) all returning workers who were already counted toward such cap during any of the preceding three fiscal years. </p> </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-25</actionDate>
+          <updateDate>2019-01-25T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-09-17T19:02:05Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-09-17T19:15:22Z</updateDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-05T17:20:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-01-25T19:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2019-03-05</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Immigration and Nationality Act to make the exception for returning workers permanent, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Returning Worker Accountability Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Returning Worker Accountability Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Returning Worker Accountability Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <introducedDate>2019-01-25</introducedDate>
+    <amendments />
+    <billNumber>798</billNumber>
+    <title>Returning Worker Accountability Act of 2019</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

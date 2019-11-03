@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-04-03T04:42:07Z</createDate>
+    <relatedBills>
+      <item>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <actionTime>10:00:34</actionTime>
+          <text>Conference held.</text>
+          <actionDate>2019-09-19</actionDate>
+        </latestAction>
+        <number>1790</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <text>Received in the Senate.</text>
+          <actionDate>2019-09-10</actionDate>
+        </latestAction>
+        <number>2500</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>To release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Readiness.</text>
+          <actionDate>2019-04-03</actionDate>
+        </latestAction>
+        <number>2033</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>B001236</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <notes />
+    <congress>116</congress>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <date>2019-04-02T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s986is/xml/BILLS-116s986is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Arkansas</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <lastName>Cotton</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AR</state>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-04-02</actionDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This bill releases to the State of Arkansas a reversionary interest in and to the surface estate of the land constituting Camp Joseph T. Robinson, consisting of approximately 141.52 acres.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-07-30T19:33:47Z</lastSummaryUpdateDate>
+          <updateDate>2019-04-02T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-09-20T11:30:22Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-02T16:54:43Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2019-04-02</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+      </item>
+    </titles>
+    <billType>S</billType>
+    <introducedDate>2019-04-02</introducedDate>
+    <amendments />
+    <billNumber>986</billNumber>
+    <title>A bill to release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

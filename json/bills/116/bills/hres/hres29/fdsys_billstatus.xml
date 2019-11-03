@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <number>11</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>A resolution honoring the 150th anniversary of Fort Sill in Lawton, Oklahoma.</latestTitle>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2019-01-08</actionDate>
+          <text>Referred to the Committee on Armed Services. (text: CR S70-72)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <createDate>2019-01-09T08:10:15Z</createDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres29ih/xml/BILLS-116hres29ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>This resolution honors Fort Sill in Lawton, Oklahoma, on its 150th anniversary.</p>]]></text>
+          <updateDate>2019-01-08T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-08</actionDate>
+          <lastSummaryUpdateDate>2019-02-13T15:46:19Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-24</actionDate>
+        <committee>
+          <systemCode>hsas03</systemCode>
+          <name>Readiness Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <actionDate>2019-01-08</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-08</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-08</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <committeeReports />
+    <amendments />
+    <billNumber>29</billNumber>
+    <version>1.0.0</version>
+    <updateDate>2019-07-30T12:58:40Z</updateDate>
+    <sponsors>
+      <item>
+        <state>OK</state>
+        <middleName />
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <lastName>Cole</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+          <lisID>1742</lisID>
+        </identifiers>
+        <district>4</district>
+        <firstName>Tom</firstName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Oklahoma</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-01-08</introducedDate>
+    <billType>HRES</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Honoring the 150th anniversary of Fort Sill in Lawton, Oklahoma.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Condemning White Supremacist Terrorism and the Anti-immigrant Rhetoric that Inspires It Resolution</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-08T17:06:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <activities>
+                <item>
+                  <date>2019-01-24T17:32:02Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Readiness Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Condemning White Supremacist Terrorism and the Anti-immigrant Rhetoric that Inspires It Resolution</title>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <actionDate>2019-01-24</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

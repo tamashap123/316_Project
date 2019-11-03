@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-10-11</actionDate>
+        <committee>
+          <name>General Farm Commodities and Risk Management Subcommittee</name>
+          <systemCode>hsag16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-09-26</actionDate>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <updateDate>2019-10-17T07:16:50Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>4521</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>DAVIS</lastName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>D000096</bioguideId>
+        <firstName>DANNY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <district>7</district>
+      </item>
+      <item>
+        <lastName>Perry</lastName>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2157</lisID>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>P000605</bioguideId>
+        <firstName>Scott</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <district>10</district>
+      </item>
+      <item>
+        <lastName>BLUMENAUER</lastName>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>CHABOT</lastName>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>C000266</bioguideId>
+        <firstName>STEVE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Speier</lastName>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>S001175</bioguideId>
+        <firstName>Jackie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <district>14</district>
+      </item>
+      <item>
+        <lastName>Biggs</lastName>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001302</bioguideId>
+          <lisID>2307</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>B001302</bioguideId>
+        <firstName>Andy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>KIND</lastName>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>K000188</bioguideId>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Roe</lastName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>R000582</bioguideId>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Lipinski</lastName>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>William</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>L000563</bioguideId>
+        <firstName>Daniel</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Fleischmann</lastName>
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J. "Chuck"</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>F000459</bioguideId>
+          <lisID>2061</lisID>
+          <gpoId>8150</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>F000459</bioguideId>
+        <firstName>Charles</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>RUSH</lastName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>R000515</bioguideId>
+        <firstName>BOBBY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Latta</lastName>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1885</lisID>
+          <bioguideId>L000566</bioguideId>
+          <gpoId>8095</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>L000566</bioguideId>
+        <firstName>Robert</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Kuster</lastName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>K000382</bioguideId>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NH</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Banks</lastName>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2326</lisID>
+          <bioguideId>B001299</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>B001299</bioguideId>
+        <firstName>Jim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IN</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Kilmer</lastName>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2169</lisID>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>K000381</bioguideId>
+        <firstName>Derek</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <district>6</district>
+      </item>
+      <item>
+        <lastName>Womack</lastName>
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000809</bioguideId>
+          <lisID>1991</lisID>
+          <gpoId>7795</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>W000809</bioguideId>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AR</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Ruppersberger</lastName>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Dutch</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>R000576</bioguideId>
+        <firstName>C. A.</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Budd</lastName>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2336</lisID>
+          <bioguideId>B001305</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>B001305</bioguideId>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NC</state>
+        <district>13</district>
+      </item>
+      <item>
+        <lastName>COOPER</lastName>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>H.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+          <gpoId>8152</gpoId>
+          <lisID>231</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>C000754</bioguideId>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Walorski</lastName>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000813</bioguideId>
+          <lisID>2128</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>W000813</bioguideId>
+        <firstName>Jackie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IN</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Swalwell</lastName>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>S001193</bioguideId>
+        <firstName>Eric</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <district>15</district>
+      </item>
+      <item>
+        <lastName>Meadows</lastName>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+          <lisID>2142</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>M001187</bioguideId>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NC</state>
+        <district>11</district>
+      </item>
+      <item>
+        <lastName>Veasey</lastName>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <lisID>2166</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>V000131</bioguideId>
+        <firstName>Marc</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <district>33</district>
+      </item>
+      <item>
+        <lastName>Smucker</lastName>
+        <fullName>Rep. Smucker, Lloyd [R-PA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001199</bioguideId>
+          <gpoId />
+          <lisID>2346</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>S001199</bioguideId>
+        <firstName>Lloyd</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <district>11</district>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <bioguideId>K000376</bioguideId>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <district>16</district>
+      </item>
+      <item>
+        <lastName>SENSENBRENNER</lastName>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>JAMES</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8218</gpoId>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-10-11</sponsorshipDate>
+        <bioguideId>S000244</bioguideId>
+        <firstName>F.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Schweikert</lastName>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1994</lisID>
+          <bioguideId>S001183</bioguideId>
+          <gpoId>7802</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-10-16</sponsorshipDate>
+        <bioguideId>S001183</bioguideId>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <district>6</district>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4521ih/xml/BILLS-116hr4521ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-26T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 156 (Thursday, September 26, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Ms. FOXX of North Carolina:H.R. 4521.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3: The Congress shall havePower to regulate Commerce with foreign Nations, and amongthe several States, and with the Indian tribes.[Page H8055]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-09-27T07:12:27Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Foxx</lastName>
+        <bioguideId>F000450</bioguideId>
+        <district>5</district>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8028</gpoId>
+          <bioguideId>F000450</bioguideId>
+          <lisID>1791</lisID>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>Virginia</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <actionDate>2019-10-11</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To reform the Federal sugar program, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Fair Sugar Policy Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Fair Sugar Policy Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Fair Sugar Policy Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-09-26</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        </latestAction>
+        <number>2568</number>
+        <latestTitle>Fair Sugar Policy Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-10-11T17:18:07Z</date>
+                </item>
+              </activities>
+              <name>General Farm Commodities and Risk Management Subcommittee</name>
+              <systemCode>hsag16</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-26T14:06:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-09-26</introducedDate>
+    <calendarNumbers />
+    <title>Fair Sugar Policy Act of 2019</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4549-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "E000298", 
+      "district": "4", 
+      "name": "Estes, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-09-27", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-27", 
+  "number": "4549", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to restore the deduction for research and experimental expenditures.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "AICA Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000557", 
+    "district": "1", 
+    "name": "Larson, John B.", 
+    "state": "CT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-27", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-09-27T04:00:00Z", 
+    "text": "American Innovation and Competitiveness Act of 2019 or the AICA Act of 2019\n\nThis bill eliminates the five-year amortization requirement for research and experimental expenditures scheduled to begin in 2022, thus allowing continued expensing of such expenditures in the taxable years in which they are incurred."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to restore the deduction for research and experimental expenditures.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "AICA Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "AICA Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Innovation and Competitiveness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Innovation and Competitiveness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "American Innovation and Competitiveness Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-24T04:16:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4549.xml"
+}

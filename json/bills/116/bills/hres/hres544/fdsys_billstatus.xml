@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2019-08-30</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-08-30T16:30:38Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <firstName>Al</firstName>
+        <party>D</party>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <byRequestType />
+        <middleName />
+        <state>TX</state>
+        <lastName>Green</lastName>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <bioguideId>G000553</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>Recognizing Islam as one of the great religions of the world.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>Recognizing Islam as one of the great religions of the world.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres544ih/xml/BILLS-116hres544ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-08-30T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2019-08-30</introducedDate>
+    <recordedVotes />
+    <committeeReports />
+    <title>Recognizing Islam as one of the great religions of the world.</title>
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <updateDate>2019-09-11T17:45:15Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2019-08-30</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2019-08-30</actionDate>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2019-08-30</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <billType>HRES</billType>
+    <billNumber>544</billNumber>
+    <laws />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <relatedBills />
+    <amendments />
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-08-30</sponsorshipDate>
+        <bioguideId>C001072</bioguideId>
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <middleName />
+        <state>IN</state>
+        <lastName>Carson</lastName>
+        <firstName>Andre</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-08-30</sponsorshipDate>
+        <bioguideId>T000481</bioguideId>
+        <identifiers>
+          <lisID>2410</lisID>
+          <bioguideId>T000481</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>MI</state>
+        <lastName>Tlaib</lastName>
+        <firstName>Rashida</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-08-30</sponsorshipDate>
+        <bioguideId>O000173</bioguideId>
+        <identifiers>
+          <lisID>2414</lisID>
+          <bioguideId>O000173</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>MN</state>
+        <lastName>Omar</lastName>
+        <firstName>Ilhan</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>14</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-10</sponsorshipDate>
+        <bioguideId>O000172</bioguideId>
+        <identifiers>
+          <lisID>2427</lisID>
+          <bioguideId>O000172</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>NY</state>
+        <lastName>Ocasio-Cortez</lastName>
+        <firstName>Alexandria</firstName>
+      </item>
+    </cosponsors>
+    <createDate>2019-08-31T07:12:10Z</createDate>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

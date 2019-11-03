@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-06-05T18:55:33Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution recognizing the importance of protecting freedom of speech, thought, and expression at institutions of higher education.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution recognizing the importance of protecting freedom of speech, thought, and expression at institutions of higher education.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <billType>SRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-05</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S3262</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3262</url>
+          </link>
+          <link>
+            <name>S3262-3263</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3262-3263</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S3262-3263; text: CR S3262)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-06-05</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>First Amendment rights</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <title>A resolution recognizing the importance of protecting freedom of speech, thought, and expression at institutions of higher education.</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-06-05</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S3262-3263; text: CR S3262)</text>
+      <actionDate>2019-06-05</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <party>R</party>
+        <firstName>Marsha</firstName>
+        <bioguideId>B001243</bioguideId>
+        <byRequestType />
+        <state>TN</state>
+        <lastName>Blackburn</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <firstName>Thomas</firstName>
+        <bioguideId>T000476</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>NC</state>
+        <lastName>Tillis</lastName>
+        <middleName>Roland</middleName>
+        <identifiers>
+          <gpoId />
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>James</firstName>
+        <bioguideId>L000575</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>OK</state>
+        <lastName>Lankford</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>John</firstName>
+        <bioguideId>C001056</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>TX</state>
+        <lastName>Cornyn</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <bioguideId>C001095</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>AR</state>
+        <lastName>Cotton</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <bioguideId>B001310</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>IN</state>
+        <lastName>Braun</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2462</lisID>
+          <gpoId />
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>CHARLES</firstName>
+        <bioguideId>G000386</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>IA</state>
+        <lastName>GRASSLEY</lastName>
+        <middleName>ERNEST</middleName>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Joni</firstName>
+        <bioguideId>E000295</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>IA</state>
+        <lastName>Ernst</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Marco</firstName>
+        <bioguideId>R000595</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>FL</state>
+        <lastName>Rubio</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Josh</firstName>
+        <bioguideId>H001089</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hawley, Josh  [R-MO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>MO</state>
+        <lastName>Hawley</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2464</lisID>
+          <bioguideId>H001089</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Tim</firstName>
+        <bioguideId>S001184</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>SC</state>
+        <lastName>Scott</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <firstName>Ted</firstName>
+        <bioguideId>C001098</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>TX</state>
+        <lastName>Cruz</lastName>
+        <middleName />
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date>2019-06-05T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres233is/xml/BILLS-116sres233is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>233</billNumber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+          <actionDate>2019-03-25</actionDate>
+        </latestAction>
+        <type>HRES</type>
+        <congress>116</congress>
+        <number>191</number>
+        <latestTitle>Expressing the sense of the House of Representatives relating to protecting freedom of speech, thought, and expression at institutions of higher education.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <updateDate>2019-10-31T16:15:40Z</updateDate>
+    <createDate>2019-06-06T04:57:11Z</createDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

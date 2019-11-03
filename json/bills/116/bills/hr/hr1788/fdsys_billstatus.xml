@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-14</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-03-14</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2019-10-18T07:15:55Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>1788</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>NADLER</lastName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <firstName>JERROLD</firstName>
+        <district>10</district>
+        <party>D</party>
+        <bioguideId>N000002</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Garamendi</lastName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <identifiers>
+          <gpoId>7815</gpoId>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>G000559</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <party>D</party>
+        <bioguideId>N000147</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Brownley</lastName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <identifiers>
+          <lisID>2106</lisID>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+        </identifiers>
+        <firstName>Julia</firstName>
+        <district>26</district>
+        <party>D</party>
+        <bioguideId>B001285</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Trahan</lastName>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Trahan, Lori [D-MA-3]</fullName>
+        <identifiers>
+          <bioguideId>T000482</bioguideId>
+          <lisID>2404</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Lori</firstName>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>T000482</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Perlmutter</lastName>
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <identifiers>
+          <bioguideId>P000593</bioguideId>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+        </identifiers>
+        <firstName>Ed</firstName>
+        <district>7</district>
+        <party>D</party>
+        <bioguideId>P000593</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cox</lastName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cox, TJ [D-CA-21]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001124</bioguideId>
+          <lisID>2378</lisID>
+        </identifiers>
+        <firstName>TJ</firstName>
+        <district>21</district>
+        <party>D</party>
+        <bioguideId>C001124</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHAKOWSKY</lastName>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <firstName>JANICE</firstName>
+        <district>9</district>
+        <party>D</party>
+        <bioguideId>S001145</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Rouda</lastName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+        <identifiers>
+          <bioguideId>R000616</bioguideId>
+          <gpoId />
+          <lisID>2382</lisID>
+        </identifiers>
+        <firstName>Harley</firstName>
+        <district>48</district>
+        <party>D</party>
+        <bioguideId>R000616</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <firstName>ZOE</firstName>
+        <district>19</district>
+        <party>D</party>
+        <bioguideId>L000397</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kuster</lastName>
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <firstName>Ann</firstName>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>K000382</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Underwood</lastName>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Underwood, Lauren [D-IL-14]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>U000040</bioguideId>
+          <lisID>2399</lisID>
+        </identifiers>
+        <firstName>Lauren</firstName>
+        <district>14</district>
+        <party>D</party>
+        <bioguideId>U000040</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Rose</lastName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <identifiers>
+          <bioguideId>R000613</bioguideId>
+          <gpoId />
+          <lisID>2426</lisID>
+        </identifiers>
+        <firstName>Max</firstName>
+        <district>11</district>
+        <party>D</party>
+        <bioguideId>R000613</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Babin</lastName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <identifiers>
+          <lisID>2270</lisID>
+          <gpoId />
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <district>36</district>
+        <party>R</party>
+        <bioguideId>B001291</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>JACKSON LEE</lastName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <firstName>SHEILA</firstName>
+        <district>18</district>
+        <party>D</party>
+        <bioguideId>J000032</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Huffman</lastName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jared</firstName>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>H001068</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>RUSH</lastName>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <identifiers>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <firstName>BOBBY</firstName>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>R000515</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>G000551</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-10-17</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Raskin</lastName>
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <firstName>Jamie</firstName>
+        <district>8</district>
+        <party>D</party>
+        <bioguideId>R000606</bioguideId>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-03-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1788ih/xml/BILLS-116hr1788ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. HILL of California:H.R. 1788.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution[Page H2747]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-03-15T07:12:08Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Hill</lastName>
+        <bioguideId>H001087</bioguideId>
+        <district>25</district>
+        <fullName>Rep. Hill, Katie [D-CA-25]</fullName>
+        <state>CA</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001087</bioguideId>
+          <gpoId />
+          <lisID>2379</lisID>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>Katie</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2019-03-14</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to limit the penalty for late enrollment under part B of the Medicare Program to 15 percent and twice the period of no enrollment, and to exclude periods of COBRA, retiree, and VA coverage from such late enrollment penalty.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to limit the penalty for late enrollment under part B of the Medicare Program to 15 percent and twice the period of no enrollment, and to exclude periods of COBRA, retiree, and VA coverage from such late enrollment penalty.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-14T13:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-14T15:26:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-14T13:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-03-14</introducedDate>
+    <calendarNumbers />
+    <title>To amend title XVIII of the Social Security Act to limit the penalty for late enrollment under part B of the Medicare Program to 15 percent and twice the period of no enrollment, and to exclude periods of COBRA, retiree, and VA coverage from such late enrollment penalty.</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
