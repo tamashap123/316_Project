@@ -30,14 +30,14 @@ def toSQLInsert(_id, name, _type, state, district, party, phone, address, contac
 	s += "'" + name + "', " 
 	s += "'" + _type + "', "
 	s += "'" + state + "', "
-	if district:
+	if district is not None:
 		s += str(district) + ", "
 	else:
 		s += "NULL, "
 	s += "'" + party + "', "
 	s += "'" + phone + "', "
 	s += "'" + address + "', "
-	if contact_form:
+	if contact_form is not None:
 		s += "'" + contact_form + "'"
 	else:
 		s += "NULL"
