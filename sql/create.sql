@@ -1,13 +1,16 @@
 CREATE TABLE Congressman
 (id INTEGER NOT NULL PRIMARY KEY,
  name VARCHAR(256) NOT NULL,
- house_or_senate CHAR(1) NOT NULL,
+ house_or_senate VARCHAR(5) NOT NULL,
  state VARCHAR(2) NOT NULL,
  district INTEGER,
- party CHAR(1) NOT NULL,
- CHECK(house_or_senate in ('H', 'S')),
- CHECK(party in ('D', 'R', 'I')),
- CHECK(district IS NOT NULL OR house_or_senate = 'S'));
+ party VARCHAR(15) NOT NULL,
+ phone VARCHAR(15) NOT NULL,
+ address VARCHAR(256) NOT NULL,
+ contact_form VARCHAR(256),
+ CHECK(house_or_senate in ('rep', 'sen')),
+ CHECK(party in ('Democrat', 'Republican', 'Independent')),
+ CHECK(district IS NOT NULL OR house_or_senate = 'sen'));
 
 CREATE TABLE Bill
 (type CHAR(1) NOT NULL,
@@ -53,8 +56,8 @@ BEGIN
 	INSERT INTO RepresentedBy(email, rep_id) (
 		SELECT NEW.email, Congressman.id
 		FROM Congressman
-		WHERE (Congressman.house_or_senate = 'S' AND Congressman.state = NEW.state) 
-			OR (Congressman.house_or_senate = 'H' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
+		WHERE (Congressman.house_or_senate = 'sen' AND Congressman.state = NEW.state) 
+			OR (Congressman.house_or_senate = 'rep' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
 	);
 	RETURN NEW;
 END;
@@ -73,8 +76,8 @@ BEGIN
 		INSERT INTO RepresentedBy(email, rep_id) (
 			SELECT NEW.email, Congressman.id
 			FROM Congressman
-			WHERE (Congressman.house_or_senate = 'S' AND Congressman.state = NEW.state) 
-				OR (Congressman.house_or_senate = 'H' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
+			WHERE (Congressman.house_or_senate = 'sen' AND Congressman.state = NEW.state) 
+				OR (Congressman.house_or_senate = 'rep' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
 		);
 		RETURN NEW;
 	END IF;
