@@ -5,9 +5,9 @@ CREATE TABLE Congressman
  state VARCHAR(2) NOT NULL,
  district INTEGER,
  party CHAR(1) NOT NULL,
- CHECK(house_or_senate in ('H', 'S')),
+ CHECK(house_or_senate in ('rep', 'sen')),
  CHECK(party in ('D', 'R', 'I')),
- CHECK(district IS NOT NULL OR house_or_senate = 'S'));
+ CHECK(district IS NOT NULL OR house_or_senate = 'sen'));
 
 CREATE TABLE Bill
 (type CHAR(1) NOT NULL,
@@ -53,8 +53,8 @@ BEGIN
 	INSERT INTO RepresentedBy(email, rep_id) (
 		SELECT NEW.email, Congressman.id
 		FROM Congressman
-		WHERE (Congressman.house_or_senate = 'S' AND Congressman.state = NEW.state) 
-			OR (Congressman.house_or_senate = 'H' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
+		WHERE (Congressman.house_or_senate = 'sen' AND Congressman.state = NEW.state) 
+			OR (Congressman.house_or_senate = 'rep' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
 	);
 	RETURN NEW;
 END;
@@ -73,8 +73,8 @@ BEGIN
 		INSERT INTO RepresentedBy(email, rep_id) (
 			SELECT NEW.email, Congressman.id
 			FROM Congressman
-			WHERE (Congressman.house_or_senate = 'S' AND Congressman.state = NEW.state) 
-				OR (Congressman.house_or_senate = 'H' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
+			WHERE (Congressman.house_or_senate = 'sen' AND Congressman.state = NEW.state) 
+				OR (Congressman.house_or_senate = 'rep' AND Congressman.state = NEW.state AND Congressman.district = NEW.district)
 		);
 		RETURN NEW;
 	END IF;
