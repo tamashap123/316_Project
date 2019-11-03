@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres366-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-09", 
+  "number": "366", 
+  "official_title": "Expressing support for designation of May as Stroke Awareness Month.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001281", 
+    "district": "3", 
+    "name": "Beatty, Joyce", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-09", 
+  "subjects": [
+    "Cardiovascular and respiratory health", 
+    "Commemorative events and holidays", 
+    "Health", 
+    "Medical research", 
+    "Neurological disorders"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-05-09T04:00:00Z", 
+    "text": "This resolution expresses support for the designation of Stroke Awareness Month.\n\nIt also encourages (1) support for the efforts, programs, services, and advocacy of organizations that work to enhance public awareness of stroke; and (2) continued coordination and cooperation between government, researchers, families, and the public to improve treatments and prognoses for individuals who suffer strokes."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expressing support for designation of May as Stroke Awareness Month.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expressing support for designation of May as Stroke Awareness Month.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-31T07:32:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres366.xml"
+}

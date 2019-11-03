@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <congress>116</congress>
+    <updateDate>2019-07-30T12:58:23Z</updateDate>
+    <cosponsors />
+    <amendments>
+      <amendment>
+        <purpose>An amendment to elect officers of the House.</purpose>
+        <description />
+        <chamber>House of Representatives</chamber>
+        <congress>116</congress>
+        <sponsors>
+          <item>
+            <bioguideId>C001109</bioguideId>
+            <lastName>Cheney</lastName>
+            <middleName />
+            <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+            <firstName>Liz</firstName>
+            <party>R</party>
+            <identifiers>
+              <gpoId />
+              <bioguideId>C001109</bioguideId>
+              <lisID>2356</lisID>
+            </identifiers>
+            <district>0</district>
+            <state>WY</state>
+          </item>
+        </sponsors>
+        <type>HAMDT</type>
+        <createDate>2019-01-04T13:39:25Z</createDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <amendedBill>
+          <type>HRES</type>
+          <congress>116</congress>
+          <originChamberCode>H</originChamberCode>
+          <originChamber>House</originChamber>
+          <title>Electing officers of the House of Representatives.</title>
+          <number>1</number>
+        </amendedBill>
+        <updateDate>2019-01-11T14:56:15Z</updateDate>
+        <proposedDate />
+        <titles />
+        <version>1.0.0</version>
+        <amendedAmendment />
+        <notes />
+        <purpose>An amendment to elect officers of the House.</purpose>
+        <submittedDate>2019-01-03T05:00:00Z</submittedDate>
+        <links />
+        <number>1</number>
+        <actions>
+          <count>7</count>
+          <actionTypeCounts>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentFailedByHouse>1</amendmentFailedByHouse>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <agreeingToTheAmendmentResults>1</agreeingToTheAmendmentResults>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2019-01-03</actionDate>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <actionTime>14:58:48</actionTime>
+              <actionCode>H34111</actionCode>
+              <text>On agreeing to the Cheney amendment (A001) Failed by voice vote.</text>
+              <type>Floor</type>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.1</name>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/1</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2019-01-03</actionDate>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <actionTime>14:58:20</actionTime>
+              <actionCode>H3A100</actionCode>
+              <text>Amendment (A001) offered by Ms. Cheney. (consideration: CR H7; text: CR H7)</text>
+              <type>Floor</type>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.1</name>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/1</url>
+                </link>
+                <link>
+                  <name>H7</name>
+                  <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2019-01-03</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-01-03</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>14:58:20</actionTime>
+              <actionCode>71500</actionCode>
+              <text>House amendment offered/reported by: Amendment (A001) offered by Ms. Cheney.(consideration: CR H7; text: CR H7)</text>
+              <type>NotUsed</type>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.1</name>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/1</url>
+                </link>
+                <link>
+                  <name>H7</name>
+                  <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2019-01-03</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>14:58:48</actionTime>
+              <actionCode>73000</actionCode>
+              <text>House amendment not agreed to: On agreeing to the Cheney amendment (A001) Failed by voice vote.</text>
+              <type>Floor</type>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.1</name>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/1</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2019-01-03</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionTime>14:58:48</actionTime>
+              <actionCode>80000</actionCode>
+              <text>Amendment failed by House: On agreeing to the Cheney amendment (A001) Failed by voice vote.</text>
+              <type>NotUsed</type>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.1</name>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/1</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2019-01-03</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionCode>71000</actionCode>
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <committee />
+              <links />
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <description />
+        <type>HAMDT</type>
+        <number>1</number>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>On agreeing to the Cheney amendment (A001) Failed by voice vote.</text>
+          <actionTime>14:58:48</actionTime>
+        </latestAction>
+      </amendment>
+    </amendments>
+    <latestAction>
+      <actionDate>2019-01-03</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>14:59:25</actionTime>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-03</introducedDate>
+    <committeeReports />
+    <relatedBills />
+    <committees>
+      <billCommittees />
+    </committees>
+    <textVersions>
+      <item>
+        <date>2019-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres1eh/xml/BILLS-116hres1eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+    <notes />
+    <billType>HRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <freeFormMotionsResults>2</freeFormMotionsResults>
+        <generalDebate>1</generalDebate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H38310</actionCode>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <committee />
+        <actionTime>14:59:25</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <text>Passed/agreed to in House: Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <committee />
+        <actionTime>14:59:25</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H36610</actionCode>
+        <text>On agreeing to remainder of the resolution Agreed to by voice vote. (text: CR H7)</text>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <links>
+          <link>
+            <name>H7</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7</url>
+          </link>
+        </links>
+        <committee />
+        <actionTime>14:59:15</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H36610</actionCode>
+        <text>On agreeing to that portion electing the Chaplain Agreed to by voice vote. (consideration: CR H7)</text>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <links>
+          <link>
+            <name>H7</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7</url>
+          </link>
+        </links>
+        <committee />
+        <actionTime>14:58:05</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <text>Ms. Cheney demanded that the question be divided on the adoption of the resolution so as to have a separate vote on the election of Chaplain. Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <committee />
+        <actionTime>14:57:35</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <text>Considered as privileged matter. (consideration: CR H7)</text>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <links>
+          <link>
+            <name>H7</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7</url>
+          </link>
+        </links>
+        <committee />
+        <actionTime>14:56:19</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Electing officers of the House of Representatives.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Electing officers of the House of Representatives.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <state>NY</state>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>J000294</bioguideId>
+          <gpoId />
+          <lisID>2149</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>Hakeem</firstName>
+        <lastName>Jeffries</lastName>
+        <middleName>S.</middleName>
+        <bioguideId>J000294</bioguideId>
+      </item>
+    </sponsors>
+    <title>Electing officers of the House of Representatives.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-01-07T16:53:33Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution elects the following officers of the House of Representatives: (1) Karen L. Haas as Clerk, (2) Paul D. Irving as Sergeant at Arms, (3) Philip George Kiko as Chief Administrative Officer, and (4) Father Patrick J. Conroy as Chaplain.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-01-03</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <createDate>2019-01-04T13:32:47Z</createDate>
+    <billNumber>1</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

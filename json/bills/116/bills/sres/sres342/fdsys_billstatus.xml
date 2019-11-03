@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5711-5712</url>
+            <name>S5711-5712</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Commerce, Science, and Transportation. (text: CR S5711-5712)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <updateDate>2019-10-16T13:58:48Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>342</billNumber>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <firstName>Sheldon</firstName>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <state>RI</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-09-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <state>CT</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <middleName />
+        <sponsorshipDate>2019-09-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Booker</lastName>
+        <bioguideId>B001288</bioguideId>
+        <firstName>Cory</firstName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <state>NJ</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-09-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARPER</lastName>
+        <bioguideId>C000174</bioguideId>
+        <firstName>THOMAS</firstName>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <state>DE</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2019-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-09-25T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres342is/xml/BILLS-116sres342is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <createDate>2019-09-26T04:27:29Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <state>MA</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <byRequestType />
+        <firstName>EDWARD</firstName>
+      </item>
+    </sponsors>
+    <billType>SRES</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Commerce, Science, and Transportation. (text: CR S5711-5712)</text>
+      <actionDate>2019-09-25</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A resolution expressing the need for immediate climate action in response to the report of the United Nations Intergovernmental Panel on Climate Change entitled "Special Report on the Ocean and Cryosphere in a Changing Climate".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A resolution expressing the need for immediate climate action in response to the report of the United Nations Intergovernmental Panel on Climate Change entitled "Special Report on the Ocean and Cryosphere in a Changing Climate".</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>589</number>
+        <type>HRES</type>
+        <latestTitle>Expressing the need for immediate climate action in response to the United Nations Intergovernmental Panel on Climate Change Special Report on the Ocean and Cryosphere in a Changing Climate.</latestTitle>
+        <latestAction>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, Natural Resources, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-09-25</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-25T23:06:51Z</date>
+            </item>
+          </activities>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-09-25</introducedDate>
+    <calendarNumbers />
+    <laws />
+    <title>A resolution expressing the need for immediate climate action in response to the report of the United Nations Intergovernmental Panel on Climate Change entitled "Special Report on the Ocean and Cryosphere in a Changing Climate".</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

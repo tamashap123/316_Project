@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-19T14:03:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>567</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-09-19</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-09-19</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-09-19</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <sponsors>
+      <item>
+        <district>9</district>
+        <middleName>J.</middleName>
+        <bioguideId>P000096</bioguideId>
+        <byRequestType />
+        <state>NJ</state>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <identifiers>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <firstName>WILLIAM</firstName>
+        <lastName>PASCRELL</lastName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <date>2019-09-19T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres567ih/xml/BILLS-116hres567ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <createDate>2019-09-20T07:12:18Z</createDate>
+    <notes />
+    <introducedDate>2019-09-19</introducedDate>
+    <titles>
+      <item>
+        <title>Supporting the designation of September 20, 2019, as "National Concussion Awareness Day".</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Supporting the designation of September 20, 2019, as "National Concussion Awareness Day".</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2019-09-19</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>B001298</bioguideId>
+        <district>2</district>
+        <middleName />
+        <state>NE</state>
+        <firstName>Don</firstName>
+        <lastName>Bacon</lastName>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>B001281</bioguideId>
+        <district>3</district>
+        <middleName />
+        <state>OH</state>
+        <firstName>Joyce</firstName>
+        <lastName>Beatty</lastName>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>K000382</bioguideId>
+        <district>2</district>
+        <middleName>M.</middleName>
+        <state>NH</state>
+        <firstName>Ann</firstName>
+        <lastName>Kuster</lastName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>G000551</bioguideId>
+        <district>3</district>
+        <middleName>M.</middleName>
+        <state>AZ</state>
+        <firstName>Raul</firstName>
+        <lastName>Grijalva</lastName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>B000490</bioguideId>
+        <district>2</district>
+        <middleName>D.</middleName>
+        <state>GA</state>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <identifiers>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>B001302</bioguideId>
+        <district>5</district>
+        <middleName />
+        <state>AZ</state>
+        <firstName>Andy</firstName>
+        <lastName>Biggs</lastName>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <identifiers>
+          <lisID>2307</lisID>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>S001215</bioguideId>
+        <district>11</district>
+        <middleName>M.</middleName>
+        <state>MI</state>
+        <firstName>Haley</firstName>
+        <lastName>Stevens</lastName>
+        <fullName>Rep. Stevens, Haley M. [D-MI-11]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001215</bioguideId>
+          <lisID>2409</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>G000583</bioguideId>
+        <district>5</district>
+        <middleName />
+        <state>NJ</state>
+        <firstName>Josh</firstName>
+        <lastName>Gottheimer</lastName>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2338</lisID>
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>L000557</bioguideId>
+        <district>1</district>
+        <middleName>B.</middleName>
+        <state>CT</state>
+        <firstName>JOHN</firstName>
+        <lastName>LARSON</lastName>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+          <lisID>1583</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>L000565</bioguideId>
+        <district>2</district>
+        <middleName />
+        <state>IA</state>
+        <firstName>David</firstName>
+        <lastName>Loebsack</lastName>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <identifiers>
+          <gpoId>7915</gpoId>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>D000096</bioguideId>
+        <district>7</district>
+        <middleName>K.</middleName>
+        <state>IL</state>
+        <firstName>DANNY</firstName>
+        <lastName>DAVIS</lastName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <bioguideId>S001156</bioguideId>
+        <district>38</district>
+        <middleName>T.</middleName>
+        <state>CA</state>
+        <firstName>LINDA</firstName>
+        <lastName>SANCHEZ</lastName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <identifiers>
+          <gpoId>7844</gpoId>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <title>Supporting the designation of September 20, 2019, as "National Concussion Awareness Day".</title>
+    <updateDate>2019-10-10T16:30:23Z</updateDate>
+    <billType>HRES</billType>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <type>SRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution supporting the designation of September 20, 2019, as "National Concussion Awareness Day".</latestTitle>
+        <latestAction>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S5760; text: CR S5754-5755)</text>
+          <actionDate>2019-09-26</actionDate>
+        </latestAction>
+        <number>349</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-06-27</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-06-27</actionDate>
+          <lastSummaryUpdateDate>2019-07-15T18:49:10Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2019-06-27T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Clean Fuel Infrastructure Act </strong></p> <p>This bill extends the tax credit for alternative fuel vehicle refueling property through December 31, 2021. </p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <title>Clean Fuel Infrastructure Act</title>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to extend the credit for alternative fuel vehicle refueling property, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Clean Fuel Infrastructure Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Clean Fuel Infrastructure Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Clean Fuel Infrastructure Act</title>
+      </item>
+    </titles>
+    <billNumber>2038</billNumber>
+    <sponsors>
+      <item>
+        <state>NV</state>
+        <party>D</party>
+        <bioguideId>C001113</bioguideId>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+          <lisID>2299</lisID>
+        </identifiers>
+        <firstName>Catherine</firstName>
+        <lastName>Cortez Masto</lastName>
+      </item>
+    </sponsors>
+    <laws />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <identifiers>
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001203</bioguideId>
+        <middleName />
+        <state>MN</state>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Smith</lastName>
+        <firstName>Tina</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <bioguideId>G000555</bioguideId>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gillibrand</lastName>
+        <firstName>Kirsten</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <bioguideId>R000608</bioguideId>
+        <middleName />
+        <state>NV</state>
+        <sponsorshipDate>2019-08-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rosen</lastName>
+        <firstName>Jacklyn</firstName>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <notes />
+    <amendments />
+    <latestAction>
+      <actionDate>2019-06-27</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to permanently extend the alternative fuel refueling property credit.</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-04-02</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <number>2025</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <updateDate>2019-08-02T07:43:39Z</updateDate>
+    <introducedDate>2019-06-27</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-06-27T21:09:46Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-06-28T04:42:16Z</createDate>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <date>2019-06-27T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2038is/xml/BILLS-116s2038is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

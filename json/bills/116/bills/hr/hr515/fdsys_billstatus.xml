@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-01-11T14:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to repeal the limitation on the deduction for certain State, local, and foreign taxes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>State And Local Tax Deduction Fairness Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>State And Local Tax Deduction Fairness Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>State And Local Tax Deduction Fairness Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H519-H520]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ENGEL:H.R. 515.Congress has the power to enact this legislation pursuantto the following:The bill is enacted pursuant to the power granted toCongress under the following provisions of the United StatesConstitution:Article I, Section 1;[[Page H520]]Article I, Section 8, Clause 1;Article I, Section 8, Clause 3; andArticle I, Section 8, Clause 18.</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr515ih/xml/BILLS-116hr515ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-11T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Property tax</name>
+          </item>
+          <item>
+            <name>State and local taxation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>ELIOT</firstName>
+        <bioguideId>E000179</bioguideId>
+        <identifiers>
+          <lisID>344</lisID>
+          <bioguideId>E000179</bioguideId>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>16</district>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <party>D</party>
+        <state>NY</state>
+        <lastName>ENGEL</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-01-12T08:10:15Z</createDate>
+    <title>State And Local Tax Deduction Fairness Act of 2019</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-02-01T15:48:09Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-01-11</actionDate>
+          <updateDate>2019-01-11T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b> State And Local Tax Deduction Fairness Act of 2019</b></p> <p> This bill repeals the limitation on individual tax deductions for certain state and local taxes. (For tax years 2018-2025, the deduction for certain state and local taxes is currently limited to $10,000 per year for individuals or $5,000 for married individuals filing a separate return.) </p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <billType>HR</billType>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2019-01-11</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1794</lisID>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>26</district>
+        <lastName>Higgins</lastName>
+        <firstName>Brian</firstName>
+        <bioguideId>H001038</bioguideId>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000613</bioguideId>
+          <gpoId />
+          <lisID>2426</lisID>
+        </identifiers>
+        <middleName />
+        <district>11</district>
+        <lastName>Rose</lastName>
+        <firstName>Max</firstName>
+        <bioguideId>R000613</bioguideId>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001308</bioguideId>
+          <gpoId />
+          <lisID>2429</lisID>
+        </identifiers>
+        <middleName />
+        <district>22</district>
+        <lastName>Brindisi</lastName>
+        <firstName>Anthony</firstName>
+        <bioguideId>B001308</bioguideId>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <lastName>Clarke</lastName>
+        <firstName>Yvette</firstName>
+        <bioguideId>C001067</bioguideId>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+          <lisID>2230</lisID>
+        </identifiers>
+        <middleName />
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <firstName>Ted</firstName>
+        <bioguideId>L000582</bioguideId>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7838</gpoId>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+        </identifiers>
+        <middleName />
+        <district>37</district>
+        <lastName>Bass</lastName>
+        <firstName>Karen</firstName>
+        <bioguideId>B001270</bioguideId>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <district>2</district>
+        <lastName>Boyle</lastName>
+        <firstName>Brendan</firstName>
+        <bioguideId>B001296</bioguideId>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <middleName />
+        <district>8</district>
+        <lastName>Sires</lastName>
+        <firstName>Albio</firstName>
+        <bioguideId>S001165</bioguideId>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001205</bioguideId>
+          <gpoId />
+          <lisID>2373</lisID>
+        </identifiers>
+        <middleName>Gay</middleName>
+        <district>5</district>
+        <lastName>Scanlon</lastName>
+        <firstName>Mary</firstName>
+        <bioguideId>S001205</bioguideId>
+        <fullName>Rep. Scanlon, Mary Gay [D-PA-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1506</lisID>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <district>5</district>
+        <lastName>MEEKS</lastName>
+        <firstName>GREGORY</firstName>
+        <bioguideId>M001137</bioguideId>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001110</bioguideId>
+          <gpoId />
+          <lisID>2312</lisID>
+        </identifiers>
+        <middleName>Luis</middleName>
+        <district>46</district>
+        <lastName>Correa</lastName>
+        <firstName>J.</firstName>
+        <bioguideId>C001110</bioguideId>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2380</lisID>
+          <bioguideId>C001123</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>Ray</middleName>
+        <district>39</district>
+        <lastName>Cisneros</lastName>
+        <firstName>Gilbert</firstName>
+        <bioguideId>C001123</bioguideId>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>30</district>
+        <lastName>SHERMAN</lastName>
+        <firstName>BRAD</firstName>
+        <bioguideId>S000344</bioguideId>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000474</bioguideId>
+          <lisID>2231</lisID>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>35</district>
+        <lastName>Torres</lastName>
+        <firstName>Norma</firstName>
+        <bioguideId>T000474</bioguideId>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000583</bioguideId>
+          <lisID>2338</lisID>
+        </identifiers>
+        <middleName />
+        <district>5</district>
+        <lastName>Gottheimer</lastName>
+        <firstName>Josh</firstName>
+        <bioguideId>G000583</bioguideId>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001185</bioguideId>
+          <lisID>2150</lisID>
+        </identifiers>
+        <middleName>Patrick</middleName>
+        <district>18</district>
+        <lastName>Maloney</lastName>
+        <firstName>Sean</firstName>
+        <bioguideId>M001185</bioguideId>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <middleName />
+        <district>1</district>
+        <lastName>Pingree</lastName>
+        <firstName>Chellie</firstName>
+        <bioguideId>P000597</bioguideId>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000618</bioguideId>
+          <lisID>2381</lisID>
+        </identifiers>
+        <middleName />
+        <district>45</district>
+        <lastName>Porter</lastName>
+        <firstName>Katie</firstName>
+        <bioguideId>P000618</bioguideId>
+        <fullName>Rep. Porter, Katie [D-CA-45]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>26</district>
+        <lastName>Brownley</lastName>
+        <firstName>Julia</firstName>
+        <bioguideId>B001285</bioguideId>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001206</bioguideId>
+          <lisID>2371</lisID>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>25</district>
+        <lastName>Morelle</lastName>
+        <firstName>Joseph</firstName>
+        <bioguideId>M001206</bioguideId>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-08-30</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <updateDate>2019-08-31T07:15:23Z</updateDate>
+    <recordedVotes />
+    <introducedDate>2019-01-11</introducedDate>
+    <billNumber>515</billNumber>
+    <relatedBills>
+      <item>
+        <latestTitle>SALT Deductibility Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-01-03</actionDate>
+        </latestAction>
+        <number>188</number>
+      </item>
+      <item>
+        <latestTitle>SALT Fairness Act of 2019</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-01-04</actionDate>
+        </latestAction>
+        <number>257</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

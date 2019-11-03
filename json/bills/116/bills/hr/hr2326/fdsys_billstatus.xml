@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-04-16T07:12:08Z</createDate>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-09-19</actionDate>
+          <text>Conference held.</text>
+          <actionTime>10:00:34</actionTime>
+        </latestAction>
+        <number>1790</number>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-09-10</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <number>2500</number>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <district>49</district>
+        <middleName />
+        <bioguideId>L000593</bioguideId>
+        <byRequestType />
+        <party>D</party>
+        <firstName>Mike</firstName>
+        <lastName>Levin</lastName>
+        <fullName>Rep. Levin, Mike [D-CA-49]</fullName>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000593</bioguideId>
+          <gpoId />
+          <lisID>2383</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <notes />
+    <congress>116</congress>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-05-20T13:33:29Z</pubDate>
+        <title>H.R. 2326, Navy SEAL Chief Petty Officer William ″Bill″ Mulder (Ret.) Transition Improvement Act of 2019</title>
+        <url>https://www.cbo.gov/publication/55271</url>
+      </item>
+    </cboCostEstimates>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2326rds/xml/BILLS-116hr2326rds.xml</url>
+          </item>
+        </formats>
+        <type>Received in Senate</type>
+        <date>2019-05-22T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2326eh/xml/BILLS-116hr2326eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2019-05-21T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2326rh/xml/BILLS-116hr2326rh.xml</url>
+          </item>
+        </formats>
+        <type>Reported in House</type>
+        <date>2019-05-20T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2326ih/xml/BILLS-116hr2326ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-04-15T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers>
+      <item>
+        <calendar>U00049</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <committeeDischarged>2</committeeDischarged>
+        <houseCommitteeDischarged>2</houseCommitteeDischarged>
+        <reportedToHouse>1</reportedToHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <forwardedBySubcommitteeToFullCommittee>1</forwardedBySubcommitteeToFullCommittee>
+        <generalDebate>1</generalDebate>
+        <billReferrals>3</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionTime>16:15:30</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>H38310</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionTime>16:15:28</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4035-4036)</text>
+        <type>Floor</type>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H4035-4036</url>
+            <name>H4035-4036</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionTime>16:15:28</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4035-4036)</text>
+        <type>Floor</type>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H4035-4036</url>
+            <name>H4035-4036</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionTime>15:49:44</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2326.</text>
+        <type>Floor</type>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/2326</url>
+            <name>H.R. 2326</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionTime>15:49:43</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H4035-4039)</text>
+        <type>Floor</type>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H4035-4039</url>
+            <name>H4035-4039</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionTime>15:49:23</actionTime>
+        <text>Mr. Takano moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionDate>2019-05-21</actionDate>
+        <actionCode>H30300</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Placed on the Union Calendar, Calendar No. 49.</text>
+        <type>Calendars</type>
+        <actionDate>2019-05-20</actionDate>
+        <actionCode>H12410</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H12300</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Committee on Ways and Means discharged.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-05-20</actionDate>
+        <links />
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionCode>5500</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Committee on Ways and Means discharged.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-20</actionDate>
+        <links />
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H12300</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Committee on Armed Services discharged.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-05-20</actionDate>
+        <links />
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionCode>5500</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Committee on Armed Services discharged.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-20</actionDate>
+        <links />
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-73, Part I.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-05-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/73</url>
+            <name>H. Rept. 116-73</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-73, Part I.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-20</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/73</url>
+            <name>H. Rept. 116-73</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-16</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-04-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-04-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-04-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-15</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-15</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>22</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-73</citation>
+      </committeeReport>
+    </committeeReports>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Adult education and literacy</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LEVIN of California:H.R. 2326.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H3271]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+          <lisID>2350</lisID>
+          <gpoId />
+        </identifiers>
+        <district>19</district>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <lastName>Arrington</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>C.</middleName>
+        <firstName>Jodey</firstName>
+        <bioguideId>A000375</bioguideId>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001123</bioguideId>
+          <lisID>2380</lisID>
+          <gpoId />
+        </identifiers>
+        <district>39</district>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <lastName>Cisneros</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>Ray</middleName>
+        <firstName>Gilbert</firstName>
+        <bioguideId>C001123</bioguideId>
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+          <gpoId>7881</gpoId>
+        </identifiers>
+        <district>12</district>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <lastName>Bilirakis</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <firstName>Gus</firstName>
+        <bioguideId>B001257</bioguideId>
+      </item>
+      <item>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>C001122</bioguideId>
+          <gpoId />
+          <lisID>2437</lisID>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Cunningham, Joe [D-SC-1]</fullName>
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <lastName>Cunningham</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Joe</firstName>
+        <bioguideId>C001122</bioguideId>
+      </item>
+      <item>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2425</lisID>
+          <bioguideId>L000590</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <lastName>Lee</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Susie</firstName>
+        <bioguideId>L000590</bioguideId>
+      </item>
+      <item>
+        <state>AS</state>
+        <identifiers>
+          <bioguideId>R000600</bioguideId>
+          <gpoId />
+          <lisID>2222</lisID>
+        </identifiers>
+        <district>0</district>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <lastName>Radewagen</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>Coleman</middleName>
+        <firstName>Aumua Amata</firstName>
+        <bioguideId>R000600</bioguideId>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000618</bioguideId>
+          <lisID>2381</lisID>
+          <gpoId />
+        </identifiers>
+        <district>45</district>
+        <fullName>Rep. Porter, Katie [D-CA-45]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <lastName>Porter</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Katie</firstName>
+        <bioguideId>P000618</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2167</lisID>
+          <bioguideId>V000132</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>34</district>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <lastName>Vela</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Filemon</firstName>
+        <bioguideId>V000132</bioguideId>
+      </item>
+      <item>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>W000824</bioguideId>
+          <lisID>2402</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Watkins, Steve [R-KS-2]</fullName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <lastName>Watkins</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Steve</firstName>
+        <bioguideId>W000824</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+          <gpoId />
+          <lisID>2444</lisID>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <lastName>Taylor</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Van</firstName>
+        <bioguideId>T000479</bioguideId>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <firstName>Brian</firstName>
+        <bioguideId>F000466</bioguideId>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-09-20T11:15:22Z</updateDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2019-05-20T15:28:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-15T20:30:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2019-05-20T15:27:54Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-15T20:30:10Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-16T19:38:59Z</date>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+              <systemCode>hsas02</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-05-20T15:27:12Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-15T20:30:05Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Reported by</name>
+                  <date>2019-05-01T18:50:08Z</date>
+                </item>
+                <item>
+                  <name>Markup by</name>
+                  <date>2019-05-01T18:50:01Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-01T18:49:50Z</date>
+                </item>
+              </activities>
+              <name>Economic Opportunity Subcommittee</name>
+              <systemCode>hsvr10</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2019-05-22</actionDate>
+      <text>Received in the Senate.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <title>To amend the Social Security Act, to amend the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012, and to direct the Secretaries of Veterans Affairs, Defense, Labor, and Homeland Security, and the Administrator of the Small Business Administration, to take certain actions to improve transition assistance to members of the Armed Forces who separate, retire, or are discharged from the Armed Forces, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Navy SEAL Chief Petty Officer William ‘Bill’ Mulder (Ret.) Transition Improvement Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Navy SEAL Chief Petty Officer William Bill Mulder (Ret.) Transition Improvement Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <introducedDate>2019-04-15</introducedDate>
+    <amendments />
+    <billNumber>2326</billNumber>
+    <title>Navy SEAL Chief Petty Officer William "Bill" Mulder (Ret.) Transition Improvement Act of 2019</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-04-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-04-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <middleName />
+        <lastName>SHERMAN</lastName>
+        <district>30</district>
+        <identifiers>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <firstName>BRAD</firstName>
+        <bioguideId>S000344</bioguideId>
+        <party>D</party>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <createDate>2019-04-13T07:12:10Z</createDate>
+    <originChamber>House</originChamber>
+    <title>Tax Filing Simplification Act of 2019</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Internal Revenue Service (IRS)</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-08-03T08:16:04Z</updateDate>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestTitle>Tax Filing Simplification Act of 2019</latestTitle>
+        <latestAction>
+          <actionDate>2019-04-11</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>1194</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName>S.</middleName>
+        <lastName>Beyer</lastName>
+        <bioguideId>B001292</bioguideId>
+        <district>8</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>Donald</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>VA</state>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+          <lisID>2272</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Raskin</lastName>
+        <bioguideId>R000606</bioguideId>
+        <district>8</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>Jamie</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MD</state>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <lastName>RYAN</lastName>
+        <bioguideId>R000577</bioguideId>
+        <district>13</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>TIM</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>OH</state>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Hill</lastName>
+        <bioguideId>H001087</bioguideId>
+        <district>25</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>Katie</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <fullName>Rep. Hill, Katie [D-CA-25]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001087</bioguideId>
+          <gpoId />
+          <lisID>2379</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Ocasio-Cortez</lastName>
+        <bioguideId>O000172</bioguideId>
+        <district>14</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>Alexandria</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NY</state>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>O000172</bioguideId>
+          <gpoId />
+          <lisID>2427</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <lastName>BLUMENAUER</lastName>
+        <bioguideId>B000574</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>EARL</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Speier</lastName>
+        <bioguideId>S001175</bioguideId>
+        <district>14</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <firstName>Jackie</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <lastName>SMITH</lastName>
+        <bioguideId>S000510</bioguideId>
+        <district>9</district>
+        <sponsorshipDate>2019-08-02</sponsorshipDate>
+        <firstName>ADAM</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>WA</state>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8213</gpoId>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billNumber>2297</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SHERMAN:H.R. 2297.Congress has the power to enact this legislation pursuantto the following:Article I Section 8[Page H3265]</pre>]]></constitutionalAuthorityStatementText>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to establish a free online tax preparation and filing service and programs that allow taxpayers to access third-party provided tax return information.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Tax Filing Simplification Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Tax Filing Simplification Act of 2019</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Tax Filing Simplification Act of 2019</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-12T18:30:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <latestAction>
+      <actionDate>2019-04-12</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-04-12</introducedDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-04-12T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Tax Filing Simplification Act of 201</b><b>9</b></p> <p>This bill requires the Internal Revenue Service (IRS) to establish and operate the following programs free of charge</p> <ul> <li> online tax preparation and filing software, </li> <li>a program for taxpayers to download third-party provided return information relating to individual income tax returns,</li> <li> a program to permit individuals with simplified tax situations to elect to have the IRS prepare their returns, and</li> <li>a program to provide technical assistance and disclose federal income tax return information to states that provide or seek to provide state-level tax filing and preparation software. </li> </ul> <p>The IRS may not enter into any agreement that restricts its legal right to provide tax return preparation services, software, or tax return filing services. </p> <p> Individuals participating in, or accessing information from, the programs established by this bill must verify their identity to the satisfaction of the IRS. The IRS may not employ knowledge-based verification procedures to verify the identity of the individuals. </p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-07-01T16:20:46Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2019-04-12</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-04-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2297ih/xml/BILLS-116hr2297ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <congress>116</congress>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

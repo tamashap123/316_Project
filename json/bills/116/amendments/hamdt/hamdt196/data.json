@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-02T11:48:26-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.196", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/196"
+        }, 
+        {
+          "name": "Roll no. 182", 
+          "url": "http://clerk.house.gov/evs/2019/roll182.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "roll": 182, 
+      "text": "On agreeing to the Engel amendment (A028) Agreed to by recorded vote: 259 - 166 (Roll no. 182).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-05-02T10:25:07-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.196", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/196"
+        }, 
+        {
+          "name": "H3419", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3419"
+        }, 
+        {
+          "name": "H3419-3420", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3419-3420"
+        }, 
+        {
+          "name": "H3426", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3426"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3419-3420, H3426", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3419", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A028) offered by Mr. Engel.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02T11:48:26-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.196", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/196"
+        }, 
+        {
+          "name": "Roll no. 182", 
+          "url": "http://clerk.house.gov/evs/2019/roll182.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02T11:48:26-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.196", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/196"
+        }, 
+        {
+          "name": "Roll no. 182", 
+          "url": "http://clerk.house.gov/evs/2019/roll182.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Engel amendment (A028) Agreed to by recorded vote: 259 - 166 (Roll no. 182).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02T11:48:26-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.196", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/196"
+        }, 
+        {
+          "name": "Roll no. 182", 
+          "url": "http://clerk.house.gov/evs/2019/roll182.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02T10:25:07-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.196", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/196"
+        }, 
+        {
+          "name": "H3419", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3419"
+        }, 
+        {
+          "name": "H3419-3420", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3419-3420"
+        }, 
+        {
+          "name": "H3426", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3426"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A028) offered by Mr. Engel.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt196-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr9-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 9
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment to require the President's plan to take into consideration populations, regions, industries, and constituencies affected, including American jobs, consumer energy costs, and the ability to develop and deploy new technologies.", 
+  "introduced_at": "2019-05-02", 
+  "number": 196, 
+  "purpose": "An amendment numbered 29 printed in House Report 116-42 to require the President's plan to take into consideration populations, regions, industries, and constituencies affected, including American jobs, consumer energy costs, and the ability to develop and deploy new technologies.", 
+  "sponsor": {
+    "bioguide_id": "E000179", 
+    "district": "16", 
+    "name": "Engel, Eliot L.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-05-02T11:48:26-04:00", 
+  "updated_at": "2019-07-05T21:50:56Z"
+}

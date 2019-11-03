@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <notes />
+    <introducedDate>2019-05-07</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MALONEY</lastName>
+        <district>12</district>
+        <bioguideId>M000087</bioguideId>
+        <identifiers>
+          <bioguideId>M000087</bioguideId>
+          <lisID>729</lisID>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <party>D</party>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <firstName>CAROLYN</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heck</lastName>
+        <district>10</district>
+        <bioguideId>H001064</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2170</lisID>
+          <bioguideId>H001064</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <firstName>Denny</firstName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <date>2019-09-27T16:02:52Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2019-05-07T16:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsba00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionCode>H12410</actionCode>
+        <text>Placed on the Union Calendar, Calendar No. 172.</text>
+        <type>Calendars</type>
+        <actionDate>2019-09-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 116-219.</text>
+        <type>Committee</type>
+        <actionDate>2019-09-27</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 116-219</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/219</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 116-219.</text>
+        <type>Committee</type>
+        <actionDate>2019-09-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 116-219</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/219</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-07</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-219</citation>
+      </committeeReport>
+    </committeeReports>
+    <laws />
+    <recordedVotes />
+    <billNumber>2534</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>CT</state>
+        <bioguideId>H001047</bioguideId>
+        <lastName>Himes</lastName>
+        <firstName>James</firstName>
+        <middleName>A.</middleName>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <district>4</district>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+          <gpoId>7869</gpoId>
+          <lisID>1913</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Insider Trading Prohibition Act</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2019-09-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2534rh/xml/BILLS-116hr2534rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-05-07T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2534ih/xml/BILLS-116hr2534ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HIMES:H.R. 2534.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution.[Page H3475]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <updateDate>2019-09-30T14:30:22Z</updateDate>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00172</calendar>
+      </item>
+    </calendarNumbers>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend the Securities Exchange Act of 1934 to prohibit certain securities trading and related communications by those who possess material, nonpublic information.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Insider Trading Prohibition Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Insider Trading Prohibition Act</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Insider Trading Prohibition Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Insider Trading Prohibition Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Insider Trading Prohibition Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-09-27</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 172.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <congress>116</congress>
+    <amendments />
+    <createDate>2019-05-08T07:12:11Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

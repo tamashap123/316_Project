@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>190</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <congress>116</congress>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2019/roll190.xml</url>
+        <date>2019-05-09T18:02:46Z</date>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>189</rollNumber>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <congress>116</congress>
+        <chamber>House</chamber>
+        <sessionNumber>1</sessionNumber>
+        <url>http://clerk.house.gov/evs/2019/roll189.xml</url>
+        <date>2019-05-09T17:53:48Z</date>
+      </recordedVote>
+    </recordedVotes>
+    <billType>HRES</billType>
+    <billNumber>357</billNumber>
+    <relatedBills>
+      <item>
+        <latestTitle>Protecting Americans with Preexisting Conditions Act of 2019</latestTitle>
+        <number>986</number>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 90.</text>
+          <actionDate>2019-05-15</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Additional Supplemental Appropriations for Disaster Relief Act, 2019</latestTitle>
+        <number>2157</number>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Became Public Law No: 116-20.</text>
+          <actionDate>2019-06-06</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 986) to provide that certain guidance related to waivers for State innovation under the Patient Protection and Affordable Care Act shall have no force or effect, and providing for consideration of the bill (H.R. 2157) making supplemental appropriations for the fiscal year ending September 30, 2019.]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-05-08T08:01:45Z</lastSummaryUpdateDate>
+          <actionDate>2019-05-07</actionDate>
+          <updateDate>2019-05-07T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>This resolution sets forth the rule for consideration of H.R. 986 (Protecting Americans with Preexisting Conditions Act of 2019) and H.R. 2157 (Supplemental Appropriations Act, 2019).</p>]]></text>
+          <actionDesc>Passed House</actionDesc>
+          <versionCode>53</versionCode>
+          <lastSummaryUpdateDate>2019-07-29T14:29:22Z</lastSummaryUpdateDate>
+          <actionDate>2019-05-09</actionDate>
+          <updateDate>2019-05-09T12:48:34Z</updateDate>
+          <name>Passed House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>14:02:48</actionTime>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>14:02:46</actionTime>
+        <committee />
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 191 (Roll no. 190). (text: CR H3510)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3510</url>
+            <name>H3510</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll190.xml</url>
+            <name>Roll no. 190</name>
+          </link>
+        </links>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>14:02:46</actionTime>
+        <committee />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 191 (Roll no. 190).(text: CR H3510)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3510</url>
+            <name>H3510</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll190.xml</url>
+            <name>Roll no. 190</name>
+          </link>
+        </links>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:53:48</actionTime>
+        <committee />
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 227 - 190, 1 Present (Roll no. 189). (consideration: CR H3518)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3518</url>
+            <name>H3518</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2019/roll189.xml</url>
+            <name>Roll no. 189</name>
+          </link>
+        </links>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:25:53</actionTime>
+        <committee />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 357.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/357</url>
+            <name>H. Res. 357</name>
+          </link>
+        </links>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:21:36</actionTime>
+        <committee />
+        <text>Considered as privileged matter. (consideration: CR H3510-3519)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3510-3519</url>
+            <name>H3510-3519</name>
+          </link>
+        </links>
+        <actionDate>2019-05-09</actionDate>
+      </item>
+      <item>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <type>Calendars</type>
+        <text>Placed on the House Calendar, Calendar No. 22.</text>
+        <links />
+        <actionDate>2019-05-07</actionDate>
+      </item>
+      <item>
+        <actionCode>H12700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>19:25:41</actionTime>
+        <committee />
+        <text>Provides for consideration of H.R. 986 and H.R. 2157 both under structured rules. One hour of general debate provided for each measure.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/2157</url>
+            <name>H.R. 2157</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/986</url>
+            <name>H.R. 986</name>
+          </link>
+        </links>
+        <actionDate>2019-05-07</actionDate>
+      </item>
+      <item>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 116-51, by Ms. Shalala.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/51</url>
+            <name>H. Rept. 116-51</name>
+          </link>
+        </links>
+        <actionDate>2019-05-07</actionDate>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 116-51, by Ms. Shalala.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/51</url>
+            <name>H. Rept. 116-51</name>
+          </link>
+        </links>
+        <actionDate>2019-05-07</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionDate>2019-05-07</actionDate>
+      </item>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <provisionsOfARule>1</provisionsOfARule>
+        <reportedToHouse>1</reportedToHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <middleName>E.</middleName>
+        <bioguideId>S001206</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Shalala, Donna E. [D-FL-27]</fullName>
+        <firstName>Donna</firstName>
+        <state>FL</state>
+        <lastName>Shalala</lastName>
+        <byRequestType />
+        <district>27</district>
+        <identifiers>
+          <lisID>2391</lisID>
+          <gpoId />
+          <bioguideId>S001206</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2019-05-09</actionDate>
+      <actionTime>14:02:48</actionTime>
+    </latestAction>
+    <titles>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 986) to provide that certain guidance related to waivers for State innovation under the Patient Protection and Affordable Care Act shall have no force or effect, and providing for consideration of the bill (H.R. 2157) making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 986) to provide that certain guidance related to waivers for State innovation under the Patient Protection and Affordable Care Act shall have no force or effect, and providing for consideration of the bill (H.R. 2157) making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <calendar>H00022</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <textVersions>
+      <item>
+        <date>2019-05-09T04:00:00Z</date>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres357eh/xml/BILLS-116hres357eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-05-07T04:00:00Z</date>
+        <type>Reported in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres357rh/xml/BILLS-116hres357rh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText />
+    <title>Providing for consideration of the bill (H.R. 986) to provide that certain guidance related to waivers for State innovation under the Patient Protection and Affordable Care Act shall have no force or effect, and providing for consideration of the bill (H.R. 2157) making supplemental appropriations for the fiscal year ending September 30, 2019, and for other purposes.</title>
+    <createDate>2019-05-08T07:12:08Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2019-05-07T23:25:40Z</date>
+            </item>
+          </activities>
+          <name>Rules Committee</name>
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-08-16T10:41:22Z</updateDate>
+    <congress>116</congress>
+    <cosponsors />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-51</citation>
+      </committeeReport>
+    </committeeReports>
+    <introducedDate>2019-05-07</introducedDate>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

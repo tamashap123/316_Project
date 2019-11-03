@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionDate>2019-06-12</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-06-12</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-06-12</actionDate>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <updateDate>2019-10-18T07:16:12Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>3232</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>Thompson</lastName>
+        <fullName>Rep. Thompson, Glenn [R-PA-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8123</gpoId>
+          <bioguideId>T000467</bioguideId>
+          <lisID>1952</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <bioguideId>T000467</bioguideId>
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <district>15</district>
+      </item>
+      <item>
+        <lastName>Harder</lastName>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001090</bioguideId>
+          <lisID>2377</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <bioguideId>H001090</bioguideId>
+        <firstName>Josh</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <district>10</district>
+      </item>
+      <item>
+        <lastName>Zeldin</lastName>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2261</lisID>
+          <gpoId />
+          <bioguideId>Z000017</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <bioguideId>Z000017</bioguideId>
+        <firstName>Lee</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Welch</lastName>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <bioguideId>W000800</bioguideId>
+        <firstName>Peter</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VT</state>
+        <district>0</district>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <bioguideId>K000385</bioguideId>
+        <firstName>Robin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Pingree</lastName>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <bioguideId>P000597</bioguideId>
+        <firstName>Chellie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ME</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Delgado</lastName>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2428</lisID>
+          <bioguideId>D000630</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <bioguideId>D000630</bioguideId>
+        <firstName>Antonio</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <district>19</district>
+      </item>
+      <item>
+        <lastName>Kuster</lastName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <bioguideId>K000382</bioguideId>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Hayes</lastName>
+        <fullName>Rep. Hayes, Jahana [D-CT-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001081</bioguideId>
+          <lisID>2386</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-10-04</sponsorshipDate>
+        <bioguideId>H001081</bioguideId>
+        <firstName>Jahana</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CT</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>LOFGREN</lastName>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-10-17</sponsorshipDate>
+        <bioguideId>L000397</bioguideId>
+        <firstName>ZOE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <district>19</district>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3232ih/xml/BILLS-116hr3232ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 98 (Wednesday, June 12, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. COURTNEY:H.R. 3232.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8.[Page H4628]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-06-13T10:57:16Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Courtney</lastName>
+        <bioguideId>C001069</bioguideId>
+        <district>2</district>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <state>CT</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>1836</lisID>
+          <bioguideId>C001069</bioguideId>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>Joe</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <actionDate>2019-06-12</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Migrant, seasonal, agricultural labor</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend the Higher Education Act of 1965 to include certain individuals who work on farms or ranches as individuals who are employed in public service jobs for purposes of eligibility for loan forgiveness under the Federal Direct Loan program.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Young Farmer Success Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Young Farmer Success Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Young Farmer Success Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-12T14:03:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-06-12</introducedDate>
+    <calendarNumbers />
+    <title>Young Farmer Success Act</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

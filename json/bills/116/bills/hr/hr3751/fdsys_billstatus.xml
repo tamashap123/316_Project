@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>3751</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionDate>2019-07-15</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-07-15</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-07-15</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <introducedDate>2019-07-15</introducedDate>
+    <recordedVotes />
+    <title>No Student Loan Interest Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <lastName>Swalwell</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <bioguideId>S001193</bioguideId>
+        <district>15</district>
+        <state>CA</state>
+        <party>D</party>
+        <firstName>Eric</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <updateDate>2019-09-25T15:45:21Z</updateDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <firstName>ANNA</firstName>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <bioguideId>E000215</bioguideId>
+        <district>18</district>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>ESHOO</lastName>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>G.</middleName>
+      </item>
+      <item>
+        <firstName>Debbie</firstName>
+        <fullName>Rep. Mucarsel-Powell, Debbie [D-FL-26]</fullName>
+        <bioguideId>M001207</bioguideId>
+        <district>26</district>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Mucarsel-Powell</lastName>
+        <identifiers>
+          <bioguideId>M001207</bioguideId>
+          <lisID>2390</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Joseph</firstName>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <bioguideId>K000379</bioguideId>
+        <district>4</district>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kennedy</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2172</lisID>
+          <bioguideId>K000379</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName>P.</middleName>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Education and Labor</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-15T16:00:28Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2019-07-16T07:12:11Z</createDate>
+    <relatedBills />
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Higher Education Act of 1965 to provide for the relief of interest on certain Federal student loans.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>No Student Loan Interest Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>No Student Loan Interest Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>No Student Loan Interest Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <actionDate>2019-07-15</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 118 (Monday, July 15, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. SWALWELL of California:H.R. 3751.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H5825]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3751ih/xml/BILLS-116hr3751ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-15T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

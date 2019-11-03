@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-25T21:18:35-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.484", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/484"
+        }, 
+        {
+          "name": "Roll no. 411", 
+          "url": "http://clerk.house.gov/evs/2019/roll411.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 411, 
+      "text": "On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 191 - 226 (Roll no. 411).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-25T15:53:38-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.484", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/484"
+        }, 
+        {
+          "name": "H5131", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5131"
+        }, 
+        {
+          "name": "H5131-5132", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5131-5132"
+        }, 
+        {
+          "name": "H5159-5160", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5159-5160"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5131-5132, H5159-5160", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5131", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25T15:53:38-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.484", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/484"
+        }, 
+        {
+          "name": "H5131", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5131"
+        }, 
+        {
+          "name": "H5131-5132", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5131-5132"
+        }, 
+        {
+          "name": "H5159-5160", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5159-5160"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A002) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25T21:18:35-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.484", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/484"
+        }, 
+        {
+          "name": "Roll no. 411", 
+          "url": "http://clerk.house.gov/evs/2019/roll411.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the King (IA) amendment (A002) Failed by recorded vote: 191 - 226 (Roll no. 411).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25T21:18:35-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.484", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/484"
+        }, 
+        {
+          "name": "Roll no. 411", 
+          "url": "http://clerk.house.gov/evs/2019/roll411.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25T21:18:35-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.484", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/484"
+        }, 
+        {
+          "name": "Roll no. 411", 
+          "url": "http://clerk.house.gov/evs/2019/roll411.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt484-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3351-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 3351
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment sought to strike the section 126 of the underlying bill which prohibits the use of funds from the Department of the Treasury's Forfeiture Fund to plan, design, construct or carry out a project to construct a southern Border Wall or barrier along the southern border of the US.", 
+  "introduced_at": "2019-06-25", 
+  "number": 484, 
+  "purpose": "An amendment numbered 3 printed in Part B of House Report 116-126 to strike the section 126 of the underlying bill which prohibits the use of funds from the Department of the Treasury's Forfeiture Fund to plan, design, construct or carry out a project to construct a southern Border Wall or barrier along the southern border of the US.", 
+  "sponsor": {
+    "bioguide_id": "K000362", 
+    "district": "4", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2019-06-25T21:18:35-04:00", 
+  "updated_at": "2019-07-06T03:41:16Z"
+}

@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3551-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-27", 
+  "number": "3551", 
+  "official_title": "To ensure that Members of Congress have access to Federal facilities in order to exercise their constitutional oversight responsibilities.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2019-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3551-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Restoring Oversight for Members of Congress Act", 
+  "sponsor": {
+    "bioguide_id": "C001091", 
+    "district": "20", 
+    "name": "Castro, Joaquin", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-27", 
+  "subjects": [
+    "Congress", 
+    "Congressional oversight", 
+    "Government buildings, facilities, and property", 
+    "Members of Congress", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To ensure that Members of Congress have access to Federal facilities in order to exercise their constitutional oversight responsibilities.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restoring Oversight for Members of Congress Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restoring Oversight for Members of Congress Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Restoring Oversight for Members of Congress Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-09T18:00:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3551.xml"
+}

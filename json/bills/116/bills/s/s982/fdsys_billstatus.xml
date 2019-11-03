@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>982</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-04-02</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <introducedDate>2019-04-02</introducedDate>
+    <recordedVotes />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Missing persons</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <lastName>Cortez Masto</lastName>
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+          <lisID>2299</lisID>
+        </identifiers>
+        <bioguideId>C001113</bioguideId>
+        <firstName>Catherine</firstName>
+        <state>NV</state>
+        <party>D</party>
+        <middleName />
+      </item>
+    </sponsors>
+    <updateDate>2019-09-25T04:39:43Z</updateDate>
+    <title>Not Invisible Act of 2019</title>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <lastName>Murkowski</lastName>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <bioguideId>M001153</bioguideId>
+        <firstName>Lisa</firstName>
+        <state>AK</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <bioguideId>T000464</bioguideId>
+        <firstName>Jon</firstName>
+        <state>MT</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <lastName>Smith</lastName>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <gpoId />
+          <lisID>2365</lisID>
+        </identifiers>
+        <bioguideId>S001203</bioguideId>
+        <firstName>Tina</firstName>
+        <state>MN</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-08</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <lastName>Moran</lastName>
+        <identifiers>
+          <gpoId>8307</gpoId>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <bioguideId>M000934</bioguideId>
+        <firstName>Jerry</firstName>
+        <state>KS</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-08</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <lastName>Sullivan</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+        </identifiers>
+        <bioguideId>S001198</bioguideId>
+        <firstName>Dan</firstName>
+        <state>AK</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-12</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <lastName>Daines</lastName>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <lisID>2138</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>D000618</bioguideId>
+        <firstName>Steve</firstName>
+        <state>MT</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <lastName>Rosen</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2339</lisID>
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <bioguideId>R000608</bioguideId>
+        <firstName>Jacklyn</firstName>
+        <state>NV</state>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Indian Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>slia00</systemCode>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2019-06-19T18:30:08Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-02T15:53:14Z</date>
+            </item>
+          </activities>
+          <type>Other</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2019-04-03T04:42:07Z</createDate>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to increase intergovernmental coordination to identify and combat violent crime within Indian lands and of Indians.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Not Invisible Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Not Invisible Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Not Invisible Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <latestAction>
+      <links />
+      <text>Committee on Indian Affairs. Hearings held.</text>
+      <actionDate>2019-06-19</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>2438</number>
+        <latestTitle>Not Invisible Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+          <actionDate>2019-05-31</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s982is/xml/BILLS-116s982is.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-02T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

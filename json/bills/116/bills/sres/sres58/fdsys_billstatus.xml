@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <state>ME</state>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <middleName>MARGARET</middleName>
+        <byRequestType />
+        <party>R</party>
+        <lastName>COLLINS</lastName>
+        <firstName>SUSAN</firstName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <billNumber>58</billNumber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres58is/xml/BILLS-116sres58is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Special Committee on Aging</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2019-02-07</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S1140)</text>
+    </latestAction>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <date>2019-02-07T21:59:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssra00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Special</type>
+          <chamber>Senate</chamber>
+          <name>Aging Committee</name>
+          <activities>
+            <item>
+              <date>2019-02-07T21:58:56Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <systemCode>spag00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2019-02-07T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Special Committee on Aging for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-04-04T22:30:46Z</lastSummaryUpdateDate>
+          <actionDate>2019-02-07</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate</actionDesc>
+          <name>Reported to Senate</name>
+          <updateDate>2019-02-07T21:58:56Z</updateDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Special Committee on Aging for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-04-04T22:30:40Z</lastSummaryUpdateDate>
+          <actionDate>2019-02-07</actionDate>
+          <versionCode>25</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1140</url>
+            <name>S1140</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S1140)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>spag00</systemCode>
+          <name>Aging Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Special Committee on Aging. Original measure reported to Senate by Senator Collins. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>spag00</systemCode>
+          <name>Aging Committee</name>
+        </committee>
+        <text>Special Committee on Aging. Original measure reported to Senate by Senator Collins. Without written report.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-07</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <createDate>2019-02-08T05:55:23Z</createDate>
+    <notes />
+    <laws />
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <title>An original resolution authorizing expenditures by the Special Committee on Aging.</title>
+    <titles>
+      <item>
+        <title>An original resolution authorizing expenditures by the Special Committee on Aging.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>An original resolution authorizing expenditures by the Special Committee on Aging.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <updateDate>2019-04-11T15:42:27Z</updateDate>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2019-02-07</introducedDate>
+    <billType>SRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

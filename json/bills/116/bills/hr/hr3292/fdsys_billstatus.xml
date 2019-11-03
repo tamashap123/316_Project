@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <notes />
+    <updateDate>2019-10-16T20:30:29Z</updateDate>
+    <sponsors>
+      <item>
+        <bioguideId>L000570</bioguideId>
+        <lastName>Lujan</lastName>
+        <byRequestType />
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <middleName>Ray</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1939</lisID>
+          <gpoId>8058</gpoId>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <firstName>Ben</firstName>
+        <state>NM</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-06-14T17:00:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-06-26T14:54:36Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2019-06-19T16:32:28Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii13</systemCode>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Haaland</lastName>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001080</bioguideId>
+          <gpoId />
+          <lisID>2423</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-14</sponsorshipDate>
+        <bioguideId>H001080</bioguideId>
+        <firstName>Debra</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Torres Small</lastName>
+        <fullName>Rep. Torres Small, Xochitl [D-NM-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000484</bioguideId>
+          <lisID>2424</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-14</sponsorshipDate>
+        <bioguideId>T000484</bioguideId>
+        <firstName>Xochitl</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <laws />
+    <title>Aamodt Litigation Settlement Completion Act of 2019</title>
+    <latestAction>
+      <links />
+      <actionDate>2019-06-26</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3292ih/xml/BILLS-116hr3292ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-14T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <prayer>1</prayer>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-26</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-06-14</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-06-14</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-06-14</actionDate>
+        <text>Introduced in House</text>
+      </item>
+    </actions>
+    <congress>116</congress>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>New Mexico</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend the Aamodt Litigation Settlement Act, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Aamodt Litigation Settlement Completion Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Aamodt Litigation Settlement Completion Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Aamodt Litigation Settlement Completion Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <createDate>2019-06-15T07:12:08Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 100 (Friday, June 14, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. LUJAN:H.R. 3292.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8[Page H4700]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-06-14</introducedDate>
+    <committeeReports />
+    <billNumber>3292</billNumber>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>1875</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-06-18</actionDate>
+          <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        </latestAction>
+        <latestTitle>Aamodt Litigation Settlement Completion Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

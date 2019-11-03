@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4529-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-26", 
+  "number": "4529", 
+  "official_title": "To direct the Federal Communications Commission to establish a program to make grants to States to inform Medicaid enrollees and SNAP participants of potential eligibility for the Lifeline program of the Commission.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2545-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Promoting Access to Broadband Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "M001185", 
+    "district": "18", 
+    "name": "Maloney, Sean Patrick", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-26", 
+  "subjects": [
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Poverty and welfare assistance", 
+    "Science, technology, communications", 
+    "State and local government operations", 
+    "Telecommunication rates and fees", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Federal Communications Commission to establish a program to make grants to States to inform Medicaid enrollees and SNAP participants of potential eligibility for the Lifeline program of the Commission.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Promoting Access to Broadband Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Promoting Access to Broadband Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Promoting Access to Broadband Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-15T16:15:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4529.xml"
+}

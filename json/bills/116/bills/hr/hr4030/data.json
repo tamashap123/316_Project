@@ -1,0 +1,176 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-25", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-25", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-08-28", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Immigration and Citizenship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4030-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Immigration and Citizenship", 
+      "subcommittee_id": "01"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001051", 
+      "district": "31", 
+      "name": "Carter, John R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-11", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001053", 
+      "district": "4", 
+      "name": "Cole, Tom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-15", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001204", 
+      "district": "9", 
+      "name": "Meuser, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-08-02", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000827", 
+      "district": "6", 
+      "name": "Wright, Ron", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-22", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-25", 
+  "number": "4030", 
+  "official_title": "To require asylum officers to conduct credible fear screenings before admitting aliens seeking asylum into the United States, to direct the Secretary of Homeland Security to establish an alternatives to detention pilot program, and to clarify that aliens transiting through third countries on the way to the United States are ineligible for asylum, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2292-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Asylum Abuse Reduction Act", 
+  "sponsor": {
+    "bioguide_id": "H001082", 
+    "district": "1", 
+    "name": "Hern, Kevin", 
+    "state": "OK", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-25", 
+  "subjects": [
+    "Administrative remedies", 
+    "Border security and unlawful immigration", 
+    "Canada", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Judges", 
+    "Latin America", 
+    "Mexico", 
+    "Performance measurement", 
+    "Public contracts and procurement", 
+    "Refugees, asylum, displaced persons", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require asylum officers to conduct credible fear screenings before admitting aliens seeking asylum into the United States, to direct the Secretary of Homeland Security to establish an alternatives to detention pilot program, and to clarify that aliens transiting through third countries on the way to the United States are ineligible for asylum, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Asylum Abuse Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Asylum Abuse Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Asylum Abuse Reduction Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-23T07:21:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4030.xml"
+}

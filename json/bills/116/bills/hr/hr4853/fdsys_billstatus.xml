@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <notes />
+    <committeeReports />
+    <laws />
+    <policyArea />
+    <billNumber>4853</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-10-23</actionDate>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-10-23</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-10-23</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>To amend the Older Americans Act of 1965 to eliminate the percentage cap on funding available to carry out the program to provide support services to older caregivers.</title>
+    <congress>116</congress>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2019-10-23</actionDate>
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 168 (Wednesday, October 23, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mrs. TRAHAN:H.R. 4853.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18[Page H8459]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-10-23</introducedDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Trahan, Lori [D-MA-3]</fullName>
+        <firstName>Lori</firstName>
+        <district>3</district>
+        <byRequestType />
+        <bioguideId>T000482</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2404</lisID>
+          <bioguideId>T000482</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Trahan</lastName>
+        <middleName />
+        <state>MA</state>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>To amend the Older Americans Act of 1965 to eliminate the percentage cap on funding available to carry out the program to provide support services to older caregivers.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Older Americans Act of 1965 to eliminate the percentage cap on funding available to carry out the program to provide support services to older caregivers.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-10-24T18:40:07Z</updateDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001108</bioguideId>
+          <gpoId />
+          <lisID>2297</lisID>
+        </identifiers>
+        <bioguideId>C001108</bioguideId>
+        <firstName>James</firstName>
+        <state>KY</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-10-23</sponsorshipDate>
+        <lastName>Comer</lastName>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+      </item>
+    </cosponsors>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <relatedBills />
+    <createDate>2019-10-24T07:23:10Z</createDate>
+    <amendments />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-10-23T14:06:15Z</date>
+            </item>
+          </activities>
+          <name>Education and Labor</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

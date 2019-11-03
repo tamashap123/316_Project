@@ -1,0 +1,271 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-25", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16T15:46:32-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Rouda moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16T15:46:42-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H8174-8175", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H8174-8175"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8174-8175", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16T15:46:43-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 3314", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/3314"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3314.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16T15:49:01-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H8175", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H8175"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8175", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-10-16T15:49:04-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-17", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3314-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }, 
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001302", 
+      "district": "5", 
+      "name": "Biggs, Andy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000574", 
+      "district": "7", 
+      "name": "Gallego, Ruben", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000368", 
+      "district": "2", 
+      "name": "Kirkpatrick, Ann", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000589", 
+      "district": "8", 
+      "name": "Lesko, Debbie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "O000171", 
+      "district": "1", 
+      "name": "O'Halleran, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001183", 
+      "district": "6", 
+      "name": "Schweikert, David", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001211", 
+      "district": "9", 
+      "name": "Stanton, Greg", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-18", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-10-16T15:49:01-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-18", 
+  "number": "3314", 
+  "official_title": "To designate the facility of the United States Postal Service located at 1750 McCulloch Boulevard North in Lake Havasu City, Arizona, as the \"Lake Havasu City Combat Veterans Memorial Post Office Building\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "G000565", 
+    "district": "4", 
+    "name": "Gosar, Paul A.", 
+    "state": "AZ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2019-10-16T15:49:01-04:00", 
+  "subjects": [
+    "Arizona", 
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Postal service"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-06-18T04:00:00Z", 
+    "text": "Designates the facility of the United States Postal Service located at 1750 McCulloch Boulevard North in Lake Havasu City, Arizona, as the \"Lake Havasu City Combat Veterans Memorial Post Office Building.\""
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 1750 McCulloch Boulevard North in Lake Havasu City, Arizona, as the \"Lake Havasu City Combat Veterans Memorial Post Office Building\".", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 1750 McCulloch Boulevard North in Lake Havasu City, Arizona, as the \"Lake Havasu City Combat Veterans Memorial Post Office Building\".", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-18T09:55:31Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3314.xml"
+}

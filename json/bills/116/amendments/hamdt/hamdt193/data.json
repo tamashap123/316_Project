@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-02T11:43:05-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.193", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/193"
+        }, 
+        {
+          "name": "Roll no. 181", 
+          "url": "http://clerk.house.gov/evs/2019/roll181.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "roll": 181, 
+      "text": "On agreeing to the Van Drew amendment (A025) Agreed to by recorded vote: 257 - 167 (Roll no. 181).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-05-02T10:01:45-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.193", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/193"
+        }, 
+        {
+          "name": "H3416", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3416"
+        }, 
+        {
+          "name": "H3416-3417", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3416-3417"
+        }, 
+        {
+          "name": "H3425-3426", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3425-3426"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3416-3417, H3425-3426", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3416", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A025) offered by Mr. Van Drew.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02T10:01:45-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.193", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/193"
+        }, 
+        {
+          "name": "H3416", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3416"
+        }, 
+        {
+          "name": "H3416-3417", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3416-3417"
+        }, 
+        {
+          "name": "H3425-3426", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3425-3426"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3416-3417, H3425-3426", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3416", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A025) offered by Mr. Van Drew.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02T11:43:05-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.193", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/193"
+        }, 
+        {
+          "name": "Roll no. 181", 
+          "url": "http://clerk.house.gov/evs/2019/roll181.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02T11:43:05-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.193", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/193"
+        }, 
+        {
+          "name": "Roll no. 181", 
+          "url": "http://clerk.house.gov/evs/2019/roll181.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02T11:43:05-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.193", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/193"
+        }, 
+        {
+          "name": "Roll no. 181", 
+          "url": "http://clerk.house.gov/evs/2019/roll181.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Van Drew amendment (A025) Agreed to by recorded vote: 257 - 167 (Roll no. 181).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-02", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt193-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr9-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 9
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment to add to the findings the importance of averting, minimizing and addressing loss and damage associated with the adverse effects of climate change.", 
+  "introduced_at": "2019-05-02", 
+  "number": 193, 
+  "purpose": "An amendment numbered 26 printed in House Report 116-42 to add to the findings the importance of averting, minimizing and addressing loss and damage associated with the adverse effects of climate change.", 
+  "sponsor": {
+    "bioguide_id": "V000133", 
+    "district": "2", 
+    "name": "Van Drew, Jefferson", 
+    "state": "NJ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-05-02T11:43:05-04:00", 
+  "updated_at": "2019-07-05T21:50:56Z"
+}

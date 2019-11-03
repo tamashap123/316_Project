@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-06-11T04:42:12Z</createDate>
+    <relatedBills />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <bioguideId>C001035</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <notes />
+    <congress>116</congress>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <date>2019-06-10T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1766is/xml/BILLS-116s1766is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-10</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3288</url>
+            <name>S3288</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations. (Sponsor introductory remarks on measure: CR S3288)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-10</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>U.S. Agency for International Development (USAID)</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+          <item>
+            <name>World health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <firstName>Christopher</firstName>
+        <middleName>A.</middleName>
+        <bioguideId>C001088</bioguideId>
+        <party>D</party>
+        <lastName>Coons</lastName>
+        <state>DE</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>PAT</firstName>
+        <middleName />
+        <bioguideId>R000307</bioguideId>
+        <party>R</party>
+        <lastName>ROBERTS</lastName>
+        <state>KS</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Tammy</firstName>
+        <middleName />
+        <bioguideId>D000622</bioguideId>
+        <party>D</party>
+        <lastName>Duckworth</lastName>
+        <state>IL</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2123</lisID>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Dan</firstName>
+        <middleName />
+        <bioguideId>S001198</bioguideId>
+        <party>R</party>
+        <lastName>Sullivan</lastName>
+        <state>AK</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <middleName />
+        <bioguideId>V000128</bioguideId>
+        <party>D</party>
+        <lastName>Van Hollen</lastName>
+        <state>MD</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>SHELLEY</firstName>
+        <middleName>MOORE</middleName>
+        <bioguideId>C001047</bioguideId>
+        <party>R</party>
+        <lastName>CAPITO</lastName>
+        <state>WV</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <lastName>MARKEY</lastName>
+        <state>MA</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Johnny</firstName>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <party>R</party>
+        <lastName>Isakson</lastName>
+        <state>GA</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <state>OR</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Jerry</firstName>
+        <middleName />
+        <bioguideId>M000934</bioguideId>
+        <party>R</party>
+        <lastName>Moran</lastName>
+        <state>KS</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+          <gpoId>8307</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <middleName>L.</middleName>
+        <bioguideId>C000141</bioguideId>
+        <party>D</party>
+        <lastName>CARDIN</lastName>
+        <state>MD</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>C001056</bioguideId>
+        <party>R</party>
+        <lastName>Cornyn</lastName>
+        <state>TX</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Jacklyn</firstName>
+        <middleName />
+        <bioguideId>R000608</bioguideId>
+        <party>D</party>
+        <lastName>Rosen</lastName>
+        <state>NV</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <lisID>2339</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Todd</firstName>
+        <middleName />
+        <bioguideId>Y000064</bioguideId>
+        <party>R</party>
+        <lastName>Young</lastName>
+        <state>IN</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2019</lisID>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>DEBORAH</firstName>
+        <middleName>ANN</middleName>
+        <bioguideId>S000770</bioguideId>
+        <party>D</party>
+        <lastName>STABENOW</lastName>
+        <state>MI</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <middleName>B.</middleName>
+        <bioguideId>E000285</bioguideId>
+        <party>R</party>
+        <lastName>ENZI</lastName>
+        <state>WY</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <middleName />
+        <bioguideId>W000779</bioguideId>
+        <party>D</party>
+        <lastName>WYDEN</lastName>
+        <state>OR</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Kevin</firstName>
+        <middleName />
+        <bioguideId>C001096</bioguideId>
+        <party>R</party>
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Christopher</firstName>
+        <middleName />
+        <bioguideId>M001169</bioguideId>
+        <party>D</party>
+        <lastName>Murphy</lastName>
+        <state>CT</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <party>R</party>
+        <lastName>Rubio</lastName>
+        <state>FL</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <middleName>F.</middleName>
+        <bioguideId>R000122</bioguideId>
+        <party>D</party>
+        <lastName>REED</lastName>
+        <state>RI</state>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <lastName>Murkowski</lastName>
+        <state>AK</state>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Margaret</firstName>
+        <middleName>Wood</middleName>
+        <bioguideId>H001076</bioguideId>
+        <party>D</party>
+        <lastName>Hassan</lastName>
+        <state>NH</state>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2302</lisID>
+          <bioguideId>H001076</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <firstName>ROB</firstName>
+        <middleName />
+        <bioguideId>P000449</bioguideId>
+        <party>R</party>
+        <lastName>PORTMAN</lastName>
+        <state>OH</state>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Gary</firstName>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <party>D</party>
+        <lastName>Peters</lastName>
+        <state>MI</state>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-09-20T05:33:01Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-06-10T21:44:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Relations Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2019-06-10</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations. (Sponsor introductory remarks on measure: CR S3288)</text>
+    </latestAction>
+    <titles>
+      <item>
+        <title>A bill to implement policies to end preventable maternal, newborn, and child deaths globally.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Reach Every Mother and Child Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Reach Every Mother and Child Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Reach Every Mother and Child Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <introducedDate>2019-06-10</introducedDate>
+    <amendments />
+    <billNumber>1766</billNumber>
+    <title>Reach Every Mother and Child Act of 2019</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

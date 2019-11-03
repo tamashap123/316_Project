@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-20T18:00:03-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.428", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/428"
+        }, 
+        {
+          "name": "Roll no. 376", 
+          "url": "http://clerk.house.gov/evs/2019/roll376.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "roll": 376, 
+      "text": "On agreeing to the Pence amendment (A042) Agreed to by recorded vote: 425 - 6 (Roll no. 376).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-20T12:21:32-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.428", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/428"
+        }, 
+        {
+          "name": "H4944", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4944"
+        }, 
+        {
+          "name": "H4944-4945", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4944-4945"
+        }, 
+        {
+          "name": "H4984", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4984"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4944-4945, H4984", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4944", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A042) offered by Mr. Pence.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20T18:00:03-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.428", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/428"
+        }, 
+        {
+          "name": "Roll no. 376", 
+          "url": "http://clerk.house.gov/evs/2019/roll376.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20T18:00:03-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.428", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/428"
+        }, 
+        {
+          "name": "Roll no. 376", 
+          "url": "http://clerk.house.gov/evs/2019/roll376.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20T18:00:03-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.428", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/428"
+        }, 
+        {
+          "name": "Roll no. 376", 
+          "url": "http://clerk.house.gov/evs/2019/roll376.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Pence amendment (A042) Agreed to by recorded vote: 425 - 6 (Roll no. 376).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20T12:21:32-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.428", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/428"
+        }, 
+        {
+          "name": "H4944", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4944"
+        }, 
+        {
+          "name": "H4944-4945", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4944-4945"
+        }, 
+        {
+          "name": "H4984", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4984"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A042) offered by Mr. Pence.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt428-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3055-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 3055
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment to increases funding for the rural broadband Distance Learning and Telemedicine Grant Program by $25,000,000, offset by an equal decrease in the Office of the Chief Information Officer Fund.", 
+  "introduced_at": "2019-06-20", 
+  "number": 428, 
+  "purpose": "An amendment numbered 105 printed in Part B House Report 116-119 to Increases funding for the rural broadband Distance Learning and Telemedicine Grant Program by $25,000,000, offset by an equal decrease in the Office of the Chief Information Officer Fund.", 
+  "sponsor": {
+    "bioguide_id": "P000615", 
+    "district": "6", 
+    "name": "Pence, Greg", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-06-20T18:00:03-04:00", 
+  "updated_at": "2019-11-01T04:58:49Z"
+}

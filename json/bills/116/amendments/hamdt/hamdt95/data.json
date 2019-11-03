@@ -1,0 +1,178 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-08T10:29:22-05:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.95", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/95"
+        }, 
+        {
+          "name": "Roll no. 115", 
+          "url": "http://clerk.house.gov/evs/2019/roll115.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "roll": 115, 
+      "text": "On agreeing to the Brindisi amendment (A042) Agreed to by recorded vote: 237 - 188 (Roll no. 115).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-03-07T18:14:51-05:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.95", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/95"
+        }, 
+        {
+          "name": "H2559", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2559"
+        }, 
+        {
+          "name": "H2559-2560", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2559-2560"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H2559-2560", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2559", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A042) offered by Mr. Brindisi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07T18:14:51-05:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.95", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/95"
+        }, 
+        {
+          "name": "H2559", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2559"
+        }, 
+        {
+          "name": "H2559-2560", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2559-2560"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H2559-2560", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2559", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A042) offered by Mr. Brindisi.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-08T10:29:22-05:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.95", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/95"
+        }, 
+        {
+          "name": "Roll no. 115", 
+          "url": "http://clerk.house.gov/evs/2019/roll115.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Brindisi amendment (A042) Agreed to by recorded vote: 237 - 188 (Roll no. 115).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-08T10:29:22-05:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.95", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/95"
+        }, 
+        {
+          "name": "Roll no. 115", 
+          "url": "http://clerk.house.gov/evs/2019/roll115.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-08T10:29:22-05:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.95", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/95"
+        }, 
+        {
+          "name": "Roll no. 115", 
+          "url": "http://clerk.house.gov/evs/2019/roll115.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt95-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment directs States to equalize polling hours across the state within certain parameters. Also, provides exceptions for municipalities to set longer hours.", 
+  "introduced_at": "2019-03-07", 
+  "number": 95, 
+  "purpose": "An amendment numbered 54 printed in Part B of House Report 116-16 to direct States to equalize polling hours across the state within certain parameters. Provides exceptions for municipalities to set longer hours.", 
+  "sponsor": {
+    "bioguide_id": "B001308", 
+    "district": "22", 
+    "name": "Brindisi, Anthony", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-03-08T10:29:22-05:00", 
+  "updated_at": "2019-09-10T18:15:17Z"
+}

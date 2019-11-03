@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-18", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-18", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "links": [
+        {
+          "name": "S4953-4954", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4953-4954"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S4953-4954", 
+          "type": "Sponsor introductory remarks on measure"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2192-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000393", 
+      "district": null, 
+      "name": "Kennedy, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-18", 
+      "state": "LA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000639", 
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-18", 
+      "state": "NJ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-18", 
+  "number": "2192", 
+  "official_title": "A bill to amend the National Flood Insurance Act of 1968 to allow the Administrator of the Federal Emergency Management Agency to provide capitalization grants to States to establish revolving funds to provide funding assistance to reduce flood risks, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2187-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3872-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "State Flood Mitigation Revolving Fund Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "R000122", 
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-18", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the National Flood Insurance Act of 1968 to allow the Administrator of the Federal Emergency Management Agency to provide capitalization grants to States to establish revolving funds to provide funding assistance to reduce flood risks, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "State Flood Mitigation Revolving Fund Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "State Flood Mitigation Revolving Fund Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "State Flood Mitigation Revolving Fund Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-13T04:42:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2192.xml"
+}

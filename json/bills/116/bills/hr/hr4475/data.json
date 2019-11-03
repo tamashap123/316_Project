@@ -1,0 +1,100 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4475-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-24", 
+  "number": "4475", 
+  "official_title": "To amend the Higher Education Act of 1965 to determine the expenditures of an institution of higher education on instruction, student services, marketing, recruitment, advertising, and lobbying, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Higher Education Student Protection Act", 
+  "sponsor": {
+    "bioguide_id": "M001203", 
+    "district": "7", 
+    "name": "Malinowski, Tom", 
+    "state": "NJ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-24", 
+  "subjects": [
+    "Accounting and auditing", 
+    "Education", 
+    "Education programs funding", 
+    "Government information and archives", 
+    "Higher education", 
+    "Marketing and advertising", 
+    "Public participation and lobbying"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965 to determine the expenditures of an institution of higher education on instruction, student services, marketing, recruitment, advertising, and lobbying, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Higher Education Student Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Higher Education Student Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Higher Education Student Protection Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-10T15:00:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4475.xml"
+}

@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-14", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "links": [
+        {
+          "name": "S1906", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1906"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S1906", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres110-116", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001111", 
+      "district": null, 
+      "name": "Murray, Patty", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-14", 
+      "state": "WA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-14", 
+  "number": "110", 
+  "official_title": "A resolution keeping guns out of classrooms.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres231-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M001169", 
+    "district": null, 
+    "name": "Murphy, Christopher", 
+    "state": "CT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-14", 
+  "subjects": [
+    "Education", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Firearms and explosives", 
+    "School administration", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution keeping guns out of classrooms.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A resolution keeping guns out of classrooms.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-08-03T07:56:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/sres/BILLSTATUS-116sres110.xml"
+}

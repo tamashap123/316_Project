@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-07-26</actionDate>
+        <committee>
+          <systemCode>hspw02</systemCode>
+          <name>Water Resources and Environment Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-07-25</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <updateDate>2019-10-18T07:16:16Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>4032</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <lastName>Morelle</lastName>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <identifiers>
+          <lisID>2371</lisID>
+          <bioguideId>M001206</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001206</bioguideId>
+        <firstName>Joseph</firstName>
+        <district>25</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Collins</lastName>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <identifiers>
+          <bioguideId>C001092</bioguideId>
+          <lisID>2151</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001092</bioguideId>
+        <firstName>Chris</firstName>
+        <district>27</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Brindisi</lastName>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <identifiers>
+          <bioguideId>B001308</bioguideId>
+          <lisID>2429</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001308</bioguideId>
+        <firstName>Anthony</firstName>
+        <district>22</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <identifiers>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000376</bioguideId>
+        <firstName>Mike</firstName>
+        <district>16</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <lastName>Joyce</lastName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <identifiers>
+          <lisID>2154</lisID>
+          <bioguideId>J000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000295</bioguideId>
+        <firstName>David</firstName>
+        <district>14</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <lastName>Kildee</lastName>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000380</bioguideId>
+          <lisID>2134</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000380</bioguideId>
+        <firstName>Daniel</firstName>
+        <district>5</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Huizenga</lastName>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <identifiers>
+          <bioguideId>H001058</bioguideId>
+          <lisID>2028</lisID>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001058</bioguideId>
+        <firstName>Bill</firstName>
+        <district>2</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>R</party>
+        <middleName />
+        <lastName>UPTON</lastName>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <identifiers>
+          <bioguideId>U000031</bioguideId>
+          <gpoId>7991</gpoId>
+          <lisID>1177</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>U000031</bioguideId>
+        <firstName>FRED</firstName>
+        <district>6</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <lastName>RUSH</lastName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <identifiers>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000515</bioguideId>
+        <firstName>BOBBY</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <lastName>SCHAKOWSKY</lastName>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001145</bioguideId>
+        <firstName>JANICE</firstName>
+        <district>9</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Gallagher</lastName>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <identifiers>
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000579</bioguideId>
+        <firstName>Mike</firstName>
+        <district>8</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Stauber</lastName>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <identifiers>
+          <bioguideId>S001212</bioguideId>
+          <gpoId />
+          <lisID>2415</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001212</bioguideId>
+        <firstName>Pete</firstName>
+        <district>8</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Casten</lastName>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001117</bioguideId>
+          <lisID>2398</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001117</bioguideId>
+        <firstName>Sean</firstName>
+        <district>6</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Slotkin</lastName>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <identifiers>
+          <lisID>2407</lisID>
+          <bioguideId>S001208</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001208</bioguideId>
+        <firstName>Elissa</firstName>
+        <district>8</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Dingell</lastName>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+          <lisID>2251</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000624</bioguideId>
+        <firstName>Debbie</firstName>
+        <district>12</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Tlaib</lastName>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <identifiers>
+          <lisID>2410</lisID>
+          <bioguideId>T000481</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000481</bioguideId>
+        <firstName>Rashida</firstName>
+        <district>13</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000385</bioguideId>
+        <firstName>Robin</firstName>
+        <district>2</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Quigley</lastName>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <identifiers>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Q000023</bioguideId>
+        <firstName>Mike</firstName>
+        <district>5</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Moore</lastName>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001160</bioguideId>
+        <firstName>Gwen</firstName>
+        <district>4</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <lastName>Stefanik</lastName>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <identifiers>
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001196</bioguideId>
+        <firstName>Elise</firstName>
+        <district>21</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Higgins</lastName>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <identifiers>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001038</bioguideId>
+        <firstName>Brian</firstName>
+        <district>26</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <lastName>Fudge</lastName>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <identifiers>
+          <bioguideId>F000455</bioguideId>
+          <lisID>1895</lisID>
+          <gpoId>8101</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000455</bioguideId>
+        <firstName>Marcia</firstName>
+        <district>11</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <party>D</party>
+        <middleName />
+        <lastName>KAPTUR</lastName>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <identifiers>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000009</bioguideId>
+        <firstName>MARCY</firstName>
+        <district>9</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Mitchell</lastName>
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <identifiers>
+          <lisID>2334</lisID>
+          <gpoId />
+          <bioguideId>M001201</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001201</bioguideId>
+        <firstName>Paul</firstName>
+        <district>10</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Bergman</lastName>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <identifiers>
+          <lisID>2333</lisID>
+          <gpoId />
+          <bioguideId>B001301</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001301</bioguideId>
+        <firstName>Jack</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Gonzalez</lastName>
+        <fullName>Rep. Gonzalez, Anthony [R-OH-16]</fullName>
+        <identifiers>
+          <lisID>2430</lisID>
+          <gpoId />
+          <bioguideId>G000588</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000588</bioguideId>
+        <firstName>Anthony</firstName>
+        <district>16</district>
+        <sponsorshipDate>2019-08-20</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <party>R</party>
+        <middleName />
+        <lastName>Steil</lastName>
+        <fullName>Rep. Steil, Bryan [R-WI-1]</fullName>
+        <identifiers>
+          <lisID>2459</lisID>
+          <bioguideId>S001213</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001213</bioguideId>
+        <firstName>Bryan</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-09-11</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <lastName>Stevens</lastName>
+        <fullName>Rep. Stevens, Haley M. [D-MI-11]</fullName>
+        <identifiers>
+          <bioguideId>S001215</bioguideId>
+          <lisID>2409</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001215</bioguideId>
+        <firstName>Haley</firstName>
+        <district>11</district>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <party>D</party>
+        <middleName />
+        <lastName>Phillips</lastName>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <identifiers>
+          <lisID>2413</lisID>
+          <bioguideId>P000616</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000616</bioguideId>
+        <firstName>Dean</firstName>
+        <district>3</district>
+        <sponsorshipDate>2019-10-17</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-07-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4032ih/xml/BILLS-116hr4032ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 126 (Thursday, July 25, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. KATKO:H.R. 4032.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 and Article I, Section 8,Clause 3.[Page H7470]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-07-26T07:12:17Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Katko</lastName>
+        <bioguideId>K000386</bioguideId>
+        <district>24</district>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <state>NY</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2264</lisID>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>John</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <actionDate>2019-07-26</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Corps of Engineers to carry out an assessment of the resiliency of the Great Lakes coastline, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Great Lakes Coastal Resiliency Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Great Lakes Coastal Resiliency Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Great Lakes Coastal Resiliency Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <date>2019-07-25T14:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <date>2019-07-26T13:23:03Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water Resources and Environment Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-07-25</introducedDate>
+    <calendarNumbers />
+    <title>Great Lakes Coastal Resiliency Act of 2019</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

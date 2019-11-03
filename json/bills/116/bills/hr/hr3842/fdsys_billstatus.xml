@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+      <actionDate>2019-07-18</actionDate>
+    </latestAction>
+    <notes />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-07-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3842ih/xml/BILLS-116hr3842ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <relatedBills />
+    <actions>
+      <item>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2019-07-18</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-07-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionDate>2019-07-18</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-18T13:00:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-10-05T07:16:46Z</updateDate>
+    <amendments />
+    <billNumber>3842</billNumber>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VT</state>
+        <party>D</party>
+        <lastName>Welch</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <bioguideId>W000800</bioguideId>
+        <middleName />
+        <firstName>Peter</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>RI</state>
+        <party>D</party>
+        <lastName>Cicilline</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <bioguideId>C001084</bioguideId>
+        <middleName>N.</middleName>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <party>D</party>
+        <lastName>Morelle</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001206</bioguideId>
+          <gpoId />
+          <lisID>2371</lisID>
+        </identifiers>
+        <district>25</district>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <bioguideId>M001206</bioguideId>
+        <middleName>D.</middleName>
+        <firstName>Joseph</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <bioguideId>F000466</bioguideId>
+        <middleName>K.</middleName>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <bioguideId>M001160</bioguideId>
+        <middleName />
+        <firstName>Gwen</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <party>R</party>
+        <lastName>Balderson</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2370</lisID>
+          <gpoId />
+          <bioguideId>B001306</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
+        <bioguideId>B001306</bioguideId>
+        <middleName />
+        <firstName>Troy</firstName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <party>D</party>
+        <lastName>RYAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-10-04</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <district>13</district>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <bioguideId>R000577</bioguideId>
+        <middleName />
+        <firstName>TIM</firstName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend titles XIX and XXI of the Social Security Act to require a State child health plan to include certain lead screening coverage and to codify such requirement under the Medicaid program.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Preventing Lead Poisoning Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Preventing Lead Poisoning Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Preventing Lead Poisoning Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <bioguideId>K000386</bioguideId>
+        <middleName />
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+          <lisID>2264</lisID>
+        </identifiers>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <district>24</district>
+        <lastName>Katko</lastName>
+        <byRequestType />
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <calendarNumbers />
+    <title>Preventing Lead Poisoning Act of 2019</title>
+    <introducedDate>2019-07-18</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 121 (Thursday, July 18, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. KATKO:H.R. 3842.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8: The Congress shall have Power To layand collect Taxes, Duties, Imposts and Excises, to pay theDebts and provide for the common Defence and general Welfareof the United States; but all Duties, Imposts and Excisesshall be uniform throughout the United States.[Page H7151]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-07-19T07:12:15Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

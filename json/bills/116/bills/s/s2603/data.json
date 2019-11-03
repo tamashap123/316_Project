@@ -1,0 +1,181 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-16", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-16", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "links": [
+        {
+          "name": "S5843-5845", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5843-5845"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S5843-5845", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2603-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-31", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000622", 
+      "district": null, 
+      "name": "Duckworth, Tammy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-28", 
+      "state": "IL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001042", 
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-16", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000174", 
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-16", 
+      "state": "VT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001111", 
+      "district": null, 
+      "name": "Murray, Patty", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-10-29", 
+      "state": "WA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-16", 
+  "number": "2603", 
+  "official_title": "A bill to amend the Immigration and Nationality Act to end the immigrant visa backlog, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s386-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1044-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "RELIEF Act", 
+  "sponsor": {
+    "bioguide_id": "D000563", 
+    "district": null, 
+    "name": "Durbin, Richard J.", 
+    "state": "IL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-16", 
+  "subjects": [
+    "Immigration"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Immigration and Nationality Act to end the immigrant visa backlog, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RELIEF Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RELIEF Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Resolving Extended Limbo for Immigrant Employees and Families Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Resolving Extended Limbo for Immigrant Employees and Families Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Resolving Extended Limbo for Immigrant Employees and Families Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-01T10:07:32Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2603.xml"
+}

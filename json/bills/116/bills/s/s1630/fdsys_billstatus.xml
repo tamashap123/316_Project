@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2019-05-23</actionDate>
+    </latestAction>
+    <notes />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-05-23T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1630is/xml/BILLS-116s1630is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the House Committee on Financial Services.</text>
+          <actionDate>2019-09-25</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>Shareholder Protection Act</latestTitle>
+        <number>4491</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-03-28</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>For the People Act of 2019</latestTitle>
+        <number>949</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-23</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-05-23</actionDate>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-23T14:22:32Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-10-03T15:00:21Z</updateDate>
+    <amendments />
+    <billNumber>1630</billNumber>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-05-23</actionDate>
+          <lastSummaryUpdateDate>2019-06-26T19:10:22Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Shareholder Protection Act of 2019</b></p> <p>This bill requires shareholder authorization of certain political expenditures by an issuer. A violation of this requirement shall be considered&nbsp;a breach of fiduciary duty, and the officers and directors who authorized the expenditure shall be subject to joint and several liability. An issuer must require a board vote with respect to political expenditures in excess of $50,000 and, within 48 hours, make publicly available the individual votes of each board member.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <updateDate>2019-05-23T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OR</state>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <bioguideId>S001181</bioguideId>
+        <party>D</party>
+        <lastName>Shaheen</lastName>
+        <middleName />
+        <firstName>Jeanne</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>HI</state>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <bioguideId>H001042</bioguideId>
+        <party>D</party>
+        <lastName>Hirono</lastName>
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <bioguideId>B001288</bioguideId>
+        <party>D</party>
+        <lastName>Booker</lastName>
+        <middleName>A.</middleName>
+        <firstName>Cory</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CT</state>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <bioguideId>B001277</bioguideId>
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <middleName />
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>RI</state>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <bioguideId>W000802</bioguideId>
+        <party>D</party>
+        <lastName>Whitehouse</lastName>
+        <middleName />
+        <firstName>Sheldon</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <bioguideId>V000128</bioguideId>
+        <party>D</party>
+        <lastName>Van Hollen</lastName>
+        <middleName />
+        <firstName>Chris</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <party>D</party>
+        <lastName>Gillibrand</lastName>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <party>D</party>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <firstName>Amy</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <lastName>Warren</lastName>
+        <middleName>A.</middleName>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NM</state>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <bioguideId>U000039</bioguideId>
+        <party>D</party>
+        <lastName>UDALL</lastName>
+        <middleName />
+        <firstName>TOM</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <bioguideId>C000141</bioguideId>
+        <party>D</party>
+        <lastName>CARDIN</lastName>
+        <middleName>L.</middleName>
+        <firstName>BENJAMIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <lastName>MARKEY</lastName>
+        <middleName>J.</middleName>
+        <firstName>EDWARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VT</state>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <bioguideId>L000174</bioguideId>
+        <party>D</party>
+        <lastName>LEAHY</lastName>
+        <middleName>JOSEPH</middleName>
+        <firstName>PATRICK</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <bioguideId>D000563</bioguideId>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <middleName>J.</middleName>
+        <firstName>RICHARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <bioguideId>F000062</bioguideId>
+        <party>D</party>
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <firstName>DIANNE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>A bill to amend the Securities and Exchange Act of 1934 to require shareholder authorization before a public company may make certain political expenditures, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Shareholder Protection Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Shareholder Protection Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Shareholder Protection Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <firstName>Robert</firstName>
+        <bioguideId>M000639</bioguideId>
+        <middleName />
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <lastName>Menendez</lastName>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <calendarNumbers />
+    <title>Shareholder Protection Act of 2019</title>
+    <introducedDate>2019-05-23</introducedDate>
+    <createDate>2019-05-24T05:27:14Z</createDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

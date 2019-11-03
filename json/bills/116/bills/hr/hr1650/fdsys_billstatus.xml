@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-09T08:12:08Z</createDate>
+    <relatedBills>
+      <item>
+        <number>4294</number>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>Referred to the House Committee on Natural Resources.</text>
+        </latestAction>
+        <latestTitle>American Energy First Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <district>0</district>
+        <middleName />
+        <bioguideId>C001109</bioguideId>
+        <byRequestType />
+        <party>R</party>
+        <firstName>Liz</firstName>
+        <lastName>Cheney</lastName>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>C001109</bioguideId>
+          <gpoId />
+          <lisID>2356</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <notes />
+    <congress>116</congress>
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <date>2019-03-08T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1650ih/xml/BILLS-116hr1650ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionDate>2019-03-29</actionDate>
+        <committee>
+          <name>Energy and Mineral Resources Subcommittee</name>
+          <systemCode>hsii06</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionDate>2019-03-08</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-03-08</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-03-08</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. CHENEY:H.R. 1650.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2Article I, Section 8 Clause 18[Page H2615]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <firstName>Paul</firstName>
+        <middleName>A.</middleName>
+        <lastName>Gosar</lastName>
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000565</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Louie</firstName>
+        <middleName />
+        <lastName>Gohmert</lastName>
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000552</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <lisID>1801</lisID>
+          <bioguideId>G000552</bioguideId>
+          <gpoId>8157</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Duncan</firstName>
+        <middleName>D.</middleName>
+        <lastName>Hunter</lastName>
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>50</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001048</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <lisID>1909</lisID>
+          <gpoId>7857</gpoId>
+          <bioguideId>H001048</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName />
+        <lastName>Meadows</lastName>
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001187</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+          <lisID>2142</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Dan</firstName>
+        <middleName />
+        <lastName>Newhouse</lastName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000189</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>N000189</bioguideId>
+          <gpoId />
+          <lisID>2275</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-09-16T13:00:16Z</updateDate>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-03-29T20:15:39Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii06</systemCode>
+              <name>Energy and Mineral Resources Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-03-08T14:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2019-03-29</actionDate>
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <title>To clarify that the Bureau of Land Management shall not require permits for oil and gas activities conducted on non-Federal surface estate to access subsurface mineral estate that is less than 50 percent federally owned, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Ending Duplicative Permitting Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Ending Duplicative Permitting Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Ending Duplicative Permitting Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <introducedDate>2019-03-08</introducedDate>
+    <amendments />
+    <billNumber>1650</billNumber>
+    <title>Ending Duplicative Permitting Act</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

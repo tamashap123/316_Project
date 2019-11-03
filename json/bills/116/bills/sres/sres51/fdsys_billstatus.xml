@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-06-14T05:36:53Z</updateDate>
+    <billNumber>51</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Select Committee on Intelligence</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <relatedBills />
+    <recordedVotes />
+    <createDate>2019-02-07T06:10:14Z</createDate>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <middleName />
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <lastName>BURR</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <byRequestType />
+        <firstName>RICHARD</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-03-12T16:57:43Z</lastSummaryUpdateDate>
+          <updateDate>2019-02-06T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Select Committee on Intelligence for the 116th Congress.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-06</actionDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2019-03-12T16:57:34Z</lastSummaryUpdateDate>
+          <updateDate>2019-02-06T14:49:25Z</updateDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Select Committee on Intelligence for the 116th Congress.</p>]]></text>
+          <name>Reported to Senate</name>
+          <versionCode>25</versionCode>
+          <actionDate>2019-02-06</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-06T20:30:38Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <type>Select</type>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2019-02-06T20:30:21Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S924</url>
+            <name>S924</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S924)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Burr. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Burr. Without written report.</text>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <actionDate>2019-02-06</actionDate>
+        <links />
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2019-02-06</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>1</reportedToSenate>
+      </actionTypeCounts>
+    </actions>
+    <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <billType>SRES</billType>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S924)</text>
+      <links />
+      <actionDate>2019-02-06</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <introducedDate>2019-02-06</introducedDate>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres51is/xml/BILLS-116sres51is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-06T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

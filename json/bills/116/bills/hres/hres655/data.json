@@ -1,0 +1,222 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-28", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-28", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-263", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/263"
+        }
+      ], 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 116-263, by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-28T19:28:43-04:00", 
+      "action_code": "H12700", 
+      "bill_ids": [
+        "hres296-116"
+      ], 
+      "links": [
+        {
+          "name": "H. Res. 296", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-resolution/296"
+        }
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H. Res. 296 with 1 hour of general debate. Previous question shall be considered as ordered.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-28", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "50", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 50.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2019-10-29T12:40:17-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H8552-8558", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H8552-8558"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8552-8558", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-29T12:41:10-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H. Res. 655", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-resolution/655"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 655.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-29T13:54:15-04:00", 
+      "action_code": "H35000", 
+      "links": [
+        {
+          "name": "H8557", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H8557"
+        }, 
+        {
+          "name": "Roll no. 587", 
+          "url": "http://clerk.house.gov/evs/2019/roll587.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8557", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question Agreed to by the Yeas and Nays: 224 - 189 (Roll no. 587).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-29T14:02:59-04:00", 
+      "action_code": "H37100", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H8552", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H8552"
+        }, 
+        {
+          "name": "Roll no. 588", 
+          "url": "http://clerk.house.gov/evs/2019/roll588.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H8552", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "588", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 191 (Roll no. 588).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-10-29T14:03:01-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres655-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-263"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-10-28", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-10-29T14:02:59-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-28", 
+  "number": "655", 
+  "official_title": "Providing for consideration of the resolution (H. Res. 296) affirming the United States record on the Armenian Genocide.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres296-116", 
+      "identified_by": "House", 
+      "reason": "procedurally-related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M000312", 
+    "district": "2", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2019-10-29T14:02:59-04:00", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed House", 
+    "date": "2019-10-29T12:51:26Z", 
+    "text": "This resolution sets forth the rule for consideration of H.Res. 296 (affirming the United States record on the Armenian Genocide)."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the resolution (H. Res. 296) affirming the United States record on the Armenian Genocide.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the resolution (H. Res. 296) affirming the United States record on the Armenian Genocide.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-01T15:30:35Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres655.xml"
+}

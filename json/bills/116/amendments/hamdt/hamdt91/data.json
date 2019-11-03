@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-07T15:34:45-05:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H.Amdt.91", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/91"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Brown (MD) amendment (A038) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-03-07T15:22:04-05:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.91", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/91"
+        }, 
+        {
+          "name": "H2542", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2542"
+        }, 
+        {
+          "name": "H2542-2544", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2542-2544"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H2542-2544", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2542", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A038) offered by Mr. Brown (MD).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07T15:34:45-05:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.91", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/91"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07T15:22:04-05:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.91", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/91"
+        }, 
+        {
+          "name": "H2542", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2542"
+        }, 
+        {
+          "name": "H2542-2544", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2542-2544"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A038) offered by Mr. Brown (MD).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07T15:34:45-05:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.91", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/91"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Brown (MD) amendment (A038) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-07", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt91-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": null, 
+  "introduced_at": "2019-03-07", 
+  "number": 91, 
+  "purpose": "An amendment numbered 45 printed in Part B of House Report 116-16 to ensure Sunday early voting.", 
+  "sponsor": {
+    "bioguide_id": "B001304", 
+    "district": "4", 
+    "name": "Brown, Anthony G.", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-03-07T15:34:45-05:00", 
+  "updated_at": "2019-09-10T18:15:17Z"
+}

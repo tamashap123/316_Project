@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-06T19:30:04-05:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H.Amdt.73", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/73"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Rouda amendment (A020) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-03-06T19:27:23-05:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.73", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/73"
+        }, 
+        {
+          "name": "H2497", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2497"
+        }, 
+        {
+          "name": "H2497-2498", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2497-2498"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H2497-2498", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2497", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A020) offered by Mr. Rouda.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06T19:30:04-05:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.73", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/73"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Rouda amendment (A020) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06T19:27:23-05:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.73", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/73"
+        }, 
+        {
+          "name": "H2497", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2497"
+        }, 
+        {
+          "name": "H2497-2498", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H2497-2498"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A020) offered by Mr. Rouda.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06T19:30:04-05:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.73", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/73"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-06", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt73-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": null, 
+  "introduced_at": "2019-03-06", 
+  "number": 73, 
+  "purpose": "An amendment numbered 22 printed in Part B of House Report 116-16 to direct the Postmaster General to modify paper change of address forms used by the United States Postal Service to include a reminder that any individual using the form should update the individuals voter registration as a result of any change in address.", 
+  "sponsor": {
+    "bioguide_id": "R000616", 
+    "district": "48", 
+    "name": "Rouda, Harley", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-03-06T19:30:04-05:00", 
+  "updated_at": "2019-09-10T18:15:17Z"
+}

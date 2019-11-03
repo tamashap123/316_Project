@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2019-07-25T14:00:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2019-08-15T16:02:05Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <activities>
+            <item>
+              <date>2019-07-25T14:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <activities>
+                <item>
+                  <date>2019-07-26T13:22:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2019-07-25T14:00:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To provide a civil remedy for individuals harmed by sanctuary jurisdiction policies, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Justice for Victims of Sanctuary Cities Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Justice for Victims of Sanctuary Cities Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Justice for Victims of Sanctuary Cities Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-08-15</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-26</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Transportation and Infrastructure, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <title>Justice for Victims of Sanctuary Cities Act of 2019</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-07-25</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <actionDate>2019-08-15</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <party>R</party>
+        <firstName>Ted</firstName>
+        <bioguideId>B001305</bioguideId>
+        <district>13</district>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+        </identifiers>
+        <lastName>Budd</lastName>
+        <middleName />
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <state>AL</state>
+        <identifiers>
+          <lisID>2197</lisID>
+          <bioguideId>B001289</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Byrne</lastName>
+        <bioguideId>B001289</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bradley</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2389</lisID>
+          <bioguideId>S001214</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Steube</lastName>
+        <bioguideId>S001214</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+        <sponsorshipDate>2019-08-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>W.</firstName>
+        <middleName>Gregory</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <lastName>Posey</lastName>
+        <bioguideId>P000599</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bill</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <state>MI</state>
+        <identifiers>
+          <lisID>1855</lisID>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+        </identifiers>
+        <lastName>Walberg</lastName>
+        <bioguideId>W000798</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tim</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <state>TN</state>
+        <identifiers>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+          <gpoId>8151</gpoId>
+        </identifiers>
+        <lastName>DesJarlais</lastName>
+        <bioguideId>D000616</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Scott</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2057</lisID>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <lastName>Duncan</lastName>
+        <bioguideId>D000615</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2239</lisID>
+          <bioguideId>A000372</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Allen</lastName>
+        <bioguideId>A000372</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <sponsorshipDate>2019-09-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Rick</firstName>
+        <middleName>W.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Riggleman, Denver [R-VA-5]</fullName>
+        <state>VA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000611</bioguideId>
+          <lisID>2454</lisID>
+        </identifiers>
+        <lastName>Riggleman</lastName>
+        <bioguideId>R000611</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <sponsorshipDate>2019-09-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Denver</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Meadows</lastName>
+        <bioguideId>M001187</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2446</lisID>
+          <gpoId />
+          <bioguideId>W000827</bioguideId>
+        </identifiers>
+        <lastName>Wright</lastName>
+        <bioguideId>W000827</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ron</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Gooden, Lance [R-TX-5]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2445</lisID>
+          <bioguideId>G000589</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Gooden</lastName>
+        <bioguideId>G000589</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <sponsorshipDate>2019-09-27</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lance</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Bishop, Dan [R-NC-9]</fullName>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2473</lisID>
+          <gpoId />
+          <bioguideId>B001311</bioguideId>
+        </identifiers>
+        <lastName>Bishop</lastName>
+        <bioguideId>B001311</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <sponsorshipDate>2019-10-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dan</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2270</lisID>
+          <gpoId />
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <lastName>Babin</lastName>
+        <bioguideId>B001291</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>36</district>
+        <sponsorshipDate>2019-10-04</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2368</lisID>
+          <gpoId />
+          <bioguideId>L000589</bioguideId>
+        </identifiers>
+        <lastName>Lesko</lastName>
+        <bioguideId>L000589</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <sponsorshipDate>2019-10-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Debbie</firstName>
+        <middleName />
+      </item>
+      <item>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <lastName>Gosar</lastName>
+        <bioguideId>G000565</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2019-10-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <fullName>Rep. Baird, James R. [R-IN-4]</fullName>
+        <state>IN</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2400</lisID>
+          <bioguideId>B001307</bioguideId>
+        </identifiers>
+        <lastName>Baird</lastName>
+        <bioguideId>B001307</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2019-11-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <middleName>R.</middleName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date>2019-07-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3964ih/xml/BILLS-116hr3964ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>3964</billNumber>
+    <relatedBills>
+      <item>
+        <latestTitle>Justice for Victims of Sanctuary Cities Act of 2019</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <number>2059</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2019-07-09</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 126 (Thursday, July 25, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. BUDD:H.R. 3964.Congress has the power to enact this legislation pursuantto the following:Article I Section 8 Clause 4 of the Constitution[Page H7468]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-07-26T07:12:16Z</createDate>
+    <updateDate>2019-11-02T07:16:17Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

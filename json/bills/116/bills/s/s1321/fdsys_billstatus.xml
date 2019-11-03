@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <introducedDate>2019-05-06</introducedDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <byRequestType />
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <lastName>Blumenthal</lastName>
+        <state>CT</state>
+      </item>
+    </sponsors>
+    <actions>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <placeholderTextForH>1</placeholderTextForH>
+        <passedSenate>1</passedSenate>
+        <sentToHouse>1</sentToHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <billReferrals>1</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>9</senate>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <committee>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2019-07-19</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <actionTime>09:52:14</actionTime>
+        <links />
+        <actionCode>H14000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2019-07-19</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4915</url>
+            <name>S4915</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S4915; text: CR S4915)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4915; text: CR S4915)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4915</url>
+            <name>S4915</name>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2019-07-17</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 95.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Graham without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Graham without amendment. Without written report.</text>
+        <links />
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <actionDate>2019-05-22</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-05-16</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-06</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-05-06</actionDate>
+      </item>
+    </actions>
+    <amendments />
+    <notes />
+    <updateDate>2019-11-02T04:24:53Z</updateDate>
+    <billNumber>1321</billNumber>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0095</number>
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+    <committeeReports />
+    <createDate>2019-05-07T04:27:09Z</createDate>
+    <titles>
+      <item>
+        <title>A bill to amend title 18, United States Code, to prohibit interference with voting systems under the Computer Fraud and Abuse Act.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Defending the Integrity of Voting Systems Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Defending the Integrity of Voting Systems Act</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Defending the Integrity of Voting Systems Act</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Defending the Integrity of Voting Systems Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Defending the Integrity of Voting Systems Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Defending the Integrity of Voting Systems Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Defending the Integrity of Voting Systems Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Defending the Integrity of Voting Systems Act</title>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-07-30T15:42:34Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-07-19T15:26:14Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-05-22T15:26:31Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2019-05-17T02:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-05-06T20:10:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <firstName>LINDSEY</firstName>
+        <middleName>O.</middleName>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <lastName>GRAHAM</lastName>
+        <state>SC</state>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000359</bioguideId>
+        <identifiers>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <firstName>Sheldon</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <lastName>Whitehouse</lastName>
+        <state>RI</state>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000802</bioguideId>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+          <actionDate>2019-06-28</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Defending the Integrity of Voting Systems Act</latestTitle>
+        <number>3238</number>
+        <congress>116</congress>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+          <actionDate>2019-02-13</actionDate>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Defending American Security from Kremlin Aggression Act of 2019</latestTitle>
+        <number>482</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <date>2019-07-19T04:00:00Z</date>
+        <type>Referred in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1321rfh/xml/BILLS-116s1321rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-07-17T04:00:00Z</date>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1321es/xml/BILLS-116s1321es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-05-22T04:00:00Z</date>
+        <type>Reported to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1321rs/xml/BILLS-116s1321rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-05-06T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1321is/xml/BILLS-116s1321is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <congress>116</congress>
+    <latestAction>
+      <actionDate>2019-07-30</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </latestAction>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/55326</url>
+        <title>S. 1321, Defending the Integrity of Voting Systems Act</title>
+        <pubDate>2019-06-04T15:29:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-10-16T16:23:08Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Defending the Integrity of Voting Systems Act</b></p> <p>This bill broadens the definition of &quot;protected computer,&quot; for purposes of computer fraud and abuse offenses, to include a computer that is part of a voting system and is used for a federal election. </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2019-05-06T04:00:00Z</updateDate>
+          <actionDate>2019-05-06</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2019-10-31T11:59:27Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Defending the Integrity of Voting Systems Act</b></p> <p>This bill broadens the definition of &quot;protected computer,&quot; for purposes of computer fraud and abuse offenses, to include a computer that is part of a voting system and (1) is used for a federal election, or (2) has moved in or otherwise affects interstate or foreign commerce.</p>]]></text>
+          <versionCode>25</versionCode>
+          <updateDate>2019-05-22T12:22:25Z</updateDate>
+          <actionDate>2019-05-22</actionDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

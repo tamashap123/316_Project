@@ -1,0 +1,264 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-24", 
+      "action_code": "1000", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-24", 
+      "action_code": "H12100", 
+      "committees": [
+        "HSRU"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-126", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/126"
+        }
+      ], 
+      "references": [], 
+      "text": "The House Committee on Rules reported an original measure, H. Rept. 116-126, by Mr. McGovern.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-24T23:51:01-04:00", 
+      "action_code": "H12700", 
+      "bill_ids": [
+        "hr2722-116", 
+        "hr3351-116"
+      ], 
+      "links": [
+        {
+          "name": "H.R. 2722", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/2722"
+        }, 
+        {
+          "name": "H.R. 3351", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/3351"
+        }
+      ], 
+      "references": [], 
+      "text": "The resolution provides for consideration of H.R. 2722 under a closed rule with one hour of general debate. Also, the resolution provides for consideration of H.R. 3351 under a structured rule with one hour of general debate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-24", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "32", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the House Calendar, Calendar No. 32.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2019-06-25T12:18:09-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H5091-5099", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5091-5099"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5091-5099", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as privileged matter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25T12:23:20-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H. Res. 460", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-resolution/460"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 460.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25T13:23:03-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H. Res. 460", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-resolution/460"
+        }
+      ], 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 460, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Mr. Cole demanded the yeas and nays on ordering the previous question and the Chair postponed further proceedings until later in the legislative day.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25T13:30:47-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H5099-5100", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5099-5100"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5099-5100", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25T13:59:38-04:00", 
+      "action_code": "H35000", 
+      "links": [
+        {
+          "name": "H5099-5100", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5099-5100"
+        }, 
+        {
+          "name": "Roll no. 403", 
+          "url": "http://clerk.house.gov/evs/2019/roll403.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5099-5100", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "On ordering the previous question Agreed to by the Yeas and Nays: 228 - 188 (Roll no. 403).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-25T14:08:40-04:00", 
+      "action_code": "H37100", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H5091", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5091"
+        }, 
+        {
+          "name": "Roll no. 404", 
+          "url": "http://clerk.house.gov/evs/2019/roll404.xml"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5091", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "roll": "404", 
+      "status": "PASSED:SIMPLERES", 
+      "suspension": null, 
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 190 (Roll no. 404).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-25T14:08:43-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres460-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-126"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Rules", 
+      "committee_id": "HSRU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-06-24", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-06-25T14:08:40-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-24", 
+  "number": "460", 
+  "official_title": "Providing for consideration of the bill (H.R. 2722) to protect elections for public office by providing financial support and enhanced security for the infrastructure used to carry out such elections, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for consideration of the bill (H.R. 3351) making appropriations for financial services and general government for the fiscal year ending September 30, 2020, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2722-116", 
+      "identified_by": "House", 
+      "reason": "procedurally-related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3351-116", 
+      "identified_by": "House", 
+      "reason": "procedurally-related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "M000312", 
+    "district": "2", 
+    "name": "McGovern, James P.", 
+    "state": "MA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2019-06-25T14:08:40-04:00", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-06-24T04:00:00Z", 
+    "text": "Sets forth the rule for consideration of the bill (H.R. 2722) to protect elections for public office by providing financial support and enhanced security for the infrastructure used to carry out such elections, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for consideration of the bill (H.R. 3351) making appropriations for financial services and general government for the fiscal year ending September 30, 2020."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the bill (H.R. 2722) to protect elections for public office by providing financial support and enhanced security for the infrastructure used to carry out such elections, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for consideration of the bill (H.R. 3351) making appropriations for financial services and general government for the fiscal year ending September 30, 2020, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Providing for consideration of the bill (H.R. 2722) to protect elections for public office by providing financial support and enhanced security for the infrastructure used to carry out such elections, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for consideration of the bill (H.R. 3351) making appropriations for financial services and general government for the fiscal year ending September 30, 2020, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-03T04:02:35Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres460.xml"
+}

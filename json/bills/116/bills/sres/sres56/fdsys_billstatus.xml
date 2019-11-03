@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-08T05:55:23Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S1139</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1139</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S1139)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Original measure reported to Senate by Senator Risch. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <type>Committee</type>
+        <text>Committee on Foreign Relations. Original measure reported to Senate by Senator Risch. Without written report.</text>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-02-07</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-02-07</actionDate>
+      </item>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <billNumber>56</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T20:08:22Z</date>
+            </item>
+          </activities>
+          <name>Rules and Administration Committee</name>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2019-02-07T20:08:00Z</date>
+            </item>
+          </activities>
+          <name>Foreign Relations Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <latestAction>
+      <actionDate>2019-02-07</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S1139)</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-02-07T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-04-04T21:04:05Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Foreign Relations for the 116th Congress.</p>]]></text>
+          <actionDate>2019-02-07</actionDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <updateDate>2019-02-07T20:08:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-04-04T21:03:57Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Foreign Relations for the 116th Congress.</p>]]></text>
+          <actionDate>2019-02-07</actionDate>
+          <name>Reported to Senate</name>
+          <versionCode>25</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>SRES</billType>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <relatedBills />
+    <updateDate>2019-04-11T15:42:27Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Foreign Relations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Committee on Foreign Relations.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Committee on Foreign Relations.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-02-07</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres56is/xml/BILLS-116sres56is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <lastName>Risch</lastName>
+        <state>ID</state>
+        <party>R</party>
+        <byRequestType />
+        <firstName>James</firstName>
+        <bioguideId>R000584</bioguideId>
+        <middleName>E.</middleName>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>An original resolution authorizing expenditures by the Committee on Foreign Relations.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

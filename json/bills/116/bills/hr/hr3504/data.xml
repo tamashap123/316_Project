@@ -1,0 +1,77 @@
+<bill session="116" type="h" number="3504" updated="2019-08-22T09:31:34Z">
+  <state datetime="2019-07-23T17:35:57-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-07-23T17:35:57-04:00"/>
+  </status>
+  <introduced datetime="2019-06-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for improvements to the specially adapted housing program of the Department of Veterans Affairs, and for other purposes.</title>
+    <title type="short" as="passed house">Ryan Kules Specially Adaptive Housing Improvement Act of 2019</title>
+    <title type="short" as="passed house">Ryan Kules Specially Adaptive Housing Improvement Act of 2019</title>
+    <title type="short" as="reported to house">Ryan Kules Specially Adaptive Housing Improvement Act of 2019</title>
+    <title type="short" as="reported to house">Ryan Kules Specially Adaptive Housing Improvement Act of 2019</title>
+    <title type="short" as="introduced">Ryan Kules Specially Adaptive Housing Improvement Act of 2019</title>
+    <title type="short" as="introduced">Ryan Kules Specially Adaptive Housing Improvement Act of 2019</title>
+    <title type="display">Ryan Kules Specially Adaptive Housing Improvement Act of 2019</title>
+  </titles>
+  <sponsor bioguide_id="B001257"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000593" joined="2019-06-26"/>
+    <cosponsor bioguide_id="R000582" joined="2019-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-06-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2019-07-08">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2019-07-22">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-164.</text>
+    </action>
+    <calendar datetime="2019-07-22" state="REPORTED" calendar="Union" number="124">
+      <text>Placed on the Union Calendar, Calendar No. 124.</text>
+    </calendar>
+    <action datetime="2019-07-23T17:20:49-04:00">
+      <text>Mr. Takano moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2019-07-23T17:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7207-7211" label="consideration"/>
+    </action>
+    <action datetime="2019-07-23T17:21:02-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3504.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2019-07-23T17:35:57-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7207-7209" label="text"/>
+    </vote>
+    <action datetime="2019-07-23T17:35:59-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-07-24">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Reporting, Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="unknown" number="2022"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability and paralysis"/>
+    <term name="Residential rehabilitation and home repair"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 116-164</report>
+  </committee-reports>
+</bill>

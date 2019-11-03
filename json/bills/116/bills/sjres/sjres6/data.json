@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-25", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-25", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sjres6-116", 
+  "bill_type": "sjres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001035", 
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-25", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000383", 
+      "district": null, 
+      "name": "King, Angus S., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-25", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001153", 
+      "district": null, 
+      "name": "Murkowski, Lisa", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-25", 
+      "state": "AK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-25", 
+  "number": "6", 
+  "official_title": "A joint resolution removing the deadline for the ratification of the equal rights amendment.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hjres38-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "C000141", 
+    "district": null, 
+    "name": "Cardin, Benjamin L.", 
+    "state": "MD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-01-25", 
+  "subjects": [
+    "Civil rights and liberties, minority issues", 
+    "Constitution and constitutional amendments", 
+    "Due process and equal protection", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Women's rights"
+  ], 
+  "subjects_top_term": "Civil rights and liberties, minority issues", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2019-01-25T05:00:00Z", 
+    "text": "This joint resolution eliminates the deadline for the ratification of the Equal Rights Amendment, which prohibits discrimination based on sex. The amendment was proposed to the states in House Joint Resolution 208 of the 92nd Congress, as agreed to in the Senate on March 22, 1972. The amendment shall be part of the Constitution whenever ratified by the legislatures of three-fourths of the states."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A joint resolution removing the deadline for the ratification of the equal rights amendment.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A joint resolution removing the deadline for the ratification of the equal rights amendment.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-02-26T16:32:43Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/sjres/BILLSTATUS-116sjres6.xml"
+}

@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-08-23", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-08-23", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-08-30", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water, Oceans, and Wildlife.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4208-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Water, Oceans, and Wildlife", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-08-23", 
+  "number": "4208", 
+  "official_title": "To amend the Endangered Species Act of 1973 to prohibit treatment of certain non-native, non-indigenous hoofstock born within the borders of the United States as an endangered species, a threatened species, an essential experimental population, or a nonessential experimental population.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "Y000065", 
+    "district": "3", 
+    "name": "Yoho, Ted S.", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-08-23", 
+  "subjects": [
+    "Endangered and threatened species", 
+    "Environmental protection", 
+    "Mammals"
+  ], 
+  "subjects_top_term": "Environmental protection", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Endangered Species Act of 1973 to prohibit treatment of certain non-native, non-indigenous hoofstock born within the borders of the United States as an endangered species, a threatened species, an essential experimental population, or a nonessential experimental population.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Endangered Species Act of 1973 to prohibit treatment of certain non-native, non-indigenous hoofstock born within the borders of the United States as an endangered species, a threatened species, an essential experimental population, or a nonessential experimental population.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-11T07:12:54Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4208.xml"
+}

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <committeeDischarged>1</committeeDischarged>
+        <presentedToPresident>1</presentedToPresident>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <placeholderTextForE>3</placeholderTextForE>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <introducedInSenate>1</introducedInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <becamePublicLaw>2</becamePublicLaw>
+        <sentToHouse>1</sentToHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <billReferrals>1</billReferrals>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+      <item>
+        <actionCode>E40000</actionCode>
+        <type>President</type>
+        <committee />
+        <links />
+        <text>Became Public Law No: 116-38.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-08-02</actionDate>
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <type>BecameLaw</type>
+        <committee />
+        <links />
+        <text>Became Public Law No: 116-38.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-08-02</actionDate>
+      </item>
+      <item>
+        <actionCode>E30000</actionCode>
+        <type>President</type>
+        <committee />
+        <links />
+        <text>Signed by President.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-08-02</actionDate>
+      </item>
+      <item>
+        <actionCode>36000</actionCode>
+        <type>BecameLaw</type>
+        <committee />
+        <links />
+        <text>Signed by President.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-08-02</actionDate>
+      </item>
+      <item>
+        <actionCode>E20000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <text>Presented to President.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-07-30</actionDate>
+      </item>
+      <item>
+        <actionCode>28000</actionCode>
+        <type>President</type>
+        <committee />
+        <links />
+        <text>Presented to President.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-30</actionDate>
+      </item>
+      <item>
+        <actionTime>18:02:17</actionTime>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <actionTime>18:02:14</actionTime>
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <name>H7443</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7443</url>
+          </link>
+        </links>
+        <text>On passage Passed without objection. (text: CR H7443)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <actionTime>18:02:14</actionTime>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <name>H7443</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7443</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On passage Passed without objection.(text: CR H7443)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <actionTime>18:02:12</actionTime>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <name>H7443</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7443</url>
+          </link>
+        </links>
+        <text>Considered by unanimous consent. (consideration: CR H7443)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <actionCode>H12300</actionCode>
+        <type>Discharge</type>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <text>Committee on Transportation discharged.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <actionCode>5500</actionCode>
+        <type>Committee</type>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <text>Committee on Transportation discharged.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <actionTime>18:01:42</actionTime>
+        <actionCode>H30200</actionCode>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <text>Mr. Larsen (WA) asked unanimous consent to discharge from committee and consider.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-07-25</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-07-25</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-07-24</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-07-24</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>14:19:43</actionTime>
+        <actionCode>H14000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <links />
+        <text>Received in the House.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-07-24</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-07-24</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5038</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5038</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S5038; text: CR S5038)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <links>
+          <link>
+            <name>S5038</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5038</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S5038; text: CR S5038)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-24</actionDate>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-24</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>2249</billNumber>
+    <cosponsors />
+    <textVersions>
+      <item>
+        <date />
+        <type>Enrolled Bill</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2249enr/xml/BILLS-116s2249enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-07-24T04:00:00Z</date>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2249es/xml/BILLS-116s2249es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-07-24T04:00:00Z</date>
+        <type>Referred in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2249rfh/xml/BILLS-116s2249rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-07-24T04:00:00Z</date>
+        <type>Considered and Passed Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2249cps/xml/BILLS-116s2249cps.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-07-25T04:42:15Z</createDate>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-07-25T15:49:00Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw05</systemCode>
+              <name>Aviation Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2019-07-25T22:02:01Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-25T01:37:44Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <middleName>F.</middleName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <bioguideId>W000437</bioguideId>
+        <party>R</party>
+        <lastName>WICKER</lastName>
+        <byRequestType />
+        <firstName>ROGER</firstName>
+        <state>MS</state>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <congress>116</congress>
+    <latestAction>
+      <text>Became Public Law No: 116-38.</text>
+      <links />
+      <actionDate>2019-08-02</actionDate>
+    </latestAction>
+    <title>A bill to allow the Deputy Administrator of the Federal Aviation Administration on the date of enactment of this Act to continue to serve as such Deputy Administrator.</title>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-08-16T10:48:18Z</updateDate>
+    <introducedDate>2019-07-24</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to allow the Deputy Administrator of the Federal Aviation Administration on the date of enactment of this Act to continue to serve as such Deputy Administrator.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to allow the Deputy Administrator of the Federal Aviation Administration on the date of enactment of this Act to continue to serve as such Deputy Administrator.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <laws>
+      <item>
+        <number>116-38</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <recordedVotes />
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

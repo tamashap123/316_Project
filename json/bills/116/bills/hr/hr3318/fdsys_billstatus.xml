@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <reportedToHouse>1</reportedToHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <subcommitteeDischarged>1</subcommitteeDischarged>
+        <orderedToBeReported>1</orderedToBeReported>
+        <committeeReportOfABill>1</committeeReportOfABill>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>Calendars</type>
+        <text>Placed on the Union Calendar, Calendar No. 153.</text>
+        <actionCode>H12410</actionCode>
+        <actionDate>2019-08-30</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 116-195</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/195</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-195.</text>
+        <actionCode>H12200</actionCode>
+        <actionDate>2019-08-30</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 116-195</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/house-report/195</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 116-195.</text>
+        <actionCode>5000</actionCode>
+        <actionDate>2019-08-30</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Transportation and Maritime Security Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee>
+          <name>Transportation and Maritime Security Subcommittee</name>
+          <systemCode>hshm07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-06-18</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-06-18</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-06-18</actionDate>
+      </item>
+    </actions>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-195</citation>
+      </committeeReport>
+    </committeeReports>
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <updateDate>2019-10-17T22:00:28Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>3318</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <state>AL</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <lastName>Rogers</lastName>
+        <bioguideId>R000575</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1704</lisID>
+          <bioguideId>R000575</bioguideId>
+          <gpoId>7788</gpoId>
+        </identifiers>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <fullName>Rep. Hagedorn, Jim [R-MN-1]</fullName>
+        <state>MN</state>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2019-07-25</sponsorshipDate>
+        <lastName>Hagedorn</lastName>
+        <bioguideId>H001088</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2411</lisID>
+          <gpoId />
+          <bioguideId>H001088</bioguideId>
+        </identifiers>
+        <firstName>Jim</firstName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3318rh/xml/BILLS-116hr3318rh.xml</url>
+          </item>
+        </formats>
+        <date>2019-08-30T04:00:00Z</date>
+        <type>Reported in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3318ih/xml/BILLS-116hr3318ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-18T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 102 (Tuesday, June 18, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. JOYCE of Pennsylvania:H.R. 3318.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18--The Congress shall havePower ``To make all Laws which shall be necessary and properfor carrying into Execution the foregoing Powers, and allother Powers vested by this Constitution in the Government ofthe United States, or in any Department or Officer thereof.''[Page H4772]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-06-19T11:12:10Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Joyce</lastName>
+        <bioguideId>J000302</bioguideId>
+        <district>13</district>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <state>PA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2435</lisID>
+          <gpoId />
+          <bioguideId>J000302</bioguideId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>John</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Placed on the Union Calendar, Calendar No. 153.</text>
+      <actionDate>2019-08-30</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To require the Transportation Security Administration to establish a task force to conduct an analysis of emerging and potential future threats to transportation security, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Emerging Transportation Security Threats Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <title>Emerging Transportation Security Threats Act of 2019</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Emerging Transportation Security Threats Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <title>Emerging Transportation Security Threats Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode />
+        <title>Emerging Transportation Security Threats Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/55585</url>
+        <pubDate>2019-08-29T18:00:26Z</pubDate>
+        <title>H.R. 3318, Emerging Transportation Security Threats Act of 2019</title>
+      </item>
+    </cboCostEstimates>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <activities>
+            <item>
+              <date>2019-08-30T16:48:58Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2019-07-17T19:24:33Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-06-18T04:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hshm07</systemCode>
+              <activities>
+                <item>
+                  <date>2019-07-17T19:22:15Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2019-06-27T20:18:28Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Transportation and Maritime Security Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-06-18</introducedDate>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00153</calendar>
+      </item>
+    </calendarNumbers>
+    <title>Emerging Transportation Security Threats Act of 2019</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

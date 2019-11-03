@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-18T22:14:13-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.354", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/354"
+        }, 
+        {
+          "name": "Roll no. 338", 
+          "url": "http://clerk.house.gov/evs/2019/roll338.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 338, 
+      "text": "On agreeing to the Banks amendment (A089) Failed by recorded vote: 123 - 303 (Roll no. 338).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-13T15:19:12-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "CR 6/18/2019 H4754", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4754"
+        }, 
+        {
+          "name": "H.Amdt.354", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/354"
+        }, 
+        {
+          "name": "H4684", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4684"
+        }, 
+        {
+          "name": "H4684-4685", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4684-4685"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4684-4685, CR 6/18/2019 H4754-4755", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4684", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A089) offered by Mr. Banks.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-13", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18T22:14:13-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.354", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/354"
+        }, 
+        {
+          "name": "Roll no. 338", 
+          "url": "http://clerk.house.gov/evs/2019/roll338.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18T22:14:13-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.354", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/354"
+        }, 
+        {
+          "name": "Roll no. 338", 
+          "url": "http://clerk.house.gov/evs/2019/roll338.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-18T22:14:13-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.354", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/354"
+        }, 
+        {
+          "name": "Roll no. 338", 
+          "url": "http://clerk.house.gov/evs/2019/roll338.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Banks amendment (A089) Failed by recorded vote: 123 - 303 (Roll no. 338).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-13T15:19:12-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "CR 6/18/2019 H4754", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4754"
+        }, 
+        {
+          "name": "H.Amdt.354", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/354"
+        }, 
+        {
+          "name": "H4684", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4684"
+        }, 
+        {
+          "name": "H4684-4685", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4684-4685"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4684-4685", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4684", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A089) offered by Mr. Banks.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-13", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt354-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2740-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 2740
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "At the end of division D (before the short title), insert the following:    SEC.__. Each amount made available in division D, except those amounts made available to the Department of Defense, is hereby reduced by 14 percent.", 
+  "introduced_at": "2019-06-13", 
+  "number": 354, 
+  "purpose": "An amendment numbered 98 printed in Part B of House Report 116-109 to reduce spending for each amount in Division D, except those amounts made available to the Department of Defense, by 14 percent.", 
+  "sponsor": {
+    "bioguide_id": "B001299", 
+    "district": "3", 
+    "name": "Banks, Jim", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2019-06-18T22:14:13-04:00", 
+  "updated_at": "2019-11-01T04:57:47Z"
+}

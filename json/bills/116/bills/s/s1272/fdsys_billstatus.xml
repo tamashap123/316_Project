@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <recordedVotes />
+    <congress>116</congress>
+    <billNumber>1272</billNumber>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>2451</number>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-06-12</actionDate>
+          <text>Ordered to be Reported by Unanimous Consent.</text>
+        </latestAction>
+        <latestTitle>To designate the facility of the United States Postal Service located at 575 Dexter Street in Central Falls, Rhode Island, as the "Elizabeth Buffum Chace Post Office".</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-05-01T04:00:00Z</updateDate>
+          <actionDate>2019-05-01</actionDate>
+          <lastSummaryUpdateDate>2019-05-02T08:01:48Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[Designates the facility of the United States Postal Service located at 575 Dexter Street in Central Falls, Rhode Island, as the "Elizabeth Buffum Chace Post Office."]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-08-02</actionDate>
+        <actionCode>H15000</actionCode>
+        <type>Floor</type>
+        <text>Held at the desk.</text>
+        <committee />
+        <actionTime>14:08:46</actionTime>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-08-02</actionDate>
+        <actionCode>H14000</actionCode>
+        <type>Floor</type>
+        <text>Received in the House.</text>
+        <committee />
+        <actionTime>11:02:17</actionTime>
+      </item>
+      <item>
+        <actionDate>2019-07-31</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5204</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5204</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S5204; text: CR S5204)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-30</actionDate>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5204; text: CR S5204)</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-06-19</actionDate>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.</text>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-01</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <sentToHouse>1</sentToHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <passedSenate>1</passedSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <middleName>F.</middleName>
+        <bioguideId>R000122</bioguideId>
+        <party>D</party>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>JOHN</firstName>
+        <state>RI</state>
+        <lastName>REED</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <text>Held at the desk.</text>
+      <actionDate>2019-08-02</actionDate>
+      <actionTime>14:08:46</actionTime>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to designate the facility of the United States Postal Service located at 575 Dexter Street in Central Falls, Rhode Island, as the "Elizabeth Buffum Chace Post Office".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to designate the facility of the United States Postal Service located at 575 Dexter Street in Central Falls, Rhode Island, as the "Elizabeth Buffum Chace Post Office".</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0121</number>
+      </item>
+    </calendarNumbers>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1272es/xml/BILLS-116s1272es.xml</url>
+          </item>
+        </formats>
+        <date>2019-07-30T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1272rs/xml/BILLS-116s1272rs.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-19T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1272is/xml/BILLS-116s1272is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-01T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>A bill to designate the facility of the United States Postal Service located at 575 Dexter Street in Central Falls, Rhode Island, as the "Elizabeth Buffum Chace Post Office".</title>
+    <createDate>2019-05-02T04:42:11Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Rhode Island</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-05-01</introducedDate>
+    <updateDate>2019-08-16T10:04:28Z</updateDate>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <middleName />
+        <bioguideId>W000802</bioguideId>
+        <firstName>Sheldon</firstName>
+        <party>D</party>
+        <lastName>Whitehouse</lastName>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-06-19T19:25:10Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-06-19T13:30:40Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-01T18:42:24Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

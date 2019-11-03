@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-10-15</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5631</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5631</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 09/23/2019 CR S5631)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S5631</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5631</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: 09/23/2019 CR S5631)</text>
+        <actionCode>17000</actionCode>
+        <actionDate>2019-10-15</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-10-15</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S5799</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5799</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S5799)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S5799</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5799</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S5799)</text>
+        <actionCode>14500</actionCode>
+        <actionDate>2019-10-15</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-09-23</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <actionDate>2019-09-23</actionDate>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <updateDate>2019-10-16T15:40:36Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>322</billNumber>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>C000127</bioguideId>
+        <lastName>CANTWELL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <firstName>MARIA</firstName>
+        <state>WA</state>
+        <sponsorshipDate>2019-09-23</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <lastName>Fischer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+          <lisID>2179</lisID>
+        </identifiers>
+        <firstName>Deb</firstName>
+        <state>NE</state>
+        <sponsorshipDate>2019-09-23</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>D000622</bioguideId>
+        <lastName>Duckworth</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+        </identifiers>
+        <firstName>Tammy</firstName>
+        <state>IL</state>
+        <sponsorshipDate>2019-09-23</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres322is/xml/BILLS-116sres322is.xml</url>
+          </item>
+        </formats>
+        <date>2019-09-23T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <createDate>2019-09-24T04:27:20Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>WICKER</lastName>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <state>MS</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <byRequestType />
+        <firstName>ROGER</firstName>
+      </item>
+    </sponsors>
+    <billType>SRES</billType>
+    <latestAction>
+      <links />
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 09/23/2019 CR S5631)</text>
+      <actionDate>2019-10-15</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution expressing support for the designation of the week of September 22 through September 28, 2019, as Rail Safety Week in the United States, and supporting the goals and ideals of Rail Safety Week to reduce rail-related accidents, fatalities, and injuries.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution expressing support for the designation of the week of September 22 through September 28, 2019, as Rail Safety Week in the United States, and supporting the goals and ideals of Rail Safety Week to reduce rail-related accidents, fatalities, and injuries.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>609</number>
+        <type>HRES</type>
+        <latestTitle>Expressing support to designate the week of September 22 through September 28, 2019, Rail Safety Week in the United States, and to support the goals and ideals of Rail Safety Week to reduce rail-related accidents, fatalities, and injuries.</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+          <actionDate>2019-09-27</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2019-10-15T22:10:21Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-23T20:16:53Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-09-23</introducedDate>
+    <calendarNumbers />
+    <laws />
+    <title>A resolution expressing support for the designation of the week of September 22 through September 28, 2019, as Rail Safety Week in the United States, and supporting the goals and ideals of Rail Safety Week to reduce rail-related accidents, fatalities, and injuries.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

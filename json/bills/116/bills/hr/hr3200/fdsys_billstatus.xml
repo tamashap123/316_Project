@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-06-11T04:00:00Z</updateDate>
+          <actionDate>2019-06-11</actionDate>
+          <text><![CDATA[<p><b>Safe Students Act</b></p> <p>This bill repeals provisions of federal criminal law that prohibit the possession or discharge of a firearm in a school zone.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-07-29T15:13:31Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2019-06-28</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-06-11</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-06-11</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-06-11</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-06-11</introducedDate>
+    <committeeReports />
+    <recordedVotes />
+    <updateDate>2019-09-25T07:16:36Z</updateDate>
+    <notes />
+    <billNumber>3200</billNumber>
+    <title>Safe Students Act</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To repeal the Gun-Free School Zones Act of 1990 and amendments to that Act.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Safe Students Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Safe Students Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Safe Students Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>M001184</bioguideId>
+          <lisID>2094</lisID>
+          <gpoId>8371</gpoId>
+        </identifiers>
+        <bioguideId>M001184</bioguideId>
+        <lastName>Massie</lastName>
+        <firstName>Thomas</firstName>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <byRequestType />
+        <middleName />
+        <district>4</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-11T14:03:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-06-28T17:19:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+      <actionDate>2019-06-28</actionDate>
+    </latestAction>
+    <congress>116</congress>
+    <createDate>2019-06-12T07:12:08Z</createDate>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H4432-H4433]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MASSIE:H.R. 3200.Congress has the power to enact this legislation pursuantto the following:This Act is justified by the lack of a mandate or assertionof authority in the United States Constitution for thefederal government to establish the laws affected by thisAct; by Article One of the United States Constitution thatgrants legislative powers; by the Second Amendment to theUnited States Constitution that recognizes the right[[Page H4433]]to bear arms, and by the Ninth and Tenth Amendments to theUnited States Constitution, which recognize that rights andpowers are retained and reserved by the people and to theStates.</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <date>2019-06-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3200ih/xml/BILLS-116hr3200ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <cosponsors>
+      <item>
+        <bioguideId>A000367</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Justin</firstName>
+        <state>MI</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>A000367</bioguideId>
+          <gpoId>7988</gpoId>
+          <lisID>2029</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Amash</lastName>
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <middleName />
+        <district>3</district>
+      </item>
+      <item>
+        <bioguideId>H001071</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jody</firstName>
+        <state>GA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Hice</lastName>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <middleName>B.</middleName>
+        <district>10</district>
+      </item>
+      <item>
+        <bioguideId>D000615</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Duncan</lastName>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <middleName />
+        <district>3</district>
+      </item>
+      <item>
+        <bioguideId>G000578</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Matt</firstName>
+        <state>FL</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Gaetz</lastName>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Louie</firstName>
+        <state>TX</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+          <gpoId>8157</gpoId>
+          <lisID>1801</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Gohmert</lastName>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <bioguideId>C001108</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>James</firstName>
+        <state>KY</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2297</lisID>
+          <bioguideId>C001108</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Comer</lastName>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <state>TX</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+          <lisID>2270</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Babin</lastName>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <middleName />
+        <district>36</district>
+      </item>
+      <item>
+        <bioguideId>M001177</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <state>CA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <lisID>1908</lisID>
+          <gpoId>7809</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <lastName>McClintock</lastName>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <middleName />
+        <district>4</district>
+      </item>
+      <item>
+        <bioguideId>L000578</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Doug</firstName>
+        <state>CA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <gpoId />
+          <lisID>2100</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <lastName>LaMalfa</lastName>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <bioguideId>J000289</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jim</firstName>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000289</bioguideId>
+          <lisID>1868</lisID>
+          <gpoId>8094</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <lastName>Jordan</lastName>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <middleName />
+        <district>4</district>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

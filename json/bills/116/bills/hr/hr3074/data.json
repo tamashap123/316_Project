@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3074-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-03", 
+  "number": "3074", 
+  "official_title": "To amend the Protecting Access to Medicare Act of 2014 to extend the Medicaid demonstration programs to improve access to community mental health services.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Continuing Access to Mental and Behavioral Health Care Act", 
+  "sponsor": {
+    "bioguide_id": "W000791", 
+    "district": "2", 
+    "name": "Walden, Greg", 
+    "state": "OR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-03", 
+  "subjects": [
+    "Drug, alcohol, tobacco use", 
+    "Health", 
+    "Health facilities and institutions", 
+    "Health programs administration and funding", 
+    "Medicare", 
+    "Mental health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Protecting Access to Medicare Act of 2014 to extend the Medicaid demonstration programs to improve access to community mental health services.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Continuing Access to Mental and Behavioral Health Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Continuing Access to Mental and Behavioral Health Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Continuing Access to Mental and Behavioral Health Care Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-08-27T22:00:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3074.xml"
+}

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-11</actionDate>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-11</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-11</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-01-11</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This resolution (1) extends heartfelt sympathies to the family of Richard Arvin Overton, who was the oldest surviving veteran; and (2) honors his life and his service to the United States.</p>]]></text>
+          <updateDate>2019-01-11T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-15T16:17:52Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-11T14:02:30Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-12T08:10:14Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>37</billNumber>
+    <relatedBills>
+      <item>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2019-01-17</actionDate>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 1/8/2019 S70)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>10</number>
+        <latestTitle>A resolution honoring the life of Richard Arvin Overton.</latestTitle>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <firstName>KAY</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000377</bioguideId>
+          <lisID>1487</lisID>
+          <gpoId>8168</gpoId>
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+        <state>TX</state>
+        <bioguideId>G000377</bioguideId>
+        <lastName>GRANGER</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Ron</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000827</bioguideId>
+          <lisID>2446</lisID>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <state>TX</state>
+        <bioguideId>W000827</bioguideId>
+        <lastName>Wright</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Louie</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId>8157</gpoId>
+          <bioguideId>G000552</bioguideId>
+          <lisID>1801</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <state>TX</state>
+        <bioguideId>G000552</bioguideId>
+        <lastName>Gohmert</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>WILLIAM</firstName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>1155</lisID>
+          <gpoId>8755</gpoId>
+          <bioguideId>T000238</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <state>TX</state>
+        <bioguideId>T000238</bioguideId>
+        <lastName>THORNBERRY</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>K.</firstName>
+        <middleName>Michael</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>1805</lisID>
+          <bioguideId>C001062</bioguideId>
+          <gpoId>8167</gpoId>
+        </identifiers>
+        <district>11</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <state>TX</state>
+        <bioguideId>C001062</bioguideId>
+        <lastName>Conaway</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Kenny</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId>8766</gpoId>
+          <bioguideId>M001158</bioguideId>
+          <lisID>1806</lisID>
+        </identifiers>
+        <district>24</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <state>TX</state>
+        <bioguideId>M001158</bioguideId>
+        <lastName>Marchant</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Randy</firstName>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <gpoId />
+          <lisID>2161</lisID>
+        </identifiers>
+        <district>14</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <state>TX</state>
+        <bioguideId>W000814</bioguideId>
+        <lastName>Weber</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Jodey</firstName>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+          <lisID>2350</lisID>
+          <gpoId />
+        </identifiers>
+        <district>19</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <state>TX</state>
+        <bioguideId>A000375</bioguideId>
+        <lastName>Arrington</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+          <gpoId>8173</gpoId>
+        </identifiers>
+        <district>17</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <state>TX</state>
+        <bioguideId>F000461</bioguideId>
+        <lastName>Flores</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Dan</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001120</bioguideId>
+          <gpoId />
+          <lisID>2443</lisID>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Crenshaw, Dan [R-TX-2]</fullName>
+        <state>TX</state>
+        <bioguideId>C001120</bioguideId>
+        <lastName>Crenshaw</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001115</bioguideId>
+          <lisID>2369</lisID>
+        </identifiers>
+        <district>27</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cloud, Michael [R-TX-27]</fullName>
+        <state>TX</state>
+        <bioguideId>C001115</bioguideId>
+        <lastName>Cloud</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Lance</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2445</lisID>
+          <bioguideId>G000589</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gooden, Lance [R-TX-5]</fullName>
+        <state>TX</state>
+        <bioguideId>G000589</bioguideId>
+        <lastName>Gooden</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <district>36</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <state>TX</state>
+        <bioguideId>B001291</bioguideId>
+        <lastName>Babin</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Chip</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2449</lisID>
+          <bioguideId>R000614</bioguideId>
+        </identifiers>
+        <district>21</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Roy, Chip [R-TX-21]</fullName>
+        <state>TX</state>
+        <bioguideId>R000614</bioguideId>
+        <lastName>Roy</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <bioguideId>B001248</bioguideId>
+          <lisID>1751</lisID>
+        </identifiers>
+        <district>26</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <state>TX</state>
+        <bioguideId>B001248</bioguideId>
+        <lastName>Burgess</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>KEVIN</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId>8164</gpoId>
+          <bioguideId>B000755</bioguideId>
+          <lisID>1468</lisID>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <state>TX</state>
+        <bioguideId>B000755</bioguideId>
+        <lastName>BRADY</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <state>TX</state>
+        <bioguideId>M001157</bioguideId>
+        <lastName>McCaul</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>EDDIE</firstName>
+        <middleName>BERNICE</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+          <lisID>599</lisID>
+        </identifiers>
+        <district>30</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <state>TX</state>
+        <bioguideId>J000126</bioguideId>
+        <lastName>JOHNSON</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Vicente</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>15</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <state>TX</state>
+        <bioguideId>G000581</bioguideId>
+        <lastName>Gonzalez</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>1752</lisID>
+          <bioguideId>C001051</bioguideId>
+          <gpoId>8187</gpoId>
+        </identifiers>
+        <district>31</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Carter, John R. [R-TX-31]</fullName>
+        <state>TX</state>
+        <bioguideId>C001051</bioguideId>
+        <lastName>Carter</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2268</lisID>
+          <bioguideId>R000601</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <state>TX</state>
+        <bioguideId>R000601</bioguideId>
+        <lastName>Ratcliffe</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Marc</firstName>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2166</lisID>
+          <gpoId />
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <district>33</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <state>TX</state>
+        <bioguideId>V000131</bioguideId>
+        <lastName>Veasey</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Pete</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>1955</lisID>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+        </identifiers>
+        <district>22</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <state>TX</state>
+        <bioguideId>O000168</bioguideId>
+        <lastName>Olson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Will</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2269</lisID>
+          <bioguideId>H001073</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <state>TX</state>
+        <bioguideId>H001073</bioguideId>
+        <lastName>Hurd</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Filemon</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+          <gpoId />
+        </identifiers>
+        <district>34</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <state>TX</state>
+        <bioguideId>V000132</bioguideId>
+        <lastName>Vela</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Colin</firstName>
+        <middleName>Z.</middleName>
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2451</lisID>
+          <bioguideId>A000376</bioguideId>
+        </identifiers>
+        <district>32</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Allred, Colin Z. [D-TX-32]</fullName>
+        <state>TX</state>
+        <bioguideId>A000376</bioguideId>
+        <lastName>Allred</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Henry</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>1807</lisID>
+          <gpoId>8184</gpoId>
+          <bioguideId>C001063</bioguideId>
+        </identifiers>
+        <district>28</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <state>TX</state>
+        <bioguideId>C001063</bioguideId>
+        <lastName>Cuellar</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>SHEILA</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <district>18</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <state>TX</state>
+        <bioguideId>J000032</bioguideId>
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Lizzie</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000468</bioguideId>
+          <gpoId />
+          <lisID>2447</lisID>
+        </identifiers>
+        <district>7</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Fletcher, Lizzie [D-TX-7]</fullName>
+        <state>TX</state>
+        <bioguideId>F000468</bioguideId>
+        <lastName>Fletcher</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-01-11</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-11</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres37ih/xml/BILLS-116hres37ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T12:58:44Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Honoring the life of Richard Arvin Overton.</title>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Honoring the life of Richard Arvin Overton.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Honoring the life of Richard Arvin Overton.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Roger</firstName>
+        <middleName />
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000816</bioguideId>
+          <lisID>2165</lisID>
+          <gpoId />
+        </identifiers>
+        <district>25</district>
+        <bioguideId>W000816</bioguideId>
+        <lastName>Williams</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <updateDate>2019-08-17T08:15:29Z</updateDate>
+    <introducedDate>2019-02-08</introducedDate>
+    <amendments />
+    <laws />
+    <title>Firearm Safety Act of 2019</title>
+    <recordedVotes />
+    <createDate>2019-02-09T08:10:16Z</createDate>
+    <congress>116</congress>
+    <relatedBills />
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2019-02-08</actionDate>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-08</actionDate>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-08</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-08</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <billNumber>1115</billNumber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1115ih/xml/BILLS-116hr1115ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-08T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-08T14:04:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <middleName>R.</middleName>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>LANGEVIN</lastName>
+        <bioguideId>L000559</bioguideId>
+        <state>RI</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <identifiers>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <district>2</district>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Yarmuth</lastName>
+        <bioguideId>Y000062</bioguideId>
+        <state>KY</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <identifiers>
+          <lisID>1853</lisID>
+          <bioguideId>Y000062</bioguideId>
+          <gpoId>7955</gpoId>
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <firstName>Yvette</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Clarke</lastName>
+        <bioguideId>C001067</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <district>9</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Debbie</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Wasserman Schultz</lastName>
+        <bioguideId>W000797</bioguideId>
+        <state>FL</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <district>23</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Cohen</lastName>
+        <bioguideId>C001068</bioguideId>
+        <state>TN</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <district>9</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>SHEILA</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>JACKSON LEE</lastName>
+        <bioguideId>J000032</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <district>18</district>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>Stacey</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Plaskett</lastName>
+        <bioguideId>P000610</bioguideId>
+        <state>VI</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <identifiers>
+          <bioguideId>P000610</bioguideId>
+          <gpoId />
+          <lisID>2274</lisID>
+        </identifiers>
+        <district>0</district>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <firstName>Katherine</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Clark</lastName>
+        <bioguideId>C001101</bioguideId>
+        <state>MA</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <identifiers>
+          <lisID>2196</lisID>
+          <bioguideId>C001101</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Julia</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Brownley</lastName>
+        <bioguideId>B001285</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+        </identifiers>
+        <district>26</district>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <firstName>DANNY</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>DAVIS</lastName>
+        <bioguideId>D000096</bioguideId>
+        <state>IL</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <district>7</district>
+      </item>
+      <item>
+        <middleName>N.</middleName>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Cicilline</lastName>
+        <bioguideId>C001084</bioguideId>
+        <state>RI</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <identifiers>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <district>1</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Seth</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Moulton</lastName>
+        <bioguideId>M001196</bioguideId>
+        <state>MA</state>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <identifiers>
+          <lisID>2246</lisID>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+        </identifiers>
+        <district>6</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>EARL</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>BLUMENAUER</lastName>
+        <bioguideId>B000574</bioguideId>
+        <state>OR</state>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>DeSaulnier</lastName>
+        <bioguideId>D000623</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+        </identifiers>
+        <district>11</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Ro</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Khanna</lastName>
+        <bioguideId>K000389</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <identifiers>
+          <lisID>2308</lisID>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <district>17</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>LEE</lastName>
+        <bioguideId>L000551</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <district>13</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Jerry</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>McNerney</lastName>
+        <bioguideId>M001166</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <identifiers>
+          <bioguideId>M001166</bioguideId>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <district>9</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Gwen</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <bioguideId>M001160</bioguideId>
+        <state>WI</state>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <district>4</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Alexandria</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Ocasio-Cortez</lastName>
+        <bioguideId>O000172</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <identifiers>
+          <lisID>2427</lisID>
+          <bioguideId>O000172</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>14</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>LUCILLE</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <bioguideId>R000486</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <identifiers>
+          <bioguideId>R000486</bioguideId>
+          <lisID>997</lisID>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <district>40</district>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Jamie</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Raskin</lastName>
+        <bioguideId>R000606</bioguideId>
+        <state>MD</state>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+      </item>
+      <item>
+        <middleName>Butler</middleName>
+        <firstName>Val</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Demings</lastName>
+        <bioguideId>D000627</bioguideId>
+        <state>FL</state>
+        <sponsorshipDate>2019-08-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+        <identifiers>
+          <lisID>2320</lisID>
+          <gpoId />
+          <bioguideId>D000627</bioguideId>
+        </identifiers>
+        <district>10</district>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Consumer Product Safety Act to remove the exclusion of pistols, revolvers, and other firearms from the definition of consumer product in order to permit the issuance of safety standards for such articles by the Consumer Product Safety Commission.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Firearm Safety Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Firearm Safety Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Firearm Safety Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. KELLY of Illinois:H.R. 1115.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3. Congress has the authorityto regulate Commerce.[Page H1493]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Consumer Product Safety Commission</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Product safety and quality</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>K000385</bioguideId>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <lastName>Kelly</lastName>
+        <state>IL</state>
+        <byRequestType />
+        <middleName>L.</middleName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Robin</firstName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Firearm Safety Act of 2019</b></p> <p>This bill allows the Consumer Product Safety Commission to issue safety standards for firearms and firearm components. </p>]]></text>
+          <updateDate>2019-02-08T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2019-02-08</actionDate>
+          <lastSummaryUpdateDate>2019-06-21T21:29:21Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

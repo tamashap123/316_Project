@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-16T15:56:07-05:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H.Amdt.6", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/6"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Velazquez amendment (A005) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-01-16T15:47:34-05:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.6", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/6"
+        }, 
+        {
+          "name": "H650", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H650"
+        }, 
+        {
+          "name": "H650-651", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H650-651"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H650-651", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H650", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Ms. Velazquez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-16T15:56:07-05:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.6", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/6"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-16T15:56:07-05:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.6", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/6"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Velazquez amendment (A005) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-16T15:47:34-05:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.6", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/6"
+        }, 
+        {
+          "name": "H650", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H650"
+        }, 
+        {
+          "name": "H650-651", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H650-651"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A005) offered by Ms. Velazquez.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-16", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt6-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr268-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 268
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": null, 
+  "introduced_at": "2019-01-16", 
+  "number": 6, 
+  "purpose": "An amendment numbered 5 printed in Part B of House Report 116-2 to provide $25 million for Ca\u00f1o Mart\u00edn Pe\u00f1a channel ecosystem restoration.", 
+  "sponsor": {
+    "bioguide_id": "V000081", 
+    "district": "7", 
+    "name": "Velazquez, Nydia M.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-01-16T15:56:07-05:00", 
+  "updated_at": "2019-07-10T07:16:10Z"
+}

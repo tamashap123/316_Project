@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hswm06</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-01T15:13:22Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Oversight Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-01-15T15:00:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+        </item>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-01-15T15:00:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Oversight and Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>A bill to waive the penalty for withdrawals from retirement plans for certain Federal employees and contractors affected by a lapse in appropriations, and for other purposes.</latestTitle>
+        <type>S</type>
+        <number>486</number>
+        <latestAction>
+          <actionDate>2019-02-14</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Emergency Relief for Federal Contractors Act of 2019</latestTitle>
+        <type>S</type>
+        <number>469</number>
+        <latestAction>
+          <actionDate>2019-02-13</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>116</congress>
+        <latestTitle>To allow penalty-free distributions from retirement accounts in the case of Federal employees and certain Federal contractors impacted by the Federal Government shutdown.</latestTitle>
+        <type>HR</type>
+        <number>766</number>
+        <latestAction>
+          <actionDate>2019-03-01</actionDate>
+          <text>Referred to the Subcommittee on Social Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To allow penalty-free distributions from retirement accounts in the case of Federal employees and certain Federal contractors impacted by the Federal Government shutdown.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Financial Relief for Feds Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Financial Relief for Feds Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Financial Relief for Feds Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>545</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-09-20T13:53:56Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-15T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Financial Relief for Feds Act of 2019</b></p> <p>This bill allows certain employees who are not paid during a lapse in federal appropriations to make penalty-free withdrawals from retirement accounts. The bill applies to employees of the federal government, federal contractors, federal grantees, and the District of Columbia. </p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2019-01-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Financial Relief for Feds Act of 2019</title>
+    <latestAction>
+      <actionDate>2019-03-01</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Oversight.</text>
+    </latestAction>
+    <createDate>2019-01-16T08:10:16Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Olson</lastName>
+        <firstName>Pete</firstName>
+        <state>TX</state>
+        <bioguideId>O000168</bioguideId>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <district>22</district>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <gpoId>8178</gpoId>
+          <lisID>1955</lisID>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <notes />
+    <introducedDate>2019-01-15</introducedDate>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-01</actionDate>
+        <committee>
+          <systemCode>hswm06</systemCode>
+          <name>Oversight Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-15</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-15</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <cosponsors>
+      <item>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <lisID>2272</lisID>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Beyer</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <firstName>Donald</firstName>
+        <bioguideId>B001292</bioguideId>
+      </item>
+      <item>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Perlmutter</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Ed</firstName>
+        <bioguideId>P000593</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <gpoId />
+          <lisID>2161</lisID>
+        </identifiers>
+        <district>14</district>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Weber</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>K.</middleName>
+        <firstName>Randy</firstName>
+        <bioguideId>W000814</bioguideId>
+      </item>
+      <item>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <gpoId>8222</gpoId>
+          <lisID>2074</lisID>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>McKinley</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <firstName>David</firstName>
+        <bioguideId>M001180</bioguideId>
+      </item>
+      <item>
+        <state>MD</state>
+        <identifiers>
+          <lisID>2406</lisID>
+          <gpoId />
+          <bioguideId>T000483</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Trone</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <firstName>David</firstName>
+        <bioguideId>T000483</bioguideId>
+      </item>
+      <item>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>H001083</bioguideId>
+          <gpoId />
+          <lisID>2431</lisID>
+        </identifiers>
+        <district>5</district>
+        <fullName>Rep. Horn, Kendra S. [D-OK-5]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Horn</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>S.</middleName>
+        <firstName>Kendra</firstName>
+        <bioguideId>H001083</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2451</lisID>
+          <bioguideId>A000376</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>32</district>
+        <fullName>Rep. Allred, Colin Z. [D-TX-32]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Allred</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>Z.</middleName>
+        <firstName>Colin</firstName>
+        <bioguideId>A000376</bioguideId>
+      </item>
+      <item>
+        <state>MD</state>
+        <identifiers>
+          <lisID>2331</lisID>
+          <bioguideId>B001304</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Brown</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>G.</middleName>
+        <firstName>Anthony</firstName>
+        <bioguideId>B001304</bioguideId>
+      </item>
+      <item>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1836</lisID>
+          <bioguideId>C001069</bioguideId>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Courtney</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Joe</firstName>
+        <bioguideId>C001069</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <district>36</district>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Babin</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Brian</firstName>
+        <bioguideId>B001291</bioguideId>
+      </item>
+      <item>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <sponsorshipDate>2019-01-15</sponsorshipDate>
+        <lastName>Gaetz</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Matt</firstName>
+        <bioguideId>G000578</bioguideId>
+      </item>
+      <item>
+        <state>OK</state>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <district>4</district>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <lastName>Cole</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Tom</firstName>
+        <bioguideId>C001053</bioguideId>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>52</district>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <lastName>Peters</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>H.</middleName>
+        <firstName>Scott</firstName>
+        <bioguideId>P000608</bioguideId>
+      </item>
+      <item>
+        <state>IA</state>
+        <identifiers>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <lastName>Loebsack</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>David</firstName>
+        <bioguideId>L000565</bioguideId>
+      </item>
+      <item>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <lastName>Lipinski</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>William</middleName>
+        <firstName>Daniel</firstName>
+        <bioguideId>L000563</bioguideId>
+      </item>
+      <item>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+          <gpoId />
+        </identifiers>
+        <district>34</district>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <lastName>Vela</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Filemon</firstName>
+        <bioguideId>V000132</bioguideId>
+      </item>
+      <item>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <district>6</district>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName />
+        <firstName>Bill</firstName>
+        <bioguideId>J000292</bioguideId>
+      </item>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+          <gpoId />
+        </identifiers>
+        <district>36</district>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>Ruiz</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Raul</firstName>
+        <bioguideId>R000599</bioguideId>
+      </item>
+      <item>
+        <state>MD</state>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>Raskin</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Jamie</firstName>
+        <bioguideId>R000606</bioguideId>
+      </item>
+      <item>
+        <state>MA</state>
+        <identifiers>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+      </item>
+      <item>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2129</lisID>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <lastName>Brooks</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <middleName>W.</middleName>
+        <firstName>Susan</firstName>
+        <bioguideId>B001284</bioguideId>
+      </item>
+      <item>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <district>2</district>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <lastName>Kuster</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <firstName>Ann</firstName>
+        <bioguideId>K000382</bioguideId>
+      </item>
+      <item>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2374</lisID>
+          <bioguideId>W000826</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <lastName>Wild</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName />
+        <firstName>Susan</firstName>
+        <bioguideId>W000826</bioguideId>
+      </item>
+      <item>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1654</lisID>
+          <gpoId>8009</gpoId>
+          <bioguideId>C001049</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <sponsorshipDate>2019-01-25</sponsorshipDate>
+        <lastName>CLAY</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>LACY</middleName>
+        <firstName>WM.</firstName>
+        <bioguideId>C001049</bioguideId>
+      </item>
+      <item>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2456</lisID>
+          <gpoId />
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <lastName>Spanberger</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <middleName>Davis</middleName>
+        <firstName>Abigail</firstName>
+        <bioguideId>S001209</bioguideId>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr545ih/xml/BILLS-116hr545ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-15T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Income tax deferral</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Income tax rates</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. OLSON:H.R. 545.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18, under which ``Congressshall have the Power to make all laws which shall benecessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by theConstitution in the Government of the United States, or inany Department or Officer thereof''[Page H602]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2019-09-20T14:00:18Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

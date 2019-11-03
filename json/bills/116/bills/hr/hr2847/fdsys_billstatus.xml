@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2847</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2019-05-20</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-20</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-05-20</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <introducedDate>2019-05-20</introducedDate>
+    <recordedVotes />
+    <title>No Passport Fees for Heroes' Families Act</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <lastName>Mitchell</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2334</lisID>
+          <bioguideId>M001201</bioguideId>
+        </identifiers>
+        <bioguideId>M001201</bioguideId>
+        <district>10</district>
+        <state>MI</state>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <updateDate>2019-09-25T07:16:31Z</updateDate>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <bioguideId>S001209</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Abigail</firstName>
+        <state>VA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2456</lisID>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <lastName>Spanberger</lastName>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <middleName>Davis</middleName>
+        <district>7</district>
+      </item>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <lastName>Wilson</lastName>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <middleName />
+        <district>2</district>
+      </item>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gerald</firstName>
+        <state>VA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <lastName>Connolly</lastName>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <middleName>E.</middleName>
+        <district>11</district>
+      </item>
+      <item>
+        <bioguideId>G000578</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Matt</firstName>
+        <state>FL</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2314</lisID>
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <lastName>Gaetz</lastName>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <bioguideId>S001215</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Haley</firstName>
+        <state>MI</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2409</lisID>
+          <bioguideId>S001215</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <lastName>Stevens</lastName>
+        <fullName>Rep. Stevens, Haley M. [D-MI-11]</fullName>
+        <middleName>M.</middleName>
+        <district>11</district>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+      </item>
+      <item>
+        <bioguideId>C001123</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Gilbert</firstName>
+        <state>CA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001123</bioguideId>
+          <gpoId />
+          <lisID>2380</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <lastName>Cisneros</lastName>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <middleName>Ray</middleName>
+        <district>39</district>
+      </item>
+      <item>
+        <bioguideId>T000483</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <state>MD</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000483</bioguideId>
+          <gpoId />
+          <lisID>2406</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <lastName>Trone</lastName>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <middleName>J.</middleName>
+        <district>6</district>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Derek</firstName>
+        <state>WA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+          <lisID>2169</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <lastName>Kilmer</lastName>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <middleName />
+        <district>6</district>
+      </item>
+      <item>
+        <bioguideId>S001208</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Elissa</firstName>
+        <state>MI</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2407</lisID>
+          <bioguideId>S001208</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <lastName>Slotkin</lastName>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <middleName />
+        <district>8</district>
+      </item>
+      <item>
+        <bioguideId>W000804</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Robert</firstName>
+        <state>VA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8192</gpoId>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-06</sponsorshipDate>
+        <lastName>Wittman</lastName>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <middleName>J.</middleName>
+        <district>1</district>
+      </item>
+      <item>
+        <bioguideId>G000590</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <state>TN</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000590</bioguideId>
+          <gpoId />
+          <lisID>2442</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Green</lastName>
+        <fullName>Rep. Green, Mark E. [R-TN-7]</fullName>
+        <middleName>E.</middleName>
+        <district>7</district>
+      </item>
+      <item>
+        <bioguideId>J000302</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <state>PA</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000302</bioguideId>
+          <lisID>2435</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <lastName>Joyce</lastName>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <middleName />
+        <district>13</district>
+      </item>
+      <item>
+        <bioguideId>P000616</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Dean</firstName>
+        <state>MN</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2413</lisID>
+          <bioguideId>P000616</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <lastName>Phillips</lastName>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <middleName />
+        <district>3</district>
+      </item>
+      <item>
+        <bioguideId>K000394</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Andy</firstName>
+        <state>NJ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000394</bioguideId>
+          <lisID>2420</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-02</sponsorshipDate>
+        <lastName>Kim</lastName>
+        <fullName>Rep. Kim, Andy [D-NJ-3]</fullName>
+        <middleName />
+        <district>3</district>
+      </item>
+      <item>
+        <bioguideId>L000591</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Elaine</firstName>
+        <state>VA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000591</bioguideId>
+          <gpoId />
+          <lisID>2453</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <lastName>Luria</lastName>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <middleName>G.</middleName>
+        <district>2</district>
+      </item>
+      <item>
+        <bioguideId>A000378</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Cynthia</firstName>
+        <state>IA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2395</lisID>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <lastName>Axne</lastName>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <middleName />
+        <district>3</district>
+      </item>
+      <item>
+        <bioguideId>N000190</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ralph</firstName>
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+          <lisID>2361</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <lastName>Norman</lastName>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <middleName />
+        <district>5</district>
+      </item>
+      <item>
+        <bioguideId>N000191</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+        <state>CO</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000191</bioguideId>
+          <gpoId />
+          <lisID>2384</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <lastName>Neguse</lastName>
+        <fullName>Rep. Neguse, Joe [D-CO-2]</fullName>
+        <middleName />
+        <district>2</district>
+      </item>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Paul</firstName>
+        <state>AZ</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-24</sponsorshipDate>
+        <lastName>Gosar</lastName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <middleName>A.</middleName>
+        <district>4</district>
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>STEVE</firstName>
+        <state>OH</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-09-19</sponsorshipDate>
+        <lastName>CHABOT</lastName>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <bioguideId>D000630</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Antonio</firstName>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000630</bioguideId>
+          <lisID>2428</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <lastName>Delgado</lastName>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <middleName />
+        <district>19</district>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-20T16:00:41Z</date>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2019-05-21T07:12:09Z</createDate>
+    <relatedBills />
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To waive the fee for the issuance of a passport for a family member of a member of the Armed Forces who is in a hospital or medical facility abroad, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>No Passport Fees for Heroes' Families Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>No Passport Fees for Heroes' Families Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>No Passport Fees for Heroes’ Families Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2019-05-20</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MITCHELL:H.R. 2847.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates[Page H4010]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2847ih/xml/BILLS-116hr2847ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-20T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

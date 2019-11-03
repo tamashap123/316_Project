@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-23", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-23", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "links": [
+        {
+          "name": "S6094", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S6094"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S6094", 
+          "type": "Sponsor introductory remarks on measure"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2685-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "V000128", 
+      "district": null, 
+      "name": "Van Hollen, Chris", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-23", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-23", 
+  "number": "2685", 
+  "official_title": "A bill to amend the Fair Credit Reporting Act to require that a consumer authorize the release of certain information.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Consumer Credit Control Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "R000122", 
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-23", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Fair Credit Reporting Act to require that a consumer authorize the release of certain information.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Consumer Credit Control Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Consumer Credit Control Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Consumer Credit Control Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-02T04:42:47Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2685.xml"
+}

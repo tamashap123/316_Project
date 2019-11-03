@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees />
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to enact into law a bill by reference.</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <title>Pesticide Registration Improvement Extension Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Enacted</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <chamberCode />
+        <title>Pesticide Registration Improvement Extension Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Other Short Titles</titleType>
+        <parentTitleType>Short Title</parentTitleType>
+        <chamberCode />
+        <title>Pesticide Registration Improvement Extension Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Pesticide Registration Improvement Extension Act of 2018</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <passedSenate>1</passedSenate>
+        <resolvingDifferencesSenateActions>1</resolvingDifferencesSenateActions>
+        <becamePublicLaw>2</becamePublicLaw>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <sentToHouse>2</sentToHouse>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <presentedToPresident>1</presentedToPresident>
+        <placeholderTextForE>3</placeholderTextForE>
+        <introducedInSenate>1</introducedInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <messageOnHouseAction>1</messageOnHouseAction>
+        <senateAgreedFreeText>1</senateAgreedFreeText>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <heldAtTheDesk>1</heldAtTheDesk>
+      </actionTypeCounts>
+      <item>
+        <committee />
+        <text>Became Public Law No: 116-8.</text>
+        <actionDate>2019-03-08</actionDate>
+        <type>President</type>
+        <links>
+          <link>
+            <name>Public Law No: 116-8</name>
+            <url>https://www.congress.gov/bill/116th-congress/senate-bill/483/text/pl</url>
+          </link>
+        </links>
+        <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Became Public Law No: 116-8.</text>
+        <actionDate>2019-03-08</actionDate>
+        <type>BecameLaw</type>
+        <links>
+          <link>
+            <name>Public Law No: 116-8</name>
+            <url>https://www.congress.gov/bill/116th-congress/senate-bill/483/text/pl</url>
+          </link>
+        </links>
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Signed by President.</text>
+        <actionDate>2019-03-08</actionDate>
+        <type>President</type>
+        <links />
+        <actionCode>E30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Signed by President.</text>
+        <actionDate>2019-03-08</actionDate>
+        <type>BecameLaw</type>
+        <links />
+        <actionCode>36000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Presented to President.</text>
+        <actionDate>2019-03-06</actionDate>
+        <type>Floor</type>
+        <links />
+        <actionCode>E20000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Presented to President.</text>
+        <actionDate>2019-03-06</actionDate>
+        <type>President</type>
+        <links />
+        <actionCode>28000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-03-04</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-02-28</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1606</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1606</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate agreed to the House amendment to S.483 by Voice Vote.</text>
+        <type>ResolvingDifferences</type>
+      </item>
+      <item>
+        <committee />
+        <text>Resolving differences -- Senate actions: Senate agreed to the House amendment to S.483 by Voice Vote.</text>
+        <actionDate>2019-02-28</actionDate>
+        <type>NotUsed</type>
+        <links>
+          <link>
+            <name>S1606</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1606</url>
+          </link>
+        </links>
+        <actionCode>20500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-28</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S1606)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>19:34:37</actionTime>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2019-02-25</actionDate>
+        <type>Floor</type>
+        <links />
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>19:34:34</actionTime>
+        <committee />
+        <text>On passage Passed without objection. (text: CR H2068-2087)</text>
+        <actionDate>2019-02-25</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2068-2087</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2068-2087</url>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>19:34:34</actionTime>
+        <committee />
+        <text>Passed/agreed to in House: On passage Passed without objection.(text: CR H2068-2087)</text>
+        <actionDate>2019-02-25</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2068-2087</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2068-2087</url>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>19:33:57</actionTime>
+        <committee />
+        <text>Considered by unanimous consent. (consideration: CR H2068-2087)</text>
+        <actionDate>2019-02-25</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H2068-2087</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2068-2087</url>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>19:33:42</actionTime>
+        <committee />
+        <text>Mr. Peterson asked unanimous consent to take from the Speaker's table and consider.</text>
+        <actionDate>2019-02-25</actionDate>
+        <type>Floor</type>
+        <links />
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>10:56:50</actionTime>
+        <committee />
+        <text>Held at the desk.</text>
+        <actionDate>2019-02-15</actionDate>
+        <type>Floor</type>
+        <links />
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-15</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>10:02:47</actionTime>
+        <committee />
+        <text>Received in the House.</text>
+        <actionDate>2019-02-15</actionDate>
+        <type>Floor</type>
+        <links />
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1394</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1394</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Voice Vote. (consideration: CR S1394; text: CR S1394)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S1394; text: CR S1394)</text>
+        <actionDate>2019-02-14</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S1394</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S1394</url>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 26.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>11</senate>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Migrant, seasonal, agricultural labor</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0026</number>
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <originChamber>Senate</originChamber>
+    <title>Pesticide Registration Improvement Extension Act of 2018</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-02-13</introducedDate>
+    <laws>
+      <item>
+        <number>116-8</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <latestAction>
+      <text>Became Public Law No: 116-8.</text>
+      <actionDate>2019-03-08</actionDate>
+      <links>
+        <link>
+          <name>Public Law No: 116-8</name>
+          <url>https://www.congress.gov/bill/116th-congress/senate-bill/483/text/pl</url>
+        </link>
+      </links>
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <party>R</party>
+        <firstName>PAT</firstName>
+        <bioguideId>R000307</bioguideId>
+        <byRequestType />
+        <state>KS</state>
+        <lastName>ROBERTS</lastName>
+        <middleName />
+        <identifiers>
+          <gpoId>8275</gpoId>
+          <bioguideId>R000307</bioguideId>
+          <lisID>968</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DEBORAH</firstName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <state>MI</state>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <lastName>STABENOW</lastName>
+        <bioguideId>S000770</bioguideId>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>TOM</firstName>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <state>NM</state>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <lastName>UDALL</lastName>
+        <bioguideId>U000039</bioguideId>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <date />
+        <type>Enrolled Bill</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s483enr/xml/BILLS-116s483enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-02-25T05:00:00Z</date>
+        <type>Engrossed Amendment House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s483eah/xml/BILLS-116s483eah.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-02-14T05:00:00Z</date>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s483es/xml/BILLS-116s483es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-02-14T05:00:00Z</date>
+        <type>Placed on Calendar Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s483pcs/xml/BILLS-116s483pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-13</actionDate>
+          <lastSummaryUpdateDate>2019-05-22T22:05:17Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>This bill enacts into law the Pesticide Registration Improvement Extension Act of 2018 (115HR1029) from the 115th Congress, as passed by the Senate.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <updateDate>2019-02-13T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>483</billNumber>
+    <relatedBills />
+    <notes />
+    <updateDate>2019-10-28T20:23:29Z</updateDate>
+    <createDate>2019-02-14T05:40:19Z</createDate>
+    <amendments>
+      <amendment>
+        <latestAction>
+          <text>On agreeing to the Peterson amendment (A001) Agreed to without objection.</text>
+          <actionTime>19:34:28</actionTime>
+          <actionDate>2019-02-25</actionDate>
+        </latestAction>
+        <purpose>An amendment to strike out all after the enacting clause and insert a new text.</purpose>
+        <type>HAMDT</type>
+        <congress>116</congress>
+        <number>43</number>
+        <purpose>An amendment to strike out all after the enacting clause and insert a new text.</purpose>
+        <links />
+        <actions>
+          <count>7</count>
+          <actionTypeCounts>
+            <agreeingToTheAmendmentResults>1</agreeingToTheAmendmentResults>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentAgreedToByHouse>1</amendmentAgreedToByHouse>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <text>On agreeing to the Peterson amendment (A001) Agreed to without objection.</text>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <actionDate>2019-02-25</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/43</url>
+                  <name>H.Amdt.43</name>
+                </link>
+              </links>
+              <actionTime>19:34:28</actionTime>
+              <actionCode>H34111</actionCode>
+              <committee />
+            </item>
+            <item>
+              <text>Amendment (A001) offered by Mr. Peterson. (consideration: CR H2068-2087; text: CR H2068-2087)</text>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <actionDate>2019-02-25</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/43</url>
+                  <name>H.Amdt.43</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2068-2087</url>
+                  <name>H2068-2087</name>
+                </link>
+              </links>
+              <actionTime>19:34:15</actionTime>
+              <actionCode>H3A100</actionCode>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-02-25</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>House amendment offered/reported by: Amendment (A001) offered by Mr. Peterson.</text>
+              <type>NotUsed</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2019-02-25</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/43</url>
+                  <name>H.Amdt.43</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2068-2087</url>
+                  <name>H2068-2087</name>
+                </link>
+              </links>
+              <actionTime>19:34:15</actionTime>
+              <actionCode>71500</actionCode>
+              <committee />
+            </item>
+            <item>
+              <text>Amendment agreed to by House: On agreeing to the Peterson amendment (A001) Agreed to without objection.</text>
+              <type>NotUsed</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2019-02-25</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/43</url>
+                  <name>H.Amdt.43</name>
+                </link>
+              </links>
+              <actionTime>19:34:28</actionTime>
+              <actionCode>79000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <text>House amendment agreed to: On agreeing to the Peterson amendment (A001) Agreed to without objection.</text>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2019-02-25</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/116th-congress/house-amendment/43</url>
+                  <name>H.Amdt.43</name>
+                </link>
+              </links>
+              <actionTime>19:34:28</actionTime>
+              <actionCode>72000</actionCode>
+              <committee />
+            </item>
+            <item>
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionDate>2019-02-25</actionDate>
+              <links />
+              <actionCode>71000</actionCode>
+              <committee />
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <submittedDate>2019-02-25T05:00:00Z</submittedDate>
+        <notes />
+        <proposedDate />
+        <congress>116</congress>
+        <titles />
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <number>43</number>
+        <amendedBill>
+          <title>Pesticide Registration Improvement Extension Act of 2018</title>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <congress>116</congress>
+          <number>483</number>
+          <originChamberCode>S</originChamberCode>
+        </amendedBill>
+        <type>HAMDT</type>
+        <chamber>House of Representatives</chamber>
+        <amendedAmendment />
+        <version>1.0.0</version>
+        <updateDate>2019-10-28T20:23:29Z</updateDate>
+        <description />
+        <createDate>2019-02-26T08:16:17Z</createDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <sponsors>
+          <item>
+            <firstName>COLLIN</firstName>
+            <middleName>C.</middleName>
+            <bioguideId>P000258</bioguideId>
+            <lastName>PETERSON</lastName>
+            <state>MN</state>
+            <district>7</district>
+            <party>D</party>
+            <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+            <identifiers>
+              <gpoId>8007</gpoId>
+              <lisID>910</lisID>
+              <bioguideId>P000258</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <description />
+      </amendment>
+    </amendments>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

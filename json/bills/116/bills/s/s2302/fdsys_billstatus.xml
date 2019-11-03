@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <notes />
+    <congress>116</congress>
+    <introducedDate>2019-07-29</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-07-30</sponsorshipDate>
+        <bioguideId>C000174</bioguideId>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <party>D</party>
+        <state>DE</state>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARPER</lastName>
+        <firstName>THOMAS</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-30</sponsorshipDate>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <party>R</party>
+        <state>WV</state>
+        <middleName>MOORE</middleName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>CAPITO</lastName>
+        <firstName>SHELLEY</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-30</sponsorshipDate>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <party>D</party>
+        <state>MD</state>
+        <middleName>L.</middleName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARDIN</lastName>
+        <firstName>BENJAMIN</firstName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-08-01T18:27:07Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-07-30T13:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-29T19:43:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2019-08-01</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-08-01</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-08-01</actionDate>
+        <type>Committee</type>
+        <links />
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <text>Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. Without written report.</text>
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-07-30</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-29</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-29</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>2</reportedToSenate>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <laws />
+    <billNumber>2302</billNumber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>WY</state>
+        <bioguideId>B001261</bioguideId>
+        <lastName>Barrasso</lastName>
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>America's Transportation Infrastructure Act of 2019</title>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2302rs/xml/BILLS-116s2302rs.xml</url>
+          </item>
+        </formats>
+        <type>Reported to Senate</type>
+        <date>2019-08-01T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2302is/xml/BILLS-116s2302is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-07-29T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-09-30T22:00:23Z</updateDate>
+    <calendarNumbers>
+      <item>
+        <number>0170</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <titles>
+      <item>
+        <title>A bill to amend title 23, United States Code, to authorize funds for Federal-aid highways and highway safety construction programs, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>America's Transportation Infrastructure Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>America's Transportation Infrastructure Act of 2019</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>America's Transportation Infrastructure Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>America's Transportation Infrastructure Act of 2019</title>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>America's Transportation Infrastructure Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2019-08-01</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+          <actionDate>2019-09-23</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>Appalachian Regional Energy Hub Initiative Act</latestTitle>
+        <number>4433</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-07-29</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Bridge Investment Act of 2019</latestTitle>
+        <number>2310</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2019-05-20</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Enhancing the Strength and Capacity of America's Primary Evacuation routes Act</latestTitle>
+        <number>1546</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S1707)</text>
+          <actionDate>2019-03-06</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Clean Corridors Act of 2019</latestTitle>
+        <number>674</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+          <actionDate>2019-05-21</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>Enhancing the Strength and Capacity of America's Primary Evacuation routes Act</latestTitle>
+        <number>2838</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-07-25</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Crossroads of America Act of 2019</latestTitle>
+        <number>2285</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-07-25</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Appalachian Regional Energy Hub Initiative Act</latestTitle>
+        <number>2280</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-07-25</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>AID in Appalachia Act</latestTitle>
+        <number>2271</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-07-16</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>A bill to require the Secretary of Transportation to develop best practices for incorporating resilience into emergency relief projects, and for other purposes.</latestTitle>
+        <number>2129</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 168.</text>
+          <actionDate>2019-07-31</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>A bill to amend the FAST Act to repeal a rescission of funds.</latestTitle>
+        <number>1992</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2019-06-19</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>STOP Act of 2019</latestTitle>
+        <number>1913</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-06-19</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Resilient Highways Act of 2019</latestTitle>
+        <number>1909</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-05-16</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>RTP Funding Transparency Act</latestTitle>
+        <number>1527</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+          <actionDate>2019-06-19</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Addressing Underdeveloped and Tribally Operated Streets Act</latestTitle>
+        <number>1211</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-04-09</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Transportation Alternatives Enhancements Act</latestTitle>
+        <number>1098</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-39.</text>
+          <actionDate>2019-05-13</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Diesel Emissions Reduction Act of 2019</latestTitle>
+        <number>747</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2019-03-05</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>COMMUTE Act</latestTitle>
+        <number>654</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-02-26</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Transportation Infrastructure Finance and Innovation Act for Airports</latestTitle>
+        <number>563</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>By Senator Barrasso from Committee on Environment and Public Works filed written report. Report No. 116-38.</text>
+          <actionDate>2019-05-13</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>USE IT Act</latestTitle>
+        <number>383</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2019-02-06</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>RAPID Act</latestTitle>
+        <number>353</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Held at the desk.</text>
+          <actionDate>2019-09-10</actionDate>
+          <actionTime>16:46:16</actionTime>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>Reviving America's Scenic Byways Act of 2019</latestTitle>
+        <number>349</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+          <actionDate>2019-01-29</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+        <latestTitle>A bill to enhance tribal road safety, and for other purposes.</latestTitle>
+        <number>207</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+          <actionDate>2019-05-10</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>Clean Corridors Act of 2019</latestTitle>
+        <number>2616</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+          <actionDate>2019-04-11</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>STOP Act of 2019</latestTitle>
+        <number>2237</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+          <actionDate>2019-04-04</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>To amend the Intermodal Surface Transportation Efficiency Act of 1991 with respect to a portion of the Wendell H. Ford (Western Kentucky) Parkway, and for other purposes.</latestTitle>
+        <number>2052</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Received in the Senate.</text>
+          <actionDate>2019-09-10</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>Diesel Emissions Reduction Act of 2019</latestTitle>
+        <number>1768</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+          <actionDate>2019-03-05</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>COMMUTE Act</latestTitle>
+        <number>1517</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+          <actionDate>2019-02-28</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>USE IT Act</latestTitle>
+        <number>1166</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+          <actionDate>2019-02-07</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>Support Local Transportation Act</latestTitle>
+        <number>879</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <text>Became Public Law No: 116-57.</text>
+          <actionDate>2019-09-22</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>116</congress>
+        <latestTitle>Reviving America's Scenic Byways Act of 2019</latestTitle>
+        <number>831</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <createDate>2019-07-30T04:27:27Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

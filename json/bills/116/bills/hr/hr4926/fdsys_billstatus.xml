@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-10-30T14:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to allow for a credit against tax for sales at retail of safe firearm storage devices.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to allow for a credit against tax for sales at retail of safe firearm storage devices.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea />
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR H8707)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H8707</url>
+            <name>H8707</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-10-31</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2019-10-30</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-10-30</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-10-30</actionDate>
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <title>To amend the Internal Revenue Code of 1986 to allow for a credit against tax for sales at retail of safe firearm storage devices.</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-10-30</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Sponsor introductory remarks on measure. (CR H8707)</text>
+      <actionDate>2019-10-31</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Levin, Mike [D-CA-49]</fullName>
+        <party>D</party>
+        <firstName>Mike</firstName>
+        <bioguideId>L000593</bioguideId>
+        <district>49</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>2383</lisID>
+          <bioguideId>L000593</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Levin</lastName>
+        <middleName />
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <district>13</district>
+        <middleName />
+        <lastName>Davis</lastName>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <bioguideId>D000619</bioguideId>
+        <sponsorshipDate>2019-10-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <firstName>Rodney</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <middleName>F.</middleName>
+        <lastName>Boyle</lastName>
+        <identifiers>
+          <lisID>2267</lisID>
+          <bioguideId>B001296</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001296</bioguideId>
+        <sponsorshipDate>2019-10-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <firstName>Brendan</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>21</district>
+        <middleName>M.</middleName>
+        <lastName>Stefanik</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+        </identifiers>
+        <bioguideId>S001196</bioguideId>
+        <sponsorshipDate>2019-10-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <firstName>Elise</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <district>8</district>
+        <middleName />
+        <lastName>Schrier</lastName>
+        <identifiers>
+          <lisID>2458</lisID>
+          <bioguideId>S001216</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001216</bioguideId>
+        <sponsorshipDate>2019-10-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Schrier, Kim [D-WA-8]</fullName>
+        <firstName>Kim</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <district>10</district>
+        <middleName>R.</middleName>
+        <lastName>Turner</lastName>
+        <identifiers>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+        </identifiers>
+        <bioguideId>T000463</bioguideId>
+        <sponsorshipDate>2019-10-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <firstName>Michael</firstName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>4926</billNumber>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 172 (Wednesday, October 30, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. LEVIN of California:H.R. 4926.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates[Page H8679]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-10-31T07:12:31Z</createDate>
+    <updateDate>2019-11-01T14:27:31Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

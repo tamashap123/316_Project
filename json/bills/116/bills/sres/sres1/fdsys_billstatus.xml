@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <createDate>2019-01-04T13:32:58Z</createDate>
+    <cboCostEstimates />
+    <committeeReports />
+    <cosponsors />
+    <congress>116</congress>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <actionDate>2019-01-03</actionDate>
+          <text><![CDATA[<p>This resolution provides for appointment of a Senate committee joined with a House of Representatives committee to notify the President that a quorum of each chamber has assembled.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-01-09T22:03:49Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <name>Passed Senate</name>
+          <actionDesc>Passed Senate</actionDesc>
+          <updateDate>2019-01-03T18:49:09Z</updateDate>
+          <actionDate>2019-01-03</actionDate>
+          <text><![CDATA[<p>This resolution provides for appointment of a Senate committee joined with a House of Representatives committee to notify the President that a quorum of each chamber has assembled.</p>]]></text>
+          <versionCode>55</versionCode>
+          <lastSummaryUpdateDate>2019-01-09T22:03:34Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>MITCH</firstName>
+        <lastName>MCCONNELL</lastName>
+        <middleName />
+        <state>KY</state>
+        <bioguideId>M000355</bioguideId>
+        <identifiers>
+          <gpoId>8254</gpoId>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <introducedDate>2019-01-03</introducedDate>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5</url>
+            <name>S5</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5; text: CR S5)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5</url>
+            <name>S5</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S5; text: CR S5)</text>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <laws />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution informing the President of the United States that a quorum of each House is assembled.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution informing the President of the United States that a quorum of each House is assembled.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <updateDate>2019-01-12T08:12:47Z</updateDate>
+    <billType>SRES</billType>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5; text: CR S5)</text>
+      <actionDate>2019-01-03</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>1</billNumber>
+    <title>A resolution informing the President of the United States that a quorum of each House is assembled.</title>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres1ats/xml/BILLS-116sres1ats.xml</url>
+          </item>
+        </formats>
+        <type>Agreed to Senate</type>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

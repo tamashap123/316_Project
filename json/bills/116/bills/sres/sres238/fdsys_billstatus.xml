@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>238</billNumber>
+    <congress>116</congress>
+    <createDate>2019-06-06T04:57:11Z</createDate>
+    <committees>
+      <billCommittees />
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-05</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S3265</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3265</url>
+          </link>
+          <link>
+            <name>S3268</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3268</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S3268; text: CR S3265)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.(consideration: CR S3268; text: CR S3265)</text>
+        <actionCode>17000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2019-06-05</actionDate>
+        <links>
+          <link>
+            <name>S3265</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3265</url>
+          </link>
+          <link>
+            <name>S3268</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3268</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-05</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-06-14T04:57:39Z</updateDate>
+    <introducedDate>2019-06-05</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>RON</firstName>
+        <lastName>WYDEN</lastName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <middleName />
+        <bioguideId>W000779</bioguideId>
+      </item>
+    </sponsors>
+    <latestAction>
+      <actionDate>2019-06-05</actionDate>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S3268; text: CR S3265)</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A resolution designating the week of June 3 through June 9, 2019, as "Hemp History Week".</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>A resolution designating the week of June 3 through June 9, 2019, as "Hemp History Week".</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural practices and innovations</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Horticulture and plants</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2019-06-05T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres238ats/xml/BILLS-116sres238ats.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>SRES</billType>
+    <cosponsors>
+      <item>
+        <middleName />
+        <firstName>MITCH</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <party>R</party>
+        <lastName>MCCONNELL</lastName>
+        <bioguideId>M000355</bioguideId>
+        <identifiers>
+          <bioguideId>M000355</bioguideId>
+          <lisID>1395</lisID>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <party>D</party>
+        <lastName>Merkley</lastName>
+        <bioguideId>M001176</bioguideId>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Rand</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <party>R</party>
+        <lastName>Paul</lastName>
+        <bioguideId>P000603</bioguideId>
+        <identifiers>
+          <bioguideId>P000603</bioguideId>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+      </item>
+    </cosponsors>
+    <title>A resolution designating the week of June 3 through June 9, 2019, as "Hemp History Week".</title>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2019-06-05T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This resolution designates the week of June 3-June 9, 2019, as Hemp History Week. It also recognizes the historical relevance and growing economic potential of industrial hemp.</p>]]></text>
+          <lastSummaryUpdateDate>2019-06-11T19:28:24Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2019-06-05</actionDate>
+        </item>
+        <item>
+          <actionDesc>Passed Senate</actionDesc>
+          <updateDate>2019-06-05T19:12:03Z</updateDate>
+          <versionCode>55</versionCode>
+          <text><![CDATA[<p>This resolution designates the week of June 3-June 9, 2019, as Hemp History Week. It also recognizes the historical relevance and growing economic potential of industrial hemp.</p>]]></text>
+          <lastSummaryUpdateDate>2019-06-11T19:30:17Z</lastSummaryUpdateDate>
+          <name>Passed Senate</name>
+          <actionDate>2019-06-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

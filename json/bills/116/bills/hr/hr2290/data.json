@@ -1,0 +1,204 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:38:49-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Ms. Waters moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:39:20-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H7805-7807", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7805-7807"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7805-7807", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:39:24-04:00", 
+      "action_code": "H8D000", 
+      "links": [
+        {
+          "name": "H.R. 2290", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-bill/2290"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2290.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:53:14-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H7805-7806", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H7805-7806"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H7805-7806", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-09-19T16:53:16-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-23", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2290-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-09-19T16:38:49-04:00", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-09-19T16:53:14-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-04-10", 
+  "number": "2290", 
+  "official_title": "To require the Federal financial regulators to issue guidance encouraging financial institutions to work with consumers and businesses affected by a Federal Government shutdown, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Shutdown Guidance for Financial Institutions Act", 
+  "sponsor": {
+    "bioguide_id": "W000825", 
+    "district": "10", 
+    "name": "Wexton, Jennifer", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2019-09-19T16:53:14-04:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Appropriations", 
+    "Banking and financial institutions regulation", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Consumer credit", 
+    "Credit and credit markets", 
+    "Finance and financial sector", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Federal financial regulators to issue guidance encouraging financial institutions to work with consumers and businesses affected by a Federal Government shutdown, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Shutdown Guidance for Financial Institutions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Shutdown Guidance for Financial Institutions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Shutdown Guidance for Financial Institutions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Shutdown Guidance for Financial Institutions Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Shutdown Guidance for Financial Institutions Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-25T04:27:44Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2290.xml"
+}

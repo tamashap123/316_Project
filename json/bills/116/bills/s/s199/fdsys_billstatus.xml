@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <laws />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-06-05</actionDate>
+          <text>Subcommittee Hearings Held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>733</number>
+        <latestTitle>Leech Lake Band of Ojibwe Reservation Restoration Act</latestTitle>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <date>2019-06-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s199rfh/xml/BILLS-116s199rfh.xml</url>
+          </item>
+        </formats>
+        <type>Referred in House</type>
+      </item>
+      <item>
+        <date>2019-06-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s199es/xml/BILLS-116s199es.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in Senate</type>
+      </item>
+      <item>
+        <date>2019-03-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s199rs/xml/BILLS-116s199rs.xml</url>
+          </item>
+        </formats>
+        <type>Reported to Senate</type>
+      </item>
+      <item>
+        <date>2019-01-24T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s199is/xml/BILLS-116s199is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+        </identifiers>
+        <lastName>Smith</lastName>
+        <middleName />
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <state>MN</state>
+        <firstName>Tina</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-01-25T06:10:13Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Indian claims</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Minnesota</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <activities>
+                <item>
+                  <date>2019-07-03T15:50:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+            </item>
+            <item>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <date>2019-07-03T15:50:44Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-06-28T20:04:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </item>
+        <item>
+          <type>Other</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-03-07T21:39:18Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2019-01-29T19:30:34Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-01-24T16:42:53Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-24</actionDate>
+          <lastSummaryUpdateDate>2019-04-17T15:21:11Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2019-01-24T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Leech Lake Band of Ojibwe Reservation Restoration Act</b></p> <p>This bill directs the Department of Agriculture to transfer to the administrative jurisdiction of the Department of the Interior all right, title, and interest of the United States in and to approximately 11,760 acres of identified federal land in the Chippewa National Forest in Cass County, Minnesota. Immediately upon transfer, the federal land shall be held in trust for the benefit of the Leech Lake Band of Ojibwe and considered as a part of its reservation. </p> <p>The federal land shall not become eligible or be used for gaming activities under the Indian Gaming Regulatory Act. </p>]]></text>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <actionDate>2019-03-07</actionDate>
+          <lastSummaryUpdateDate>2019-06-03T20:59:20Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <updateDate>2019-03-07T14:20:54Z</updateDate>
+          <name>Reported to Senate</name>
+          <text><![CDATA[<p><b>Leech Lake Band of Ojibwe Reservation Restoration Act</b></p> <p>This bill directs the Department of Agriculture to transfer to the administrative jurisdiction of the Department of the Interior all right, title, and interest of the United States in and to approximately 11,760 acres of identified federal land in the Chippewa National Forest in Cass County, Minnesota. Immediately upon transfer, the federal land shall be held in trust for the benefit of the Leech Lake Band of Ojibwe and considered as a part of its reservation. </p> <p>The federal land shall not become eligible or be used for gaming activities under the Indian Gaming Regulatory Act. </p>]]></text>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2019-06-27</actionDate>
+          <lastSummaryUpdateDate>2019-07-25T14:34:07Z</lastSummaryUpdateDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <updateDate>2019-06-27T15:33:07Z</updateDate>
+          <name>Passed Senate</name>
+          <text><![CDATA[<p><b>Leech Lake Band of Ojibwe Reservation Restoration Act</b></p> <p>(Sec. 2) This bill directs the Department of Agriculture to transfer to the administrative jurisdiction of the Department of the Interior all right, title, and interest of the United States in and to approximately 11,760 acres of identified federal land in the Chippewa National Forest in Cass County, Minnesota. Immediately upon transfer, the federal land shall be held in trust for the benefit of the Leech Lake Band of Ojibwe and considered as a part of its reservation. </p> <p>The federal land shall not become eligible or be used for gaming activities under the Indian Gaming Regulatory Act. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <updateDate>2019-07-31T07:34:27Z</updateDate>
+    <title>Leech Lake Band of Ojibwe Reservation Restoration Act</title>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-02-08T22:20:00Z</pubDate>
+        <title>S. 199, Leech Lake Band of Ojibwe Reservation Restoration Act</title>
+        <url>https://www.cbo.gov/publication/54968</url>
+      </item>
+    </cboCostEstimates>
+    <latestAction>
+      <links />
+      <actionDate>2019-07-03</actionDate>
+      <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+    </latestAction>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-3</citation>
+      </committeeReport>
+    </committeeReports>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedSenate>1</passedSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <sentToHouse>1</sentToHouse>
+        <billReferrals>1</billReferrals>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-03</actionDate>
+        <committee>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-03</actionDate>
+        <committee>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionDate>2019-06-28</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H14000</actionCode>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionDate>2019-06-28</actionDate>
+        <links />
+        <committee />
+        <actionTime>15:32:45</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-28</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4652-4664</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4652-4664</url>
+          </link>
+          <link>
+            <name>S4664</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4664</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4664)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4664)</text>
+        <type>Floor</type>
+        <actionDate>2019-06-27</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4652-4664</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4652-4664</url>
+          </link>
+          <link>
+            <name>S4664</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4664</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 116-3</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/3</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-3.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-3.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>report No. 116-3</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/3</url>
+          </link>
+        </links>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <actionDate>2019-03-07</actionDate>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-24</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-24</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2019-01-24</introducedDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <calendarNumbers>
+      <item>
+        <number>0033</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <titles>
+      <item>
+        <title>A bill to provide for the transfer of certain Federal land in the State of Minnesota for the benefit of the Leech Lake Band of Ojibwe.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Leech Lake Band of Ojibwe Reservation Restoration Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Leech Lake Band of Ojibwe Reservation Restoration Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Leech Lake Band of Ojibwe Reservation Restoration Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Leech Lake Band of Ojibwe Reservation Restoration Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Leech Lake Band of Ojibwe Reservation Restoration Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Leech Lake Band of Ojibwe Reservation Restoration Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Leech Lake Band of Ojibwe Reservation Restoration Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>199</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

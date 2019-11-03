@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-01-10</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR E29)</text>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E29</url>
+            <name>E29</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-10</actionDate>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-10</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <date>2019-02-07T20:53:18Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water Resources and Environment Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-10T15:00:47Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-11T08:10:16Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>462</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Diaz-Balart</lastName>
+        <bioguideId>D000600</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1717</lisID>
+          <bioguideId>D000600</bioguideId>
+          <gpoId>7893</gpoId>
+        </identifiers>
+        <district>25</district>
+        <firstName>Mario</firstName>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-01-10</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rooney</lastName>
+        <bioguideId>R000607</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2323</lisID>
+          <bioguideId>R000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>19</district>
+        <firstName>Francis</firstName>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-01-10</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Frankel</lastName>
+        <bioguideId>F000462</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000462</bioguideId>
+          <lisID>2119</lisID>
+          <gpoId />
+        </identifiers>
+        <district>21</district>
+        <firstName>Lois</firstName>
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-01-10</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mucarsel-Powell</lastName>
+        <bioguideId>M001207</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001207</bioguideId>
+          <lisID>2390</lisID>
+          <gpoId />
+        </identifiers>
+        <district>26</district>
+        <firstName>Debbie</firstName>
+        <fullName>Rep. Mucarsel-Powell, Debbie [D-FL-26]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-01-10</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Murphy</lastName>
+        <bioguideId>M001202</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2318</lisID>
+          <gpoId />
+          <bioguideId>M001202</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <firstName>Stephanie</firstName>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <middleName>N.</middleName>
+        <sponsorshipDate>2019-01-10</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Crist</lastName>
+        <bioguideId>C001111</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2321</lisID>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <firstName>Charlie</firstName>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <middleName />
+        <sponsorshipDate>2019-01-10</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Shalala</lastName>
+        <bioguideId>S001206</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001206</bioguideId>
+          <lisID>2391</lisID>
+        </identifiers>
+        <district>27</district>
+        <firstName>Donna</firstName>
+        <fullName>Rep. Shalala, Donna E. [D-FL-27]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-02-07</actionDate>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-10</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <date>2019-01-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr462ih/xml/BILLS-116hr462ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:09:50Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Everglades</name>
+          </item>
+          <item>
+            <name>Florida</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+          <item>
+            <name>Watersheds</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Everglades for the Next Generation Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HASTINGS:H.R. 462.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H464]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Water Resources Development Act of 2000 to provide for expedited project implementation relating to the comprehensive Everglades restoration plan.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Everglades for the Next Generation Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Everglades for the Next Generation Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Everglades for the Next Generation Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>ALCEE</firstName>
+        <middleName>L.</middleName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <bioguideId>H000324</bioguideId>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

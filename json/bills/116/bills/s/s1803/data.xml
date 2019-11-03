@@ -1,0 +1,39 @@
+<bill session="116" type="s" number="1803" updated="2019-08-02T23:15:09Z">
+  <state datetime="2019-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2019-06-12"/>
+  </status>
+  <introduced datetime="2019-06-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to modify the Federal TRIO programs.</title>
+    <title type="short" as="introduced">Educational Opportunity and Success Act of 2019</title>
+    <title type="short" as="introduced">Educational Opportunity and Success Act of 2019</title>
+    <title type="display">Educational Opportunity and Success Act of 2019</title>
+  </titles>
+  <sponsor bioguide_id="C001035"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2019-06-12"/>
+    <cosponsor bioguide_id="C001047" joined="2019-06-12"/>
+    <cosponsor bioguide_id="T000464" joined="2019-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-06-12">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-06-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S3366-3367" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="identical" number="3800"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

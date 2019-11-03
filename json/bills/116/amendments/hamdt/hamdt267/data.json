@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-12T23:15:52-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.267", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/267"
+        }, 
+        {
+          "name": "Roll no. 266", 
+          "url": "http://clerk.house.gov/evs/2019/roll266.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 266, 
+      "text": "On agreeing to the Cole amendment (A001) Failed by recorded vote: 192 - 230 (Roll no. 266).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-12T15:40:05-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.267", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/267"
+        }, 
+        {
+          "name": "H4530", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4530"
+        }, 
+        {
+          "name": "H4530-4531", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4530-4531"
+        }, 
+        {
+          "name": "H4585", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4585"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4530-4531, H4585", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4530", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A001) offered by Mr. Cole.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T23:15:52-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.267", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/267"
+        }, 
+        {
+          "name": "Roll no. 266", 
+          "url": "http://clerk.house.gov/evs/2019/roll266.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T23:15:52-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.267", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/267"
+        }, 
+        {
+          "name": "Roll no. 266", 
+          "url": "http://clerk.house.gov/evs/2019/roll266.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T23:15:52-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.267", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/267"
+        }, 
+        {
+          "name": "Roll no. 266", 
+          "url": "http://clerk.house.gov/evs/2019/roll266.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Cole amendment (A001) Failed by recorded vote: 192 - 230 (Roll no. 266).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12T15:40:05-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.267", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/267"
+        }, 
+        {
+          "name": "H4530", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4530"
+        }, 
+        {
+          "name": "H4530-4531", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4530-4531"
+        }, 
+        {
+          "name": "H4585", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H4585"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A001) offered by Mr. Cole.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt267-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2740-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 2740
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "Amendment sought to strike the provision in the underlying bill that blocks conscience protections at the Department of Health and Human Services.", 
+  "introduced_at": "2019-06-12", 
+  "number": 267, 
+  "purpose": "An amendment numbered 1 printed in Part B of House Report 116-109 to strike the provision in the underlying bill that blocks conscience protections at the Department of Health and Human Services.", 
+  "sponsor": {
+    "bioguide_id": "C001053", 
+    "district": "4", 
+    "name": "Cole, Tom", 
+    "state": "OK", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2019-06-12T23:15:52-04:00", 
+  "updated_at": "2019-10-29T15:40:43Z"
+}

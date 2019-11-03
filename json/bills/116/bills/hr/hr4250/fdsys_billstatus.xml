@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-09-09T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-09-23T20:16:33Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill generally exempts charitable organizations from commodity trading regulations and registration requirements.</p>]]></text>
+          <actionDate>2019-09-09</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-09-18</actionDate>
+        <committee>
+          <name>Commodity Exchanges, Energy, and Credit Subcommittee</name>
+          <systemCode>hsag22</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-09-09</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-09-09</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-09-09</actionDate>
+      </item>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <updateDate>2019-10-15T14:38:23Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>4250</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors />
+    <textVersions>
+      <item>
+        <date>2019-09-09T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr4250ih/xml/BILLS-116hr4250ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 143 (Monday, September 9, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Ms. CRAIG:H.R. 4250.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8.[Page H7559]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-09-10T07:12:15Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Craig</lastName>
+        <bioguideId>C001119</bioguideId>
+        <district>2</district>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <state>MN</state>
+        <party>D</party>
+        <identifiers>
+          <lisID>2412</lisID>
+          <gpoId />
+          <bioguideId>C001119</bioguideId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>Angie</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+      <actionDate>2019-09-18</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commodities markets</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>To amend the Commodity Exchange Act to exempt certain charitable organizations from regulation as commodity pool operators, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Commodity Exchange Act to exempt certain charitable organizations from regulation as commodity pool operators, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>522</number>
+        <type>S</type>
+        <latestTitle>African Burial Ground International Memorial Museum and Educational Center Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2019-02-14</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsag22</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-09-18T17:59:34Z</date>
+                </item>
+              </activities>
+              <name>Commodity Exchanges, Energy, and Credit Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-09T18:00:21Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-09-09</introducedDate>
+    <calendarNumbers />
+    <title>To amend the Commodity Exchange Act to exempt certain charitable organizations from regulation as commodity pool operators, and for other purposes.</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

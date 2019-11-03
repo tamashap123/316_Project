@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3059-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-03", 
+  "number": "3059", 
+  "official_title": "To amend title XIX of the Social Security Act and the SUPPORT for Patients and Communities Act to ensure health insurance coverage continuity for former foster youth.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1698-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Expanded Coverage for Former Foster Youth Act", 
+  "sponsor": {
+    "bioguide_id": "B001270", 
+    "district": "37", 
+    "name": "Bass, Karen", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-03", 
+  "subjects": [
+    "Adoption and foster care", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health promotion and preventive care", 
+    "Medicaid", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title XIX of the Social Security Act and the SUPPORT for Patients and Communities Act to ensure health insurance coverage continuity for former foster youth.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanded Coverage for Former Foster Youth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanded Coverage for Former Foster Youth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expanded Coverage for Former Foster Youth Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-05T21:47:47Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3059.xml"
+}

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-18</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4952-4953</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4952-4953</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S4952-4953)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-18</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2019-05-07</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Student Loan Borrower Bill of Rights</latestTitle>
+        <congress>116</congress>
+        <type>S</type>
+        <number>1354</number>
+      </item>
+    </relatedBills>
+    <billNumber>2184</billNumber>
+    <cosponsors>
+      <item>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <state>RI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <identifiers>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+        </identifiers>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Sherrod</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <lastName>Brown</lastName>
+        <bioguideId>B000944</bioguideId>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <lastName>CARDIN</lastName>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Tammy</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <lastName>Baldwin</lastName>
+        <bioguideId>B001230</bioguideId>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Tina</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <lastName>Smith</lastName>
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-07-18T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2184is/xml/BILLS-116s2184is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <createDate>2019-07-19T04:42:20Z</createDate>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssbk00</systemCode>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-18T20:03:51Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <bioguideId>D000563</bioguideId>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <byRequestType />
+        <firstName>RICHARD</firstName>
+        <state>IL</state>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <congress>116</congress>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S4952-4953)</text>
+      <links />
+      <actionDate>2019-07-18</actionDate>
+    </latestAction>
+    <title>Know Before You Owe Private Education Loan Act of 2019</title>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-08-16T10:36:21Z</updateDate>
+    <introducedDate>2019-07-18</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Truth in Lending Act and the Higher Education Act of 1965 to require certain creditors to obtain certifications from institutions of higher education, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Know Before You Owe Private Education Loan Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Know Before You Owe Private Education Loan Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Know Before You Owe Private Education Loan Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <recordedVotes />
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

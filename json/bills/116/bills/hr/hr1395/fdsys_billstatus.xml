@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-27</actionDate>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-27T15:01:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-02-28T08:10:06Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>1395</billNumber>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <lastName>BLUMENAUER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000574</bioguideId>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <state>OR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <firstName>EARL</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <lastName>Rodgers</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001159</bioguideId>
+        <identifiers>
+          <gpoId>8209</gpoId>
+          <bioguideId>M001159</bioguideId>
+          <lisID>1809</lisID>
+        </identifiers>
+        <district>5</district>
+        <state>WA</state>
+        <middleName>McMorris</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>Cathy</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <lastName>McKinley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001180</bioguideId>
+        <identifiers>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <state>WV</state>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Davids, Sharice [D-KS-3]</fullName>
+        <lastName>Davids</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000629</bioguideId>
+        <identifiers>
+          <bioguideId>D000629</bioguideId>
+          <lisID>2403</lisID>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <state>KS</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <firstName>Sharice</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <lastName>Norman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000190</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <state>SC</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <firstName>Ralph</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <lastName>Wild</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000826</bioguideId>
+        <identifiers>
+          <bioguideId>W000826</bioguideId>
+          <gpoId />
+          <lisID>2374</lisID>
+        </identifiers>
+        <district>7</district>
+        <state>PA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <firstName>Susan</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+        <lastName>Rouda</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000616</bioguideId>
+        <identifiers>
+          <lisID>2382</lisID>
+          <gpoId />
+          <bioguideId>R000616</bioguideId>
+        </identifiers>
+        <district>48</district>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-10</sponsorshipDate>
+        <firstName>Harley</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-02-27</actionDate>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-02-27</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-27T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1395ih/xml/BILLS-116hr1395ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:21:32Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Educational guidance</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Youth Mental Health Services Act of 2019</title>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Youth Mental Health Services Act of 2019</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Elementary and Secondary Education Act of 1965 to improve mental health services for students, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Youth Mental Health Services Act of 2019</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Youth Mental Health Services Act of 2019</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>David</firstName>
+        <middleName>P.</middleName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <bioguideId>R000582</bioguideId>
+        <lastName>Roe</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

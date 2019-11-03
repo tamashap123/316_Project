@@ -1,0 +1,139 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-16T18:11:19-04:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H.Amdt.243", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/243"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Cox (CA) amendment (A024) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-05-16T17:51:02-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.243", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/243"
+        }, 
+        {
+          "name": "H3898", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3898"
+        }, 
+        {
+          "name": "H3898-3900", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3898-3900"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3898-3900", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3898", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A024) offered by Mr. Cox (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16T17:51:02-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.243", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/243"
+        }, 
+        {
+          "name": "H3898", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3898"
+        }, 
+        {
+          "name": "H3898-3900", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3898-3900"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A024) offered by Mr. Cox (CA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16T18:11:19-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.243", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/243"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16T18:11:19-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.243", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/243"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Cox (CA) amendment (A024) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt243-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr987-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 987
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": null, 
+  "introduced_at": "2019-05-16", 
+  "number": 243, 
+  "purpose": "An amendment numbered 24 printed in House Report 116-61 to add areas with high concentrations of unemployment to the list where such outreach and educational activities shall be provided.", 
+  "sponsor": {
+    "bioguide_id": "C001124", 
+    "district": "21", 
+    "name": "Cox, TJ", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2019-05-16T18:11:19-04:00", 
+  "updated_at": "2019-05-31T07:16:08Z"
+}

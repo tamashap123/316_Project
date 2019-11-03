@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <textVersions>
+      <item>
+        <date>2019-04-10T04:00:00Z</date>
+        <type>Agreed to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres155ats/xml/BILLS-116sres155ats.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <bioguideId>S001184</bioguideId>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <middleName />
+        <party>R</party>
+        <lastName>Scott</lastName>
+        <state>SC</state>
+        <identifiers>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tim</firstName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>GRAHAM</lastName>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <middleName>O.</middleName>
+        <byRequestType />
+        <bioguideId>G000359</bioguideId>
+        <party>R</party>
+        <firstName>LINDSEY</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This resolution declares that the Senate has heard with profound sorrow and deep regret the announcement of the death of the Honorable Ernest F. Hollings, former Senator for South Carolina.</p>]]></text>
+          <lastSummaryUpdateDate>2019-05-06T20:16:13Z</lastSummaryUpdateDate>
+          <updateDate>2019-04-10T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2019-04-10</actionDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <text><![CDATA[<p>This resolution declares that the Senate has heard with profound sorrow and deep regret the announcement of the death of the Honorable Ernest F. Hollings, former Senator for South Carolina.</p>]]></text>
+          <lastSummaryUpdateDate>2019-05-06T20:16:01Z</lastSummaryUpdateDate>
+          <updateDate>2019-04-10T12:02:12Z</updateDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <actionDate>2019-04-10</actionDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S2390-2391</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2390-2391</url>
+          </link>
+          <link>
+            <name>S2392</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2392</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2392; text: CR S2390-2391)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S2390-2391</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2390-2391</url>
+          </link>
+          <link>
+            <name>S2392</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2392</url>
+          </link>
+        </links>
+        <actionDate>2019-04-10</actionDate>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S2392; text: CR S2390-2391)</text>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-04-10</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+          <item>
+            <name>South Carolina</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees />
+    </committees>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <updateDate>2019-05-09T04:42:30Z</updateDate>
+    <billNumber>155</billNumber>
+    <createDate>2019-04-11T04:57:10Z</createDate>
+    <introducedDate>2019-04-10</introducedDate>
+    <amendments />
+    <recordedVotes />
+    <relatedBills />
+    <cboCostEstimates />
+    <title>A resolution relative to the death of the Honorable Ernest F. Hollings, former United States Senator for the State of South Carolina.</title>
+    <notes />
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A resolution relative to the death of the Honorable Ernest F. Hollings, former United States Senator for the State of South Carolina.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A resolution relative to the death of the Honorable Ernest F. Hollings, former United States Senator for the State of South Carolina.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <committeeReports />
+    <billType>SRES</billType>
+    <latestAction>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2392; text: CR S2390-2391)</text>
+      <actionDate>2019-04-10</actionDate>
+    </latestAction>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres643-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000486", 
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-18", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-18", 
+  "number": "643", 
+  "official_title": "Recognizing women's cardiovascular health as a critical health care priority that affects every State and contributes to increased health care costs, and promoting the necessity of increased awareness of and education on the symptoms for heart disease among women, gender-specific cardiovascular disease research, and policy action to alleviate the risks of heart disease among women.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "H001056", 
+    "district": "3", 
+    "name": "Herrera Beutler, Jaime", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-18", 
+  "subjects": [
+    "Cardiovascular and respiratory health", 
+    "Health", 
+    "Health promotion and preventive care", 
+    "Medical research", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recognizing women's cardiovascular health as a critical health care priority that affects every State and contributes to increased health care costs, and promoting the necessity of increased awareness of and education on the symptoms for heart disease among women, gender-specific cardiovascular disease research, and policy action to alleviate the risks of heart disease among women.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Recognizing women's cardiovascular health as a critical health care priority that affects every State and contributes to increased health care costs, and promoting the necessity of increased awareness of and education on the symptoms for heart disease among women, gender-specific cardiovascular disease research, and policy action to alleviate the risks of heart disease among women.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-25T21:30:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres643.xml"
+}

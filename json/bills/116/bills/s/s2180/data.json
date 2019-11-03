@@ -1,0 +1,133 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-18", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-18", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "links": [
+        {
+          "name": "S4952", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4952"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S4952", 
+          "type": "Sponsor introductory remarks on measure"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2180-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001111", 
+      "district": null, 
+      "name": "Murray, Patty", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-07-18", 
+      "state": "WA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-18", 
+  "number": "2180", 
+  "official_title": "A bill to provide oversight of the border zone in which Federal agents may conduct vehicle checkpoints and stops and enter private land without a warrant, and to make technical corrections.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr3852-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Border Zone Reasonableness Restoration Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "L000174", 
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Border security and unlawful immigration", 
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Department of Homeland Security", 
+    "Immigration", 
+    "Law enforcement officers", 
+    "Motor vehicles", 
+    "Property rights"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide oversight of the border zone in which Federal agents may conduct vehicle checkpoints and stops and enter private land without a warrant, and to make technical corrections.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Border Zone Reasonableness Restoration Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Border Zone Reasonableness Restoration Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Border Zone Reasonableness Restoration Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-08-16T10:04:51Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2180.xml"
+}

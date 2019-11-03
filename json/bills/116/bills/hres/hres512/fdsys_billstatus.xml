@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-07-23T16:04:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Calling for the global repeal of blasphemy, heresy, and apostasy laws.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Calling for the global repeal of blasphemy, heresy, and apostasy laws.</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billType>HRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-07-23</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-23</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-07-23</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <title>Calling for the global repeal of blasphemy, heresy, and apostasy laws.</title>
+    <version>1.0.0</version>
+    <introducedDate>2019-07-23</introducedDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2019-07-23</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <party>D</party>
+        <firstName>Jamie</firstName>
+        <bioguideId>R000606</bioguideId>
+        <district>8</district>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <lastName>Raskin</lastName>
+        <middleName />
+        <state>MD</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <district>11</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>NC</state>
+        <bioguideId>M001187</bioguideId>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Meadows</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2019-09-10</sponsorshipDate>
+        <district>0</district>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <sponsorshipDate>2019-09-10</sponsorshipDate>
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+        </identifiers>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>G000576</bioguideId>
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Grothman</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Riggleman, Denver [R-VA-5]</fullName>
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <district>5</district>
+        <identifiers>
+          <lisID>2454</lisID>
+          <gpoId />
+          <bioguideId>R000611</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>VA</state>
+        <bioguideId>R000611</bioguideId>
+        <firstName>Denver</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Riggleman</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+          <lisID>2101</lisID>
+        </identifiers>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>H001068</bioguideId>
+        <firstName>Jared</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Huffman</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <district>2</district>
+        <identifiers>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+        </identifiers>
+        <middleName />
+        <state>SC</state>
+        <bioguideId>W000795</bioguideId>
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <district>33</district>
+        <identifiers>
+          <lisID>2230</lisID>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>L000582</bioguideId>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lieu</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2277</lisID>
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <middleName>X.</middleName>
+        <state>WV</state>
+        <bioguideId>M001195</bioguideId>
+        <firstName>Alexander</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Mooney</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <district>2</district>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <bioguideId>M000312</bioguideId>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCGOVERN</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000827</bioguideId>
+          <lisID>2446</lisID>
+        </identifiers>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>W000827</bioguideId>
+        <firstName>Ron</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wright</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <district>3</district>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>OR</state>
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BLUMENAUER</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipDate>2019-10-08</sponsorshipDate>
+        <district>19</district>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+        </identifiers>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>L000397</bioguideId>
+        <firstName>ZOE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LOFGREN</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <sponsorshipDate>2019-10-08</sponsorshipDate>
+        <district>8</district>
+        <identifiers>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <middleName />
+        <state>FL</state>
+        <bioguideId>P000599</bioguideId>
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Posey</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipDate>2019-10-08</sponsorshipDate>
+        <district>9</district>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <middleName />
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <sponsorshipDate>2019-10-08</sponsorshipDate>
+        <district>1</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Allred, Colin Z. [D-TX-32]</fullName>
+        <sponsorshipDate>2019-10-08</sponsorshipDate>
+        <district>32</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000376</bioguideId>
+          <lisID>2451</lisID>
+        </identifiers>
+        <middleName>Z.</middleName>
+        <state>TX</state>
+        <bioguideId>A000376</bioguideId>
+        <firstName>Colin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Allred</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <sponsorshipDate>2019-10-08</sponsorshipDate>
+        <district>5</district>
+        <identifiers>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <middleName>McMorris</middleName>
+        <state>WA</state>
+        <bioguideId>M001159</bioguideId>
+        <firstName>Cathy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rodgers</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <sponsorshipDate>2019-10-28</sponsorshipDate>
+        <district>5</district>
+        <identifiers>
+          <gpoId>8218</gpoId>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <middleName>JAMES</middleName>
+        <state>WI</state>
+        <bioguideId>S000244</bioguideId>
+        <firstName>F.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SENSENBRENNER</lastName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <sponsorshipDate>2019-10-28</sponsorshipDate>
+        <district>7</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000826</bioguideId>
+          <lisID>2374</lisID>
+        </identifiers>
+        <middleName />
+        <state>PA</state>
+        <bioguideId>W000826</bioguideId>
+        <firstName>Susan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wild</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres512ih/xml/BILLS-116hres512ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-07-23T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>512</billNumber>
+    <relatedBills />
+    <notes />
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <createDate>2019-07-24T07:12:12Z</createDate>
+    <updateDate>2019-10-29T07:16:05Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

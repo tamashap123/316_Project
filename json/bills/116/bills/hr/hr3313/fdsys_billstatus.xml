@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-18T04:00:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <textVersions>
+      <item>
+        <date>2019-06-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3313ih/xml/BILLS-116hr3313ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>F000450</bioguideId>
+        <identifiers>
+          <bioguideId>F000450</bioguideId>
+          <gpoId>8028</gpoId>
+          <lisID>1791</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <district>5</district>
+        <lastName>Foxx</lastName>
+        <firstName>Virginia</firstName>
+        <byRequestType />
+        <state>NC</state>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>2500</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <latestAction>
+          <text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2500.</text>
+          <actionTime>13:38:44</actionTime>
+          <actionDate>2019-07-12</actionDate>
+        </latestAction>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To amend title 10, United States Code, to require the Secretary of Defense to develop guidelines and resources on the acquisition or licensing of intellectual property, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Defense Maintenance Data Transparency Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Defense Maintenance Data Transparency Act</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Defense Maintenance Data Transparency Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <updateDate>2019-08-23T18:00:09Z</updateDate>
+    <createDate>2019-06-19T11:12:10Z</createDate>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-06-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-06-18</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-06-18</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <firstName>Jackie</firstName>
+        <lastName>Speier</lastName>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <state>CA</state>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>S001175</bioguideId>
+        <middleName />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <laws />
+    <title>Defense Maintenance Data Transparency Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 102 (Tuesday, June 18, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Ms. FOXX of North Carolina:H.R. 3313.Congress has the power to enact this legislation pursuantto the following:clause 18 of section 8 of article I of the Constitution,which allows Congress ``to make all Laws which shall benecessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or anyDepartment or Officer thereof'' and;clause 14 of section 8 of article I of the Constitution,which provides Congress with the power ``to make rules forthe government and regulation of the land and naval forces''[Page H4771]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the House Committee on Armed Services.</text>
+      <actionDate>2019-06-18</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2019-06-18</introducedDate>
+    <billNumber>3313</billNumber>
+    <cboCostEstimates />
+    <amendments />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

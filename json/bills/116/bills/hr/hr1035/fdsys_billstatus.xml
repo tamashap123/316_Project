@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>3</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2019-10-19T07:16:02Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>1035</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Loebsack</lastName>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+          <lisID>1846</lisID>
+        </identifiers>
+        <firstName>David</firstName>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>L000565</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Roe</lastName>
+        <state>TN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <identifiers>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <firstName>David</firstName>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>R000582</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Westerman</lastName>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <identifiers>
+          <lisID>2224</lisID>
+          <gpoId />
+          <bioguideId>W000821</bioguideId>
+        </identifiers>
+        <firstName>Bruce</firstName>
+        <district>4</district>
+        <party>R</party>
+        <bioguideId>W000821</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rice</lastName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <identifiers>
+          <lisID>2262</lisID>
+          <gpoId />
+          <bioguideId>R000602</bioguideId>
+        </identifiers>
+        <firstName>Kathleen</firstName>
+        <district>4</district>
+        <party>D</party>
+        <bioguideId>R000602</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <district>4</district>
+        <party>R</party>
+        <bioguideId>K000362</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Clarke</lastName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <firstName>Yvette</firstName>
+        <district>9</district>
+        <party>D</party>
+        <bioguideId>C001067</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Scott</lastName>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+        </identifiers>
+        <firstName>Austin</firstName>
+        <district>8</district>
+        <party>R</party>
+        <bioguideId>S001189</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hice</lastName>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+          <lisID>2237</lisID>
+        </identifiers>
+        <firstName>Jody</firstName>
+        <district>10</district>
+        <party>R</party>
+        <bioguideId>H001071</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Vela</lastName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <identifiers>
+          <lisID>2167</lisID>
+          <bioguideId>V000132</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Filemon</firstName>
+        <district>34</district>
+        <party>D</party>
+        <bioguideId>V000132</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Raskin</lastName>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+          <lisID>2332</lisID>
+        </identifiers>
+        <firstName>Jamie</firstName>
+        <district>8</district>
+        <party>D</party>
+        <bioguideId>R000606</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>McMorris</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rodgers</lastName>
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rodgers, Cathy McMorris [R-WA-5]</fullName>
+        <identifiers>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <firstName>Cathy</firstName>
+        <district>5</district>
+        <party>R</party>
+        <bioguideId>M001159</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Welch</lastName>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <firstName>Peter</firstName>
+        <district>0</district>
+        <party>D</party>
+        <bioguideId>W000800</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>L. "Buddy"</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Carter</lastName>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <identifiers>
+          <lisID>2236</lisID>
+          <bioguideId>C001103</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Earl</firstName>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>C001103</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>A. "Rick"</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Crawford</lastName>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <identifiers>
+          <lisID>1989</lisID>
+          <gpoId>7793</gpoId>
+          <bioguideId>C001087</bioguideId>
+        </identifiers>
+        <firstName>Eric</firstName>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>C001087</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>PETERSON</lastName>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <identifiers>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <firstName>COLLIN</firstName>
+        <district>7</district>
+        <party>D</party>
+        <bioguideId>P000258</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Byrne</lastName>
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <identifiers>
+          <lisID>2197</lisID>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <firstName>Bradley</firstName>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>B001289</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Newhouse</lastName>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+          <lisID>2275</lisID>
+        </identifiers>
+        <firstName>Dan</firstName>
+        <district>4</district>
+        <party>R</party>
+        <bioguideId>N000189</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Herrera Beutler</lastName>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <identifiers>
+          <bioguideId>H001056</bioguideId>
+          <gpoId>8207</gpoId>
+          <lisID>2071</lisID>
+        </identifiers>
+        <firstName>Jaime</firstName>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>H001056</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Gonzalez</lastName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <identifiers>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+          <lisID>2349</lisID>
+        </identifiers>
+        <firstName>Vicente</firstName>
+        <district>15</district>
+        <party>D</party>
+        <bioguideId>G000581</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Marshall</lastName>
+        <state>KS</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <identifiers>
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Roger</firstName>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>M001198</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Palazzo</lastName>
+        <state>MS</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <identifiers>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <firstName>Steven</firstName>
+        <district>4</district>
+        <party>R</party>
+        <bioguideId>P000601</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Budd</lastName>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <identifiers>
+          <lisID>2336</lisID>
+          <gpoId />
+          <bioguideId>B001305</bioguideId>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <district>13</district>
+        <party>R</party>
+        <bioguideId>B001305</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Roby</lastName>
+        <state>AL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Roby, Martha [R-AL-2]</fullName>
+        <identifiers>
+          <gpoId>7787</gpoId>
+          <bioguideId>R000591</bioguideId>
+          <lisID>1986</lisID>
+        </identifiers>
+        <firstName>Martha</firstName>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>R000591</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>DOGGETT</lastName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <identifiers>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+          <lisID>303</lisID>
+        </identifiers>
+        <firstName>LLOYD</firstName>
+        <district>35</district>
+        <party>D</party>
+        <bioguideId>D000399</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Brooks</lastName>
+        <state>AL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <identifiers>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <firstName>Mo</firstName>
+        <district>5</district>
+        <party>R</party>
+        <bioguideId>B001274</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <middleName>French</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hill</lastName>
+        <state>AR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <identifiers>
+          <bioguideId>H001072</bioguideId>
+          <gpoId />
+          <lisID>2223</lisID>
+        </identifiers>
+        <firstName>J.</firstName>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>H001072</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Davids</lastName>
+        <state>KS</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Davids, Sharice [D-KS-3]</fullName>
+        <identifiers>
+          <bioguideId>D000629</bioguideId>
+          <gpoId />
+          <lisID>2403</lisID>
+        </identifiers>
+        <firstName>Sharice</firstName>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>D000629</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>VISCLOSKY</lastName>
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Visclosky, Peter J. [D-IN-1]</fullName>
+        <identifiers>
+          <lisID>1188</lisID>
+          <gpoId>7940</gpoId>
+          <bioguideId>V000108</bioguideId>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>V000108</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Loudermilk</lastName>
+        <state>GA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <identifiers>
+          <lisID>2238</lisID>
+          <bioguideId>L000583</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Barry</firstName>
+        <district>11</district>
+        <party>R</party>
+        <bioguideId>L000583</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Meuser</lastName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Meuser, Daniel [R-PA-9]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001204</bioguideId>
+          <lisID>2434</lisID>
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <district>9</district>
+        <party>R</party>
+        <bioguideId>M001204</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Gabbard</lastName>
+        <state>HI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <identifiers>
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Tulsi</firstName>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>G000571</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-30</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Rogers</lastName>
+        <state>AL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <identifiers>
+          <gpoId>7788</gpoId>
+          <bioguideId>R000575</bioguideId>
+          <lisID>1704</lisID>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>R000575</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sarbanes</lastName>
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <identifiers>
+          <lisID>1854</lisID>
+          <bioguideId>S001168</bioguideId>
+          <gpoId>7978</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>S001168</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-24</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Cline</lastName>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
+        <identifiers>
+          <lisID>2455</lisID>
+          <gpoId />
+          <bioguideId>C001118</bioguideId>
+        </identifiers>
+        <firstName>Ben</firstName>
+        <district>6</district>
+        <party>R</party>
+        <bioguideId>C001118</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-09-26</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Posey</lastName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <identifiers>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <district>8</district>
+        <party>R</party>
+        <bioguideId>P000599</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2019-10-18</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Lesko</lastName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <identifiers>
+          <lisID>2368</lisID>
+          <bioguideId>L000589</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Debbie</firstName>
+        <district>8</district>
+        <party>R</party>
+        <bioguideId>L000589</bioguideId>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-02-07T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1035ih/xml/BILLS-116hr1035ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COLLINS of Georgia:H.R. 1035.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8 of the Constitution of the UnitedStates of America[Page H1462]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-02-08T08:10:21Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Collins</lastName>
+        <bioguideId>C001093</bioguideId>
+        <district>9</district>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <state>GA</state>
+        <party>R</party>
+        <identifiers>
+          <lisID>2121</lisID>
+          <gpoId />
+          <bioguideId>C001093</bioguideId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <firstName>Doug</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2019-02-07</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Contracts and agency</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+          <item>
+            <name>Medical ethics</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend title XVIII of the Social Security Act to provide for pharmacy benefits manager standards under the Medicare prescription drug program and Medicare Advantage program to further transparency of payment methodologies to pharmacies, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Prescription Drug Price Transparency Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Prescription Drug Price Transparency Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Prescription Drug Price Transparency Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-02-26</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <type>HR</type>
+        <latestTitle>Fair Care Act of 2019</latestTitle>
+        <number>1332</number>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-07T17:00:46Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T15:02:00Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T15:02:05Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T15:01:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-02-07</introducedDate>
+    <calendarNumbers />
+    <title>Prescription Drug Price Transparency Act</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

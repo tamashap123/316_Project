@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-08-12T16:20:44Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-07-19T13:30:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>End Child Trafficking Now Act</latestTitle>
+        <type>S</type>
+        <number>2420</number>
+        <latestAction>
+          <actionDate>2019-08-01</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend the Immigration and Nationality Act to require a DNA test to determine the familial relationship between an alien and an accompanying minor, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>End Child Trafficking Now Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>End Child Trafficking Now Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>End Child Trafficking Now Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>3864</billNumber>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>End Child Trafficking Now Act</title>
+    <latestAction>
+      <actionDate>2019-08-12</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+    <createDate>2019-07-20T07:12:08Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Gooden</lastName>
+        <firstName>Lance</firstName>
+        <state>TX</state>
+        <bioguideId>G000589</bioguideId>
+        <fullName>Rep. Gooden, Lance [R-TX-5]</fullName>
+        <district>5</district>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000589</bioguideId>
+          <lisID>2445</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <notes />
+    <introducedDate>2019-07-19</introducedDate>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionDate>2019-08-12</actionDate>
+        <committee>
+          <name>Immigration and Citizenship Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2019-07-19</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-07-19</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-07-19</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <cosponsors>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <firstName>Brian</firstName>
+        <middleName />
+        <lastName>Babin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>36</district>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000578</bioguideId>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <firstName>Matt</firstName>
+        <middleName />
+        <lastName>Gaetz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000301</bioguideId>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <firstName>Dusty</firstName>
+        <middleName />
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <fullName>Rep. Johnson, Dusty [R-SD-At Large]</fullName>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>J000301</bioguideId>
+          <gpoId />
+          <lisID>2439</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001305</bioguideId>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <middleName />
+        <lastName>Budd</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <lisID>2336</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000827</bioguideId>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <firstName>Ron</firstName>
+        <middleName />
+        <lastName>Wright</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000827</bioguideId>
+          <lisID>2446</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001274</bioguideId>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <firstName>Mo</firstName>
+        <middleName />
+        <lastName>Brooks</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001212</bioguideId>
+        <sponsorshipDate>2019-09-18</sponsorshipDate>
+        <firstName>Pete</firstName>
+        <middleName />
+        <lastName>Stauber</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <state>MN</state>
+        <identifiers>
+          <lisID>2415</lisID>
+          <gpoId />
+          <bioguideId>S001212</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-07-19T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3864ih/xml/BILLS-116hr3864ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 122 (Friday, July 19, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. GOODEN:H.R. 3864.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8 of the U.S. Constitution[Page H7157]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2019-09-19T07:28:18Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

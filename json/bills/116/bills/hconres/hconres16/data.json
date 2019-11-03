@@ -1,0 +1,296 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-02-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-08", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-02-27", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-27", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-02-27", 
+      "action_code": "", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSPW"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-30", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/30"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 116-30.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-02", 
+      "action_code": "H12420", 
+      "calendar": "House", 
+      "number": "16", 
+      "references": [], 
+      "text": "Placed on the House Calendar, Calendar No. 16.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2019-04-08T16:45:32-04:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mrs. Craig moved to suspend the rules and agree to the resolution.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-08T16:45:57-04:00", 
+      "action_code": "H30000", 
+      "links": [
+        {
+          "name": "H3106-3107", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3106-3107"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3106-3107", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-08T16:45:58-04:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hcres16-116"
+      ], 
+      "links": [
+        {
+          "name": "H. Con. Res. 16", 
+          "url": "https://www.congress.gov/bill/116th-congress/house-concurrent-resolution/16"
+        }
+      ], 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 16.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-08T16:51:22-04:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H3107", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H3107"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3107", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-04-08T16:51:26-04:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-09", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Received in the Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-04-10", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "links": [
+        {
+          "name": "S2392", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2392"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S2392", 
+          "type": "consideration"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:CONCURRENTRES", 
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2019-04-11", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres16-116", 
+  "bill_type": "hconres", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-30"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management", 
+      "subcommittee_id": "13"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "M001187", 
+      "district": "11", 
+      "name": "Meadows, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-02-08", 
+      "state": "NC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-02-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2019-04-08T16:51:22-04:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2019-04-10", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-02-08", 
+  "number": "16", 
+  "official_title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "T000468", 
+    "district": "1", 
+    "name": "Titus, Dina", 
+    "state": "NV", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:CONCURRENTRES", 
+  "status_at": "2019-04-10", 
+  "subjects": [
+    "Commemorative events and holidays", 
+    "Congress", 
+    "Law enforcement officers", 
+    "Museums, exhibitions, cultural centers", 
+    "U.S. Capitol"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Passed Senate", 
+    "date": "2019-04-10T12:00:16Z", 
+    "text": "This concurrent resolution permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor as free public events on the Capitol grounds\n\n the 38th Annual National Peace Officers Memorial Service, on May 15, 2019, to honor the law enforcement officers who died in the line of duty during 2018; and the National Honor Guard and Pipe Band Exhibition, on May 14, 2019, to allow law enforcement representatives to exhibit their ability to demonstrate Honor Guard programs and provide for a bagpipe exhibition."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-30T12:57:54Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hconres/BILLSTATUS-116hconres16.xml"
+}

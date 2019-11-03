@@ -1,0 +1,81 @@
+<bill session="116" type="h" number="1365" updated="2019-07-31T07:33:21Z">
+  <state datetime="2019-07-24T21:19:19-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-07-24T21:19:19-04:00"/>
+  </status>
+  <introduced datetime="2019-02-26"/>
+  <titles>
+    <title type="official" as="introduced">To make technical corrections to the Guam World War II Loyalty Recognition Act.</title>
+    <title type="display">To make technical corrections to the Guam World War II Loyalty Recognition Act.</title>
+  </titles>
+  <sponsor bioguide_id="S001204"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001298" joined="2019-04-02"/>
+    <cosponsor bioguide_id="G000587" joined="2019-04-02"/>
+    <cosponsor bioguide_id="G000551" joined="2019-05-22"/>
+    <cosponsor bioguide_id="O000173" joined="2019-04-02"/>
+    <cosponsor bioguide_id="R000606" joined="2019-04-02"/>
+    <cosponsor bioguide_id="S000364" joined="2019-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-02-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2019-06-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2019-06-19" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2019-07-11">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 116-149.</text>
+    </action>
+    <calendar datetime="2019-07-11" calendar="Union" number="111">
+      <text>Placed on the Union Calendar, Calendar No. 111.</text>
+    </calendar>
+    <action datetime="2019-07-24T21:06:37-04:00">
+      <text>Mr. San Nicolas moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2019-07-24T21:06:49-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7351-7353" label="consideration"/>
+    </action>
+    <action datetime="2019-07-24T21:06:50-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1365.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2019-07-24T21:19:19-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7351" label="text"/>
+    </vote>
+    <action datetime="2019-07-24T21:19:21-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-07-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Asia"/>
+    <term name="Crime victims"/>
+    <term name="Government trust funds"/>
+    <term name="Guam"/>
+    <term name="War and emergency powers"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+    <term name="World history"/>
+  </subjects>
+  <amendments/>
+  <summary date="2019-02-26T05:00:00Z" status="Introduced in House">This bill modifies the use of amounts deposited in the Guam World War II Claims Fund, which is used to pay claims of victims and survivors of the attack and occupation of Guam by Imperial Japanese military forces and the liberation of Guam by U.S. military forces. Currently, claims are paid subject to the availability of appropriations. This bill removes the requirement for appropriations.</summary>
+  <committee-reports>
+    <report>H. Rept. 116-149</report>
+  </committee-reports>
+</bill>

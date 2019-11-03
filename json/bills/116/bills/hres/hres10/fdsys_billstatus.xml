@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <notes />
+    <createDate>2019-01-04T13:32:47Z</createDate>
+    <textVersions>
+      <item>
+        <date>2019-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres10eh/xml/BILLS-116hres10eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-01-03</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>This resolution sets the daily meeting time for the House of Representatives.</p>]]></text>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-01-09T22:58:33Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2019-01-03</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <text><![CDATA[<p>This resolution sets the daily meeting time for the House of Representatives.</p>]]></text>
+          <name>Passed House</name>
+          <lastSummaryUpdateDate>2019-01-09T22:58:26Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-03T19:25:45Z</updateDate>
+          <versionCode>53</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionTime>21:57:12</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>21:57:09</actionTime>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H197)</text>
+        <actionCode>H37100</actionCode>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H197</url>
+            <name>H197</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>21:57:09</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H197)</text>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H197</url>
+            <name>H197</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>21:56:44</actionTime>
+        <text>Considered as privileged matter. (consideration: CR H197)</text>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H197</url>
+            <name>H197</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passageOfAMeasure>1</passageOfAMeasure>
+      </actionTypeCounts>
+    </actions>
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committeeReports />
+    <amendments />
+    <billNumber>10</billNumber>
+    <version>1.0.0</version>
+    <updateDate>2019-07-30T12:58:27Z</updateDate>
+    <sponsors>
+      <item>
+        <state>MA</state>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <district>2</district>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-01-03</introducedDate>
+    <billType>HRES</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Fixing the daily hour of meeting of the First Session of the One Hundred Sixteenth Congress.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Fixing the daily hour of meeting of the First Session of the One Hundred Sixteenth Congress.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <title>Fixing the daily hour of meeting of the First Session of the One Hundred Sixteenth Congress.</title>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <actionTime>21:57:12</actionTime>
+      <links />
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2019-01-03</actionDate>
+    </latestAction>
+    <recordedVotes />
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

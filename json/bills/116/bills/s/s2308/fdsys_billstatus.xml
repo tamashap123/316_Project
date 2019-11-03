@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-29</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-07-29</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-01-25</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestTitle>Patients First Act of 2019</latestTitle>
+        <number>64</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billNumber>2308</billNumber>
+    <cosponsors>
+      <item>
+        <firstName>James</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <lastName>Lankford</lastName>
+        <bioguideId>L000575</bioguideId>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Cindy</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <state>MS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001079</bioguideId>
+          <lisID>2366</lisID>
+        </identifiers>
+        <lastName>Hyde-Smith</lastName>
+        <bioguideId>H001079</bioguideId>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Roy</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <state>MO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <lastName>Blunt</lastName>
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Marsha</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <state>TN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+        </identifiers>
+        <lastName>Blackburn</lastName>
+        <bioguideId>B001243</bioguideId>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+          <lisID>2138</lisID>
+        </identifiers>
+        <lastName>Daines</lastName>
+        <bioguideId>D000618</bioguideId>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>JIM</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+          <lisID>583</lisID>
+        </identifiers>
+        <lastName>INHOFE</lastName>
+        <bioguideId>I000024</bioguideId>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Joni</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+        </identifiers>
+        <lastName>Ernst</lastName>
+        <bioguideId>E000295</bioguideId>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Kevin</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <state>ND</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+        </identifiers>
+        <lastName>Cramer</lastName>
+        <bioguideId>C001096</bioguideId>
+        <sponsorshipDate>2019-07-29</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <lastName>Rubio</lastName>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipDate>2019-07-31</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-07-29T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2308is/xml/BILLS-116s2308is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Cell biology and embryology</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Medical ethics</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-07-30T04:27:27Z</createDate>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-29T22:01:01Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <middleName>F.</middleName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <bioguideId>W000437</bioguideId>
+        <party>R</party>
+        <lastName>WICKER</lastName>
+        <byRequestType />
+        <firstName>ROGER</firstName>
+        <state>MS</state>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <congress>116</congress>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2019-07-29</actionDate>
+    </latestAction>
+    <title>Patients First Act of 2019</title>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Patients First Act of </b><b>2019</b></p> <p>This bill requires the National Institutes of Health (NIH) to support stem cell research. Specifically, the NIH must conduct and support basic and applied research to develop techniques for the isolation, derivation, production, testing, and human clinical use of stem cells that may result in improved understanding of, or treatments for, diseases and other adverse health conditions. However, such techniques must not involve (1) the creation of a human embryo for research purposes; (2) the destruction or discarding of, or risk of injury to, a human embryo; or (3) the use of any stem cell the derivation or provision of which would be inconsistent with this bill.</p> <p>The NIH must also report on peer-reviewed stem cell research proposals that were not funded.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-08-09T14:20:56Z</lastSummaryUpdateDate>
+          <actionDate>2019-07-29</actionDate>
+          <updateDate>2019-07-29T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <updateDate>2019-08-16T10:41:52Z</updateDate>
+    <introducedDate>2019-07-29</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to intensify stem cell research showing evidence of substantial clinical benefit to patients, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Patients First Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Patients First Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Patients First Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <recordedVotes />
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

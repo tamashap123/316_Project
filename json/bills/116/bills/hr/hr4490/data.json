@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-25", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-25", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-10-28", 
+      "action_code": "", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4490-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, and Homeland Security", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-25", 
+  "number": "4490", 
+  "official_title": "To require the Inspector General, Department of Justice, to submit a report to the Congress on the number of firearm transaction denials issued by the National Instant Criminal Background Check System that are referred to the Bureau of Alcohol, Tobacco, Firearms, and Explosives for investigation, the number of prosecutions resulting from such investigations, and the number of firearms recovered by the Bureau in cases in which such a denial was issued after the firearm was transferred.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001248", 
+    "district": "26", 
+    "name": "Burgess, Michael C.", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-25", 
+  "subjects": [
+    "Congressional oversight", 
+    "Crime and law enforcement", 
+    "Criminal procedure and sentencing", 
+    "Firearms and explosives", 
+    "Law enforcement administration and funding", 
+    "Retail and wholesale trades"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Inspector General, Department of Justice, to submit a report to the Congress on the number of firearm transaction denials issued by the National Instant Criminal Background Check System that are referred to the Bureau of Alcohol, Tobacco, Firearms, and Explosives for investigation, the number of prosecutions resulting from such investigations, and the number of firearms recovered by the Bureau in cases in which such a denial was issued after the firearm was transferred.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To require the Inspector General, Department of Justice, to submit a report to the Congress on the number of firearm transaction denials issued by the National Instant Criminal Background Check System that are referred to the Bureau of Alcohol, Tobacco, Firearms, and Explosives for investigation, the number of prosecutions resulting from such investigations, and the number of firearms recovered by the Bureau in cases in which such a denial was issued after the firearm was transferred.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-30T07:13:23Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4490.xml"
+}

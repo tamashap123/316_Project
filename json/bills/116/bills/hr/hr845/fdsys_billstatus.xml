@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <text>Referred to the Committee on Oversight and Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <text>Referred to the Committee on Oversight and Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H1253)</text>
+        <actionCode>B00100</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <name>H1253</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H1253</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-29T15:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Oversight and Reform Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-29T15:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-30T08:10:17Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>845</billNumber>
+    <relatedBills>
+      <item>
+        <number>74</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>No Work, No Pay Act of 2019</latestTitle>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-01-10</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <firstName>Max</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2426</lisID>
+          <bioguideId>R000613</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>11</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rose, Max [D-NY-11]</fullName>
+        <state>NY</state>
+        <bioguideId>R000613</bioguideId>
+        <lastName>Rose</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Dan</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001120</bioguideId>
+          <lisID>2443</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Crenshaw, Dan [R-TX-2]</fullName>
+        <state>TX</state>
+        <bioguideId>C001120</bioguideId>
+        <lastName>Crenshaw</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <state>TN</state>
+        <bioguideId>C000754</bioguideId>
+        <lastName>COOPER</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Chellie</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <state>ME</state>
+        <bioguideId>P000597</bioguideId>
+        <lastName>Pingree</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>TJ</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001124</bioguideId>
+          <lisID>2378</lisID>
+        </identifiers>
+        <district>21</district>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cox, TJ [D-CA-21]</fullName>
+        <state>CA</state>
+        <bioguideId>C001124</bioguideId>
+        <lastName>Cox</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Seth</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-04</sponsorshipDate>
+        <identifiers>
+          <lisID>2246</lisID>
+          <bioguideId>M001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <state>MA</state>
+        <bioguideId>M001196</bioguideId>
+        <lastName>Moulton</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Anthony</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-04</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2430</lisID>
+          <bioguideId>G000588</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Gonzalez, Anthony [R-OH-16]</fullName>
+        <state>OH</state>
+        <bioguideId>G000588</bioguideId>
+        <lastName>Gonzalez</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <identifiers>
+          <lisID>2142</lisID>
+          <gpoId />
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <state>NC</state>
+        <bioguideId>M001187</bioguideId>
+        <lastName>Meadows</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Josh</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2338</lisID>
+          <bioguideId>G000583</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <state>NJ</state>
+        <bioguideId>G000583</bioguideId>
+        <lastName>Gottheimer</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Troy</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2370</lisID>
+          <bioguideId>B001306</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
+        <state>OH</state>
+        <bioguideId>B001306</bioguideId>
+        <lastName>Balderson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Josh</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001090</bioguideId>
+          <gpoId />
+          <lisID>2377</lisID>
+        </identifiers>
+        <district>10</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <state>CA</state>
+        <bioguideId>H001090</bioguideId>
+        <lastName>Harder</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <firstName>Jefferson</firstName>
+        <middleName />
+        <sponsorshipDate>2019-02-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <state>NJ</state>
+        <bioguideId>V000133</bioguideId>
+        <lastName>Van Drew</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-01-29</actionDate>
+      <text>Referred to the Committee on Oversight and Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <introducedDate>2019-01-29</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <date>2019-01-29T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr845ih/xml/BILLS-116hr845ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T13:14:27Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Solidarity in Salary Act of 2019</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOLDEN:H.R. 845.Congress has the power to enact this legislation pursuantto the following:U.S. Const. Art. 1, Sec. 1; and U.S. Const. Art. 1, Sec. 6[Page H1284]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <title>To prohibit the payment of a salary to Members of Congress, the President, and the Vice President during periods during which a Government shutdown is in effect, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Solidarity in Salary Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Solidarity in Salary Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Solidarity in Salary Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>Jared</firstName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Golden, Jared F. [D-ME-2]</fullName>
+        <state>ME</state>
+        <identifiers>
+          <lisID>2469</lisID>
+          <gpoId />
+          <bioguideId>G000592</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <bioguideId>G000592</bioguideId>
+        <lastName>Golden</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

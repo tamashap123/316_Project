@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-19", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-19", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "links": [
+        {
+          "name": "S5607", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5607"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S5607", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2523-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001288", 
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-09-19", 
+      "state": "NJ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000622", 
+      "district": null, 
+      "name": "Duckworth, Tammy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-09-19", 
+      "state": "IL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001042", 
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-09-19", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-19", 
+  "number": "2523", 
+  "official_title": "A bill to amend section 455(m) of the Higher Education Act of 1965 in order to allow adjunct faculty members to qualify for public service loan forgiveness.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Adjunct Faculty Loan Fairness Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000563", 
+    "district": null, 
+    "name": "Durbin, Richard J.", 
+    "state": "IL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-09-19", 
+  "subjects": [
+    "Education", 
+    "Higher education", 
+    "Student aid and college costs", 
+    "Teaching, teachers, curricula", 
+    "Temporary and part-time employment"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend section 455(m) of the Higher Education Act of 1965 in order to allow adjunct faculty members to qualify for public service loan forgiveness.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Adjunct Faculty Loan Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Adjunct Faculty Loan Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Adjunct Faculty Loan Fairness Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-03T22:30:23Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2523.xml"
+}

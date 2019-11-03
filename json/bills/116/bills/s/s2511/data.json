@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-09-19", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-19", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-10-31", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt945-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "945"
+    }
+  ], 
+  "bill_id": "s2511-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001191", 
+      "district": null, 
+      "name": "Sinema, Kyrsten", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-09-19", 
+      "state": "AZ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-09-19", 
+  "number": "2511", 
+  "official_title": "A bill to amend title 40, United States Code, to provide the Marshal of the Supreme Court of the United States and Supreme Court Police with the authority to protect the Chief Justice of the United States, any Associate Justice of the Supreme Court, and other individuals in any location, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "G000359", 
+    "district": null, 
+    "name": "Graham, Lindsey", 
+    "state": "SC", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-10-31", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 40, United States Code, to provide the Marshal of the Supreme Court of the United States and Supreme Court Police with the authority to protect the Chief Justice of the United States, any Associate Justice of the Supreme Court, and other individuals in any location, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 40, United States Code, to provide the Marshal of the Supreme Court of the United States and Supreme Court Police with the authority to protect the Chief Justice of the United States, any Associate Justice of the Supreme Court, and other individuals in any location, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-11-01T05:04:36Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2511.xml"
+}

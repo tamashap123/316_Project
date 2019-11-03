@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <createDate>2019-03-12T07:12:08Z</createDate>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <actions>
+      <item>
+        <actionDate>2019-04-08</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-08</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2019-03-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-11</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-03-11</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Foundation of the Federal Bar Association Charter Amendments Act of 2019</b> <p>This bill revises the federal charter for the Foundation of the Federal Bar Association.</p> <p>Specifically, it makes the following changes:</p> <ul> <li>eliminates the provision that requires the foundation to be incorporated and domiciled in the District of Columbia;</li> <li>requires the board of directors to decide, and specify in the bylaws, the location of the principal office;</li> <li>specifies that the bylaws&#8212;not the charter&#8212;must provide for the terms of membership, the responsibilities of the board of directors, and the election of officers;</li> <li>prohibits a director or officer, in his or her corporate capacity, from contributing to, supporting, or participating in political activities;</li> <li>allows income and assets of the corporation to be used to reasonably compensate or reimburse expenses of an officer, director, or member; to award a grant to the Federal Bar Association chapter of an officer, director, or member; and to reasonably compensate employees; </li> <li>expands a prohibition on loans for directors and officers to include members and employees; and </li> <li>specifies that on dissolution or final liquidation, any remaining assets must be distributed as provided by the board of directors instead of deposited in the Treasury. </li> </ul>]]></text>
+          <actionDate>2019-03-11</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-06-03T21:48:23Z</lastSummaryUpdateDate>
+          <updateDate>2019-03-11T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <congress>116</congress>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 36, United States Code, to revise the Federal charter for the Foundation of the Federal Bar Association.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Foundation of the Federal Bar Association Charter Amendments Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Foundation of the Federal Bar Association Charter Amendments Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Foundation of the Federal Bar Association Charter Amendments Act of 2019</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Foundation of the Federal Bar Association Charter Amendments Act of 2019</title>
+    <updateDate>2019-08-20T07:42:11Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <firstName>STEVE</firstName>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>OH</state>
+        <party>R</party>
+        <lastName>CHABOT</lastName>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CHABOT:H.R. 1663.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8, clause 18, that the Congress shallhave Power To . . . make all Laws which shall be necessaryand proper for carrying into Execution the foregoing Powersand all other Powers vested by this Constitution in theGovernment of the United States, or in any Department orOfficer thereof.[Page H2647]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2019-03-11</introducedDate>
+    <billNumber>1663</billNumber>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <actionDate>2019-04-08</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-11T16:00:11Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-08T20:48:38Z</date>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+            </item>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-08T20:48:38Z</date>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jamie</firstName>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <bioguideId>R000606</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+        </identifiers>
+        <lastName>Raskin</lastName>
+        <state>MD</state>
+        <sponsorshipDate>2019-03-11</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1663ih/xml/BILLS-116hr1663ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-11T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Federally chartered organizations</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,171 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3229-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001090", 
+      "district": "8", 
+      "name": "Cartwright, Matt", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-12", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000551", 
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-12", 
+      "state": "AZ", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000312", 
+      "district": "2", 
+      "name": "McGovern, James P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-12", 
+      "state": "MA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000607", 
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-12", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000486", 
+      "district": "40", 
+      "name": "Roybal-Allard, Lucille", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-12", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001150", 
+      "district": "28", 
+      "name": "Schiff, Adam B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-12", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-12", 
+  "number": "3229", 
+  "official_title": "To amend the Fair Labor Standards Act of 1938 to prohibit employment of children in tobacco-related agriculture by deeming such employment as oppressive child labor.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1823-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Children Don't Belong on Tobacco Farms Act", 
+  "sponsor": {
+    "bioguide_id": "C001084", 
+    "district": "1", 
+    "name": "Cicilline, David N.", 
+    "state": "RI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-12", 
+  "subjects": [
+    "Drug, alcohol, tobacco use", 
+    "Labor and employment", 
+    "Labor standards", 
+    "Migrant, seasonal, agricultural labor", 
+    "Worker safety and health", 
+    "Youth employment and child labor"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-06-12T04:00:00Z", 
+    "text": "Children Don't Belong on Tobacco Farms Act\n\nThis bill redefines \"oppressive child labor,\" for purposes of child labor prohibitions under the Fair Labor Standards Act of 1938, to include the employment of any employee under age 18 who has direct contact with tobacco plants or dried tobacco leaves."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Fair Labor Standards Act of 1938 to prohibit employment of children in tobacco-related agriculture by deeming such employment as oppressive child labor.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Children Don't Belong on Tobacco Farms Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Children Don\u2019t Belong on Tobacco Farms Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Children Don't Belong on Tobacco Farms Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-10-24T19:00:31Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3229.xml"
+}

@@ -1,0 +1,731 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-17", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-17", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-22", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-06-03", 
+      "action_code": "", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2019-06-03", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "99", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2019-09-11", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "links": [
+        {
+          "name": "S5450-5452", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5450-5452"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S5450-5452", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5450-5452", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2019-09-12T13:02:49-04:00", 
+      "action_code": "H14000", 
+      "references": [], 
+      "text": "Received in the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-12", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-09-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-09-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HLIG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-09-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s178-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Intelligence (Permanent Select)", 
+      "committee_id": "HLIG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001288", 
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-16", 
+      "state": "NJ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001310", 
+      "district": null, 
+      "name": "Braun, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-12", 
+      "state": "IN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000944", 
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-24", 
+      "state": "OH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001047", 
+      "district": null, 
+      "name": "Capito, Shelley Moore", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "WV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C000141", 
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-12", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001070", 
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "PA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001035", 
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-25", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001088", 
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "DE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001056", 
+      "district": null, 
+      "name": "Cornyn, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "TX", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001095", 
+      "district": null, 
+      "name": "Cotton, Tom", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "AR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000618", 
+      "district": null, 
+      "name": "Daines, Steve", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "MT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000563", 
+      "district": null, 
+      "name": "Durbin, Richard J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-28", 
+      "state": "IL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "F000062", 
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-02", 
+      "state": "CA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000562", 
+      "district": null, 
+      "name": "Gardner, Cory", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "CO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000555", 
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "NY", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000386", 
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "IA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001075", 
+      "district": null, 
+      "name": "Harris, Kamala D.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-22", 
+      "state": "CA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001089", 
+      "district": null, 
+      "name": "Hawley, Josh", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-29", 
+      "state": "MO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000024", 
+      "district": null, 
+      "name": "Inhofe, James M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-04", 
+      "state": "OK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "I000055", 
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "GA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000384", 
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "VA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000383", 
+      "district": null, 
+      "name": "King, Angus S., Jr.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "ME", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000367", 
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-18", 
+      "state": "MN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000575", 
+      "district": null, 
+      "name": "Lankford, James", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-18", 
+      "state": "OK", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000174", 
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-13", 
+      "state": "VT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000133", 
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "MA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000639", 
+      "district": null, 
+      "name": "Menendez, Robert", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "NJ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001176", 
+      "district": null, 
+      "name": "Merkley, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "OR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M000934", 
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "KS", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001169", 
+      "district": null, 
+      "name": "Murphy, Christopher", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-15", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001111", 
+      "district": null, 
+      "name": "Murray, Patty", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-20", 
+      "state": "WA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000595", 
+      "district": null, 
+      "name": "Peters, Gary C.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-02-27", 
+      "state": "MI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000122", 
+      "district": null, 
+      "name": "Reed, Jack", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-30", 
+      "state": "RI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000605", 
+      "district": null, 
+      "name": "Rounds, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-10", 
+      "state": "SD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000033", 
+      "district": null, 
+      "name": "Sanders, Bernard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-01", 
+      "state": "VT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001197", 
+      "district": null, 
+      "name": "Sasse, Ben", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-07", 
+      "state": "NE", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000476", 
+      "district": null, 
+      "name": "Tillis, Thom", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-24", 
+      "state": "NC", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000461", 
+      "district": null, 
+      "name": "Toomey, Pat", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-22", 
+      "state": "PA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000128", 
+      "district": null, 
+      "name": "Van Hollen, Chris", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "MD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000805", 
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-08", 
+      "state": "VA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000817", 
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "MA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000802", 
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-18", 
+      "state": "RI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000779", 
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-17", 
+      "state": "OR", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-06-03", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2019-09-11", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-17", 
+  "number": "178", 
+  "official_title": "A bill to condemn gross human rights violations of ethnic Turkic Muslims in Xinjiang, and calling for an end to arbitrary detention, torture, and harassment of these communities inside and outside China.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr649-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Uyghur Human Rights Policy Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "R000595", 
+    "district": null, 
+    "name": "Rubio, Marco", 
+    "state": "FL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:SENATE", 
+  "status_at": "2019-09-11", 
+  "subjects": [
+    "Alliances", 
+    "Asia", 
+    "Business ethics", 
+    "China", 
+    "Congressional oversight", 
+    "Congressional tributes", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of State", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Foreign and international corporations", 
+    "Government information and archives", 
+    "Human rights", 
+    "Human trafficking", 
+    "Industrial facilities", 
+    "Intelligence activities, surveillance, classified information", 
+    "International affairs", 
+    "International exchange and broadcasting", 
+    "International organizations and cooperation", 
+    "Labor standards", 
+    "News media and reporting", 
+    "Racial and ethnic relations", 
+    "Refugees, asylum, displaced persons", 
+    "Religion", 
+    "Sanctions", 
+    "Technology transfer and commercialization", 
+    "Terrorism", 
+    "Trade restrictions", 
+    "United Nations", 
+    "Visas and passports", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Passed Senate", 
+    "date": "2019-09-11T18:00:34Z", 
+    "text": "Uyghur Human Rights Policy Act of 2019 \n\nThis bill directs various U.S. government bodies to prepare reports on China's treatment of the Uyghurs, a predominantly Muslim Turkic ethnic group.\n\nThe Office of the Director of National Intelligence shall report to Congress on issues including the security threats caused by the Chinese government's reported crackdown on the Uyghur population in Xinjiang province, the frequency with which other governments are forcibly returning Turkic Muslim refugees and asylum seekers to China, and the development or transfer of technology that facilitates mass internment and surveillance.\n\nThe Federal Bureau of Investigation shall report on topics such as its efforts to protect ethnic Uyghurs and Chinese nationals in the United States from Chinese government intimidation.\n\nThe U.S. Agency for Global Media shall report on media-related matters, including the reach of U.S. media into Xinjiang, assessments of Chinese propaganda strategies, and U.S. actions to counter such efforts to downplay the crackdown.\n\nThe Department of State shall report (1) on the scope of the reported crackdown in Xinjiang, including the number of detained individuals, the use of forced labor in the region, an assessment of government surveillance in the province, and U.S. diplomatic efforts to address the crackdown; and (2) on whether certain individuals, including the Chinese Communist Party secretary for Xinjiang, meet the criteria for sanctions under the Global Magnitsky Human Rights Accountability Act."
+  }, 
+  "titles": [
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Uyghur Human Rights Policy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Uyghur Human Rights Policy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Uyghur Human Rights Policy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Uyghur Human Rights Policy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Uyghur Human Rights Policy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "Uyghur Human Rights Policy Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to condemn gross human rights violations of ethnic Turkic Muslims in Xinjiang, and calling for an end to arbitrary detention, torture, and harassment of these communities inside and outside China.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Uyghur Human Rights Policy Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-09-24T04:26:18Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s178.xml"
+}

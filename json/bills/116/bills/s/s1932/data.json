@@ -1,0 +1,156 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-18", 
+      "action_code": "", 
+      "committee": "Committee on Energy and Natural Resources Senate Subcommittee on Water and Power", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.", 
+      "type": "hearings"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1932-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG", 
+      "subcommittee": "Subcommittee on Water and Power", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "F000062", 
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-20", 
+      "state": "CA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001197", 
+      "district": null, 
+      "name": "McSally, Martha", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-20", 
+      "state": "AZ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000608", 
+      "district": null, 
+      "name": "Rosen, Jacky", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-29", 
+      "state": "NV", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001191", 
+      "district": null, 
+      "name": "Sinema, Kyrsten", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-20", 
+      "state": "AZ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-18", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-20", 
+  "number": "1932", 
+  "official_title": "A bill to support water infrastructure in Reclamation States, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Drought Resiliency and Water Supply Infrastructure Act", 
+  "sponsor": {
+    "bioguide_id": "G000562", 
+    "district": null, 
+    "name": "Gardner, Cory", 
+    "state": "CO", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-20", 
+  "subjects": [
+    "Water resources development"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to support water infrastructure in Reclamation States, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Drought Resiliency and Water Supply Infrastructure Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Drought Resiliency and Water Supply Infrastructure Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Drought Resiliency and Water Supply Infrastructure Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-30T18:38:16Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s1932.xml"
+}

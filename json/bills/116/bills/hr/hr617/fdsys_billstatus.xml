@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-07-24T16:54:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-01-16T15:04:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-02-08T22:09:08Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-01-16T15:04:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hssy00</systemCode>
+          <chamber>House</chamber>
+          <name>Science, Space, and Technology Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2019-07-24</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <actionTime>15:29:10</actionTime>
+        <actionDate>2019-07-23</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7179-7180)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7179-7180</url>
+            <name>H7179-7180</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <actionTime>15:29:08</actionTime>
+        <actionDate>2019-07-23</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7179-7180)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7179-7180</url>
+            <name>H7179-7180</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <actionTime>15:29:08</actionTime>
+        <actionDate>2019-07-23</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 617.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/617</url>
+            <name>H.R. 617</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <actionTime>15:15:50</actionTime>
+        <actionDate>2019-07-23</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H7179-7181)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H7179-7181</url>
+            <name>H7179-7181</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <actionTime>15:15:49</actionTime>
+        <actionDate>2019-07-23</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>Ms. Johnson (TX) moved to suspend the rules and pass the bill, as amended.</text>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <actionTime>15:15:30</actionTime>
+        <actionDate>2019-07-23</actionDate>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-02-08</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-01-16</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-01-16</actionDate>
+        <committee>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-16</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-16</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <billReferrals>2</billReferrals>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>To authorize the Department of Energy to conduct collaborative research with the Department of Veterans Affairs in order to improve healthcare services for veterans in the United States, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Department of Energy Veterans' Health Initiative Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Department of Energy Veterans' Health Initiative Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Department of Energy Veterans' Health Initiative Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Department of Energy Veterans’ Health Initiative Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <title>Department of Energy Veterans’ Health Initiative Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NORMAN:H.R. 617.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18The Congress shall have Power To make all Laws which shallbe necessary and proper for carrying into Execution theforegoign Powers, and all othe rPowers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H677]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr617rfs/xml/BILLS-116hr617rfs.xml</url>
+          </item>
+        </formats>
+        <type>Referred in Senate</type>
+        <date>2019-07-24T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr617eh/xml/BILLS-116hr617eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2019-07-23T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr617ih/xml/BILLS-116hr617ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-16T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <firstName>Ralph</firstName>
+        <bioguideId>N000190</bioguideId>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+          <lisID>2361</lisID>
+        </identifiers>
+        <middleName />
+        <district>5</district>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <party>R</party>
+        <state>SC</state>
+        <lastName>Norman</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-01-17T08:10:12Z</createDate>
+    <title>Department of Energy Veterans' Health Initiative Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-01-16</actionDate>
+          <lastSummaryUpdateDate>2019-02-13T20:55:24Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-16T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Department of Energy Veterans' Health Initiative Act</b></p> <p> This bill directs the Department of Energy (DOE) to establish a research program in artificial intelligence and high-performance computing that is focused on the development of tools to (1) solve big data challenges associated with veterans' health care, and (2) support the Department of Veterans Affairs in identifying potential health risks and challenges. </p> <p> DOE shall carry out a pilot program to develop tools for big data analytics in order to advance artificial intelligence technologies to solve complex big data challenges. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <billType>HR</billType>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2019-07-24</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <firstName>WALTER</firstName>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <lastName>JONES</lastName>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+        </identifiers>
+        <bioguideId>J000255</bioguideId>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Gus</firstName>
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <lastName>Bilirakis</lastName>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <bioguideId>B001257</bioguideId>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Roger</firstName>
+        <state>KS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>W.</middleName>
+        <lastName>Marshall</lastName>
+        <identifiers>
+          <lisID>2328</lisID>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001198</bioguideId>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Randy</firstName>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <lastName>Weber</lastName>
+        <identifiers>
+          <lisID>2161</lisID>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <bioguideId>W000814</bioguideId>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <lastName>Gosar</lastName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <bioguideId>G000565</bioguideId>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Daniel</firstName>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>William</middleName>
+        <lastName>Lipinski</lastName>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <bioguideId>L000563</bioguideId>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Markwayne</firstName>
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Mullin</lastName>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <gpoId />
+          <lisID>2156</lisID>
+        </identifiers>
+        <bioguideId>M001190</bioguideId>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Steven</firstName>
+        <state>KS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <lastName>Watkins</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000824</bioguideId>
+          <lisID>2402</lisID>
+        </identifiers>
+        <bioguideId>W000824</bioguideId>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Watkins, Steven C., Jr. [R-KS-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>FRANK</firstName>
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <lastName>LUCAS</lastName>
+        <identifiers>
+          <lisID>711</lisID>
+          <bioguideId>L000491</bioguideId>
+          <gpoId>8111</gpoId>
+        </identifiers>
+        <bioguideId>L000491</bioguideId>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Johnson</lastName>
+        <identifiers>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <bioguideId>J000292</bioguideId>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Meadows</lastName>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+          <lisID>2142</lisID>
+        </identifiers>
+        <bioguideId>M001187</bioguideId>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Debbie</firstName>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>Lesko</lastName>
+        <identifiers>
+          <lisID>2368</lisID>
+          <bioguideId>L000589</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>L000589</bioguideId>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Collins</lastName>
+        <identifiers>
+          <lisID>2151</lisID>
+          <bioguideId>C001092</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001092</bioguideId>
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Guy</firstName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Reschenthaler</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2436</lisID>
+          <bioguideId>R000610</bioguideId>
+        </identifiers>
+        <bioguideId>R000610</bioguideId>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Gallagher</lastName>
+        <identifiers>
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>G000579</bioguideId>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <lastName>Baird</lastName>
+        <identifiers>
+          <lisID>2400</lisID>
+          <bioguideId>B001307</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001307</bioguideId>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <fullName>Rep. Baird, James R. [R-IN-4]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Anthony</firstName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Gonzalez</lastName>
+        <identifiers>
+          <bioguideId>G000588</bioguideId>
+          <gpoId />
+          <lisID>2430</lisID>
+        </identifiers>
+        <bioguideId>G000588</bioguideId>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <fullName>Rep. Gonzalez, Anthony [R-OH-16]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Joe</firstName>
+        <state>SC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Wilson</lastName>
+        <identifiers>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+          <lisID>1688</lisID>
+        </identifiers>
+        <bioguideId>W000795</bioguideId>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-19</sponsorshipDate>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>William</firstName>
+        <state>SC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <lastName>Timmons</lastName>
+        <identifiers>
+          <lisID>2438</lisID>
+          <bioguideId>T000480</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000480</bioguideId>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <fullName>Rep. Timmons, William R. IV [R-SC-4]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Neal</firstName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <lastName>Dunn</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2315</lisID>
+          <bioguideId>D000628</bioguideId>
+        </identifiers>
+        <bioguideId>D000628</bioguideId>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Posey</lastName>
+        <identifiers>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <bioguideId>P000599</bioguideId>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Jenniffer</firstName>
+        <state>PR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Gonzalez-Colon</lastName>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+          <gpoId />
+          <lisID>2347</lisID>
+        </identifiers>
+        <bioguideId>G000582</bioguideId>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Pete</firstName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Olson</lastName>
+        <identifiers>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+        </identifiers>
+        <bioguideId>O000168</bioguideId>
+        <district>22</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Andy</firstName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Biggs</lastName>
+        <identifiers>
+          <lisID>2307</lisID>
+          <gpoId />
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <bioguideId>B001302</bioguideId>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Troy</firstName>
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Balderson</lastName>
+        <identifiers>
+          <lisID>2370</lisID>
+          <bioguideId>B001306</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001306</bioguideId>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Babin</lastName>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+          <lisID>2270</lisID>
+        </identifiers>
+        <bioguideId>B001291</bioguideId>
+        <district>36</district>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <updateDate>2019-08-31T07:15:55Z</updateDate>
+    <recordedVotes />
+    <introducedDate>2019-01-16</introducedDate>
+    <billNumber>617</billNumber>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-08-16</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.</text>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>143</number>
+        <congress>116</congress>
+        <latestTitle>Department of Energy Veterans' Health Initiative Act</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

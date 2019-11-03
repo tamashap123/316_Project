@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>116</congress>
+    <relatedBills />
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S923-924</url>
+            <name>S923-924</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S923-924)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Original measure reported to Senate by Senator Johnson. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <text>Committee on Homeland Security and Governmental Affairs. Original measure reported to Senate by Senator Johnson. Without written report.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-06</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres49is/xml/BILLS-116sres49is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billNumber>49</billNumber>
+    <committeeReports />
+    <amendments />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <identifiers>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <lastName>Johnson</lastName>
+        <firstName>Ron</firstName>
+        <party>R</party>
+        <state>WI</state>
+        <bioguideId>J000293</bioguideId>
+      </item>
+    </sponsors>
+    <notes />
+    <introducedDate>2019-02-06</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Homeland Security and Governmental Affairs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-06T19:24:19Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2019-02-06T19:24:01Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2019-02-07T06:10:14Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Homeland Security and Governmental Affairs for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-02-15T23:27:45Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-06</actionDate>
+          <updateDate>2019-02-06T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate</actionDesc>
+          <name>Reported to Senate</name>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Homeland Security and Governmental Affairs for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-02-15T23:27:27Z</lastSummaryUpdateDate>
+          <versionCode>25</versionCode>
+          <actionDate>2019-02-06</actionDate>
+          <updateDate>2019-02-06T14:48:51Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-04-11T15:42:26Z</updateDate>
+    <laws />
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S923-924)</text>
+      <actionDate>2019-02-06</actionDate>
+      <links />
+    </latestAction>
+    <billType>SRES</billType>
+    <title>An original resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.</title>
+    <calendarNumbers />
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

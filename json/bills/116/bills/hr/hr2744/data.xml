@@ -1,0 +1,83 @@
+<bill session="116" type="h" number="2744" updated="2019-08-16T10:26:18Z">
+  <state datetime="2019-07-15T19:01:51-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2019-07-15T19:01:51-04:00"/>
+  </status>
+  <introduced datetime="2019-05-15"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the Administrator of the United States Agency for International Development to prescribe the manner in which programs of the agency are identified overseas, and for other purposes.</title>
+    <title type="short" as="passed house">USAID Branding Modernization Act</title>
+    <title type="short" as="passed house">USAID Branding Modernization Act</title>
+    <title type="short" as="introduced">USAID Branding Modernization Act</title>
+    <title type="short" as="introduced">USAID Branding Modernization Act</title>
+    <title type="display">USAID Branding Modernization Act</title>
+  </titles>
+  <sponsor bioguide_id="M001157"/>
+  <cosponsors>
+    <cosponsor bioguide_id="E000179" joined="2019-05-15"/>
+    <cosponsor bioguide_id="G000591" joined="2019-05-21"/>
+    <cosponsor bioguide_id="S000344" joined="2019-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-05-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2019-05-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2019-05-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <calendar datetime="2019-05-22">
+      <text>Committee Agreed to Seek Consideration Under Suspension of the Rules.</text>
+    </calendar>
+    <action datetime="2019-07-15T14:59:56-04:00">
+      <text>Mr. Engel moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2019-07-15T15:00:06-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5786-5787" label="consideration"/>
+    </action>
+    <action datetime="2019-07-15T15:00:07-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2744.</text>
+    </action>
+    <action datetime="2019-07-15T15:05:37-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2019-07-15T18:30:58-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5812-5813" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="475" datetime="2019-07-15T19:01:51-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 1 (Roll no. 475).</text>
+      <reference ref="CR H5786" label="text"/>
+    </vote>
+    <action datetime="2019-07-15T19:01:52-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2019-07-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="identical" number="2691"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Marketing and advertising"/>
+    <term name="National symbols"/>
+    <term name="U.S. Agency for International Development (USAID)"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

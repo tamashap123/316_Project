@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>3277</billNumber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionDate>2019-06-13</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-06-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-06-13</actionDate>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <introducedDate>2019-06-13</introducedDate>
+    <recordedVotes />
+    <title>To improve the leasing projects of the Department of Veterans Affairs, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <lastName>Kilmer</lastName>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000381</bioguideId>
+        <district>6</district>
+        <state>WA</state>
+        <party>D</party>
+        <firstName>Derek</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <updateDate>2019-09-25T16:18:40Z</updateDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <firstName>Gus</firstName>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <bioguideId>B001257</bioguideId>
+        <district>12</district>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bilirakis</lastName>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <gpoId>7881</gpoId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <bioguideId>R000609</bioguideId>
+        <district>4</district>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rutherford</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName>H.</middleName>
+      </item>
+      <item>
+        <firstName>Daniel</firstName>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <bioguideId>W000806</bioguideId>
+        <district>11</district>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Webster</lastName>
+        <identifiers>
+          <bioguideId>W000806</bioguideId>
+          <gpoId>7880</gpoId>
+          <lisID>2002</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Ann</firstName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <bioguideId>K000382</bioguideId>
+        <district>2</district>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kuster</lastName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>M.</middleName>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-07-16T20:38:41Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-13T13:05:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <createDate>2019-06-14T07:12:12Z</createDate>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>2745</number>
+        <latestTitle>Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2020</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 40.</text>
+          <actionDate>2019-05-15</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>3055</number>
+        <latestTitle>Commerce, Justice, Science, Agriculture, Rural Development, Food and Drug Administration, Interior, Environment, Military Construction, Veterans Affairs, Transportation, and Housing and Urban Development Appropriations Act, 2020</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 141.</text>
+          <actionDate>2019-07-10</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To improve the leasing projects of the Department of Veterans Affairs, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>To improve the leasing projects of the Department of Veterans Affairs, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2019-07-16</actionDate>
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 99 (Thursday, June 13, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. KILMER:H.R. 3277.Congress has the power to enact this legislation pursuantto the following:Congress has the power to enact this legislation pursuantto the following: Article I, Section 8 of the United StatesConstitution.[Page H4696]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <textVersions>
+      <item>
+        <date>2019-06-13T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3277ih/xml/BILLS-116hr3277ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

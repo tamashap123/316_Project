@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-26T14:12:28-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.497", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/497"
+        }, 
+        {
+          "name": "Roll no. 417", 
+          "url": "http://clerk.house.gov/evs/2019/roll417.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 417, 
+      "text": "On agreeing to the Banks amendment (A014) Failed by recorded vote: 141 - 285 (Roll no. 417).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-06-26T13:00:51-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.497", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/497"
+        }, 
+        {
+          "name": "H5185", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5185"
+        }, 
+        {
+          "name": "H5185-5186", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5185-5186"
+        }, 
+        {
+          "name": "H5190-5191", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5190-5191"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5185-5186, H5190-5191", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5185", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A014) offered by Mr. Banks.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-26", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-26T14:12:28-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.497", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/497"
+        }, 
+        {
+          "name": "Roll no. 417", 
+          "url": "http://clerk.house.gov/evs/2019/roll417.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Banks amendment (A014) Failed by recorded vote: 141 - 285 (Roll no. 417).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-26T14:12:28-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.497", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/497"
+        }, 
+        {
+          "name": "Roll no. 417", 
+          "url": "http://clerk.house.gov/evs/2019/roll417.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-26T14:12:28-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.497", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/497"
+        }, 
+        {
+          "name": "Roll no. 417", 
+          "url": "http://clerk.house.gov/evs/2019/roll417.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-26T13:00:51-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.497", 
+          "url": "https://www.congress.gov/amendment/116th-congress/house-amendment/497"
+        }, 
+        {
+          "name": "H5185", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5185"
+        }, 
+        {
+          "name": "H5185-5186", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5185-5186"
+        }, 
+        {
+          "name": "H5190-5191", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/house-section/page/H5190-5191"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment offered/reported by: Amendment (A014) offered by Mr. Banks.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-26", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt497-116", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3351-116", 
+    "bill_type": "hr", 
+    "congress": 116, 
+    "number": 3351
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "116", 
+  "description": "At the end of the bill (before the short title), insert the following:    TITLE IX--ADDITIONAL PROVISION    SEC. 901. Each amount appropriated or otherwise made available by this Act (including titles IV and VIII), except those amounts made available to the Department of Defense, that is not required to be appropriated or otherwise made available by a provision of law is hereby reduced by 14 percent.", 
+  "introduced_at": "2019-06-26", 
+  "number": 497, 
+  "purpose": "An amendment numbered 19 printed in Part B of House Report 116-126 to decrease spending for each amount made available by this bill, except amounts made available to the Department of Defense, by 14 percent.", 
+  "sponsor": {
+    "bioguide_id": "B001299", 
+    "district": "3", 
+    "name": "Banks, Jim", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2019-06-26T14:12:28-04:00", 
+  "updated_at": "2019-07-06T03:41:16Z"
+}

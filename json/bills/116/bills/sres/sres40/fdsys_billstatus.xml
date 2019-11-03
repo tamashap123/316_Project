@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S869)</text>
+      <links />
+      <actionDate>2019-02-05</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>1</reportedToSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S869</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S869</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S869)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Finance. Original measure reported to Senate by Senator Grassley. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <actionCode>14000</actionCode>
+        <text>Committee on Finance. Original measure reported to Senate by Senator Grassley. Without written report.</text>
+        <type>Committee</type>
+        <actionDate>2019-02-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-05T17:09:50Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2019-02-05T17:09:17Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>SRES</billType>
+    <createDate>2019-02-06T06:10:14Z</createDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres40is/xml/BILLS-116sres40is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Finance for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-02-14T23:32:07Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-05</actionDate>
+          <updateDate>2019-02-05T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate</actionDesc>
+          <name>Reported to Senate</name>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Finance for the 116th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2019-02-14T23:32:00Z</lastSummaryUpdateDate>
+          <versionCode>25</versionCode>
+          <actionDate>2019-02-05</actionDate>
+          <updateDate>2019-02-05T13:39:29Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2019-02-05</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Finance</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-04-11T15:42:25Z</updateDate>
+    <cosponsors />
+    <amendments />
+    <laws />
+    <titles>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Finance.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Finance.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <relatedBills />
+    <committeeReports />
+    <title>An original resolution authorizing expenditures by the Committee on Finance.</title>
+    <originChamber>Senate</originChamber>
+    <billNumber>40</billNumber>
+    <sponsors>
+      <item>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <bioguideId>G000386</bioguideId>
+        <state>IA</state>
+        <middleName>ERNEST</middleName>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>CHARLES</firstName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-05", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-05", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3109-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001248", 
+      "district": "26", 
+      "name": "Burgess, Michael C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-05", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-05", 
+  "number": "3109", 
+  "official_title": "To provide grants to better understand and reduce gestational diabetes, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "GEDI Act", 
+  "sponsor": {
+    "bioguide_id": "E000179", 
+    "district": "16", 
+    "name": "Engel, Eliot L.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-05", 
+  "subjects": [
+    "Advisory bodies", 
+    "Digestive and metabolic diseases", 
+    "Health", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Sex and reproductive health", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide grants to better understand and reduce gestational diabetes, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "GEDI Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "GEDI Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Gestational Diabetes Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Gestational Diabetes Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "GEDI Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-30T13:38:05Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3109.xml"
+}

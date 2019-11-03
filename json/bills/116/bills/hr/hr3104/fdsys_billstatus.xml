@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <links />
+        <actionDate>2019-06-05</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-06-05</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-06-05</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <updateDate>2019-10-17T07:16:42Z</updateDate>
+    <version>1.0.0</version>
+    <billNumber>3104</billNumber>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>Fortenberry</lastName>
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1793</lisID>
+          <gpoId>8038</gpoId>
+          <bioguideId>F000449</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <bioguideId>F000449</bioguideId>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NE</state>
+        <district>1</district>
+      </item>
+      <item>
+        <lastName>Schneider</lastName>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>Scott</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001190</bioguideId>
+          <gpoId />
+          <lisID>2124</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <bioguideId>S001190</bioguideId>
+        <firstName>Bradley</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <district>10</district>
+      </item>
+      <item>
+        <lastName>Estes</lastName>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000298</bioguideId>
+          <lisID>2358</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <bioguideId>E000298</bioguideId>
+        <firstName>Ron</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KS</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>PRICE</lastName>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000523</bioguideId>
+          <lisID>930</lisID>
+          <gpoId>8027</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <bioguideId>P000523</bioguideId>
+        <firstName>DAVID</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Riggleman</lastName>
+        <fullName>Rep. Riggleman, Denver [R-VA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000611</bioguideId>
+          <gpoId />
+          <lisID>2454</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <bioguideId>R000611</bioguideId>
+        <firstName>Denver</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Raskin</lastName>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <bioguideId>R000606</bioguideId>
+        <firstName>Jamie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Graves</lastName>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId>7906</gpoId>
+          <bioguideId>G000560</bioguideId>
+          <lisID>1979</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <bioguideId>G000560</bioguideId>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <district>14</district>
+      </item>
+      <item>
+        <lastName>Wasserman Schultz</lastName>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+          <lisID>1777</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <bioguideId>W000797</bioguideId>
+        <firstName>Debbie</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <district>23</district>
+      </item>
+      <item>
+        <lastName>Bacon</lastName>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <lisID>2337</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <bioguideId>B001298</bioguideId>
+        <firstName>Don</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NE</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Moolenaar</lastName>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001194</bioguideId>
+          <lisID>2248</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <bioguideId>M001194</bioguideId>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Meng</lastName>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <bioguideId>M001188</bioguideId>
+        <firstName>Grace</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>6</district>
+      </item>
+      <item>
+        <lastName>Timmons</lastName>
+        <fullName>Rep. Timmons, William R. IV [R-SC-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2438</lisID>
+          <bioguideId>T000480</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <bioguideId>T000480</bioguideId>
+        <firstName>William</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SC</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>RYAN</lastName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-07-23</sponsorshipDate>
+        <bioguideId>R000577</bioguideId>
+        <firstName>TIM</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <district>13</district>
+      </item>
+      <item>
+        <lastName>Phillips</lastName>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000616</bioguideId>
+          <gpoId />
+          <lisID>2413</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-08-13</sponsorshipDate>
+        <bioguideId>P000616</bioguideId>
+        <firstName>Dean</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Smith</lastName>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001172</bioguideId>
+          <gpoId>8040</gpoId>
+          <lisID>1860</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-08-13</sponsorshipDate>
+        <bioguideId>S001172</bioguideId>
+        <firstName>Adrian</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NE</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Wagner</lastName>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+          <lisID>2137</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-08-16</sponsorshipDate>
+        <bioguideId>W000812</bioguideId>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Suozzi</lastName>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+          <gpoId />
+          <lisID>2341</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-08-16</sponsorshipDate>
+        <bioguideId>S001201</bioguideId>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>Krishnamoorthi</lastName>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000391</bioguideId>
+          <lisID>2325</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-09-09</sponsorshipDate>
+        <bioguideId>K000391</bioguideId>
+        <firstName>Raja</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Balderson</lastName>
+        <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001306</bioguideId>
+          <lisID>2370</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-09</sponsorshipDate>
+        <bioguideId>B001306</bioguideId>
+        <firstName>Troy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <district>12</district>
+      </item>
+      <item>
+        <lastName>Hudson</lastName>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001067</bioguideId>
+          <lisID>2140</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <bioguideId>H001067</bioguideId>
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Rice</lastName>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2262</lisID>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-09-24</sponsorshipDate>
+        <bioguideId>R000602</bioguideId>
+        <firstName>Kathleen</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>Slotkin</lastName>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2407</lisID>
+          <gpoId />
+          <bioguideId>S001208</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-10-15</sponsorshipDate>
+        <bioguideId>S001208</bioguideId>
+        <firstName>Elissa</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <district>8</district>
+      </item>
+      <item>
+        <lastName>Stanton</lastName>
+        <fullName>Rep. Stanton, Greg [D-AZ-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2376</lisID>
+          <gpoId />
+          <bioguideId>S001211</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-10-15</sponsorshipDate>
+        <bioguideId>S001211</bioguideId>
+        <firstName>Greg</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <district>9</district>
+      </item>
+      <item>
+        <lastName>Frankel</lastName>
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>F000462</bioguideId>
+          <gpoId />
+          <lisID>2119</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-10-16</sponsorshipDate>
+        <bioguideId>F000462</bioguideId>
+        <firstName>Lois</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <district>21</district>
+      </item>
+      <item>
+        <lastName>Hill</lastName>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>French</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2223</lisID>
+          <gpoId />
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-10-16</sponsorshipDate>
+        <bioguideId>H001072</bioguideId>
+        <firstName>J.</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AR</state>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3104ih/xml/BILLS-116hr3104ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-05T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. LOWEY:H.R. 3104.Congress has the power to enact this legislation pursuantto the following:Article 1[Page H4343]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2019-06-06T07:12:07Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>LOWEY</lastName>
+        <bioguideId>L000480</bioguideId>
+        <district>17</district>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <state>NY</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000480</bioguideId>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <byRequestType />
+        <firstName>NITA</firstName>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2019-06-05</actionDate>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Arab-Israeli relations</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Palestinians</name>
+          </item>
+          <item>
+            <name>Political movements and philosophies</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To establish the Partnership Fund for Peace to promote joint economic development and finance ventures between Palestinian entrepreneurs and companies and those in the United States and Israel to improve economic cooperation and people-to-people peacebuilding programs, and to further shared community building, peaceful coexistence, dialogue, and reconciliation between Israelis and Palestinians.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Partnership Fund for Peace Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Partnership Fund for Peace Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Partnership Fund for Peace Act of 2019</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <amendments />
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-06-05</actionDate>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        </latestAction>
+        <number>1727</number>
+        <latestTitle>Partnership Fund for Peace Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-05T13:01:25Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-06-05</introducedDate>
+    <calendarNumbers />
+    <title>Partnership Fund for Peace Act of 2019</title>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

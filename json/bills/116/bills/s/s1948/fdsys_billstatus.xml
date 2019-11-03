@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <bioguideId>C000174</bioguideId>
+        <middleName>R.</middleName>
+        <firstName>THOMAS</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DE</state>
+        <party>D</party>
+        <lastName>CARPER</lastName>
+        <identifiers>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+          <lisID>179</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-24</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4458-4459</url>
+            <name>S4458-4459</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (text: CR S4458-4459)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-06-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance. (text: CR S4458-4459)</text>
+      <actionDate>2019-06-24</actionDate>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <updateDate>2019-07-16T03:51:49Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-24T22:45:23Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <textVersions>
+      <item>
+        <date>2019-06-24T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1948is/xml/BILLS-116s1948is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>Chronic Disease Management Act of 2019</title>
+    <introducedDate>2019-06-24</introducedDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to permit high-deductible health plans to provide chronic disease prevention services to plan enrollees prior to satisfying their plan deductible.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Chronic Disease Management Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Chronic Disease Management Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Chronic Disease Management Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <notes />
+    <amendments />
+    <billType>S</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <billNumber>1948</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2019-06-25T04:27:14Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-06-24T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-06-24</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-07-08T21:00:14Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Chronic Disease Management Act of 2019</b></p> <p>This bill amends the Internal Revenue Code, with respect to health savings accounts (HSAs), to allow the high deductible health plans required for an HSA to provide care for chronic conditions with no deductible. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <lastName>THUNE</lastName>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+        </identifiers>
+        <middleName>R.</middleName>
+        <bioguideId>T000250</bioguideId>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

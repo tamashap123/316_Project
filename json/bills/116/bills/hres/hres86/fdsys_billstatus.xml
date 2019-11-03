@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>HRES</billType>
+    <actions>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/105</url>
+            <name>H. Res. 105</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/86</url>
+            <name>H. Res. 86</name>
+          </link>
+        </links>
+        <text>Pursuant to the provisions of H. Res. 105, H. Res. 86 is considered passed House.</text>
+        <type>Floor</type>
+        <actionTime>14:46:20</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H1B000</actionCode>
+        <actionDate>2019-02-07</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/105</url>
+            <name>H. Res. 105</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/86</url>
+            <name>H. Res. 86</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: Pursuant to the provisions of H. Res. 105, H. Res. 86 is considered passed House.</text>
+        <type>Floor</type>
+        <actionTime>14:46:20</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>8000</actionCode>
+        <actionDate>2019-02-07</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/105</url>
+            <name>H. Res. 105</name>
+          </link>
+        </links>
+        <text>Rule H. Res. 105 passed House.</text>
+        <type>Floor</type>
+        <actionTime>14:46:16</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H1L220</actionCode>
+        <actionDate>2019-02-07</actionDate>
+      </item>
+      <item>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/105</url>
+            <name>H. Res. 105</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-resolution/86</url>
+            <name>H. Res. 86</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/840</url>
+            <name>H.R. 840</name>
+          </link>
+        </links>
+        <text>Rules Committee Resolution H. Res. 105 Reported to House. Rule provides for consideration of H.R. 840 and H. Res. 86. Rule provides for consideration of H.R. 840 under a structured rule. Rule provides that H. Res. 86 is adopted. Rule also provides for consideration of motions to suspend the rules through the legislative day of February 15, 2019.</text>
+        <type>Floor</type>
+        <actionTime>16:39:43</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H1L210</actionCode>
+        <actionDate>2019-02-06</actionDate>
+      </item>
+      <item>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on House Administration.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-01-29</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-29</actionDate>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-01-29</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <virtualAction>1</virtualAction>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-01-29</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-29T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-11T22:26:09Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution provides amounts for the expenses of the Select Committee on the Climate Crisis and the Select Committee on the Modernization of Congress. These amounts shall be made available beginning at noon on January 1, 2019, and ending on March 31, 2019.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <actionDate>2019-02-07</actionDate>
+          <versionCode>53</versionCode>
+          <updateDate>2019-02-07T19:46:20Z</updateDate>
+          <lastSummaryUpdateDate>2019-02-11T22:26:18Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution provides amounts for the expenses of the Select Committee on the Climate Crisis and the Select Committee on the Modernization of Congress. These amounts shall be made available beginning at noon on January 1, 2019, and ending on March 31, 2019.</p>]]></text>
+          <actionDesc>Passed House</actionDesc>
+          <name>Passed House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-01-29T15:04:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <committeeReports />
+    <createDate>2019-01-30T08:10:15Z</createDate>
+    <version>1.0.0</version>
+    <billNumber>86</billNumber>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HRES</type>
+        <latestTitle>Providing for consideration of the bill (H.R. 840) to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide child care assistance to veterans receiving certain medical services provided by the Department of Veterans Affairs; providing for the adoption of the resolution (H. Res. 86) providing amounts for the expenses of the Select Committee on the Climate Crisis and the Select Committee on the Modernization of Congress; and providing for consideration of motions to suspend the rules.</latestTitle>
+        <latestAction>
+          <actionTime>14:46:18</actionTime>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionDate>2019-02-07</actionDate>
+        </latestAction>
+        <number>105</number>
+      </item>
+    </relatedBills>
+    <cosponsors />
+    <latestAction>
+      <actionDate>2019-02-07</actionDate>
+      <text>Pursuant to the provisions of H. Res. 105, H. Res. 86 is considered passed House.</text>
+      <links />
+      <actionTime>14:46:20</actionTime>
+    </latestAction>
+    <introducedDate>2019-01-29</introducedDate>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-02-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres86eh/xml/BILLS-116hres86eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-29T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres86ih/xml/BILLS-116hres86ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <updateDate>2019-07-30T12:59:04Z</updateDate>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Providing amounts for the expenses of the Select Committee on the Climate Crisis and the Select Committee on the Modernization of Congress.</title>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <amendments />
+    <titles>
+      <item>
+        <title>Providing amounts for the expenses of the Select Committee on the Climate Crisis and the Select Committee on the Modernization of Congress.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Providing amounts for the expenses of the Select Committee on the Climate Crisis and the Select Committee on the Modernization of Congress.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <firstName>ZOE</firstName>
+        <middleName />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <district>19</district>
+        <bioguideId>L000397</bioguideId>
+        <lastName>LOFGREN</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

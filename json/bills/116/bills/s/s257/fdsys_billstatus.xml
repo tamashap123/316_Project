@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>9</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-28</actionDate>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionTime>15:32:51</actionTime>
+        <actionDate>2019-06-28</actionDate>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-06-28</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4652-4664</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4652-4664</url>
+          </link>
+          <link>
+            <name>S4662-4663</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4662-4663</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4662-4663)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S4652-4664</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4652-4664</url>
+          </link>
+          <link>
+            <name>S4662-4663</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4662-4663</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4662-4663)</text>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-28</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-03-28</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 116-21</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/21</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-21.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-28</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>report No. 116-21</name>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/21</url>
+          </link>
+        </links>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-21.</text>
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Tribal HUD-VASH Act of 2019</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Financial Services.</text>
+          <actionDate>2019-05-23</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <number>2999</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billNumber>257</billNumber>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>H001061</bioguideId>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hoeven</lastName>
+        <state>ND</state>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>U000039</bioguideId>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>UDALL</lastName>
+        <state>NM</state>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <firstName>TOM</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>I000055</bioguideId>
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Isakson</lastName>
+        <state>GA</state>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <identifiers>
+          <gpoId>8323</gpoId>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+        </identifiers>
+        <firstName>Johnny</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C000127</bioguideId>
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CANTWELL</lastName>
+        <state>WA</state>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+        </identifiers>
+        <firstName>MARIA</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>D000618</bioguideId>
+        <sponsorshipDate>2019-02-05</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Daines</lastName>
+        <state>MT</state>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Warren</lastName>
+        <state>MA</state>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>C001096</bioguideId>
+        <sponsorshipDate>2019-02-12</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <identifiers>
+          <lisID>2144</lisID>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <firstName>Kevin</firstName>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>S001198</bioguideId>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Sullivan</lastName>
+        <state>AK</state>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Dan</firstName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S001203</bioguideId>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Smith</lastName>
+        <state>MN</state>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2365</lisID>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <firstName>Tina</firstName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-06-28T04:00:00Z</date>
+        <type>Referred in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s257rfh/xml/BILLS-116s257rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-06-27T04:00:00Z</date>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s257es/xml/BILLS-116s257es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-03-28T04:00:00Z</date>
+        <type>Reported to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s257rs/xml/BILLS-116s257rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-01-29T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s257is/xml/BILLS-116s257is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-21</citation>
+      </committeeReport>
+    </committeeReports>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Armed Forces and National Security</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2019-01-30T05:40:17Z</createDate>
+    <calendarNumbers>
+      <item>
+        <number>0049</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-28T20:06:48Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsba00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Other</type>
+          <name>Indian Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-03-28T16:17:31Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-02-06T19:30:36Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-29T19:38:53Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>slia00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <bioguideId>T000464</bioguideId>
+        <party>D</party>
+        <lastName>Tester</lastName>
+        <byRequestType />
+        <firstName>Jon</firstName>
+        <state>MT</state>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <amendments />
+    <congress>116</congress>
+    <latestAction>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+      <actionDate>2019-06-28</actionDate>
+    </latestAction>
+    <title>Tribal HUD-VASH Act of 2019</title>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>S. 257, Tribal HUD-VASH Act of 2019</title>
+        <url>https://www.cbo.gov/publication/55043</url>
+        <pubDate>2019-03-18T20:28:35Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <version>1.0.0</version>
+    <updateDate>2019-08-16T10:34:49Z</updateDate>
+    <introducedDate>2019-01-29</introducedDate>
+    <titles>
+      <item>
+        <title>A bill to provide for rental assistance for homeless or at-risk Indian veterans, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Tribal HUD-VASH Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Tribal HUD-VASH Act of 2019</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Tribal HUD-VASH Act of 2019</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Tribal HUD-VASH Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Tribal HUD–VASH Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Tribal HUD–VASH Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Tribal HUD–VASH Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <recordedVotes />
+    <billType>S</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
