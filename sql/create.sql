@@ -1,5 +1,5 @@
 CREATE TABLE Congressman
-(id INTEGER NOT NULL PRIMARY KEY,
+(id VARCHAR(15) NOT NULL PRIMARY KEY,
  name VARCHAR(256) NOT NULL,
  house_or_senate VARCHAR(5) NOT NULL,
  state VARCHAR(2) NOT NULL,
@@ -13,31 +13,33 @@ CREATE TABLE Congressman
  CHECK(district IS NOT NULL OR house_or_senate = 'sen'));
 
 CREATE TABLE Bill
-(type CHAR(1) NOT NULL,
+(type VARCHAR(2) NOT NULL,
  num INTEGER NOT NULL,
  cong_year INTEGER NOT NULL,
  enacted BOOLEAN NOT NULL,
- summary VARCHAR(1000) NOT NULL,
+ summary VARCHAR(10000) NOT NULL,
  category VARCHAR(256) NOT NULL,
  introduction_date DATE NOT NULL,
- PRIMARY KEY(type, num),
- CHECK(type in ('H','S')),
- CHECK(cong_year < 116));
+ PRIMARY KEY(type, num, cong_year),
+ CHECK(type in ('hr','s')),
+ CHECK(cong_year <= 116));
 
 CREATE TABLE SponsoredBy
-(bill_type CHAR(1) NOT NULL,
+(bill_type VARCHAR(2) NOT NULL,
  bill_num INTEGER NOT NULL,
- rep_id INTEGER NOT NULL REFERENCES Congressman(id),
- PRIMARY KEY(bill_type, bill_num, rep_id),
- FOREIGN KEY(bill_type, bill_num) REFERENCES Bill(type, num));
+ cong_year INTEGER NOT NULL,
+ rep_id VARCHAR(15) NOT NULL REFERENCES Congressman(id),
+ PRIMARY KEY(bill_type, bill_num, cong_year, rep_id),
+ FOREIGN KEY(bill_type, bill_num, cong_year) REFERENCES Bill(type, num, cong_year));
 
 CREATE TABLE Vote
-(rep_id INTEGER NOT NULL REFERENCES Congressman(id),
- bill_type CHAR(1) NOT NULL,
+(rep_id VARCHAR(15) NOT NULL REFERENCES Congressman(id),
+ bill_type VARCHAR(2) NOT NULL,
  bill_num INTEGER NOT NULL,
+ cong_year INTEGER NOT NULL,
  decision VARCHAR(10) NOT NULL,
- PRIMARY KEY(rep_id, bill_type, bill_num),
- FOREIGN KEY(bill_type, bill_num) REFERENCES Bill(type, num),
+ PRIMARY KEY(rep_id, bill_type, bill_num, cong_year),
+ FOREIGN KEY(bill_type, bill_num, cong_year) REFERENCES Bill(type, num, cong_year),
  CHECK(decision in ('Aye', 'Nay', 'Abstain')));
 
 CREATE TABLE RegisteredUser
@@ -48,7 +50,7 @@ CREATE TABLE RegisteredUser
 
 CREATE TABLE RepresentedBy
 (email VARCHAR(256) NOT NULL REFERENCES RegisteredUser(email),
- rep_id INTEGER NOT NULL REFERENCES Congressman(id),
+ rep_id VARCHAR(15) NOT NULL REFERENCES Congressman(id),
  PRIMARY KEY(email, rep_id));
 
 CREATE FUNCTION F_Get_Representatives() RETURNS TRIGGER AS $$

@@ -5,7 +5,7 @@ def main(filename, filename2):
 	with open(filename) as json_file:
 		data = json.load(json_file)
 		for p in data:
-			_id = p["id"]["govtrack"]
+			_id = p["id"]["bioguide"]
 			name = p["name"]["official_full"]
 			currterm = p["terms"][-1]
 			_type = currterm["type"]
@@ -26,7 +26,7 @@ def main(filename, filename2):
 
 def toSQLInsert(_id, name, _type, state, district, party, phone, address, contact_form):
 	s = "INSERT INTO Congressman VALUES("
-	s += str(_id) + ", "
+	s += "'" + _id + "', "
 	s += "'" + name + "', " 
 	s += "'" + _type + "', "
 	s += "'" + state + "', "
