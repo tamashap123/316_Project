@@ -70,6 +70,16 @@ from app import db
 #                     primary_key=True)
 #     times_a_week = db.Column('times_a_week', db.Integer())
 
+class Bill(db.Model):
+    __tablename__ = 'bill'
+    type = db.Column('type', db.String(2), primary_key=True)
+    num = db.Column('num', db.INTEGER(), primary_key=True)
+    cong_year = db.Column('cong_year', db.INTEGER(), primary_key=True)
+    enacted = db.Column('enacted', db.BOOLEAN())
+    summary = db.Column('summary', db.String(100000))
+    category = db.Column('category', db.String(256))
+    introduction_date = db.Column('introduction_date', db.DATE())
+
 
 #String vs String?
 class Congressman(db.Model):
