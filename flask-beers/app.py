@@ -8,24 +8,27 @@ app.secret_key = 's3cr3t'
 app.config.from_object('config')
 db = SQLAlchemy(app, session_options={'autocommit': False})
 
-# @app.route('/')
-# def all_congressman():
-#     cman = db.session.query(models.Congressman).all()
-#     return render_template('all-congressman.html', allcongressman=cman)
-
-# @app.route('/congressperson/<name>')
-# def congressperson(name):
-#     cperson = db.session.query(models.Congressman)\
-#         .filter(models.Congressman.name == name).one()
-#     return render_template('congressperson.html', congressperson=cperson)
-
-
 @app.route('/')
+def homepage():
+    return render_template('homepage.html')
+
+@app.route('/homepage/all-congressman')
+def all_congressman():
+    cman = db.session.query(models.Congressman).all()
+    return render_template('all-congressman.html', allcongressman=cman)
+
+@app.route('/homepage/congressperson/<name>')
+def congressperson(name):
+    cperson = db.session.query(models.Congressman)\
+        .filter(models.Congressman.name == name).one()
+    return render_template('congressperson.html', congressperson=cperson)
+
+@app.route('/homepage/all-bill/')
 def all_bill():
     bill = db.session.query(models.Bill).all()
     return render_template('all-bill.html', allbill=bill)
 
-@app.route('/bills/<num>')
+@app.route('/homepage/bills/<num>')
 def bills(num):
     bnum = db.session.query(models.Bill)\
         .filter(models.Bill.num == num).one()

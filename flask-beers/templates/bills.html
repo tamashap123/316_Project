@@ -1,6 +1,14 @@
 {% extends 'layout.html' %}
 {% block heading %}Bill Information: {{bills.num}}{% endblock %}
 {% block content %}
-<p>Name: {{bills.num}}</p>
 
+<p>Enacted: {{bills.enacted}}</p>
+
+<p>Summary: {{bills.summary}}</p>
+
+<p>Category: {{bills.category}}</p>
+
+<p>Introduction Date: {{bills.introduction_date}}</p>
+
+<p>Year in Congress: {{bills.cong_year}}</p>
 {% endblock %}
