@@ -70,3 +70,13 @@ BEGIN
 	);
 	RETURN NEW;
 END;
+
+
+class Bill(db.Model):
+    __tablename__ = 'bill'
+    type = db.Column('type', db.String(2)),
+    num = db.Column('num', db.Integer()),
+    party = db.Column('party', db.String(15)),
+    phone = db.Column('phone', db.String(15)),
+    address = db.Column('address', db.String(256)),
+    contact_form = db.Column('contact_form', db.String(256))

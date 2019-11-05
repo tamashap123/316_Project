@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+{% block heading %}All Congressman{% endblock %}
+{% block content %}
+<ul>
+  {% for congressperson in allcongressman %}
+
+  <li><a href="{{url_for('congressperson', name=congressperson.name)}}">{{congressperson.name}}</a></li>
+  {% endfor %}
+</ul>
+<hr/>
+
+{% endblock %}

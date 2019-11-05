@@ -70,17 +70,24 @@ from app import db
 #                     primary_key=True)
 #     times_a_week = db.Column('times_a_week', db.Integer())
 
+
+#String vs String?
 class Congressman(db.Model):
     __tablename__ = 'congressman'
-    id = db.Column('id', db.VARCHAR(15),
+    id = db.Column('id', db.String(15),
                     primary_key=True)
-    name = db.Column('name', db.String(256)),
-    house_or_senate = db.Column('house_or_senate', db.VARCHAR(5)),
-    state = db.Column('state', db.VARCHAR(2)),
-    district = db.Column('district', db.Integer()),
-    party = db.Column('party', db.VARCHAR(15)),
-    phone = db.Column('phone', db.VARCHAR(15)),
-    address = db.Column('address', db.VARCHAR(256)),
-    contact_form = db.Column('contact_form', db.VARCHAR(256))
+    name = db.Column('name', db.String(256))
+    house_or_senate = db.Column('house_or_senate', db.String(5))
+    state = db.Column('state', db.String(2))
+    district = db.Column('district', db.Integer())
+    party = db.Column('party', db.String(15))
+    phone = db.Column('phone', db.String(15))
+    address = db.Column('address', db.String(256))
+    contact_form = db.Column('contact_form', db.String(256))
+
+
+
+
+
 
 

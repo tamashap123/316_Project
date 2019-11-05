@@ -11,13 +11,13 @@ db = SQLAlchemy(app, session_options={'autocommit': False})
 @app.route('/')
 def all_congressman():
     cman = db.session.query(models.Congressman).all()
-    return render_template('all-drinkers.html', drinkers=cman)
+    return render_template('all-congressman.html', allcongressman=cman)
 
-@app.route('/drinker/<name>')
-def drinker(name):
-    drinker = db.session.query(models.Drinker)\
-        .filter(models.Drinker.name == name).one()
-    return render_template('drinker.html', drinker=drinker)
+@app.route('/congressperson/<name>')
+def congressperson(name):
+    cperson = db.session.query(models.Congressman)\
+        .filter(models.Congressman.name == name).one()
+    return render_template('congressperson.html', congressperson=cperson)
 
 @app.route('/edit-drinker/<name>', methods=['GET', 'POST'])
 def edit_drinker(name):
