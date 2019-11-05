@@ -1,0 +1,7 @@
+{% extends 'layout.html' %}
+{% block heading %}Learn more about a congressman or a bill!{% endblock %}
+{% block content %}
+<li><a href = "{{url_for('all_congressman')}}">Congressman</a></li>
+
+<li><a href = "{{url_for('all_bill')}}">Bill</a></li>
+{% endblock %}
