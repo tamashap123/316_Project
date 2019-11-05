@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+{% block heading %}All Bills{% endblock %}
+{% block content %}
+<ul>
+  {% for b in allbill %}
+
+  <li><a href="{{url_for('bills', name=b.num)}}">{{b.num}}</a></li>
+  {% endfor %}
+</ul>
+<hr/>
+<p>{{allbill|length}} bill{{bills|length|pluralize}}
+  found in the database.</p>
+
+{% endblock %}
