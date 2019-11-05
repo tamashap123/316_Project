@@ -4,7 +4,7 @@
 <ul>
   {% for b in allbill %}
 
-  <li><a href="{{url_for('bills', name=b.num)}}">{{b.num}}</a></li>
+  <li><a href="{{url_for('bills', num=b.num)}}">{{b.num}}</a></li>
   {% endfor %}
 </ul>
 <hr/>
