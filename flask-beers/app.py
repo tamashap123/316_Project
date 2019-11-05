@@ -27,12 +27,12 @@ def congressperson(name):
 def all_bill():
     bill = db.session.query(models.Bill).all()
     return render_template('all-bill.html', allbill=bill)
-
-@app.route('/homepage/bills/<num>')
-def bills(num):
+#
+@app.route('/homepage/bills/<num>/<type>/<cong_year>')
+def bills(num, type, cong_year):
     bnum = db.session.query(models.Bill)\
-        .filter(models.Bill.num == num).one()
-    return render_template('bills.html', bills=bnum) 
+        .filter(models.Bill.num == num, models.Bill.type ==type, models.Bill.cong_year == cong_year).one()
+    return render_template('bills.html', bills=bnum)
 
 
 @app.route('/edit-drinker/<name>', methods=['GET', 'POST'])
