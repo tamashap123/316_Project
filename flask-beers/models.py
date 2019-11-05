@@ -62,7 +62,7 @@ class RegisteredUser(db.Model):
     state = db.Column('state', db.String(2))
     district = db.Column('district', db.Integer())
 
-class RepresentedBy
+class RepresentedBy(db.Model):
     __tablename__ = 'representedby'
     email = db.Column('email', db.String(256), 
                     db.ForeignKey('registereduser.email'),
