@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+{% block heading %}All Drinkers{% endblock %}
+{% block content %}
+<ul>
+  {% for congress_man in congressman %}
+  <li><a href="{{url_for('congress_man', name=congressman.name)}}">{{congress_man.name}}</a></li>
+  {% endfor %}
+</ul>
+<hr/>
+<p>{{drinkers|length}} drinker{{drinkers|length|pluralize}}
+  found in the database.</p>
+{% endblock %}

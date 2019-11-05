@@ -1,5 +1,5 @@
 from flask import Flask, render_template, redirect, url_for
-#from flask_sqlalchemy import SQLAlchemy
+from flask_sqlalchemy import SQLAlchemy
 import models
 import forms
 
@@ -9,9 +9,9 @@ app.config.from_object('config')
 db = SQLAlchemy(app, session_options={'autocommit': False})
 
 @app.route('/')
-def all_drinkers():
-    drinkers = db.session.query(models.Drinker).all()
-    return render_template('all-drinkers.html', drinkers=drinkers)
+def all_congressman():
+    cman = db.session.query(models.Congressman).all()
+    return render_template('all-drinkers.html', drinkers=cman)
 
 @app.route('/drinker/<name>')
 def drinker(name):
