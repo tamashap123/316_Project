@@ -1,0 +1,42 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="user-registration">
+  <div class="page-header">
+    <h2>Please Register Your New Account</h2>
+  </div>
+
+  
+<form action="{{url_for('register')}}", method = "post">
+{{form.csrf_token}}
+
+    <div class="form-group">
+        <p>Name: {{form.name}}  </p>
+          
+    </div>
+            
+    <div class="form-group">
+        <p>Email: {{form.email}} </p>
+           
+    </div>
+    <div class="form-group">
+        <p>Password: {{form.password}}</p>
+        
+    </div>
+
+    <div class="form-group">
+        <p>State:{{form.state}}    </p>
+          
+    </div>
+    <div class="form-group">
+        <p>District: {{form.district}}</p>    
+     </div>
+
+    <input type="submit" value="Submit"/>
+    <!-- <button class="btn btn-sm btn-success" type="submit" value = "Submit">Create New Account </button> -->
+     <!-- <p>Create New Account: {{form.submit()}}</p> -->
+</form>
+
+
+
+{% endblock %}

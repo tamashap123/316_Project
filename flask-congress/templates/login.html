@@ -1,0 +1,27 @@
+{% extends 'layout.html' %}
+
+
+{% block content %}
+ 
+<div class="user-registration">
+  <div class="page-header">
+    <h2>Log In</h2>
+  </div>
+
+    <form action="{{ url_for('login') }}" method="post">
+            <p>Email: </p>
+            {{form.email(class_='form-control')}}    
+        </div>
+        <div class="form-group">
+            <p>Password: </p>
+            {{form.password(class_='form-control')}}
+        </div>
+    
+        <button class="btn btn-sm btn-success" type="submit">Create New Account</button>
+    
+  </form>
+  <em>Need an account? </em><a href="register">Signup!!</a>
+</div>
+ 
+{% endblock %}
+

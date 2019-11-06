@@ -1,4 +1,5 @@
 from sqlalchemy import sql, orm
+from sqlalchemy.ext.hybrid import hybrid_method
 from app import db
 
 class Bill(db.Model):
@@ -10,7 +11,6 @@ class Bill(db.Model):
     summary = db.Column('summary', db.String(100000))
     category = db.Column('category', db.String(256))
     introduction_date = db.Column('introduction_date', db.DATE())
-
 
 #String vs String?
 class Congressman(db.Model):
@@ -58,9 +58,48 @@ class Vote(db.Model):
 class RegisteredUser(db.Model):
     __tablename__ = 'registereduser'
     email = db.Column('email', db.String(256), primary_key = True)
+    # password = db.Column('password', db.String(256))
     name = db.Column('name', db.String(256))
     state = db.Column('state', db.String(2))
     district = db.Column('district', db.Integer())
+
+    @staticmethod
+    def create(name, email, state, district):
+        try: 
+            # db.session.execute(registereduser.insert(), [{"email": email, "name": name, "state": state, "district": district}])
+            db.session.execute("insert into registereduser values(:email, :name, :state, :district)", dict(email = email, name = name, state = state, district = district))
+            db.session.commit()
+        except Exception as e:
+            db.session.rollback()
+            raise e
+
+    # @hybrid_method
+    # def is_correct_password(self, plaintext_password):
+    #     return self.password_plaintext == plaintext_password
+ 
+    # @property
+    # def is_authenticated(self):
+    #     """Return True if the user is authenticated."""
+    #     return self.authenticated
+ 
+    # @property
+    # def is_active(self):
+    #     """Always True, as all users are active."""
+    #     return True
+ 
+    # @property
+    # def is_anonymous(self):
+    #     """Always False, as anonymous users aren't supported."""
+    #     return False
+ 
+    # def get_id(self):
+    #     """Return the email address to satisfy Flask-Login's requirements."""
+    #     """Requires use of Python 3"""
+    #     return str(self.id)
+    
+    def __repr__(self):
+        return '<User {0}>'.format(self.name)
+    
 
 class RepresentedBy(db.Model):
     __tablename__ = 'representedby'
