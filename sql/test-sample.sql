@@ -7,7 +7,7 @@ UPDATE RegisteredUser SET district=3 WHERE email='johndoe@gmail.com';
 SELECT * FROM Bill WHERE category='Health';
 
 -- 3. Display reprensentatives/senators for the user.
--- NOTE: A senator covers an entire state, regardless of the user's specific district. A house representative covers a sepcific district within a state.
+-- NOTE: A senator covers an entire state, regardless of the user's specific district, whereas a house representative only covers a sepcific district within a state.
 SELECT rep_id FROM RepresentedBy WHERE email='janejohnson@gmail.com';
 SELECT rep_id FROM RepresentedBy WHERE email='xiaomingwang@gmail.com';
 
