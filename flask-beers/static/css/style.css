@@ -4,3 +4,21 @@ body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
+html {
+    min-height: 100%; /* or whatever your desired height is */
+    height: 100%; /* or whatever your desired height is */
+    min-width: 100%; /* or whatever your desired width is */
+    width: 100%; /* or whatever your desired width is */
+  }
+  
+  #background {
+    background-image:url(/static/img/flag.jpg);
+    background-size: 100%;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 0; /* To make sur it's below the rest */
+  }
