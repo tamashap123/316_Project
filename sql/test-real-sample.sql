@@ -26,9 +26,6 @@ and c.name='Kamala D. Harris';
 
 -- 4.b. Display all sponsorships by searching a partial name of a reprensentative (allowing vague search).
 -- ! Inputs from user: representative name
-INSERT INTO Congressman VALUES('H001099', 'Jane Harris Doe', 'sen', 'CA', NULL, 'Democrat', '202-124-3553', 'Somewhere else', 'https://www.jdharris.senate.gov/contact');
-INSERT INTO SponsoredBy VALUES('hr', 2217, 113, 'H001099');
-
 SELECT c.name, b.type, b.num, b.cong_year, b.enacted, b.summary, b.category, b.introduction_date FROM SponsoredBy s, Congressman c, Bill b
 WHERE s.rep_id=c.id and s.bill_type = b.type and s.bill_num = b.num and s.cong_year = b.cong_year
 and c.name like '%Harris%';
@@ -41,9 +38,6 @@ and c.name='G. K. Butterfield';
 
 -- 5.b. Display all votes by searching a partial name of a reprensentative (allowing vague search).
 -- ! Inputs from user: representative name
-INSERT INTO Congressman VALUES('H021299', 'Butterfield Harris Doe', 'sen', 'CA', NULL, 'Democrat', '202-124-3553', 'Somewhere else', 'https://www.jdharris.senate.gov/contact');
-INSERT INTO Vote VALUES('H021299', 'hr', 2217, 113, 'Abstain');
-
 SELECT c.name, b.type, b.num, b.cong_year, b.summary, b.category, v.decision FROM Vote v, Congressman c, Bill b
 WHERE v.rep_id=c.id and v.bill_type = b.type and v.bill_num = b.num and v.cong_year = b.cong_year
 and c.name like '%Butterfield%';
@@ -54,9 +48,14 @@ SELECT c.name FROM Vote v, Congressman c
 WHERE v.rep_id=c.id and 
 v.bill_type='hr' and v.bill_num=2217 and v.cong_year=113 and v.decision='Yea';
 
--- 7. Display count of votes on bills casted by representatives (house and senate) representing a user.
+-- 7. Display all votes casted on bills by representatives (house and senate) representing a user.
 -- ! Inputs/Implied from user: email
+SELECT v.bill_type, v.bill_num, v.cong_year, c.name, v.decision FROM Vote v, Congressman c
+WHERE v.rep_id in (SELECT rep_id FROM RepresentedBy WHERE email='xiaomingwang@gmail.com') and v.rep_id=c.id
+ORDER BY v.bill_type, v.bill_num, v.cong_year, v.decision DESC, c.name;
 
+-- 8.a. Tally the number of yeas/nays/abstains on bills casted by representatives (house and senate) representing a user.
+-- ! Inputs/Implied from user: email
 SELECT v.bill_type, v.bill_num, v.cong_year, 
 	sum(case when v.decision = 'Yea' then 1 else 0 end) AS YeaCount,
 	sum(case when v.decision = 'Nay' then 1 else 0 end) AS NayCount,
@@ -65,3 +64,14 @@ FROM Vote v
 WHERE v.rep_id in (SELECT rep_id FROM RepresentedBy WHERE email='xiaomingwang@gmail.com')
 GROUP BY v.bill_type, v.bill_num, v.cong_year;
 
+-- 8.b. Tally the numbers of yeas/nays/abstains on a certain bill across the years.
+-- ! Inputs/Implied from user: bill type, bill num, vote status
+SELECT max(b.category) as category, v.cong_year, b.enacted, 
+	sum(case when v.decision = 'Yea' then 1 else 0 end) AS YeaCount,
+	sum(case when v.decision = 'Nay' then 1 else 0 end) AS NayCount,
+	sum(case when v.decision = 'Abstain' then 1 else 0 end) AS AbstainCount,
+	max(b.summary) as summary, max(b.introduction_date) as introduction_date
+FROM Vote v, Bill b
+WHERE b.type=v.bill_type and b.num=v.bill_num and v.cong_year=b.cong_year and
+v.bill_type='hr' and v.bill_num=2217 
+GROUP BY v.cong_year, b.enacted;
