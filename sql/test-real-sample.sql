@@ -1,4 +1,4 @@
--- SQL queries on real sample for milestone 3.
+-- SQL queries on real sample for milestone .
 -- Note: "! Inputs from user" are the user inputs received from the front-end interactions.
 
 
@@ -31,3 +31,16 @@ INSERT INTO SponsoredBy VALUES('hr', 2217, 113, 'H001099');
 SELECT c.name, b.type, b.num, b.cong_year, b.enacted, b.summary, b.category, b.introduction_date FROM SponsoredBy s, Congressman c, Bill b
 WHERE s.rep_id=c.id and s.bill_type = b.type and s.bill_num = b.num and s.cong_year = b.cong_year
 and c.name like '%Harris%';
+
+-- 5.a. Display all votes by searching the exact full name of a representative (using a dropdown menu/autofill).
+SELECT b.type, b.num, b.cong_year, b.summary, b.category, v.decision FROM Vote v, Congressman c, Bill b
+WHERE v.rep_id=c.id and v.bill_type = b.type and v.bill_num = b.num and v.cong_year = b.cong_year
+and c.name='G. K. Butterfield';
+
+-- 5.b. Display all votes by searching a partial name of a reprensentative (allowing vague search).
+INSERT INTO Congressman VALUES('H021299', 'Butterfield Harris Doe', 'sen', 'CA', NULL, 'Democrat', '202-124-3553', 'Somewhere else', 'https://www.jdharris.senate.gov/contact');
+INSERT INTO Vote VALUES('H021299', 'hr', 2217, 113, 'Abstain');
+
+SELECT c.name, b.type, b.num, b.cong_year, b.summary, b.category, v.decision FROM Vote v, Congressman c, Bill b
+WHERE v.rep_id=c.id and v.bill_type = b.type and v.bill_num = b.num and v.cong_year = b.cong_year
+and c.name like '%Butterfield%';
