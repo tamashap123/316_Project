@@ -20,14 +20,14 @@ WHERE r.rep_id=c.id and
 email='xiaomingwang@gmail.com'
 ORDER BY c.house_or_senate;
 
--- 4.a. Display all sponsorships by searching the exact full name of a reprensentative (using a dropdown menu/autofill).
+-- 4.a. Display all sponsorships by searching the exact full name of a representative (using a dropdown menu/autofill).
 -- ! Inputs from user: representative name
 SELECT b.type, b.num, b.cong_year, b.enacted, b.summary, b.category, b.introduction_date FROM SponsoredBy s, Congressman c, Bill b
 WHERE s.rep_id=c.id and s.bill_type = b.type and s.bill_num = b.num and s.cong_year = b.cong_year
 and c.name='Kamala D. Harris'
 ORDER BY b.type, b.num, b.cong_year;
 
--- 4.b. Display all sponsorships by searching a partial name of a reprensentative (allowing vague search).
+-- 4.b. Display all sponsorships by searching a partial name of a representative (allowing vague search).
 -- ! Inputs from user: representative name
 SELECT c.name, b.type, b.num, b.cong_year, b.enacted, b.summary, b.category, b.introduction_date FROM SponsoredBy s, Congressman c, Bill b
 WHERE s.rep_id=c.id and s.bill_type = b.type and s.bill_num = b.num and s.cong_year = b.cong_year
@@ -41,7 +41,7 @@ WHERE v.rep_id=c.id and v.bill_type = b.type and v.bill_num = b.num and v.cong_y
 and c.name='G. K. Butterfield'
 ORDER BY b.type, b.num, b.cong_year;
 
--- 5.b. Display all votes by searching a partial name of a reprensentative (allowing vague search).
+-- 5.b. Display all votes by searching a partial name of a representative (allowing vague search).
 -- ! Inputs from user: representative name
 SELECT c.name, b.type, b.num, b.cong_year, b.summary, b.category, v.decision FROM Vote v, Congressman c, Bill b
 WHERE v.rep_id=c.id and v.bill_type = b.type and v.bill_num = b.num and v.cong_year = b.cong_year
@@ -91,7 +91,7 @@ SELECT * FROM Bill b
 WHERE introduction_date>DATE(CAST('2010-03-23' AS VARCHAR))
 ORDER BY b.type, b.num, b.cong_year;
 
--- 11. Dispaly contact info of a selected representative.
+-- 11. Display contact info of a selected representative.
 -- ! Inputs from user: full name selected from dropdown menu (+ state)
 SELECT phone, address, contact_form from Congressman
 where name='Charles E. Schumer' and state='NY';
