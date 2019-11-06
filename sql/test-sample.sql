@@ -1,3 +1,4 @@
+-- SQL queries on toy sample for milestone 2.
 -- 1. Users register themselves. If logging in with email, they can change personal information. 
 INSERT INTO RegisteredUser VALUES('janejohnson@gmail.com', 'Jane Johnson', 'CA', 1);
 INSERT INTO RegisteredUser VALUES('xiaomingwang@gmail.com', 'Xiaoming Wang', 'NC', 1);

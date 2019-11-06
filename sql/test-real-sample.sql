@@ -1,4 +1,6 @@
+-- SQL queries on real sample for milestone 3.
 -- Note: "! Inputs from user" are the user inputs received from the front-end interactions.
+
 
 -- 1. Users register themselves. If logging in with email, they can change personal information. 
 -- ! Inputs from user: email, name, state, district
