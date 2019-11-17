@@ -10,5 +10,5 @@
 <p>Within the course VM, navigate to the <code>sql</code> directory. Then, issue the following commands to (re)create the database named <code>congress</code> and populate it with the real data:<br>
 <code>dropdb congress; createdb congress; psql congress -qf create.sql; psql congress -qf load-production-congresspeople.sql; psql congress -qf load-production-bills.sql; psql congress -qf load-production-votes.sql</code>
 <br>
-Note that some of the <code>INSERT</code> statements will result in errors since there were some discrepancies between congressmen data and voting data. 
+Note that some of the <code>INSERT</code> statements will result in errors since there were some discrepancies between congressmen data and voting data (due to more recent resignations, deaths, etc.). 
 </p>
