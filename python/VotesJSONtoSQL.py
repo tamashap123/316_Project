@@ -1,6 +1,8 @@
 import json
 import os
+seen = set([])
 def processFile(fname):
+	global seen
 	ret = []
 	with open(fname) as json_file:
 		data = json.load(json_file)
@@ -26,10 +28,13 @@ def processFile(fname):
 				else:
 					decision = x
 			for p in data["votes"][x]:
-				ret.append(voteINSERT(p['id'], _type, bill_num, 116, decision))
+				if (p['id'], _type, bill_num, 116) not in seen:
+					ret.append(voteINSERT(p['id'], _type, bill_num, 116, decision))
+					seen.add((p['id'], _type, bill_num, 116))
+				else:
+					ret.append(voteUPDATE(p['id'], _type, bill_num, 116, decision))
 		return ret
 
-		
 def voteINSERT(rep_id, bill_type, bill_num, cong_year, decision):
 	s = "INSERT INTO Vote VALUES("
 	s += "'" + rep_id + "', "
@@ -40,6 +45,16 @@ def voteINSERT(rep_id, bill_type, bill_num, cong_year, decision):
 	s += ";"
 	return s
 
+def voteUPDATE(rep_id, bill_type, bill_num, cong_year, decision):
+	s = "UPDATE Vote SET "
+	s += "decision = " + "'" + decision + "' "
+	s += "WHERE "
+	s += "rep_id = " + "'" + rep_id + "' AND "
+	s += "bill_type = " + "'" + bill_type + "' AND "
+	s += "bill_num = " + str(bill_num) + " AND "
+	s += "cong_year = " + str(cong_year)
+	s += ";"
+	return s
 
 def main(fname):
 	f = open(fname, 'w')
