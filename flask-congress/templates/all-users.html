@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+{% block heading %}All Users{% endblock %}
+{% block content %}
+<ul>
+  {% for user in alluser %}
+
+  <li><a href="{{url_for('all_users', name=user.name)}}">{{user.name}}</a></li>
+  {% endfor %}
+</ul>
+<hr/>
+<p>{{alluser|length}} user{{alluser|length|pluralize}}
+  found in the database.</p>
+
+{% endblock %}

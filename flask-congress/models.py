@@ -67,7 +67,8 @@ class RegisteredUser(db.Model):
     def create(name, email, state, district):
         try: 
             # db.session.execute(registereduser.insert(), [{"email": email, "name": name, "state": state, "district": district}])
-            db.session.execute("insert into registereduser values(:email, :name, :state, :district)", dict(email = email, name = name, state = state, district = district))
+            # db.session.execute("insert into registereduser values(:email, :name, :state, :district)", dict(email = email, name = name, state = state, district = district))
+            db.session.execute("insert into registereduser values(" + "'" + email + "', " + "'" + name + "', " + "'" + state + "', " + str(district) + ")")
             db.session.commit()
         except Exception as e:
             db.session.rollback()

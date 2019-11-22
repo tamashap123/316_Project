@@ -37,9 +37,9 @@ def register():
             form.errors.pop('database', None)
             models.RegisteredUser.create(form.name.data, form.email.data, form.state.data, form.district.data)
             flash('Thanks for registering!', 'success')
-            return redirect(url_for('homepage'))
-        except IntegrityError:
-            session.rollback()
+            return redirect(url_for('/'))
+        except:
+            # session.rollback
             flash('ERROR! Email ({}) already exists.'.format(form.email.data), 'error')
     return render_template('register.html', form=form)
 
@@ -79,6 +79,11 @@ def logout():
 def all_congressman():
     cman = db.session.query(models.Congressman).all()
     return render_template('all-congressman.html', allcongressman=cman)
+
+@app.route('/homepage/all-users')
+def all_users():
+    cuser = db.session.query(models.RegisteredUser).all()
+    return render_template('all-users.html', alluser=cuser)
 
 @app.route('/homepage/congressperson/<name>')
 def congressperson(name):
