@@ -75,7 +75,9 @@ def logout():
 @app.route("/update", methods = ['GET', 'POST'])
 def update_user():
     user = current_user
-    form = forms.UpdateForm()
+    states = sorted(set([x[0] for x in db.session.query(models.Congressman.state).all()]))
+    states = [(x,x) for x in states]
+    form = forms.UpdateForm.form(states)
     if request.method == 'POST':
         current_user.update(form.name.data, form.password.data, form.state.data, form.district.data)
         flash("Information successfully updated, {}.".format(current_user.name), 'success')

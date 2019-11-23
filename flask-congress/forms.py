@@ -23,9 +23,12 @@ class LoginForm(FlaskForm):
     submit = SubmitField("Login")
 
 
-class UpdateForm(FlaskForm):
-    name = StringField('Name', validators = [])
-    password = PasswordField('Password', validators = [])
-    state = StringField('State', validators = [])
-    district = IntegerField('District', validators = [])
-    submit = SubmitField('Submit')
+class UpdateForm():
+    def form(lstStates):
+        class F(FlaskForm):
+            name = StringField('Name', validators = [])
+            password = PasswordField('Password', validators = [])
+            state = SelectField('State', choices = lstStates)
+            district = IntegerField('District', validators = [])
+            submit = SubmitField('Submit')
+        return F()
