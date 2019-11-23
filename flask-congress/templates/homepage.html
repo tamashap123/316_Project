@@ -1,6 +1,15 @@
 {% extends 'layout.html' %}
 {% block heading %}Learn more about a congressman or a bill!{% endblock %}
 {% block content %}
+{% with messages = get_flashed_messages() %}
+         {% if messages %}
+            <ul>
+               {% for message in messages %}
+               <li>{{ message }}</li>
+               {% endfor %}
+            </ul>
+         {% endif %}
+      {% endwith %}
 <li><a href = "{{url_for('all_congressman')}}">Congressman</a></li>
 
 <li><a href = "{{url_for('all_bill')}}">Bill</a></li>
