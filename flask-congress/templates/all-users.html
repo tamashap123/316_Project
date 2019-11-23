@@ -4,7 +4,7 @@
 <ul>
   {% for user in alluser %}
 
-  <li><a href="{{url_for('all_users', name=user.name)}}">{{user.name}}</a></li>
+  <li><a href="{{url_for('user', email=user.email)}}">{{user.email}}</a></li>
   {% endfor %}
 </ul>
 <hr/>
