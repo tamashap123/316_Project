@@ -24,11 +24,11 @@ class LoginForm(FlaskForm):
 
 
 class UpdateForm():
-    def form(lstStates):
+    def form(lstStates, paststate):
         class F(FlaskForm):
             name = StringField('Name', validators = [])
             password = PasswordField('Password', validators = [])
-            state = SelectField('State', choices = lstStates)
+            state = SelectField('State', choices = lstStates, default = paststate)
             district = IntegerField('District', validators = [])
             submit = SubmitField('Submit')
         return F()
