@@ -29,7 +29,9 @@ def homepage():
 @app.route('/register', methods = ['GET', 'POST'])
 def register():
     registereduser = db.session.query(models.RegisteredUser).all()
-    form = forms.RegisterForm.form()
+    states = sorted(set([x[0] for x in db.session.query(models.Congressman.state).all()]))
+    states = [(x,x) for x in states]
+    form = forms.RegisterForm.form(states)
     if form.validate_on_submit():
         try:
             form.errors.pop('database', None)
@@ -81,6 +83,8 @@ def update_user():
 
     return render_template('update-userinfo.html', form=form)
 
+
+
 @app.route('/homepage/all-congressman')
 def all_congressman():
     cman = db.session.query(models.Congressman).all()
@@ -92,11 +96,16 @@ def all_users():
     cuser = db.session.query(models.RegisteredUser).all()
     return render_template('all-users.html', alluser=cuser)
 
-@app.route('/homepage/congressperson/<name>')
-def congressperson(name):
+@app.route('/homepage/congressperson/<id>')
+def congressperson(id):
     cperson = db.session.query(models.Congressman)\
-        .filter(models.Congressman.name == name).one()
+        .filter(models.Congressman.id == id).one()
     return render_template('congressperson.html', congressperson=cperson)
+
+@app.route('/homepage/user/<email>')
+def user(email):
+    cuser = db.session.query(models.RegisteredUser).filter(models.RegisteredUser.email == email).one()
+    return render_template('user.html', user = cuser)
 
 @app.route('/homepage/all-bill/')
 def all_bill():
