@@ -58,44 +58,43 @@ class Vote(db.Model):
 class RegisteredUser(db.Model):
     __tablename__ = 'registereduser'
     email = db.Column('email', db.String(256), primary_key = True)
-    # password = db.Column('password', db.String(256))
+    password = db.Column('password', db.String(256))
     name = db.Column('name', db.String(256))
     state = db.Column('state', db.String(2))
     district = db.Column('district', db.Integer())
+    authenticated = False
 
     @staticmethod
-    def create(name, email, state, district):
+    def create(name, email, password, state, district):
         try: 
-            # db.session.execute(registereduser.insert(), [{"email": email, "name": name, "state": state, "district": district}])
-            db.session.execute("insert into registereduser values(:email, :name, :state, :district)", dict(email = email, name = name, state = state, district = district))
-            db.session.commit()
+            db.session.execute("insert into registereduser values(" + "'" + email + "', " +"'" + password + "', " + "'" + name + "', " + "'" + state + "', " + str(district) + ")")
         except Exception as e:
             db.session.rollback()
             raise e
 
-    # @hybrid_method
-    # def is_correct_password(self, plaintext_password):
-    #     return self.password_plaintext == plaintext_password
+    @hybrid_method
+    def is_correct_password(self, plaintext_password):
+        return self.password == plaintext_password
  
-    # @property
-    # def is_authenticated(self):
-    #     """Return True if the user is authenticated."""
-    #     return self.authenticated
+    @property
+    def is_authenticated(self):
+        """Return True if the user is authenticated."""
+        return self.authenticated
  
-    # @property
-    # def is_active(self):
-    #     """Always True, as all users are active."""
-    #     return True
+    @property
+    def is_active(self):
+        """Always True, as all users are active."""
+        return True
  
-    # @property
-    # def is_anonymous(self):
-    #     """Always False, as anonymous users aren't supported."""
-    #     return False
+    @property
+    def is_anonymous(self):
+        """Always False, as anonymous users aren't supported."""
+        return False
  
-    # def get_id(self):
-    #     """Return the email address to satisfy Flask-Login's requirements."""
-    #     """Requires use of Python 3"""
-    #     return str(self.id)
+    def get_id(self):
+        """Return the email address to satisfy Flask-Login's requirements."""
+        """Requires use of Python 3"""
+        return str(self.email)
     
     def __repr__(self):
         return '<User {0}>'.format(self.name)

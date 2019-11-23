@@ -8,19 +8,32 @@
     <h2>Log In</h2>
   </div>
 
-    <form action="{{ url_for('login') }}" method="post">
-            <p>Email: </p>
-            {{form.email(class_='form-control')}}    
-        </div>
-        <div class="form-group">
-            <p>Password: </p>
-            {{form.password(class_='form-control')}}
-        </div>
-    
-        <button class="btn btn-sm btn-success" type="submit">Create New Account</button>
-    
-  </form>
+    <form action="{{url_for('login')}}", method = "post">
+{{form.csrf_token}}
+            
+    <div class="form-group">
+        <p>Email: {{form.email}} </p>
+           
+    </div>
+    <div class="form-group">
+        <p>Password: {{form.password}}</p>
+        
+    </div>
+
+    <input type="submit" value="Submit"/>
+    <!-- <button class="btn btn-sm btn-success" type="submit" value = "Submit">Create New Account </button> -->
+     <!-- <p>Create New Account: {{form.submit()}}</p> -->
+</form>
   <em>Need an account? </em><a href="register">Signup!!</a>
+  {% with messages = get_flashed_messages() %}
+         {% if messages %}
+            <ul>
+               {% for message in messages %}
+               <li>{{ message }}</li>
+               {% endfor %}
+            </ul>
+         {% endif %}
+      {% endwith %}
 </div>
  
 {% endblock %}
