@@ -75,7 +75,6 @@ def update_user():
     user = current_user
     form = forms.UpdateForm()
     if request.method == 'POST':
-        print("GOT TO THIS POINT")
         current_user.update(form.name.data, form.password.data, form.state.data, form.district.data)
         flash("Information successfully updated, {}.".format(current_user.name), 'success')
         return redirect(url_for('homepage'))
