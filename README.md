@@ -12,3 +12,9 @@
 <br>
 Note that some of the <code>INSERT</code> statements will result in errors since there were some discrepancies between congressmen data and voting data (due to more recent resignations, deaths, etc.). 
 </p>
+<h3>Instructions to Setup the Web App Locally</h3>
+<p>Within the course VM, navigate to the <code>flask-congress</code> directory. Then, issue the following command:<br>
+<code>python app.py</code>
+<br>
+This will setup the web app at <code>http://localhost:5000/</code>
+</p>
