@@ -70,6 +70,17 @@ def logout():
     flash('Successfully logged out!', 'info')
     return redirect(url_for('login'))
 
+@app.route("/update", methods = ['GET', 'POST'])
+def update_user():
+    user = current_user
+    form = forms.UpdateForm()
+    if request.method == 'POST':
+        current_user.update(form.name.data, form.password.data, form.state.data, form.district.data)
+        flash("Information successfully updated, {}.".format(current_user.name), 'success')
+        return redirect(url_for('homepage'))
+
+    return render_template('update-userinfo.html', form=form)
+
 @app.route('/homepage/all-congressman')
 def all_congressman():
     cman = db.session.query(models.Congressman).all()

@@ -95,6 +95,29 @@ class RegisteredUser(db.Model):
         """Return the email address to satisfy Flask-Login's requirements."""
         """Requires use of Python 3"""
         return str(self.email)
+
+    def update(self, name, password, state, district):
+        if len(name)==0 and len(password)==0 and len(state)==0 and district is None:
+            return
+        s = "update registereduser set"
+        if len(name)!=0:
+            self.name = name
+            s += " name = '" + name + "',"
+        if len(password)!=0:
+            self.password = password
+            s += " password = '" + password + "',"
+        if len(state)!=0:
+            self.state = state
+            s += " state = '" + state + "',"
+        if district is not None:
+            self.district = district
+            s += " district = " + str(district) 
+        s = s.strip(",")
+        s += " where email = '" + self.email + "'"
+        try:
+            db.session.execute(s)
+        except Exception as e: 
+            raise e
     
     def __repr__(self):
         return '<User {0}>'.format(self.name)

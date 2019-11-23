@@ -21,3 +21,11 @@ class LoginForm(FlaskForm):
     email = StringField('Email', validators=[DataRequired(), Email()])
     password = PasswordField('Password', validators=[DataRequired()])
     submit = SubmitField("Login")
+
+
+class UpdateForm(FlaskForm):
+    name = StringField('Name', validators = [])
+    password = PasswordField('Password', validators = [])
+    state = StringField('State', validators = [])
+    district = IntegerField('District', validators = [])
+    submit = SubmitField('Submit')
