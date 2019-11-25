@@ -169,10 +169,10 @@ def user(email):
     rep = db.session.query(models.Congressman)\
         .filter(models.Congressman.state == cuser.state, models.Congressman.district == cuser.district, models.Congressman.house_or_senate == "rep").all()
 
-    rep_votes = db.session.query(models.Vote)\
-        .filter(models.Vote.rep_id.in_(rep)).all()
+    # rep_votes = db.session.query(models.Vote)\
+    #     .filter(models.Vote.rep_id.in_(rep)).all()
 
-    return render_template('user.html', user = cuser, senator = sen, representative = rep, votes_by_rep = rep_votes)
+    return render_template('user.html', user = cuser, senator = sen, representative = rep)
 
 @app.route('/homepage/all-bill/')
 def all_bill():
