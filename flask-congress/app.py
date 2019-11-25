@@ -153,7 +153,8 @@ def all_users():
 def congressperson(id):
     cperson = db.session.query(models.Congressman)\
         .filter(models.Congressman.id == id).one()
-    return render_template('congressperson.html', congressperson=cperson)
+    bills = db.session.query(models.SponsoredBy).filter(models.SponsoredBy.rep_id == id).all()
+    return render_template('congressperson.html', congressperson=cperson, bills = bills)
 
 @app.route('/homepage/user/<email>')
 def user(email):

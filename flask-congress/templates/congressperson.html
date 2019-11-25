@@ -12,6 +12,11 @@
 
 <!--need to validate the link, if it is none, then the  page will throw an error-->
 <a href={{congressperson.contact_form}}>Contact this congressman</a>
+<H3>Bills Sponsored</H3>
+<ul>
+  {% for b in bills %}
 
-
+  <li><a href="{{url_for('bills', num=b.bill_num, cong_year = b.cong_year, type = b.bill_type)}}">{{b.bill_num, b.cong_year, b.bill_type}}</a></li>
+  {% endfor %}
+</ul>
 {% endblock %}

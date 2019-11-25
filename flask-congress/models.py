@@ -27,7 +27,7 @@ class Congressman(db.Model):
     contact_form = db.Column('contact_form', db.String(256))
 
 class SponsoredBy(db.Model):
-    __tablename__ = 'SponsoredBy'
+    __tablename__ = 'sponsoredby'
     bill_type = db.Column('bill_type',db.String(2),
                             db.ForeignKey('bill.type'),
                             primary_key=True)
