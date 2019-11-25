@@ -1,33 +1,19 @@
 {% extends 'layout.html' %}
 
 {% block content %}
-<div class="user-registration">
+<div class="congressman-search-party">
   <div class="page-header">
-    <h2>Please Update Your Information</h2>
-    <h3>Entries left blank will not be updated.</h3>
+    <h2>Enter Party to Search</h2>
   </div>
 
   
-<form action="{{url_for('update_user')}}", method = "post">
+<form action="{{url_for('congressman_search_party')}}", method = "post">
 {{form.csrf_token}}
 
     <div class="form-group">
-        <p>Name: {{form.name}}  </p>
+        <p>Party: {{form.party}}  </p>
           
     </div>
-          
-    <div class="form-group">
-        <p>Password: {{form.password}}</p>
-        
-    </div>
-
-    <div class="form-group">
-        <p>State/Territory: {{form.state}}</p>
-          
-    </div>
-    <div class="form-group">
-        <p>District: {{form.district}}</p>    
-     </div>
 
     <input type="submit" value="Submit"/>
     <!-- <button class="btn btn-sm btn-success" type="submit" value = "Submit">Create New Account </button> -->
@@ -43,6 +29,13 @@
             </ul>
          {% endif %}
       {% endwith %}
+
+<ul>
+  {% for congressperson in allcongressman %}
+
+  <li><a href="{{url_for('congressperson', id=congressperson.id)}}">{{congressperson.name}}</a></li>
+  {% endfor %}
+</ul>
 
 
 
