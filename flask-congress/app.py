@@ -86,7 +86,41 @@ def update_user():
 
     return render_template('update-userinfo.html', form=form)
 
+@app.route('/homepage/congressman-search', methods = ['GET','POST'])
+def congressman_search():
+    lst = [('name', 'Name'), ('state_territory_district', 'State/Territory/District'), ('party', 'Party'), ('chamber', 'Chamber')]
+    form = forms.CongressmanSearchForm.form(lst)
+    if request.method == 'POST':
+        return redirect(url_for('congressman_search_' + form.category.data))
+    return render_template('congressman-search.html', form = form)
 
+@app.route('/homepage/congressman-search-name', methods = ['GET', 'POST'])
+def congressman_search_name():
+    form = forms.CongressmanSearchNameForm.form()
+    if request.method == 'POST':
+        pass
+    return render_template('congressman-search-name.html', form = form)
+
+@app.route('/homepage/congressman-search-state-territory-district', methods = ['GET', 'POST'])
+def congressman_search_state_territory_district():
+    form = forms.CongressmanSearchStateTerritoryDistrictForm.form(lst)
+    if request.method == 'POST':
+        pass
+    return render_template('congressman-search-name.html', form = form)
+
+@app.route('/homepage/congressman-search-party', methods = ['GET','POST'])
+def congressman_search_party():
+    form = forms.CongressmanSearchPartyForm.form(lst)
+    if request.method == 'POST':
+        pass
+    return render_template('congressman-search-party.html', form = form)
+
+@app.route('/homepage/congressman-search-chamber', methods = ['GET', 'POST'])
+def congressman_search_chamber():
+    form = forms.CongressmanSearchChamberForm.form(lst)
+    if request.method == 'POST':
+        pass
+    return render_template('congressman-search-chamber.html', form = form)
 
 @app.route('/homepage/all-congressman')
 def all_congressman():
