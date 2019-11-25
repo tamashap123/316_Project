@@ -35,6 +35,11 @@
          {% endif %}
       {% endwith %}
 
+<ul>
+  {% for congressperson in allcongressman %}
 
+  <li><a href="{{url_for('congressperson', id=congressperson.id)}}">{{congressperson.name}}</a></li>
+  {% endfor %}
+</ul>
 
 {% endblock %}

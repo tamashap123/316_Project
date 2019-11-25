@@ -3,7 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager, login_user, current_user, logout_user
 from flask_security import login_required
 
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, or_
 from sqlalchemy.orm import sessionmaker
 
 import models
@@ -88,9 +88,11 @@ def update_user():
 
 @app.route('/homepage/congressman-search', methods = ['GET','POST'])
 def congressman_search():
-    lst = [('name', 'Name'), ('state_territory_district', 'State/Territory/District'), ('party', 'Party'), ('chamber', 'Chamber')]
+    lst = [('all', 'Display All'), ('name', 'Name'), ('state_territory_district', 'State/Territory/District'), ('party', 'Party'), ('chamber', 'Chamber')]
     form = forms.CongressmanSearchForm.form(lst)
     if request.method == 'POST':
+        if form.category.data == 'all':
+            return redirect(url_for('all_congressman'))
         return redirect(url_for('congressman_search_' + form.category.data))
     return render_template('congressman-search.html', form = form)
 
@@ -98,29 +100,43 @@ def congressman_search():
 def congressman_search_name():
     form = forms.CongressmanSearchNameForm.form()
     if request.method == 'POST':
-        pass
-    return render_template('congressman-search-name.html', form = form)
+        search = "%{}%".format(form.name.data)
+        cmen = db.session.query(models.Congressman).filter(models.Congressman.name.ilike(search)).all()
+        return render_template('congressman-search-name.html', form=form, allcongressman=cmen)
+    return render_template('congressman-search-name.html', form = form, allcongressman = [])
 
 @app.route('/homepage/congressman-search-state-territory-district', methods = ['GET', 'POST'])
 def congressman_search_state_territory_district():
-    form = forms.CongressmanSearchStateTerritoryDistrictForm.form(lst)
+    states = sorted(set([x[0] for x in db.session.query(models.Congressman.state).all()]))
+    states = [(x,x) for x in states]
+    form = forms.CongressmanSearchStateTerritoryDistrictForm.form(states)
     if request.method == 'POST':
-        pass
-    return render_template('congressman-search-name.html', form = form)
+        if form.district.data is None:
+            cmen = db.session.query(models.Congressman).filter(models.Congressman.state == form.state.data).all()
+            return render_template('congressman-search-state-territory-district.html', form=form, allcongressman = cmen)
+        else:
+            cmen = db.session.query(models.Congressman).filter(models.Congressman.state == form.state.data, or_(models.Congressman.district == form.district.data, models.Congressman.house_or_senate == 'sen'))
+            return render_template('congressman-search-state-territory-district.html', form=form, allcongressman = cmen)
+    return render_template('congressman-search-state-territory-district.html', form = form, allcongressman = [])
 
 @app.route('/homepage/congressman-search-party', methods = ['GET','POST'])
 def congressman_search_party():
-    form = forms.CongressmanSearchPartyForm.form(lst)
+    parties = sorted(set([x[0] for x in db.session.query(models.Congressman.party).all()]))
+    parties = [(x,x) for x in parties]
+    form = forms.CongressmanSearchPartyForm.form(parties)
     if request.method == 'POST':
-        pass
-    return render_template('congressman-search-party.html', form = form)
+        cmen = db.session.query(models.Congressman).filter(models.Congressman.party == form.party.data).all()
+        return render_template('congressman-search-party.html', form=form, allcongressman = cmen)
+    return render_template('congressman-search-party.html', form = form, allcongressman = [])
 
 @app.route('/homepage/congressman-search-chamber', methods = ['GET', 'POST'])
 def congressman_search_chamber():
-    form = forms.CongressmanSearchChamberForm.form(lst)
+    chambers = [('rep', 'House of Representatives'), ('sen', 'Senate')]
+    form = forms.CongressmanSearchChamberForm.form(chambers)
     if request.method == 'POST':
-        pass
-    return render_template('congressman-search-chamber.html', form = form)
+        cmen = db.session.query(models.Congressman).filter(models.Congressman.house_or_senate == form.chamber.data).all()
+        return render_template('congressman-search-chamber.html', form=form, allcongressman = cmen)
+    return render_template('congressman-search-chamber.html', form = form, allcongressman = [])
 
 @app.route('/homepage/all-congressman')
 def all_congressman():
