@@ -10,7 +10,7 @@ class RegisterForm:
             name = StringField('Name', validators=[DataRequired()])
             email = StringField('Email', validators=[DataRequired(), Email()])
             password = PasswordField('Password', validators=[DataRequired()])
-            state = SelectField('State', choices = lstStates)
+            state = SelectField('State/Territory', choices = lstStates)
             district = IntegerField('District', validators=[DataRequired()])
             submit = SubmitField("Create New Account")
         return F()
@@ -28,7 +28,7 @@ class UpdateForm():
         class F(FlaskForm):
             name = StringField('Name', validators = [])
             password = PasswordField('Password', validators = [])
-            state = SelectField('State', choices = lstStates, default = paststate)
+            state = SelectField('State/Territory', choices = lstStates, default = paststate)
             district = IntegerField('District', validators = [])
             submit = SubmitField('Submit')
         return F()
