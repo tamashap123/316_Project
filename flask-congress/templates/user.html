@@ -32,16 +32,14 @@
     {% endfor %}
  </ul>
 
-<!-- 
+
 <p>Votes by your Representative(s): </p>
 <ul>
     {% for v in rep_votes %}
 
-    <li>{{v.bill_type}}</a></li>
-    <li>{{v.bill_num}}</a></li>
-    <li>{{v.decision}}</a></li>
-
+    <li>{{v.bill_type}}{{v.bill_num}} - {{v.rep_id}} {{v.decision}}</a></li>
+    
     {% endfor %}
- </ul> -->
+ </ul>
 
 {% endblock %}
