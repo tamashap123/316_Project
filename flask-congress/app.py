@@ -3,7 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager, login_user, current_user, logout_user
 from flask_security import login_required
 
-from sqlalchemy import create_engine, or_
+from sqlalchemy import *
 from sqlalchemy.orm import sessionmaker
 
 import models
@@ -57,7 +57,7 @@ def login():
                 db.session.add(user)
                 login_user(user)
                 flash('Thanks for logging in, {}'.format(current_user.name))
-                return redirect(url_for('homepage'))
+                return redirect(url_for('user', email = current_user.email))
             else:
                 flash('ERROR! Incorrect login credentials.', 'error')
     return render_template('login.html', form=form)
@@ -85,6 +85,8 @@ def update_user():
         return redirect(url_for('homepage'))
 
     return render_template('update-userinfo.html', form=form)
+
+
 
 @app.route('/homepage/congressman-search', methods = ['GET','POST'])
 def congressman_search():
@@ -158,8 +160,19 @@ def congressperson(id):
 
 @app.route('/homepage/user/<email>')
 def user(email):
-    cuser = db.session.query(models.RegisteredUser).filter(models.RegisteredUser.email == email).one()
-    return render_template('user.html', user = cuser)
+    cuser = db.session.query(models.RegisteredUser)\
+        .filter(models.RegisteredUser.email == email).one()
+
+    sen = db.session.query(models.Congressman)\
+        .filter(models.Congressman.state == cuser.state, models.Congressman.house_or_senate == "sen").all()
+    
+    rep = db.session.query(models.Congressman)\
+        .filter(models.Congressman.state == cuser.state, models.Congressman.district == cuser.district, models.Congressman.house_or_senate == "rep").all()
+
+    # rep_votes = db.session.query(models.Vote)\
+    #     .filter(models.Vote.rep_id.in_(rep)).all()
+
+    return render_template('user.html', user = cuser, senator = sen, representative = rep)
 
 @app.route('/homepage/all-bill/')
 def all_bill():
