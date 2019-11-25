@@ -1,12 +1,47 @@
 {% extends 'layout.html' %}
+
+{% with messages = get_flashed_messages() %}
+         {% if messages %}
+            <ul>
+               {% for message in messages %}
+               <li>{{ message }}</li>
+               {% endfor %}
+            </ul>
+         {% endif %}
+      {% endwith %}
+
 {% block heading %}User Information: {{user.name}}{% endblock %}
 {% block content %}
 <p>Name: {{user.name}}</p>
-<p>Email: {{user.email}}</p>
 <p>State: {{user.state}}</p>
 <p>District: {{user.district}}</p>
-<p>Password: {{user.password}}</p>
+
+<p>Your Senator(s): </p>
+
+<ul>
+    {% for s in senator %}
+    <li><a href="{{url_for('congressperson', id=s.id)}}">{{s.name}}</a></li>
+    {% endfor %}
+  </ul>
+
+<p>Your Representative(s): </p>
+
+<ul>
+    {% for r in representative %}
+    <li><a href="{{url_for('congressperson', id=r.id)}}">{{r.name}}</a></li>
+    {% endfor %}
+ </ul>
 
 
+<p>Votes by your Representative(s): </p>
+<ul>
+    {% for v in rep_votes %}
+    
+    <li>{{v.bill_type}}</a></li>
+    <li>{{v.bill_num}}</a></li>
+    <li>{{v.decision}}</a></li>
+
+    {% endfor %}
+ </ul>
 
 {% endblock %}
