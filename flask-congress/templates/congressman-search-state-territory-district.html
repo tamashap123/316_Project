@@ -1,0 +1,40 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="congressman-search-state-territory-district">
+  <div class="page-header">
+    <h2>Enter State/Territory and District to Search</h2>
+  </div>
+
+  
+<form action="{{url_for('congressman_search_state_territory_district')}}", method = "post">
+{{form.csrf_token}}
+
+    <div class="form-group">
+        <p>State/Territory: {{form.state}}  </p>
+          
+    </div>
+
+    <div class="form-group">
+        <p>District: {{form.district}}  </p>
+          
+    </div>
+
+    <input type="submit" value="Submit"/>
+    <!-- <button class="btn btn-sm btn-success" type="submit" value = "Submit">Create New Account </button> -->
+     <!-- <p>Create New Account: {{form.submit()}}</p> -->
+</form>
+
+{% with messages = get_flashed_messages() %}
+         {% if messages %}
+            <ul>
+               {% for message in messages %}
+               <li>{{ message }}</li>
+               {% endfor %}
+            </ul>
+         {% endif %}
+      {% endwith %}
+
+
+
+{% endblock %}

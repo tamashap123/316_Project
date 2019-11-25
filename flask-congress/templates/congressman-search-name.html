@@ -1,0 +1,35 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="congressman-search-name">
+  <div class="page-header">
+    <h2>Enter Name to Search</h2>
+  </div>
+
+  
+<form action="{{url_for('congressman_search_name')}}", method = "post">
+{{form.csrf_token}}
+
+    <div class="form-group">
+        <p>Name: {{form.name}}  </p>
+          
+    </div>
+
+    <input type="submit" value="Submit"/>
+    <!-- <button class="btn btn-sm btn-success" type="submit" value = "Submit">Create New Account </button> -->
+     <!-- <p>Create New Account: {{form.submit()}}</p> -->
+</form>
+
+{% with messages = get_flashed_messages() %}
+         {% if messages %}
+            <ul>
+               {% for message in messages %}
+               <li>{{ message }}</li>
+               {% endfor %}
+            </ul>
+         {% endif %}
+      {% endwith %}
+
+
+
+{% endblock %}
