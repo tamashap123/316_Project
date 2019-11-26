@@ -174,9 +174,14 @@ def user(email):
 
     return render_template('user.html', user = cuser, senator = sen, representative = rep, rep_votes = rep_votes)
 
+
+#=========== BILL PAGE QUERIES ==============================================================
+
+#Default landing page for bills: All bills sorted by categroy
 @app.route('/homepage/all-bill/')
 def all_bill():
-    bill = db.session.query(models.Bill).all()
+    #bill = db.session.query(models.Bill).all()
+    bill = db.session.query(models.Bill).order_by(models.Bill.introduction_date).all()
     return render_template('all-bill.html', allbill=bill)
 #
 @app.route('/homepage/bills/<num>/<type>/<cong_year>')
@@ -185,25 +190,17 @@ def bills(num, type, cong_year):
         .filter(models.Bill.num == num, models.Bill.type ==type, models.Bill.cong_year == cong_year).one()
     return render_template('bills.html', bills=bnum)
 
+@app.route('/homepage/bill-search', methods = ['GET','POST'])
+def bill_search():
+    lst = [('all', 'Display All'), ('category', 'Category'), ('introduction_date', 'Introduction Date'), ('party', 'Party'), ('sponsor', 'Chamber')]
+    form = forms.CongressmanSearchForm.form(lst)
+    if request.method == 'POST':
+        if form.category.data == 'all':
+            return redirect(url_for('all_congressman'))
+        return redirect(url_for('bills_search_' + form.category.data))
+    return render_template('bill-search.html', form = form)
 
-@app.route('/edit-drinker/<name>', methods=['GET', 'POST'])
-def edit_drinker(name):
-    drinker = db.session.query(models.Drinker)\
-        .filter(models.Drinker.name == name).one()
-    beers = db.session.query(models.Beer).all()
-    bars = db.session.query(models.Bar).all()
-    form = forms.DrinkerEditFormFactory.form(drinker, beers, bars)
-    if form.validate_on_submit():
-        try:
-            form.errors.pop('database', None)
-            models.Drinker.edit(name, form.name.data, form.address.data,
-                                form.get_beers_liked(), form.get_bars_frequented())
-            return redirect(url_for('drinker', name=form.name.data))
-        except BaseException as e:
-            form.errors['database'] = str(e)
-            return render_template('edit-drinker.html', drinker=drinker, form=form)
-    else:
-        return render_template('edit-drinker.html', drinker=drinker, form=form)
+
 
 @app.template_filter('pluralize')
 def pluralize(number, singular='', plural='s'):
