@@ -31,9 +31,9 @@
       {% endwith %}
 
 <ul>
-  {% for cat in allcat %}
+  {% for bill in allBillsInCat%}
 
-  <li><a href="{{url_for('congressperson', id=congressperson.id)}}">{{congressperson.name}}</a></li>
+  <li><a href="{{url_for('bills', num=bill.num, cong_year = bill.cong_year, type = bill.type)}}">{{bill.num, bill.cong_year, bill.type}}</a></li>
   {% endfor %}
 </ul>
 

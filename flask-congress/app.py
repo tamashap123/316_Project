@@ -210,23 +210,12 @@ def bill_search_category():
     categories = [(x,x) for x in categories]
     form = forms.BillSearchCategoryForm.form(categories)
     if request.method == 'POST': #send data
-        b = db.session.query(models.Bill).filter(models.Bill.category== form.categories.data).all()
-        return render_template('bill-search-category.html', form=form, allcat = b.category)
-    return render_template('bill-search-category.html', form = form, allcat = [])
+        b = db.session.query(models.Bill).filter(models.Bill.category== form.billCat.data).all()
+
+        return render_template('bill-search-category.html', form=form, allBillsInCat = b)
+    return render_template('bill-search-category.html', form = form, allBillsInCat = [])
 
 
-# #HELP
-# @app.route('/homepage/congressman-search-party', methods = ['GET','POST'])
-# def congressman_search_party():
-#     parties = sorted(set([x[0] for x in db.session.query(models.Congressman.party).all()]))
-#     parties = [(x,x) for x in parties]
-#     form = forms.CongressmanSearchPartyForm.form(parties)
-#     if request.method == 'POST':
-#         cmen = db.session.query(models.Congressman).filter(models.Congressman.party == form.party.data).all()
-#         return render_template('congressman-search-party.html', form=form, allcongressman = cmen)
-#     return render_template('congressman-search-party.html', form = form, allcongressman = [])
-
-#     ###
 
 @app.template_filter('pluralize')
 def pluralize(number, singular='', plural='s'):
