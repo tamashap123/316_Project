@@ -215,6 +215,17 @@ def bill_search_category():
         return render_template('bill-search-category.html', form=form, allBillsInCat = b)
     return render_template('bill-search-category.html', form = form, allBillsInCat = [])
 
+@app.route('/homepage/bill-search-introdate', methods = ['GET','POST'])
+def bill_search_introduction_date():
+    intro_date = sorted(set([x[0] for x in db.session.query(models.Bill.introduction_date).all()]))
+    intro_date = [(x,x) for x in intro_date]
+    form = forms.BillSearchIntroDateForm.form(intro_date)
+    if request.method == 'POST': #send data
+        b = db.session.query(models.Bill).filter(models.Bill.introduction_date >= form.introDateRange.data).all()
+
+        return render_template('bill-search-introdate.html', form=form, introDateBillsRange = b)
+    return render_template('bill-search-introdate.html', form = form, introDateBillsRange = [])
+
 
 
 @app.template_filter('pluralize')

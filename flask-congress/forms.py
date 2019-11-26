@@ -87,3 +87,11 @@ class BillSearchCategoryForm():
         return F()
 
 
+class BillSearchIntroDateForm():
+    def form(lst):
+        class F(FlaskForm):
+            introDateRange = SelectField('Introduction Date', choices = lst)
+            submit = SubmitField('Submit')
+        return F()
+
+
