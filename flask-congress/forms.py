@@ -71,3 +71,19 @@ class CongressmanSearchChamberForm():
             chamber = SelectField('Chamber', choices = lst)
             submit = SubmitField('Submit')
         return F()
+
+class BillSearchForm():
+    def form(lst):
+        class F(FlaskForm):
+            category = SelectField('Search Category', choices = lst)
+            submit = SubmitField('Submit')
+        return F()
+
+class BillSearchCategoryForm():
+    def form(lst):
+        class F(FlaskForm):
+            billCat = SelectField('Category', choices = lst)
+            submit = SubmitField('Submit')
+        return F()
+
+

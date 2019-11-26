@@ -87,6 +87,7 @@ def update_user():
     return render_template('update-userinfo.html', form=form)
 
 
+#======CONGRESSMAN SEARCH ===========================================================
 
 @app.route('/homepage/congressman-search', methods = ['GET','POST'])
 def congressman_search():
@@ -188,19 +189,44 @@ def all_bill():
 def bills(num, type, cong_year):
     bnum = db.session.query(models.Bill)\
         .filter(models.Bill.num == num, models.Bill.type ==type, models.Bill.cong_year == cong_year).one()
+    b = db.session.query(models.Bill).all()
     return render_template('bills.html', bills=bnum)
+
 
 @app.route('/homepage/bill-search', methods = ['GET','POST'])
 def bill_search():
-    lst = [('all', 'Display All'), ('category', 'Category'), ('introduction_date', 'Introduction Date'), ('party', 'Party'), ('sponsor', 'Chamber')]
+    lst = [('all', 'Display All'), ('category', 'Category'), ('introduction_date', 'Introduction Date'), ('sponsor', 'Sponsor')]
     form = forms.CongressmanSearchForm.form(lst)
     if request.method == 'POST':
         if form.category.data == 'all':
-            return redirect(url_for('all_congressman'))
-        return redirect(url_for('bills_search_' + form.category.data))
+            #check that this is the correct redirect
+            return redirect(url_for('all_bill'))
+        return redirect(url_for('bill_search_' + form.category.data))
     return render_template('bill-search.html', form = form)
 
+@app.route('/homepage/bill-search-category', methods = ['GET','POST'])
+def bill_search_category():
+    categories = sorted(set([x[0] for x in db.session.query(models.Bill.category).all()]))
+    categories = [(x,x) for x in categories]
+    form = forms.BillSearchCategoryForm.form(categories)
+    if request.method == 'POST': #send data
+        b = db.session.query(models.Bill).filter(models.Bill.category== form.categories.data).all()
+        return render_template('bill-search-category.html', form=form, allcat = b.category)
+    return render_template('bill-search-category.html', form = form, allcat = [])
 
+
+# #HELP
+# @app.route('/homepage/congressman-search-party', methods = ['GET','POST'])
+# def congressman_search_party():
+#     parties = sorted(set([x[0] for x in db.session.query(models.Congressman.party).all()]))
+#     parties = [(x,x) for x in parties]
+#     form = forms.CongressmanSearchPartyForm.form(parties)
+#     if request.method == 'POST':
+#         cmen = db.session.query(models.Congressman).filter(models.Congressman.party == form.party.data).all()
+#         return render_template('congressman-search-party.html', form=form, allcongressman = cmen)
+#     return render_template('congressman-search-party.html', form = form, allcongressman = [])
+
+#     ###
 
 @app.template_filter('pluralize')
 def pluralize(number, singular='', plural='s'):
