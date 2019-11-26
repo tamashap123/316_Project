@@ -187,8 +187,11 @@ def all_bill():
 @app.route('/homepage/bills/<num>/<type>/<cong_year>')
 def bills(num, type, cong_year):
     bnum = db.session.query(models.Bill)\
-        .filter(models.Bill.num == num, models.Bill.type ==type, models.Bill.cong_year == cong_year).one()
-    return render_template('bills.html', bills=bnum)
+        .filter(models.Bill.num == num, models.Bill.type == type, models.Bill.cong_year == cong_year).one()
+    sps = db.session.query(models.Congressman).join(models.SponsoredBy, models.SponsoredBy.rep_id == models.Congressman.id)\
+        .filter(models.SponsoredBy.bill_num == num, models.SponsoredBy.bill_type == type, models.SponsoredBy.cong_year == cong_year).all()
+    return render_template('bills.html', bills=bnum, bill_sponsors=sps)
+
 
 @app.route('/homepage/bill-search', methods = ['GET','POST'])
 def bill_search():
@@ -199,7 +202,6 @@ def bill_search():
             return redirect(url_for('all_congressman'))
         return redirect(url_for('bills_search_' + form.category.data))
     return render_template('bill-search.html', form = form)
-
 
 
 @app.template_filter('pluralize')
