@@ -176,7 +176,7 @@ def user(email):
     return render_template('user.html', user = cuser, senator = sen, representative = rep, rep_votes = rep_votes)
 
 
-#=========== BILL PAGE QUERIES ==============================================================
+#=========== BILL PAGE SEARCH ==============================================================
 
 #Default landing page for bills: All bills sorted by categroy
 @app.route('/homepage/all-bill/')
@@ -192,10 +192,10 @@ def bills(num, type, cong_year):
     b = db.session.query(models.Bill).all()
     return render_template('bills.html', bills=bnum)
 
-
+#Default search page
 @app.route('/homepage/bill-search', methods = ['GET','POST'])
 def bill_search():
-    lst = [('all', 'Display All'), ('category', 'Category'), ('introduction_date', 'Introduction Date'), ('sponsor', 'Sponsor')]
+    lst = [('all', 'Display All'), ('category', 'Category'), ('introduction_date', 'Introduction Date'), ('chamber', 'Chamber')]
     form = forms.CongressmanSearchForm.form(lst)
     if request.method == 'POST':
         if form.category.data == 'all':
@@ -225,6 +225,17 @@ def bill_search_introduction_date():
 
         return render_template('bill-search-introdate.html', form=form, introDateBillsRange = b)
     return render_template('bill-search-introdate.html', form = form, introDateBillsRange = [])
+
+@app.route('/homepage/bill-search-chamber', methods = ['GET','POST'])
+def bill_search_chamber():
+    chamber = [('hr', 'House of Representatives'), ('s', 'Senate')]
+   
+    form = forms.BillSearchChamberForm.form(chamber)
+    if request.method == 'POST': #send data
+        b = db.session.query(models.Bill).filter(models.Bill.type == form.chamb.data).all()
+
+        return render_template('bill-search-chamber.html', form=form, chambers = b)
+    return render_template('bill-search-chamber.html', form = form, chambers = [])
 
 
 

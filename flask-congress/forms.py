@@ -94,4 +94,11 @@ class BillSearchIntroDateForm():
             submit = SubmitField('Submit')
         return F()
 
+class BillSearchChamberForm():
+    def form(lst):
+        class F(FlaskForm):
+            chamb = SelectField('Chamber', choices = lst)
+            submit = SubmitField('Submit')
+        return F()
+
 
