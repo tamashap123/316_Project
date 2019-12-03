@@ -71,3 +71,19 @@ class CongressmanSearchChamberForm():
             chamber = SelectField('Chamber', choices = lst)
             submit = SubmitField('Submit')
         return F()
+
+class UserRepChoiceForm():
+    def form(rep_lst):
+        class F(FlaskForm):
+            cman = SelectField('Congressman', choices = rep_lst)
+            submit = SubmitField('Submit')
+            
+        return F()
+
+class UserRepVoteDecisionForm():
+    def form(dec_lst):
+        class F(FlaskForm):
+            decision = SelectField('Decision', choices = dec_lst)
+            submit = SubmitField('Submit')
+            
+        return F()

@@ -158,7 +158,7 @@ def congressperson(id):
     bills = db.session.query(models.SponsoredBy).filter(models.SponsoredBy.rep_id == id).all()
     return render_template('congressperson.html', congressperson=cperson, bills = bills)
 
-@app.route('/homepage/user/<email>')
+@app.route('/homepage/user/<email>', methods = ['GET', 'POST'])
 def user(email):
     cuser = db.session.query(models.RegisteredUser)\
         .filter(models.RegisteredUser.email == email).one()
@@ -172,7 +172,32 @@ def user(email):
     rep_votes = db.session.query(models.Vote)\
         .filter(models.Vote.rep_id.in_([i.id for i in rep])).all()
 
-    return render_template('user.html', user = cuser, senator = sen, representative = rep, rep_votes = rep_votes)
+    congressmen = [x.id for x in sen]
+    congressmen.extend([x.id for x in rep])
+    congressmen = [(x,x) for x in congressmen]
+
+    form = forms.UserRepChoiceForm.form(congressmen)
+
+    if request.method == 'POST':
+
+        return redirect(url_for('voting_record', id = form.cman.data))
+
+    return render_template('user.html',form = form, user = cuser, senator = sen, representative = rep, rep_votes = rep_votes)
+
+@app.route('/homepage/voting_record/<id>', methods = ['GET', 'POST'])
+def voting_record(id):
+    rep_votes = db.session.query(models.Vote)\
+        .filter(models.Vote.rep_id == id).all()
+
+    rep_info = db.session.query(models.Congressman)\
+        .filter(models.Congressman.id == id).one()
+
+    decisions = sorted(set([x[0] for x in db.session.query(models.Vote.decision).all()]))
+    decisions = [(x,x) for x in decisions]
+
+    form = forms.UserRepVoteDecisionForm.form(decisions)
+
+    return render_template('voting_record.html', id = id, rep_info = rep_info, rep_votes = rep_votes, form = form )
 
 @app.route('/homepage/all-bill/')
 def all_bill():
