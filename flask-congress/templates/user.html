@@ -24,22 +24,27 @@
     {% endfor %}
   </ul>
 
-<p>Your Representative(s): </p>
+  <p>Your Representative(s): </p>
 
-<ul>
-    {% for r in representative %}
-    <li><a href="{{url_for('congressperson', id=r.id)}}">{{r.name}}</a></li>
-    {% endfor %}
- </ul>
+  <ul>
+      {% for r in representative %}
+      <li><a href="{{url_for('congressperson', id=r.id)}}">{{r.name}}</a></li>
+  
+        {% for v in rep_votes %}
+  
+           <ul>
+           {% if v.rep_id == r.id %}
+                    
+  
+           <li><a href="{{url_for('bills', num=v.bill_num, cong_year = v.cong_year, type = v.bill_type)}}">{{v.bill_type}}{{v.bill_num}}</a> - {{v.decision}}</a></li>
+  
+           {% endif %}
+           </ul>
+  
+        {% endfor %}
+  
+      {% endfor %}
+   </ul>
 
-
-<p>Votes by your Representative(s): </p>
-<ul>
-    {% for v in rep_votes %}
-
-    <li>{{v.bill_type}}{{v.bill_num}} - {{v.rep_id}} {{v.decision}}</a></li>
-    
-    {% endfor %}
- </ul>
 
 {% endblock %}
