@@ -158,7 +158,7 @@ def congressperson(id):
     bills = db.session.query(models.SponsoredBy).filter(models.SponsoredBy.rep_id == id).all()
     return render_template('congressperson.html', congressperson=cperson, bills = bills)
 
-@app.route('/homepage/user/<email>')
+@app.route('/homepage/user/<email>', methods = ['GET', 'POST'])
 def user(email):
     cuser = db.session.query(models.RegisteredUser)\
         .filter(models.RegisteredUser.email == email).one()
@@ -172,7 +172,20 @@ def user(email):
     rep_votes = db.session.query(models.Vote)\
         .filter(models.Vote.rep_id.in_([i.id for i in rep])).all()
 
-    return render_template('user.html', user = cuser, senator = sen, representative = rep, rep_votes = rep_votes)
+    decisions = sorted(set([x for x in db.session.query(models.Vote.decision).all()]))
+    decisions = [(x,x) for x in decisions]
+
+    # congressmen = sen.append(rep)
+    # congressmen = [(x,x) for x in congressmen]
+
+    form = forms.UserRepVoteDecisionForm.form(decisions)
+
+    if request.method == 'POST':
+        rep_votes = db.session.query(models.Vote)\
+            .filter(models.Vote.rep_id.in_([i.id for i in rep])).filter(models.Vote.decision == form.decision.data).all()
+        return render_template('user.html',form = form, user = cuser, senator = sen, representative = rep, rep_votes = rep_votes)
+
+    return render_template('user.html',form = form, user = cuser, senator = sen, representative = rep, rep_votes = rep_votes)
 
 @app.route('/homepage/all-bill/')
 def all_bill():

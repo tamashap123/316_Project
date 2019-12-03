@@ -29,8 +29,28 @@
   <ul>
       {% for r in representative %}
       <li><a href="{{url_for('congressperson', id=r.id)}}">{{r.name}}</a></li>
+
+      <form action="{{url_for('user', email = user.email)}}", method = "post">
+         {{form.csrf_token}}
+         
+             <div class="form-group">
+                 <p>Decision: {{form.decision}}</p>
+                   
+             </div>
+         
+             <input type="submit" value="Submit"/>
+            
+         </form>
   
-        {% for v in rep_votes %}
+      {% endfor %}
+   </ul>
+
+
+   <!-- <ul>
+      {% for r in representative %}
+      <li><a href="{{url_for('congressperson', id=r.id)}}">{{r.name}}</a></li>
+
+      {% for v in rep_votes %}
   
            <ul>
            {% if v.rep_id == r.id %}
@@ -44,7 +64,9 @@
         {% endfor %}
   
       {% endfor %}
-   </ul>
+   </ul> -->
+
+
 
 
 {% endblock %}
