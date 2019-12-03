@@ -1,0 +1,32 @@
+{% extends 'layout.html' %}
+
+{% block heading %}Congressperson: {{rep_info.name}}{% endblock %}
+
+
+{% block content %}
+
+
+<form action="{{url_for('voting_record', id = rep_info.id)}}", method = "post">
+    {{form.csrf_token}}
+    
+        <div class="form-group">
+            <p>Decision: {{form.decision}}</p>
+        </div>
+        <input type="submit" value="Submit"/>
+       
+    </form>
+
+    <ul>
+
+        {% for v in rep_votes %}
+
+            {% if v.decision == form.decision.data %}
+
+            <li><a href="{{url_for('bills', num=v.bill_num, cong_year = v.cong_year, type = v.bill_type)}}">{{v.bill_type}}{{v.bill_num}}</a></a></li>
+
+            {% endif %}
+    
+        {% endfor %}
+      </ul>
+
+{% endblock %}
