@@ -20,26 +20,32 @@
 
 <ul>
     {% for s in senator %}
-    <li><a href="{{url_for('congressperson', id=s.id)}}">{{s.name}}</a></li>
+    <li><a href="{{url_for('congressperson', id=s.id)}}">{{s.name}} - {{s.id}}</a></li>
     {% endfor %}
   </ul>
 
-<p>Your Representative(s): </p>
+  <p>Your Representative(s): </p>
 
-<ul>
-    {% for r in representative %}
-    <li><a href="{{url_for('congressperson', id=r.id)}}">{{r.name}}</a></li>
-    {% endfor %}
- </ul>
+  <ul>
+      {% for r in representative %}
+      <li><a href="{{url_for('congressperson', id=r.id)}}">{{r.name}} - {{r.id}}</a></li>
+  
+      {% endfor %}
+   </ul>
+
+   <p>Choose a congressman ID to see their voting record!</p>
+   <form action="{{url_for('user', email = user.email)}}", method = "post">
+      {{form.csrf_token}}
+      
+          <div class="form-group">
+              <p>Congressman ID: {{form.cman}}  
+          </div>
+      
+          <input type="submit" value="Submit"/>
+         
+      </form>
 
 
-<p>Votes by your Representative(s): </p>
-<ul>
-    {% for v in rep_votes %}
 
-    <li>{{v.bill_type}}{{v.bill_num}} - {{v.rep_id}} {{v.decision}}</a></li>
-    
-    {% endfor %}
- </ul>
 
 {% endblock %}
