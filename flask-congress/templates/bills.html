@@ -11,14 +11,4 @@
 <p>Introduction Date: {{bills.introduction_date}}</p>
 
 <p>Year in Congress: {{bills.cong_year}}</p>
-
-<p>Bill Sponsored By:</p>
-<ul>
-  {% for b in bill_sponsors %}
-
-  <li><a href="{{url_for('congressperson', id=b.id)}}">{{b.name}}</a></li>
-  {% endfor %}
-</ul>
-
 {% endblock %}
-
