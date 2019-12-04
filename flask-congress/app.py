@@ -87,6 +87,7 @@ def update_user():
     return render_template('update-userinfo.html', form=form)
 
 
+#======CONGRESSMAN SEARCH ===========================================================
 
 @app.route('/homepage/congressman-search', methods = ['GET','POST'])
 def congressman_search():
@@ -199,36 +200,69 @@ def voting_record(id):
 
     return render_template('voting_record.html', id = id, rep_info = rep_info, rep_votes = rep_votes, form = form )
 
+
+#=========== BILL PAGE SEARCH ==============================================================
+
+#Default landing page for bills: All bills sorted by categroy
 @app.route('/homepage/all-bill/')
 def all_bill():
-    bill = db.session.query(models.Bill).all()
+    #bill = db.session.query(models.Bill).all()
+    bill = db.session.query(models.Bill).order_by(models.Bill.introduction_date).all()
     return render_template('all-bill.html', allbill=bill)
 #
 @app.route('/homepage/bills/<num>/<type>/<cong_year>')
 def bills(num, type, cong_year):
     bnum = db.session.query(models.Bill)\
         .filter(models.Bill.num == num, models.Bill.type ==type, models.Bill.cong_year == cong_year).one()
+    b = db.session.query(models.Bill).all()
     return render_template('bills.html', bills=bnum)
 
+#Default search page
+@app.route('/homepage/bill-search', methods = ['GET','POST'])
+def bill_search():
+    lst = [('all', 'Display All'), ('category', 'Category'), ('introduction_date', 'Introduction Date'), ('chamber', 'Chamber')]
+    form = forms.CongressmanSearchForm.form(lst)
+    if request.method == 'POST':
+        if form.category.data == 'all':
+            #check that this is the correct redirect
+            return redirect(url_for('all_bill'))
+        return redirect(url_for('bill_search_' + form.category.data))
+    return render_template('bill-search.html', form = form)
 
-@app.route('/edit-drinker/<name>', methods=['GET', 'POST'])
-def edit_drinker(name):
-    drinker = db.session.query(models.Drinker)\
-        .filter(models.Drinker.name == name).one()
-    beers = db.session.query(models.Beer).all()
-    bars = db.session.query(models.Bar).all()
-    form = forms.DrinkerEditFormFactory.form(drinker, beers, bars)
-    if form.validate_on_submit():
-        try:
-            form.errors.pop('database', None)
-            models.Drinker.edit(name, form.name.data, form.address.data,
-                                form.get_beers_liked(), form.get_bars_frequented())
-            return redirect(url_for('drinker', name=form.name.data))
-        except BaseException as e:
-            form.errors['database'] = str(e)
-            return render_template('edit-drinker.html', drinker=drinker, form=form)
-    else:
-        return render_template('edit-drinker.html', drinker=drinker, form=form)
+@app.route('/homepage/bill-search-category', methods = ['GET','POST'])
+def bill_search_category():
+    categories = sorted(set([x[0] for x in db.session.query(models.Bill.category).all()]))
+    categories = [(x,x) for x in categories]
+    form = forms.BillSearchCategoryForm.form(categories)
+    if request.method == 'POST': #send data
+        b = db.session.query(models.Bill).filter(models.Bill.category== form.billCat.data).all()
+
+        return render_template('bill-search-category.html', form=form, allBillsInCat = b)
+    return render_template('bill-search-category.html', form = form, allBillsInCat = [])
+
+@app.route('/homepage/bill-search-introdate', methods = ['GET','POST'])
+def bill_search_introduction_date():
+    intro_date = sorted(set([x[0] for x in db.session.query(models.Bill.introduction_date).all()]))
+    intro_date = [(x,x) for x in intro_date]
+    form = forms.BillSearchIntroDateForm.form(intro_date)
+    if request.method == 'POST': #send data
+        b = db.session.query(models.Bill).filter(models.Bill.introduction_date >= form.introDateRange.data).all()
+
+        return render_template('bill-search-introdate.html', form=form, introDateBillsRange = b)
+    return render_template('bill-search-introdate.html', form = form, introDateBillsRange = [])
+
+@app.route('/homepage/bill-search-chamber', methods = ['GET','POST'])
+def bill_search_chamber():
+    chamber = [('hr', 'House of Representatives'), ('s', 'Senate')]
+   
+    form = forms.BillSearchChamberForm.form(chamber)
+    if request.method == 'POST': #send data
+        b = db.session.query(models.Bill).filter(models.Bill.type == form.chamb.data).all()
+
+        return render_template('bill-search-chamber.html', form=form, chambers = b)
+    return render_template('bill-search-chamber.html', form = form, chambers = [])
+
+
 
 @app.template_filter('pluralize')
 def pluralize(number, singular='', plural='s'):

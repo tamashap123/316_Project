@@ -1,0 +1,42 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="bill-search-category">
+  <div class="page-header">
+    <h2>Enter Category to Search</h2>
+  </div>
+
+  
+<form action="{{url_for('bill_search_category')}}", method = "post">
+{{form.csrf_token}}
+
+    <div class="form-group">
+        <p>Category: {{form.billCat}}  </p>
+          
+    </div>
+
+    <input type="submit" value="Submit"/>
+    <!-- <button class="btn btn-sm btn-success" type="submit" value = "Submit">Create New Account </button> -->
+     <!-- <p>Create New Account: {{form.submit()}}</p> -->
+</form>
+
+{% with messages = get_flashed_messages() %}
+         {% if messages %}
+            <ul>
+               {% for message in messages %}
+               <li>{{ message }}</li>
+               {% endfor %}
+            </ul>
+         {% endif %}
+      {% endwith %}
+
+<ul>
+  {% for bill in allBillsInCat%}
+
+  <li><a href="{{url_for('bills', num=bill.num, cong_year = bill.cong_year, type = bill.type)}}">{{bill.num, bill.cong_year, bill.type}}</a></li>
+  {% endfor %}
+</ul>
+
+
+
+{% endblock %}
