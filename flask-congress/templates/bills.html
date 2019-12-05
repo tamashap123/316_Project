@@ -20,4 +20,40 @@
   {% endfor %}
 </ul>
 
+
+{% if showform %}
+<p>Who voted:</p>
+<form action="{{url_for('bills', num=bills.num, cong_year = bills.cong_year, type = bills.type)}}", method = "post">
+{{form.csrf_token}}
+    <div class="form-group">
+        <p>Decision: {{form.decision}}  </p>
+    </div>
+    <input type="submit" value="Submit"/>
+</form>
+{% endif %}
+
+
+{% with messages = get_flashed_messages() %}
+         {% if messages %}
+            <ul>
+               {% for message in messages %}
+               <li>{{ message }}</li>
+               {% endfor %}
+            </ul>
+         {% endif %}
+{% endwith %}
+
+
+{% if submitted %}
+<p>{{allcongressmen|length}} congressperson{{allcongressmen|length|pluralize}}
+  found in the database.</p>
+{% endif %}  
+
+<ul>
+	{% for congressperson in allcongressmen %}
+	<li><a href="{{url_for('congressperson', id=congressperson.id)}}">{{congressperson.name}}</a></li>
+	{% endfor %}
+</ul>
+
+
 {% endblock %}

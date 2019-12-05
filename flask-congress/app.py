@@ -210,13 +210,24 @@ def all_bill():
     bill = db.session.query(models.Bill).order_by(models.Bill.introduction_date).all()
     return render_template('all-bill.html', allbill=bill)
 #
-@app.route('/homepage/bills/<num>/<type>/<cong_year>')
+@app.route('/homepage/bills/<num>/<type>/<cong_year>', methods = ['GET', 'POST'])
 def bills(num, type, cong_year):
     bnum = db.session.query(models.Bill)\
     .filter(models.Bill.num == num, models.Bill.type == type, models.Bill.cong_year == cong_year).one()
     sps = db.session.query(models.Congressman).join(models.SponsoredBy, models.SponsoredBy.rep_id == models.Congressman.id)\
         .filter(models.SponsoredBy.bill_num == num, models.SponsoredBy.bill_type == type, models.SponsoredBy.cong_year == cong_year).all()
-    return render_template('bills.html', bills=bnum, bill_sponsors=sps)
+    
+    voteopts = [('Yea', 'Yea'), ('Nay', 'Nay'), ('Abstain', 'Abstain')]
+    form = forms.UserRepVoteDecisionForm.form(voteopts)
+    showform = len(db.session.query(models.Vote).filter(models.Vote.bill_num == num, models.Vote.bill_type == type, models.Vote.cong_year == cong_year).all())>0
+
+    if request.method == 'POST':
+        search = form.decision.data
+        cmen = db.session.query(models.Congressman).join(models.Vote, models.Vote.rep_id == models.Congressman.id)\
+            .filter(models.Vote.decision == search, models.Vote.bill_num == num, models.Vote.bill_type == type, models.Vote.cong_year == cong_year).all()
+        return render_template('bills.html', bills=bnum, bill_sponsors=sps, form=form, showform=showform, allcongressmen=cmen, submitted=True)
+    return render_template('bills.html', bills=bnum, bill_sponsors=sps, form=form, showform=showform, allcongressmen=[], submitted=False)
+
 
 #Default search page
 @app.route('/homepage/bill-search', methods = ['GET','POST'])
