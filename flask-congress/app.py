@@ -219,18 +219,12 @@ def bills(num, type, cong_year):
     
     voteopts = [('Yea', 'Yea'), ('Nay', 'Nay'), ('Abstain', 'Abstain')]
     form = forms.UserRepVoteDecisionForm.form(voteopts)
-
     showform = len(db.session.query(models.Vote).filter(models.Vote.bill_num == num, models.Vote.bill_type == type, models.Vote.cong_year == cong_year).all())>0
 
     if request.method == 'POST':
         search = form.decision.data
-
         cmen = db.session.query(models.Congressman).join(models.Vote, models.Vote.rep_id == models.Congressman.id)\
             .filter(models.Vote.decision == search, models.Vote.bill_num == num, models.Vote.bill_type == type, models.Vote.cong_year == cong_year).all()
-        
-        print(search)
-        print(cmen)
-
         return render_template('bills.html', bills=bnum, bill_sponsors=sps, form=form, showform=showform, allcongressmen=cmen, submitted=True)
     return render_template('bills.html', bills=bnum, bill_sponsors=sps, form=form, showform=showform, allcongressmen=[], submitted=False)
 
