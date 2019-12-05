@@ -16,17 +16,14 @@
        
     </form>
 
-    <ul>
+{% if submitted %}
+<p>Your congressperson casted {{rep_votes|length}} {{form.decision.data}}{{rep_votes|length|pluralize}}</p>
+{% endif %}  
 
-        {% for v in rep_votes %}
-
-            {% if v.decision == form.decision.data %}
-
-            <li><a href="{{url_for('bills', num=v.bill_num, cong_year = v.cong_year, type = v.bill_type)}}">{{v.bill_type}}{{v.bill_num}}</a></a></li>
-
-            {% endif %}
-    
-        {% endfor %}
-      </ul>
+<ul>
+    {% for vote in rep_votes %}
+    <li><a href="{{url_for('bills', num=vote.bill_num, cong_year = vote.cong_year, type = vote.bill_type)}}">{{vote.bill_num, vote.cong_year, vote.bill_type}}</a></li>
+    {% endfor %}
+</ul>
 
 {% endblock %}
