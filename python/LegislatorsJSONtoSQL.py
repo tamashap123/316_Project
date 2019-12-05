@@ -1,11 +1,15 @@
 import json
 import os
 def main(filename, filename2):
+	d = {}
 	f = open(filename2, 'w')
 	with open(filename) as json_file:
 		data = json.load(json_file)
 		for p in data:
 			_id = p["id"]["bioguide"]
+			if "lis" in p["id"]:
+				senateID = p["id"]["lis"]
+				d[senateID] = _id
 			name = p["name"]["official_full"]
 			currterm = p["terms"][-1]
 			_type = currterm["type"]
@@ -23,6 +27,7 @@ def main(filename, filename2):
 				contact_form = None
 
 			f.write(toSQLInsert(_id, name, _type, state, district, party, phone, address, contact_form))
+		print(d)
 
 def toSQLInsert(_id, name, _type, state, district, party, phone, address, contact_form):
 	s = "INSERT INTO Congressman VALUES("
