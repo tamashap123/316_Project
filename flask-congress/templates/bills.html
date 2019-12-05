@@ -1,5 +1,5 @@
 {% extends 'layout.html' %}
-{% block heading %}Bill Information: {{bills.num}}{% endblock %}
+{% block heading %}Bill Information: {{bills.cong_year}}-{{bills.type}}-{{bills.num}}{% endblock %}
 {% block content %}
 
 <p>Enacted: {{bills.enacted}}</p>
