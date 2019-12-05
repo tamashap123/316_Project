@@ -187,18 +187,19 @@ def user(email):
 
 @app.route('/homepage/voting_record/<id>', methods = ['GET', 'POST'])
 def voting_record(id):
-    rep_votes = db.session.query(models.Vote)\
-        .filter(models.Vote.rep_id == id).all()
-
     rep_info = db.session.query(models.Congressman)\
         .filter(models.Congressman.id == id).one()
-
     decisions = sorted(set([x[0] for x in db.session.query(models.Vote.decision).all()]))
     decisions = [(x,x) for x in decisions]
 
     form = forms.UserRepVoteDecisionForm.form(decisions)
+    if request.method == 'POST':
+        search = form.decision.data
+        votes = db.session.query(models.Vote)\
+            .filter(models.Vote.rep_id == id, models.Vote.decision==search).all()
 
-    return render_template('voting_record.html', id = id, rep_info = rep_info, rep_votes = rep_votes, form = form )
+        return render_template('voting_record.html', id = id, rep_info = rep_info, rep_votes = votes, form = form, submitted=True )
+    return render_template('voting_record.html', id = id, rep_info = rep_info, rep_votes = [], form = form, submitted=False )
 
 
 #=========== BILL PAGE SEARCH ==============================================================
