@@ -4,7 +4,7 @@ from flask_login import LoginManager, login_user, current_user, logout_user
 from flask_security import login_required
 
 from sqlalchemy import *
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import sessionmaker, aliased
 
 import models
 import forms
@@ -152,12 +152,28 @@ def all_users():
     cuser = db.session.query(models.RegisteredUser).all()
     return render_template('all-users.html', alluser=cuser)
 
-@app.route('/homepage/congressperson/<id>')
+@app.route('/homepage/congressperson/<id>', methods = ['GET', 'POST'])
 def congressperson(id):
     cperson = db.session.query(models.Congressman)\
         .filter(models.Congressman.id == id).one()
     bills = db.session.query(models.SponsoredBy).filter(models.SponsoredBy.rep_id == id).all()
-    return render_template('congressperson.html', congressperson=cperson, bills = bills)
+    choices = db.session.query(models.Congressman).filter(models.Congressman.house_or_senate == cperson.house_or_senate).all()
+    choices = sorted([(x.id, x.name) for x in choices], key = lambda x: x[1])
+    form = forms.CongressmanCompareForm.form(choices)
+    if request.method == 'POST':
+        return redirect(url_for('congressman_compare', id1 = cperson.id, id2 = form.congressperson.data))
+    return render_template('congressperson.html', congressperson=cperson, bills = bills, form = form)
+
+@app.route('/homepage/congressperson-compare/<id1>/<id2>')
+def congressman_compare(id1, id2):
+    cperson1 = db.session.query(models.Congressman).filter(models.Congressman.id == id1).one()
+    cperson2 = db.session.query(models.Congressman).filter(models.Congressman.id == id2).one()
+    votes1 = aliased(models.Vote)
+    votes2 = aliased(models.Vote)
+    billvotes = db.session.query(votes1, votes2)\
+        .join(votes2, and_(votes1.bill_num == votes2.bill_num, votes1.bill_type == votes2.bill_type, votes1.cong_year == votes2.cong_year, or_(votes1.decision == votes2.decision, votes1.decision != votes2.decision))).filter(and_(votes1.rep_id == id1, votes2.rep_id == id2)).all()
+    return render_template('congressperson-compare.html', congressperson1 = cperson1, congressperson2 = cperson2, billvotes = billvotes)
+
 
 @app.route('/homepage/user/<email>', methods = ['GET', 'POST'])
 def user(email):

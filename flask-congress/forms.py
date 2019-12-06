@@ -33,6 +33,12 @@ class UpdateForm():
             submit = SubmitField('Submit')
         return F()
 
+class CongressmanCompareForm():
+    def form(lst):
+        class F(FlaskForm):
+            congressperson = SelectField('Congressperson', choices = lst)
+            submit = SubmitField('Submit')
+        return F()
 
 class CongressmanSearchForm():
     def form(lst):

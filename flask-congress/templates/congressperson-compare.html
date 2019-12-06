@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+{% block heading %}Comparing Congresspeople: {{congressperson1.name}} and {{congressperson2.name}}{% endblock %}
+{% block content %}
+<H3>Voting Histories</H3>
+<ul>
+  {% for b in billvotes %}
+
+  <li><a href="{{url_for('bills', num=b[0].bill_num, cong_year = b[0].cong_year, type = b[0].bill_type)}}">{{b[0].bill_num, b[0].cong_year, b[0].bill_type}}</a> - {{congressperson1.name}}: {{b[0].decision}}, {{congressperson2.name}}: {{b[1].decision}}</li>
+  {% endfor %}
+</ul>
+{% endblock %}
