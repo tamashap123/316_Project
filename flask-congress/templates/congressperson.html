@@ -12,6 +12,22 @@
 
 <!--need to validate the link, if it is none, then the  page will throw an error-->
 <a href={{congressperson.contact_form}}>Contact this congressman</a>
+
+<H3>Compare With Another Congressperson</H3>
+<form action="{{url_for('congressperson', id = congressperson.id)}}", method = "post">
+{{form.csrf_token}}
+
+    <div class="form-group">
+        <p>Congressperson: {{form.congressperson}}  </p>
+          
+    </div>
+
+    <input type="submit" value="Submit"/>
+    <!-- <button class="btn btn-sm btn-success" type="submit" value = "Submit">Create New Account </button> -->
+     <!-- <p>Create New Account: {{form.submit()}}</p> -->
+</form>
+
+
 <H3>Bills Sponsored</H3>
 <ul>
   {% for b in bills %}
