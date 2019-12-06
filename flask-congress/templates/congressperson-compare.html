@@ -1,5 +1,5 @@
 {% extends 'layout.html' %}
-{% block heading %}Comparing Congresspeople: {{congressperson1.name}} and {{congressperson2.name}}{% endblock %}
+{% block heading %}Comparing Congresspeople: <a href = "{{url_for('congressperson', id = congressperson1.id)}}">{{congressperson1.name}}</a> and <a href = "{{url_for('congressperson', id = congressperson2.id)}}">{{congressperson2.name}}</a>{% endblock %}
 {% block content %}
 <H3>Voting Histories</H3>
 <ul>
