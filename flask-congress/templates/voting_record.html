@@ -1,6 +1,6 @@
 {% extends 'layout.html' %}
 
-{% block heading %}Congressperson: {{rep_info.name}}{% endblock %}
+{% block heading %}Congressperson: <a href = "{{url_for('congressperson', id = rep_info.id)}}">{{rep_info.name}}</a>{% endblock %}
 
 
 {% block content %}
