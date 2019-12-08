@@ -26,6 +26,11 @@ def load_user(user_id):
 def homepage():
     return render_template('homepage.html')
 
+@app.route('/layout')
+def layout():
+    user = current_user
+    return render_template('layout.html', current_user = user)
+
 @app.route('/register', methods = ['GET', 'POST'])
 def register():
     registereduser = db.session.query(models.RegisteredUser).all()
