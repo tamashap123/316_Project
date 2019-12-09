@@ -20,8 +20,8 @@
     </style>
   </head>
   <body>
-    <h1><a href="{{url_for('user', email = current_user.email)}}">DC For Me</a></h1>
-    <a href = "{{url_for('user', email = current_user.email)}}">User Dashboard</a>
+    <h1><a href="{{url_for('user')}}">DC For Me</a></h1>
+    <a href = "{{url_for('user')}}">User Dashboard</a>
     <a href = "{{url_for('logout')}}">Log Out</a>
     <a href = "{{url_for('update_user')}}">Update Information</a>
     <a href = "{{url_for('bill_search')}}">Search All Bills</a>
