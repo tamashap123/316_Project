@@ -22,10 +22,6 @@ login_manager.login_view = "login"
 def load_user(user_id):
     return db.session.query(models.RegisteredUser).filter(models.RegisteredUser.email == user_id).first()
 
-@app.route('/')
-def homepage():
-    return render_template('homepage.html')
-
 @app.route('/layout')
 def layout():
     user = current_user
@@ -51,7 +47,7 @@ def register():
 
 
 #NEED TO THINK ABOUT WHERE TO GO FROM LOGIN PAGE
-@app.route('/login', methods = ['GET','POST'])
+@app.route('/', methods = ['GET','POST'])
 def login():
     form = forms.LoginForm()
     if request.method == 'POST':
