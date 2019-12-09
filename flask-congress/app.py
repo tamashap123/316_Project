@@ -56,7 +56,7 @@ def login():
                 db.session.add(user)
                 login_user(user)
                 flash('Thanks for logging in, {}'.format(current_user.name))
-                return redirect(url_for('user', email = current_user.email))
+                return redirect(url_for('user'))
             else:
                 flash('ERROR! Incorrect login credentials.', 'error')
     return render_template('login.html', form=form)
@@ -173,31 +173,29 @@ def congressman_compare(id1, id2):
     return render_template('congressperson-compare.html', congressperson1 = cperson1, congressperson2 = cperson2, billvotes = billvotes)
 
 
-@app.route('/homepage/user/<email>', methods = ['GET', 'POST'])
-def user(email):
-    cuser = db.session.query(models.RegisteredUser)\
-        .filter(models.RegisteredUser.email == email).one()
+@app.route('/homepage/user', methods = ['GET', 'POST'])
+def user():
+	email = current_user.email
 
-    sen = db.session.query(models.Congressman)\
-        .filter(models.Congressman.state == cuser.state, models.Congressman.house_or_senate == "sen").all()
+	cuser = db.session.query(models.RegisteredUser).filter(models.RegisteredUser.email == email).one()
+
+	sen = db.session.query(models.Congressman).filter(models.Congressman.state == cuser.state, models.Congressman.house_or_senate == "sen").all()
     
-    rep = db.session.query(models.Congressman)\
-        .filter(models.Congressman.state == cuser.state, models.Congressman.district == cuser.district, models.Congressman.house_or_senate == "rep").all()
+	rep = db.session.query(models.Congressman).filter(models.Congressman.state == cuser.state, models.Congressman.district == cuser.district, models.Congressman.house_or_senate == "rep").all()
 
-    rep_votes = db.session.query(models.Vote)\
-        .filter(models.Vote.rep_id.in_([i.id for i in rep])).all()
+	rep_votes = db.session.query(models.Vote).filter(models.Vote.rep_id.in_([i.id for i in rep])).all()
 
-    congressmen = [x.id for x in sen]
-    congressmen.extend([x.id for x in rep])
-    congressmen = [(x,x) for x in congressmen]
+	congressmen = [x.id for x in sen]
+	congressmen.extend([x.id for x in rep])
+	congressmen = [(x,x) for x in congressmen]
 
-    form = forms.UserRepChoiceForm.form(congressmen)
+	form = forms.UserRepChoiceForm.form(congressmen)
 
-    if request.method == 'POST':
+	if request.method == 'POST':
 
-        return redirect(url_for('voting_record', id = form.cman.data))
+		return redirect(url_for('voting_record', id = form.cman.data))
 
-    return render_template('user.html',form = form, user = cuser, senator = sen, representative = rep, rep_votes = rep_votes)
+	return render_template('user.html',form = form, user = cuser, senator = sen, representative = rep, rep_votes = rep_votes)
 
 @app.route('/homepage/voting_record/<id>', methods = ['GET', 'POST'])
 def voting_record(id):
