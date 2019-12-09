@@ -45,8 +45,6 @@ def register():
         flash('All fields are required. Make sure you input a valid email.')
     return render_template('register.html', form=form)
 
-
-#NEED TO THINK ABOUT WHERE TO GO FROM LOGIN PAGE
 @app.route('/', methods = ['GET','POST'])
 def login():
     form = forms.LoginForm()
@@ -63,7 +61,6 @@ def login():
                 flash('ERROR! Incorrect login credentials.', 'error')
     return render_template('login.html', form=form)
 
-#MIGHT WANT TO CHANGE RENDER LATER
 @app.route("/logout")
 def logout():
     user = current_user
@@ -224,7 +221,6 @@ def voting_record(id):
 #Default landing page for bills: All bills sorted by categroy
 @app.route('/homepage/all-bill/')
 def all_bill():
-    #bill = db.session.query(models.Bill).all()
     bill = db.session.query(models.Bill).order_by(models.Bill.introduction_date).all()
     return render_template('all-bill.html', allbill=bill)
 #
@@ -292,13 +288,9 @@ def bill_search_chamber():
         return render_template('bill-search-chamber.html', form=form, chambers = b)
     return render_template('bill-search-chamber.html', form = form, chambers = [])
 
-
-
 @app.template_filter('pluralize')
 def pluralize(number, singular='', plural='s'):
     return singular if number in (0, 1) else plural
-
-
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
