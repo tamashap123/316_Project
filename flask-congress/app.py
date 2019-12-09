@@ -87,7 +87,7 @@ def update_user():
     if request.method == 'POST':
         current_user.update(form.name.data, form.password.data, form.state.data, form.district.data)
         flash("Information successfully updated, {}.".format(current_user.name), 'success')
-        return redirect(url_for('homepage'))
+        return redirect(url_for('user', email = current_user.email))
 
     return render_template('update-userinfo.html', form=form)
 
