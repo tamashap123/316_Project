@@ -67,7 +67,8 @@ class RegisteredUser(db.Model):
     @staticmethod
     def create(name, email, password, state, district):
         try: 
-            db.session.execute("insert into registereduser values(" + "'" + email + "', " +"'" + password + "', " + "'" + name + "', " + "'" + state + "', " + str(district) + ")")
+            db.session.execute("insert into registereduser values(:email, :password, :name, :state, :district)", {'email': email, 'password':password, 'name':name, 'state':state, 'district':district})
+            # db.session.execute("insert into registereduser values(" + "'" + email + "', " +"'" + password + "', " + "'" + name + "', " + "'" + state + "', " + str(district) + ")")
         except Exception as e:
             db.session.rollback()
             raise e
@@ -97,25 +98,31 @@ class RegisteredUser(db.Model):
         return str(self.email)
 
     def update(self, name, password, state, district):
+        d = {}
         if len(name)==0 and len(password)==0 and len(state)==0 and district is None:
             return
         s = "update registereduser set"
         if len(name)!=0:
             self.name = name
-            s += " name = '" + name + "',"
+            s += " name = :name,"
+            d['name'] = name
         if len(password)!=0:
             self.password = password
-            s += " password = '" + password + "',"
+            s += " password = :password,"
+            d['password'] = password
         if len(state)!=0:
             self.state = state
-            s += " state = '" + state + "',"
+            s += " state = :state,"
+            d['state'] = state
         if district is not None:
             self.district = district
-            s += " district = " + str(district) 
+            s += " district = :district,"
+            d['district'] = district 
         s = s.strip(",")
-        s += " where email = '" + self.email + "'"
+        s += " where email = :email" 
+        d['email'] = self.email
         try:
-            db.session.execute(s)
+            db.session.execute(s, d)
         except Exception as e: 
             raise e
     

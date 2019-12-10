@@ -1,6 +1,6 @@
 from flask_wtf import FlaskForm, Form
 from wtforms import StringField, BooleanField, IntegerField, PasswordField, SubmitField, SelectField
-from wtforms.validators import DataRequired, Length, EqualTo, Email
+from wtforms.validators import DataRequired, InputRequired, Length, EqualTo, Email
 
 class RegisterForm:
 
@@ -11,7 +11,7 @@ class RegisterForm:
             email = StringField('Email', validators=[DataRequired(), Email()])
             password = PasswordField('Password', validators=[DataRequired()])
             state = SelectField('State/Territory', choices = lstStates)
-            district = IntegerField('District', validators=[DataRequired()])
+            district = IntegerField('District', validators=[InputRequired()])
             submit = SubmitField("Create New Account")
         return F()
 
