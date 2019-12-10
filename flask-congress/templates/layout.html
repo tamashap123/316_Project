@@ -20,12 +20,12 @@
     </style>
   </head>
   <body>
-    <h1><a href="{{url_for('user')}}">DC For Me</a></h1>
-    <a href = "{{url_for('user')}}">User Dashboard</a>
-    <a href = "{{url_for('logout')}}">Log Out</a>
-    <a href = "{{url_for('update_user')}}">Update Information</a>
-    <a href = "{{url_for('bill_search')}}">Search All Bills</a>
-    <a href = "{{url_for('congressman_search')}}">Search All Congressmen</a>
+    <h1><a href="{{url_for('user')}}">DC For Me</a></h1> |
+    <a href = "{{url_for('user')}}">User Dashboard</a> |
+    <a href = "{{url_for('logout')}}">Log Out</a> |
+    <a href = "{{url_for('update_user')}}">Update Information</a> |
+    <a href = "{{url_for('bill_search')}}">Search All Bills</a> |
+    <a href = "{{url_for('congressman_search')}}">Search All Congressmen</a> |
     <hr/>
     <h2 id="heading">{% block heading %}{% endblock %}</h2>
     {% block content %}{% endblock %}
